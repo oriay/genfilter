@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,uplay.com
+DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

@@ -1,0 +1,7 @@
+host-suffix, newscorp.com, newscorp
+host-suffix, dowjones.com, newscorp
+host-suffix, dowjones.io, newscorp
+host-suffix, dowjoneson.com, newscorp
+host-suffix, wsj.com, newscorp
+host-suffix, wsj.net, newscorp
+host-suffix, barrons.com, newscorp

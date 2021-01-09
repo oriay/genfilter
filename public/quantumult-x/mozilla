@@ -1,0 +1,16 @@
+host-suffix, mozilla.community, mozilla
+host-suffix, mozilla.net, mozilla
+host-suffix, mozilla.org, mozilla
+host-suffix, bugzilla.org, mozilla
+host-suffix, getpocket.com, mozilla
+host-suffix, seamonkey-project.org, mozilla
+host-suffix, thunderbird.net, mozilla
+host-suffix, firefox.com, mozilla
+host, developer.mozilla.org, mozilla
+host, interactive-examples.mdn.mozilla.net, mozilla
+host, mdn.mozillademos.org, mozilla
+host, media.prod.mdn.mozit.cloud, mozilla
+host-suffix, rust-lang.org, mozilla
+host-suffix, rustup.rs, mozilla
+host-suffix, crates.io, mozilla
+host-suffix, docs.rs, mozilla

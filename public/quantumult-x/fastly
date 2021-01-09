@@ -1,0 +1,6 @@
+host-suffix, fastly.com, fastly
+host-suffix, fastly.net, fastly
+host-suffix, fastlylabs.com, fastly
+host-suffix, fastlylb.net, fastly
+host-suffix, fastly-terrarium.com, fastly
+host-suffix, zencdn.net, fastly

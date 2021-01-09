@@ -1,0 +1,12 @@
+host-suffix, ibm, ibm
+host-suffix, weatherchannel, ibm
+host-suffix, weather, ibm
+host-suffix, appdomain.cloud, ibm
+host-suffix, bluemix.com, ibm
+host-suffix, bluemix.net, ibm
+host-suffix, ibm.com, ibm
+host-suffix, ibm.eu, ibm
+host-suffix, ibm.net, ibm
+host-suffix, ibm.us, ibm
+host-suffix, s-bluemix.net, ibm
+host-suffix, s81c.com, ibm

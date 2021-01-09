@@ -1,0 +1,12 @@
+host-suffix, lan, private
+host-suffix, localdomain, private
+host-suffix, example, private
+host-suffix, invalid, private
+host-suffix, localhost, private
+host-suffix, test, private
+host-suffix, local, private
+host-suffix, home.arpa, private
+host, router.asus.com, private
+host-suffix, localhost.sec.qq.com, private
+host-suffix, localhost.ptlogin2.qq.com, private
+host-suffix, msftconnecttest.com, private

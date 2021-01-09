@@ -1,0 +1,6 @@
+host-suffix, amp.dev, amp
+host-suffix, ampproject.com, amp
+host-suffix, ampproject.net, amp
+host-suffix, ampproject.org, amp
+host, cdn.ampproject.org, amp
+host, amp.akamaized.net, amp

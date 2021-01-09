@@ -1,0 +1,4 @@
+host-suffix, python.org, python
+host-suffix, pythonhosted.org, python
+host-suffix, pypa.io, python
+host-suffix, pypi.org, python
