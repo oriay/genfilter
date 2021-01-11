@@ -909,6 +909,7 @@ DOMAIN-SUFFIX,dynacw.com.cn
 DOMAIN-SUFFIX,dynacw.com.hk
 DOMAIN-SUFFIX,dynacw.com.tw
 DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com
@@ -2815,12 +2816,13 @@ DOMAIN-SUFFIX,identrust.net
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,secom.co.jp
 DOMAIN-SUFFIX,secomtrust.net
-DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,hackerguardian.com
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,digital-id.ch
 DOMAIN-SUFFIX,digitalid.ch
 DOMAIN-SUFFIX,managed-pki.ch
@@ -12028,6 +12030,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com
@@ -12241,6 +12244,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com

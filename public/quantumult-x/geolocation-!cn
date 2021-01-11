@@ -909,6 +909,7 @@ host-suffix, dynacw.com.cn, geolocation-!cn
 host-suffix, dynacw.com.hk, geolocation-!cn
 host-suffix, dynacw.com.tw, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
+host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
 host-suffix, flickr.net, geolocation-!cn
 host-suffix, staticflickr.com, geolocation-!cn
@@ -2815,12 +2816,13 @@ host-suffix, identrust.net, geolocation-!cn
 host-suffix, letsencrypt.org, geolocation-!cn
 host-suffix, secom.co.jp, geolocation-!cn
 host-suffix, secomtrust.net, geolocation-!cn
-host-suffix, sectigo.com, geolocation-!cn
 host-suffix, enterprisessl.com, geolocation-!cn
 host-suffix, hackerguardian.com, geolocation-!cn
 host-suffix, instantssl.com, geolocation-!cn
 host-suffix, optimumssl.com, geolocation-!cn
 host-suffix, positivessl.com, geolocation-!cn
+host-suffix, sectigo.com, geolocation-!cn
+host-suffix, usertrust.com, geolocation-!cn
 host-suffix, digital-id.ch, geolocation-!cn
 host-suffix, digitalid.ch, geolocation-!cn
 host-suffix, managed-pki.ch, geolocation-!cn
@@ -12028,6 +12030,7 @@ host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
+host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
 host-suffix, flickr.net, geolocation-!cn
 host-suffix, staticflickr.com, geolocation-!cn
@@ -12241,6 +12244,7 @@ host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
+host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
 host-suffix, flickr.net, geolocation-!cn
 host-suffix, staticflickr.com, geolocation-!cn

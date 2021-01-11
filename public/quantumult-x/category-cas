@@ -42,12 +42,13 @@ host-suffix, identrust.net, category-cas
 host-suffix, letsencrypt.org, category-cas
 host-suffix, secom.co.jp, category-cas
 host-suffix, secomtrust.net, category-cas
-host-suffix, sectigo.com, category-cas
 host-suffix, enterprisessl.com, category-cas
 host-suffix, hackerguardian.com, category-cas
 host-suffix, instantssl.com, category-cas
 host-suffix, optimumssl.com, category-cas
 host-suffix, positivessl.com, category-cas
+host-suffix, sectigo.com, category-cas
+host-suffix, usertrust.com, category-cas
 host-suffix, digital-id.ch, category-cas
 host-suffix, digitalid.ch, category-cas
 host-suffix, managed-pki.ch, category-cas

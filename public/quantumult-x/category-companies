@@ -5292,6 +5292,7 @@ host-suffix, yimg.com, category-companies
 host-suffix, yimg.jp, category-companies
 host-suffix, ymail.com, category-companies
 host-suffix, flickr, category-companies
+host-suffix, flic.kr, category-companies
 host-suffix, flickr.com, category-companies
 host-suffix, flickr.net, category-companies
 host-suffix, staticflickr.com, category-companies
@@ -5505,6 +5506,7 @@ host-suffix, yimg.com, category-companies
 host-suffix, yimg.jp, category-companies
 host-suffix, ymail.com, category-companies
 host-suffix, flickr, category-companies
+host-suffix, flic.kr, category-companies
 host-suffix, flickr.com, category-companies
 host-suffix, flickr.net, category-companies
 host-suffix, staticflickr.com, category-companies

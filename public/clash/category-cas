@@ -42,12 +42,13 @@ DOMAIN-SUFFIX,identrust.net
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,secom.co.jp
 DOMAIN-SUFFIX,secomtrust.net
-DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,hackerguardian.com
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,digital-id.ch
 DOMAIN-SUFFIX,digitalid.ch
 DOMAIN-SUFFIX,managed-pki.ch
