@@ -5125,6 +5125,7 @@ host-suffix, nbcuni.com, geolocation-!cn
 host-suffix, nbcudigitaladops.com, geolocation-!cn
 host-suffix, cnn.com, geolocation-!cn
 host-suffix, cnn.io, geolocation-!cn
+host-suffix, cnn.it, geolocation-!cn
 host-suffix, cnnarabic.com, geolocation-!cn
 host-suffix, cnnlabs.com, geolocation-!cn
 host-suffix, cnnmoney.ch, geolocation-!cn
