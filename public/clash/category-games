@@ -35,6 +35,7 @@ DOMAIN,blizzcon-a.akamaihd.net
 DOMAIN,blz.nosdn.127.net
 DOMAIN,blzmedia-a.akamaihd.net
 DOMAIN,blznav.akamaized.net
+DOMAIN,cn.actual.battle.net
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
 DOMAIN-SUFFIX,battlefront2.com
@@ -452,6 +453,7 @@ DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN,steambroadcast.akamaized.net

@@ -207,8 +207,9 @@ host-suffix, githubhackathon.com, category-dev
 host-suffix, githubstatus.com, category-dev
 host-suffix, githubusercontent.com, category-dev
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-dev
-host-suffix, npmjs.com, category-dev
 host-suffix, npm.community, category-dev
+host-suffix, npmjs.com, category-dev
+host-suffix, npmjs.org, category-dev
 host-suffix, gitlab.com, category-dev
 host-suffix, gitlab.io, category-dev
 host-suffix, gitlab.net, category-dev

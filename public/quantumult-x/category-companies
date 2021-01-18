@@ -15,6 +15,7 @@ host-suffix, adobeaemcloud.net, category-companies
 host-suffix, adobeawards.com, category-companies
 host-suffix, adobecontent.io, category-companies
 host-suffix, adobecreativityawards.com, category-companies
+host-suffix, adobedc.cn, category-companies
 host-suffix, adobedc.net, category-companies
 host-suffix, adobedemo.com, category-companies
 host-suffix, adobedtm.com, category-companies
@@ -4666,8 +4667,9 @@ host-suffix, githubhackathon.com, category-companies
 host-suffix, githubstatus.com, category-companies
 host-suffix, githubusercontent.com, category-companies
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-companies
-host-suffix, npmjs.com, category-companies
 host-suffix, npm.community, category-companies
+host-suffix, npmjs.com, category-companies
+host-suffix, npmjs.org, category-companies
 host-suffix, adaptivecards.io, category-companies
 host-suffix, api-extractor.com, category-companies
 host-suffix, apisof.net, category-companies

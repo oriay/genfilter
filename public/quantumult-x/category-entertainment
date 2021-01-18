@@ -5,6 +5,7 @@ host-suffix, internationalsaimoe.com, category-entertainment
 host-suffix, litv.tv, category-entertainment
 host-suffix, megaphone.fm, category-entertainment
 host-suffix, moov.hk, category-entertainment
+host-suffix, odysee.com, category-entertainment
 host-suffix, overcast.fm, category-entertainment
 host-suffix, syosetu.com, category-entertainment
 host-suffix, weverse.io, category-entertainment
@@ -78,6 +79,7 @@ host, blizzcon-a.akamaihd.net, category-entertainment
 host, blz.nosdn.127.net, category-entertainment
 host, blzmedia-a.akamaihd.net, category-entertainment
 host, blznav.akamaized.net, category-entertainment
+host, cn.actual.battle.net, category-entertainment
 host-suffix, awayoutgame.com, category-entertainment
 host-suffix, battlefieldbadcompany2.com, category-entertainment
 host-suffix, battlefront2.com, category-entertainment
@@ -495,6 +497,7 @@ host-suffix, dota2.wmsj.cn, category-entertainment
 host-suffix, st.dl.bscstorage.net, category-entertainment
 host-suffix, st.dl.eccdnx.com, category-entertainment
 host-suffix, st.dl.pinyuncloud.com, category-entertainment
+host-suffix, steampipe.steamcontent.tnkjmec.com, category-entertainment
 host-suffix, steampowered.com.8686c.com, category-entertainment
 host-suffix, steamstatic.com.8686c.com, category-entertainment
 host, steambroadcast.akamaized.net, category-entertainment
@@ -723,6 +726,7 @@ host-suffix, payhulu.com, category-entertainment
 host-suffix, registerhulu.com, category-entertainment
 host-suffix, thehulubraintrust.com, category-entertainment
 host-suffix, wwwhuluplus.com, category-entertainment
+host-suffix, boxofficemojo.com, category-entertainment
 host-suffix, imdb.com, category-entertainment
 host-suffix, imdb.to, category-entertainment
 host-suffix, media-imdb.com, category-entertainment

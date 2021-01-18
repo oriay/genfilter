@@ -12,5 +12,6 @@ DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org

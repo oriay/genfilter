@@ -35,6 +35,7 @@ host, blizzcon-a.akamaihd.net, category-games
 host, blz.nosdn.127.net, category-games
 host, blzmedia-a.akamaihd.net, category-games
 host, blznav.akamaized.net, category-games
+host, cn.actual.battle.net, category-games
 host-suffix, awayoutgame.com, category-games
 host-suffix, battlefieldbadcompany2.com, category-games
 host-suffix, battlefront2.com, category-games
@@ -452,6 +453,7 @@ host-suffix, dota2.wmsj.cn, category-games
 host-suffix, st.dl.bscstorage.net, category-games
 host-suffix, st.dl.eccdnx.com, category-games
 host-suffix, st.dl.pinyuncloud.com, category-games
+host-suffix, steampipe.steamcontent.tnkjmec.com, category-games
 host-suffix, steampowered.com.8686c.com, category-games
 host-suffix, steamstatic.com.8686c.com, category-games
 host, steambroadcast.akamaized.net, category-games

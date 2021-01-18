@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,adobeaemcloud.net
 DOMAIN-SUFFIX,adobeawards.com
 DOMAIN-SUFFIX,adobecontent.io
 DOMAIN-SUFFIX,adobecreativityawards.com
+DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,adobedc.net
 DOMAIN-SUFFIX,adobedemo.com
 DOMAIN-SUFFIX,adobedtm.com
@@ -4666,8 +4667,9 @@ DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,apisof.net
