@@ -42,6 +42,8 @@ DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bcbits.com
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgearstore.com
@@ -477,8 +479,6 @@ DOMAIN-SUFFIX,rsg.sc
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,videos-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,steam-chat.com

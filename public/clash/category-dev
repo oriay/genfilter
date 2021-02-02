@@ -258,8 +258,9 @@ DOMAIN-SUFFIX,jfrog.com
 DOMAIN-SUFFIX,jfrog.org
 DOMAIN-SUFFIX,bintray.com
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,esm.run
 DOMAIN,cdn.jsdelivr.net
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,k8s.io

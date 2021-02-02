@@ -258,8 +258,9 @@ host-suffix, jfrog.com, category-dev
 host-suffix, jfrog.org, category-dev
 host-suffix, bintray.com, category-dev
 host, d29vzk4ow07wi7.cloudfront.net, category-dev
-host-suffix, jsdelivr.net, category-dev
 host-suffix, jsdelivr.com, category-dev
+host-suffix, jsdelivr.net, category-dev
+host-suffix, esm.run, category-dev
 host, cdn.jsdelivr.net, category-dev
 host-suffix, kubernetes.io, category-dev
 host-suffix, k8s.io, category-dev

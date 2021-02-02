@@ -1,3 +1,5 @@
+host-suffix, fanatical.com, category-games
+host-suffix, humblebundle.com, category-games
 host-suffix, blizzard.cn, category-games
 host-suffix, blizzard.com, category-games
 host-suffix, blizzardgearstore.com, category-games
@@ -433,8 +435,6 @@ host-suffix, rsg.sc, category-games
 host, gamedownloads-rockstargames-com.akamaized.net, category-games
 host, media-rockstargames-com.akamaized.net, category-games
 host, videos-rockstargames-com.akamaized.net, category-games
-host-suffix, fanatical.com, category-games
-host-suffix, humblebundle.com, category-games
 host-suffix, playartifact.com, category-games
 host-suffix, s.team, category-games
 host-suffix, steam-chat.com, category-games

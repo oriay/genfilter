@@ -1,3 +1,4 @@
-host-suffix, jsdelivr.net, jsdelivr
 host-suffix, jsdelivr.com, jsdelivr
+host-suffix, jsdelivr.net, jsdelivr
+host-suffix, esm.run, jsdelivr
 host, cdn.jsdelivr.net, jsdelivr

@@ -42,6 +42,8 @@ host, gamer-cds.cdn.hinet.net, category-entertainment
 host, gamer2-cds.cdn.hinet.net, category-entertainment
 host-suffix, bandcamp.com, category-entertainment
 host-suffix, bcbits.com, category-entertainment
+host-suffix, fanatical.com, category-entertainment
+host-suffix, humblebundle.com, category-entertainment
 host-suffix, blizzard.cn, category-entertainment
 host-suffix, blizzard.com, category-entertainment
 host-suffix, blizzardgearstore.com, category-entertainment
@@ -477,8 +479,6 @@ host-suffix, rsg.sc, category-entertainment
 host, gamedownloads-rockstargames-com.akamaized.net, category-entertainment
 host, media-rockstargames-com.akamaized.net, category-entertainment
 host, videos-rockstargames-com.akamaized.net, category-entertainment
-host-suffix, fanatical.com, category-entertainment
-host-suffix, humblebundle.com, category-entertainment
 host-suffix, playartifact.com, category-entertainment
 host-suffix, s.team, category-entertainment
 host-suffix, steam-chat.com, category-entertainment
