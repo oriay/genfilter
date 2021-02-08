@@ -631,6 +631,7 @@ host-suffix, applewatchedition.com, category-companies
 host-suffix, applewatchseries3.net, category-companies
 host-suffix, applewatchsport.com, category-companies
 host-suffix, applemusic.berlin, category-companies
+host-suffix, applemusic.co, category-companies
 host-suffix, applemusic.com, category-companies
 host-suffix, applemusic.com.au, category-companies
 host-suffix, applemusic.hamburg, category-companies
@@ -4584,7 +4585,6 @@ host-suffix, windowsupdate.com, category-companies
 host-suffix, winhec.com, category-companies
 host-suffix, winhec.net, category-companies
 host-suffix, yammer.com, category-companies
-host-suffix, cdn.office.net, category-companies
 host-suffix, dl.delivery.mp.microsoft.com, category-companies
 host-suffix, download.windowsupdate.com, category-companies
 host, bg.v4.a.dl.ws.microsoft.com, category-companies

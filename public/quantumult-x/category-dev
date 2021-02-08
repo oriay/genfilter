@@ -2,6 +2,7 @@ host-suffix, alpinelinux.org, category-dev
 host-suffix, apache.org, category-dev
 host-suffix, atom.io, category-dev
 host-suffix, badgen.net, category-dev
+host-suffix, bitvise.com, category-dev
 host-suffix, cdnjs.com, category-dev
 host-suffix, centos.org, category-dev
 host-suffix, chocolatey.org, category-dev
@@ -19,6 +20,7 @@ host-suffix, gentoo.org, category-dev
 host-suffix, getcomposer.org, category-dev
 host-suffix, git-scm.com, category-dev
 host-suffix, gnu.org, category-dev
+host-suffix, greenend.org.uk, category-dev
 host-suffix, ius.io, category-dev
 host-suffix, jenkins.io, category-dev
 host-suffix, js.org, category-dev
@@ -30,6 +32,7 @@ host-suffix, lua.org, category-dev
 host-suffix, macports.org, category-dev
 host-suffix, mariadb.org, category-dev
 host-suffix, mingw.org, category-dev
+host-suffix, mobatek.net, category-dev
 host-suffix, mysql.com, category-dev
 host-suffix, nixos.org, category-dev
 host-suffix, nodesource.com, category-dev
@@ -42,6 +45,7 @@ host-suffix, packagist.org, category-dev
 host-suffix, pcre.org, category-dev
 host-suffix, phantomjs.org, category-dev
 host-suffix, php.net, category-dev
+host-suffix, putty.org, category-dev
 host-suffix, postgresql.org, category-dev
 host-suffix, r-project.org, category-dev
 host-suffix, raspberrypi.org, category-dev
@@ -52,6 +56,7 @@ host-suffix, scoop.sh, category-dev
 host-suffix, shields.io, category-dev
 host-suffix, sqlite.org, category-dev
 host-suffix, sublimetext.com, category-dev
+host-suffix, termius.com, category-dev
 host-suffix, unpkg.com, category-dev
 host-suffix, videojs.com, category-dev
 host-suffix, videolan.org, category-dev

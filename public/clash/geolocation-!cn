@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,mil
+DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ad
 DOMAIN-SUFFIX,ae
@@ -4859,21 +4861,6 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,wwe9.com
-DOMAIN-SUFFIX,got001.com
-DOMAIN-SUFFIX,got002.com
-DOMAIN-SUFFIX,jstucdn.com
-DOMAIN-SUFFIX,playcvn.com
-DOMAIN-SUFFIX,rrys.tv
-DOMAIN-SUFFIX,rrys2019.com
-DOMAIN-SUFFIX,rrys2020.com
-DOMAIN-SUFFIX,rrysapp.com
-DOMAIN-SUFFIX,yyets.com
-DOMAIN-SUFFIX,zimuzu.com
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmz2019.com
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,cvnad.com
-DOMAIN-SUFFIX,iyoowi.com
 DOMAIN-SUFFIX,z5.app
 DOMAIN-SUFFIX,z5.com
 DOMAIN-SUFFIX,zee5.com
@@ -6493,6 +6480,7 @@ DOMAIN-SUFFIX,madvrlabs.llc
 DOMAIN-SUFFIX,mapbox.cn
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,netlify.com
@@ -6619,6 +6607,7 @@ DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,badgen.net
+DOMAIN-SUFFIX,bitvise.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
@@ -6636,6 +6625,7 @@ DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
+DOMAIN-SUFFIX,greenend.org.uk
 DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,js.org
@@ -6647,6 +6637,7 @@ DOMAIN-SUFFIX,lua.org
 DOMAIN-SUFFIX,macports.org
 DOMAIN-SUFFIX,mariadb.org
 DOMAIN-SUFFIX,mingw.org
+DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,nodesource.com
@@ -6659,6 +6650,7 @@ DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
+DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
@@ -6669,6 +6661,7 @@ DOMAIN-SUFFIX,scoop.sh
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,sqlite.org
 DOMAIN-SUFFIX,sublimetext.com
+DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
@@ -7645,6 +7638,7 @@ DOMAIN-SUFFIX,applewatchedition.com
 DOMAIN-SUFFIX,applewatchseries3.net
 DOMAIN-SUFFIX,applewatchsport.com
 DOMAIN-SUFFIX,applemusic.berlin
+DOMAIN-SUFFIX,applemusic.co
 DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applemusic.com.au
 DOMAIN-SUFFIX,applemusic.hamburg
@@ -11598,7 +11592,6 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,yammer.com
-DOMAIN-SUFFIX,cdn.office.net
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN,bg.v4.a.dl.ws.microsoft.com

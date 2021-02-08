@@ -229,7 +229,6 @@ host-suffix, windowsupdate.com, microsoft
 host-suffix, winhec.com, microsoft
 host-suffix, winhec.net, microsoft
 host-suffix, yammer.com, microsoft
-host-suffix, cdn.office.net, microsoft
 host-suffix, dl.delivery.mp.microsoft.com, microsoft
 host-suffix, download.windowsupdate.com, microsoft
 host, bg.v4.a.dl.ws.microsoft.com, microsoft

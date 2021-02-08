@@ -1,4 +1,6 @@
 host-suffix, gov, geolocation-!cn
+host-suffix, mil, geolocation-!cn
+host-suffix, edu, geolocation-!cn
 host-suffix, ac, geolocation-!cn
 host-suffix, ad, geolocation-!cn
 host-suffix, ae, geolocation-!cn
@@ -4859,21 +4861,6 @@ host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
 host-suffix, wwe.com, geolocation-!cn
 host-suffix, wwe9.com, geolocation-!cn
-host-suffix, got001.com, geolocation-!cn
-host-suffix, got002.com, geolocation-!cn
-host-suffix, jstucdn.com, geolocation-!cn
-host-suffix, playcvn.com, geolocation-!cn
-host-suffix, rrys.tv, geolocation-!cn
-host-suffix, rrys2019.com, geolocation-!cn
-host-suffix, rrys2020.com, geolocation-!cn
-host-suffix, rrysapp.com, geolocation-!cn
-host-suffix, yyets.com, geolocation-!cn
-host-suffix, zimuzu.com, geolocation-!cn
-host-suffix, zimuzu.tv, geolocation-!cn
-host-suffix, zmz2019.com, geolocation-!cn
-host-suffix, zmzapi.com, geolocation-!cn
-host-suffix, cvnad.com, geolocation-!cn
-host-suffix, iyoowi.com, geolocation-!cn
 host-suffix, z5.app, geolocation-!cn
 host-suffix, z5.com, geolocation-!cn
 host-suffix, zee5.com, geolocation-!cn
@@ -6493,6 +6480,7 @@ host-suffix, madvrlabs.llc, geolocation-!cn
 host-suffix, mapbox.cn, geolocation-!cn
 host-suffix, mapbox.com, geolocation-!cn
 host-suffix, mega.co.nz, geolocation-!cn
+host-suffix, mega.io, geolocation-!cn
 host-suffix, mega.nz, geolocation-!cn
 host-suffix, mpv.io, geolocation-!cn
 host-suffix, netlify.com, geolocation-!cn
@@ -6619,6 +6607,7 @@ host-suffix, alpinelinux.org, geolocation-!cn
 host-suffix, apache.org, geolocation-!cn
 host-suffix, atom.io, geolocation-!cn
 host-suffix, badgen.net, geolocation-!cn
+host-suffix, bitvise.com, geolocation-!cn
 host-suffix, cdnjs.com, geolocation-!cn
 host-suffix, centos.org, geolocation-!cn
 host-suffix, chocolatey.org, geolocation-!cn
@@ -6636,6 +6625,7 @@ host-suffix, gentoo.org, geolocation-!cn
 host-suffix, getcomposer.org, geolocation-!cn
 host-suffix, git-scm.com, geolocation-!cn
 host-suffix, gnu.org, geolocation-!cn
+host-suffix, greenend.org.uk, geolocation-!cn
 host-suffix, ius.io, geolocation-!cn
 host-suffix, jenkins.io, geolocation-!cn
 host-suffix, js.org, geolocation-!cn
@@ -6647,6 +6637,7 @@ host-suffix, lua.org, geolocation-!cn
 host-suffix, macports.org, geolocation-!cn
 host-suffix, mariadb.org, geolocation-!cn
 host-suffix, mingw.org, geolocation-!cn
+host-suffix, mobatek.net, geolocation-!cn
 host-suffix, mysql.com, geolocation-!cn
 host-suffix, nixos.org, geolocation-!cn
 host-suffix, nodesource.com, geolocation-!cn
@@ -6659,6 +6650,7 @@ host-suffix, packagist.org, geolocation-!cn
 host-suffix, pcre.org, geolocation-!cn
 host-suffix, phantomjs.org, geolocation-!cn
 host-suffix, php.net, geolocation-!cn
+host-suffix, putty.org, geolocation-!cn
 host-suffix, postgresql.org, geolocation-!cn
 host-suffix, r-project.org, geolocation-!cn
 host-suffix, raspberrypi.org, geolocation-!cn
@@ -6669,6 +6661,7 @@ host-suffix, scoop.sh, geolocation-!cn
 host-suffix, shields.io, geolocation-!cn
 host-suffix, sqlite.org, geolocation-!cn
 host-suffix, sublimetext.com, geolocation-!cn
+host-suffix, termius.com, geolocation-!cn
 host-suffix, unpkg.com, geolocation-!cn
 host-suffix, videojs.com, geolocation-!cn
 host-suffix, videolan.org, geolocation-!cn
@@ -7645,6 +7638,7 @@ host-suffix, applewatchedition.com, geolocation-!cn
 host-suffix, applewatchseries3.net, geolocation-!cn
 host-suffix, applewatchsport.com, geolocation-!cn
 host-suffix, applemusic.berlin, geolocation-!cn
+host-suffix, applemusic.co, geolocation-!cn
 host-suffix, applemusic.com, geolocation-!cn
 host-suffix, applemusic.com.au, geolocation-!cn
 host-suffix, applemusic.hamburg, geolocation-!cn
@@ -11598,7 +11592,6 @@ host-suffix, windowsupdate.com, geolocation-!cn
 host-suffix, winhec.com, geolocation-!cn
 host-suffix, winhec.net, geolocation-!cn
 host-suffix, yammer.com, geolocation-!cn
-host-suffix, cdn.office.net, geolocation-!cn
 host-suffix, dl.delivery.mp.microsoft.com, geolocation-!cn
 host-suffix, download.windowsupdate.com, geolocation-!cn
 host, bg.v4.a.dl.ws.microsoft.com, geolocation-!cn

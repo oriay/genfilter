@@ -1,4 +1,6 @@
 host-suffix, gov, tld-!cn
+host-suffix, mil, tld-!cn
+host-suffix, edu, tld-!cn
 host-suffix, ac, tld-!cn
 host-suffix, ad, tld-!cn
 host-suffix, ae, tld-!cn
