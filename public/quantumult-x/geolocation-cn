@@ -1126,8 +1126,12 @@ host-suffix, maoyun.com, geolocation-cn
 host-suffix, maoyuncloud.cn, geolocation-cn
 host-suffix, maoyuncloud.com, geolocation-cn
 host-suffix, pkoplink.com, geolocation-cn
+host-suffix, frontwize.com, geolocation-cn
 host-suffix, qingcache.com, geolocation-cn
 host-suffix, qingcloud.com, geolocation-cn
+host-suffix, qingstor.com, geolocation-cn
+host-suffix, routewize.com, geolocation-cn
+host-suffix, yunify.com, geolocation-cn
 host-suffix, qbox.me, geolocation-cn
 host-suffix, qiniu.com, geolocation-cn
 host-suffix, qiniucdn.com, geolocation-cn
@@ -1160,6 +1164,7 @@ host-suffix, wscdns.info, geolocation-cn
 host-suffix, wscdns.org, geolocation-cn
 host-suffix, yfcache.com, geolocation-cn
 host-suffix, yfcalc.com, geolocation-cn
+host-suffix, yfcdn.net, geolocation-cn
 host-suffix, yfcloud.com, geolocation-cn
 host-suffix, yfdts.net, geolocation-cn
 host-suffix, yfp2p.net, geolocation-cn
@@ -1630,6 +1635,7 @@ host-suffix, bilibiligame.net, geolocation-cn
 host-suffix, biligame.com, geolocation-cn
 host-suffix, biligame.net, geolocation-cn
 host-suffix, bilivideo.com, geolocation-cn
+host-suffix, bilivideo.cn, geolocation-cn
 host-suffix, hdslb.com, geolocation-cn
 host-suffix, im9.com, geolocation-cn
 host-suffix, mincdn.com, geolocation-cn
@@ -2612,7 +2618,9 @@ host-suffix, kimg.cn, geolocation-cn
 host-suffix, kingsoft.com, geolocation-cn
 host-suffix, ksmobile.com, geolocation-cn
 host-suffix, ks-cdn.com, geolocation-cn
+host-suffix, ks-cdn1.com, geolocation-cn
 host-suffix, ksyun.com, geolocation-cn
+host-suffix, ksyuncdn.com, geolocation-cn
 host-suffix, ksyungslb.com, geolocation-cn
 host-suffix, cmcm.com, geolocation-cn
 host-suffix, cmcmcdn.com, geolocation-cn
@@ -2945,11 +2953,15 @@ host-suffix, xiaomi.cn, geolocation-cn
 host-suffix, xiaomi.com, geolocation-cn
 host-suffix, xiaomi.net, geolocation-cn
 host-suffix, xiaomiyoupin.com, geolocation-cn
-host-suffix, 00cdn.com, geolocation-cn
-host-suffix, 88cdn.com, geolocation-cn
 host-suffix, sandai.net, geolocation-cn
 host-suffix, thunderurl.com, geolocation-cn
 host-suffix, xunlei.com, geolocation-cn
+host-suffix, 00cdn.com, geolocation-cn
+host-suffix, 88cdn.com, geolocation-cn
+host-suffix, p2cdn.com, geolocation-cn
+host-suffix, thundercdn.com, geolocation-cn
+host-suffix, xycloud.com, geolocation-cn
+host-suffix, xycdn.com, geolocation-cn
 host-suffix, 10086.cn, geolocation-cn
 host-suffix, 139.com, geolocation-cn
 host-suffix, chinamobile.com, geolocation-cn

@@ -1141,8 +1141,12 @@ host-suffix, maoyun.com, cn
 host-suffix, maoyuncloud.cn, cn
 host-suffix, maoyuncloud.com, cn
 host-suffix, pkoplink.com, cn
+host-suffix, frontwize.com, cn
 host-suffix, qingcache.com, cn
 host-suffix, qingcloud.com, cn
+host-suffix, qingstor.com, cn
+host-suffix, routewize.com, cn
+host-suffix, yunify.com, cn
 host-suffix, qbox.me, cn
 host-suffix, qiniu.com, cn
 host-suffix, qiniucdn.com, cn
@@ -1175,6 +1179,7 @@ host-suffix, wscdns.info, cn
 host-suffix, wscdns.org, cn
 host-suffix, yfcache.com, cn
 host-suffix, yfcalc.com, cn
+host-suffix, yfcdn.net, cn
 host-suffix, yfcloud.com, cn
 host-suffix, yfdts.net, cn
 host-suffix, yfp2p.net, cn
@@ -1645,6 +1650,7 @@ host-suffix, bilibiligame.net, cn
 host-suffix, biligame.com, cn
 host-suffix, biligame.net, cn
 host-suffix, bilivideo.com, cn
+host-suffix, bilivideo.cn, cn
 host-suffix, hdslb.com, cn
 host-suffix, im9.com, cn
 host-suffix, mincdn.com, cn
@@ -2627,7 +2633,9 @@ host-suffix, kimg.cn, cn
 host-suffix, kingsoft.com, cn
 host-suffix, ksmobile.com, cn
 host-suffix, ks-cdn.com, cn
+host-suffix, ks-cdn1.com, cn
 host-suffix, ksyun.com, cn
+host-suffix, ksyuncdn.com, cn
 host-suffix, ksyungslb.com, cn
 host-suffix, cmcm.com, cn
 host-suffix, cmcmcdn.com, cn
@@ -2960,11 +2968,15 @@ host-suffix, xiaomi.cn, cn
 host-suffix, xiaomi.com, cn
 host-suffix, xiaomi.net, cn
 host-suffix, xiaomiyoupin.com, cn
-host-suffix, 00cdn.com, cn
-host-suffix, 88cdn.com, cn
 host-suffix, sandai.net, cn
 host-suffix, thunderurl.com, cn
 host-suffix, xunlei.com, cn
+host-suffix, 00cdn.com, cn
+host-suffix, 88cdn.com, cn
+host-suffix, p2cdn.com, cn
+host-suffix, thundercdn.com, cn
+host-suffix, xycloud.com, cn
+host-suffix, xycdn.com, cn
 host-suffix, 10086.cn, cn
 host-suffix, 139.com, cn
 host-suffix, chinamobile.com, cn

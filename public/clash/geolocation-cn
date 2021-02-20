@@ -1126,8 +1126,12 @@ DOMAIN-SUFFIX,maoyun.com
 DOMAIN-SUFFIX,maoyuncloud.cn
 DOMAIN-SUFFIX,maoyuncloud.com
 DOMAIN-SUFFIX,pkoplink.com
+DOMAIN-SUFFIX,frontwize.com
 DOMAIN-SUFFIX,qingcache.com
 DOMAIN-SUFFIX,qingcloud.com
+DOMAIN-SUFFIX,qingstor.com
+DOMAIN-SUFFIX,routewize.com
+DOMAIN-SUFFIX,yunify.com
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniucdn.com
@@ -1160,6 +1164,7 @@ DOMAIN-SUFFIX,wscdns.info
 DOMAIN-SUFFIX,wscdns.org
 DOMAIN-SUFFIX,yfcache.com
 DOMAIN-SUFFIX,yfcalc.com
+DOMAIN-SUFFIX,yfcdn.net
 DOMAIN-SUFFIX,yfcloud.com
 DOMAIN-SUFFIX,yfdts.net
 DOMAIN-SUFFIX,yfp2p.net
@@ -1630,6 +1635,7 @@ DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,mincdn.com
@@ -2612,7 +2618,9 @@ DOMAIN-SUFFIX,kimg.cn
 DOMAIN-SUFFIX,kingsoft.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ks-cdn.com
+DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,cmcm.com
 DOMAIN-SUFFIX,cmcmcdn.com
@@ -2945,11 +2953,15 @@ DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomiyoupin.com
-DOMAIN-SUFFIX,00cdn.com
-DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thunderurl.com
 DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,thundercdn.com
+DOMAIN-SUFFIX,xycloud.com
+DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,chinamobile.com

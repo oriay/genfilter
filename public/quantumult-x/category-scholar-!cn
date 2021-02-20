@@ -35,6 +35,7 @@ host-suffix, kuke.com, category-scholar-!cn
 host-suffix, lawdata.com.tw, category-scholar-!cn
 host-suffix, literatumonline.com, category-scholar-!cn
 host-suffix, mdpi.com, category-scholar-!cn
+host-suffix, medrxiv.org, category-scholar-!cn
 host-suffix, nature.com, category-scholar-!cn
 host-suffix, nejm.org, category-scholar-!cn
 host-suffix, neurology.org, category-scholar-!cn
@@ -62,6 +63,7 @@ host-suffix, ucla.edu, category-scholar-!cn
 host-suffix, umass.edu, category-scholar-!cn
 host-suffix, wiley.com, category-scholar-!cn
 host-suffix, yale.edu, category-scholar-!cn
+host-suffix, zenodo.org, category-scholar-!cn
 host-suffix, apa.org, category-scholar-!cn
 host-suffix, psyccareers.com, category-scholar-!cn
 host-suffix, cambridge.org, category-scholar-!cn

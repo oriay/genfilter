@@ -564,6 +564,7 @@ host-suffix, guo.media, category-media
 host-suffix, gnews.org, category-media
 host-suffix, gtv.org, category-media
 host-suffix, gtv1.org, category-media
+host-suffix, gclubs.com, category-media
 host-suffix, g-tvapp.com, category-media
 host-suffix, apexprint.com.hk, category-media
 host-suffix, eprc.com.hk, category-media
@@ -693,6 +694,8 @@ host-suffix, universalorlando.com, category-media
 host-suffix, universalpictures.com, category-media
 host-suffix, universalpicturesinternational.com, category-media
 host-suffix, universalstudioshollywood.com, category-media
+host-suffix, neow.in, category-media
+host-suffix, neowin.net, category-media
 host-suffix, 1degree.com.au, category-media
 host-suffix, adelaidenow.com.au, category-media
 host-suffix, adhelpnews.com, category-media
@@ -854,6 +857,7 @@ host-suffix, nikkei.co.jp, category-media
 host-suffix, now.com, category-media
 host-suffix, now.com.hk, category-media
 host-suffix, nowe.com, category-media
+host-suffix, nowe.hk, category-media
 host-suffix, now-tv.com, category-media
 host-suffix, now-ashare.com, category-media
 host-suffix, nyt.com, category-media
