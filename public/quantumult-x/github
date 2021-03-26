@@ -12,6 +12,7 @@ host-suffix, githubhackathon.com, github
 host-suffix, githubstatus.com, github
 host-suffix, githubusercontent.com, github
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, github
+host, github-cloud.s3.amazonaws.com, github
 host-suffix, npm.community, github
 host-suffix, npmjs.com, github
 host-suffix, npmjs.org, github

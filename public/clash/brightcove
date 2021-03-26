@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,brightcove.net
 DOMAIN-SUFFIX,brightcove.services
 DOMAIN-SUFFIX,brightcovecdn.com
 DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com
 DOMAIN,bcovlive-a.akamaihd.net
 DOMAIN,bcsecure01-a.akamaihd.net
 DOMAIN,brightcove.imgix.net

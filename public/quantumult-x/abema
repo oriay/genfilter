@@ -14,3 +14,6 @@ host-suffix, hayabusa.media, abema
 host-suffix, winticket.jp, abema
 host, abematv.akamaized.net, abema
 host, ds-linear-abematv.akamaized.net, abema
+host, ds-vod-abematv.akamaized.net, abema
+host, linear-abematv.akamaized.net, abema
+host, vod-abematv.akamaized.net, abema

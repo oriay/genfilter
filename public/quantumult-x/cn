@@ -588,6 +588,7 @@ host-suffix, laomaotao.net, cn
 host-suffix, laomaotao.org, cn
 host-suffix, lascn.net, cn
 host-suffix, lawxp.com, cn
+host-suffix, leangoo.com, cn
 host-suffix, leanote.com, cn
 host-suffix, ledu.com, cn
 host-suffix, leetcode-cn.com, cn
@@ -781,6 +782,7 @@ host-suffix, sencdn.com, cn
 host-suffix, seniverse.com, cn
 host-suffix, senlinjimore.com, cn
 host-suffix, sgamer.com, cn
+host-suffix, shanbay.com, cn
 host-suffix, shang360.com, cn
 host-suffix, shangc.net, cn
 host-suffix, shanghairc.com, cn
@@ -872,7 +874,9 @@ host-suffix, tuniu.com, cn
 host-suffix, tutuapp.com, cn
 host-suffix, tuwan.com, cn
 host-suffix, tuwanjun.com, cn
+host-suffix, txrjy.com, cn
 host-suffix, u.tools, cn
+host-suffix, ubuntukylin.com, cn
 host-suffix, ucbug.com, cn
 host-suffix, uggame.com, cn
 host-suffix, uoko.com, cn
@@ -924,7 +928,9 @@ host-suffix, wishdown.com, cn
 host-suffix, wmzhe.com, cn
 host-suffix, wnhuifu.com, cn
 host-suffix, wodingche.com, cn
+host-suffix, wolai.com, cn
 host-suffix, womai.com, cn
+host-suffix, wondercv.com, cn
 host-suffix, wonnder.com, cn
 host-suffix, wooyun.org, cn
 host-suffix, worktile.com, cn
@@ -1807,8 +1813,10 @@ host-suffix, ths123.com, cn
 host-suffix, dzh.com.cn, cn
 host-suffix, gw.com.cn, cn
 host-suffix, yundzh.com, cn
+host-suffix, 36dianping.com, cn
 host-suffix, 36kr.com, cn
 host-suffix, 36krcdn.com, cn
+host-suffix, 36krcnd.com, cn
 host-suffix, caixin.com, cn
 host-suffix, cctv.cn, cn
 host-suffix, cctv.com, cn
@@ -2029,6 +2037,7 @@ host-suffix, csdl.ac.cn, cn
 host-suffix, las.ac.cn, cn
 host-suffix, cnki.net, cn
 host-suffix, wanfangdata.com.cn, cn
+host-suffix, wf.pub, cn
 host-suffix, huijistatic.com, cn
 host-suffix, huijiwiki.com, cn
 host-suffix, moegirl.org, cn
@@ -2036,6 +2045,7 @@ host-suffix, moegirl.org.cn, cn
 host-suffix, cugbonline.cn, cn
 host-suffix, guokr.com, cn
 host-suffix, wanfangdata.com.cn, cn
+host-suffix, wf.pub, cn
 host-suffix, speiyou.com, cn
 host-suffix, xesimg.com, cn
 host-suffix, xueersi.com, cn
@@ -2055,6 +2065,7 @@ host-suffix, deepin.com, cn
 host-suffix, deepin.io, cn
 host-suffix, deepin.org, cn
 host-suffix, gitee.com, cn
+host-suffix, gitee.io, cn
 host-suffix, jinrishici.com, cn
 host-suffix, juejin.cn, cn
 host-suffix, juejin.im, cn
@@ -2070,6 +2081,7 @@ host, p8-juejin.byteimg.com, cn
 host, p9-juejin.byteimg.com, cn
 host-suffix, oschina.net, cn
 host-suffix, gitee.com, cn
+host-suffix, gitee.io, cn
 host-suffix, pgyer.com, cn
 host-suffix, tracup.com, cn
 host-suffix, frontjs.com, cn
@@ -2176,6 +2188,8 @@ host-suffix, yushanfang.com, cn
 host-suffix, zuodao.com, cn
 host-suffix, aliexpress.com, cn
 host-suffix, aliexpress.ru, cn
+host-suffix, alicloudccp.com, cn
+host-suffix, aliyundrive.com, cn
 host-suffix, sm.cn, cn
 host-suffix, cainiao.com, cn
 host-suffix, cainiao.com.cn, cn
@@ -2967,6 +2981,7 @@ host-suffix, miwifi.com, cn
 host-suffix, xiaomi.cn, cn
 host-suffix, xiaomi.com, cn
 host-suffix, xiaomi.net, cn
+host-suffix, xiaomiflash.com, cn
 host-suffix, xiaomiyoupin.com, cn
 host-suffix, sandai.net, cn
 host-suffix, thunderurl.com, cn

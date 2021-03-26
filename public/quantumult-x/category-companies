@@ -233,6 +233,7 @@ host-suffix, acmvalidations.com, category-companies
 host-suffix, acmvalidationsaws.com, category-companies
 host-suffix, aesworkshops.com, category-companies
 host-suffix, amazonaws-china.com, category-companies
+host-suffix, amazonaws.co.uk, category-companies
 host-suffix, amazonaws.com, category-companies
 host-suffix, amazonaws.tv, category-companies
 host-suffix, amazonworkdocs.cn, category-companies
@@ -280,6 +281,7 @@ host-suffix, kindleoasis.org, category-companies
 host-suffix, kindleoasis.us, category-companies
 host-suffix, kindleoasisnews.com, category-companies
 host-suffix, kindleproject.com, category-companies
+host-suffix, aiv-cdn.net, category-companies
 host-suffix, amazonprimevideo.cn, category-companies
 host-suffix, amazonprimevideo.com.cn, category-companies
 host-suffix, amazonprimevideos.com, category-companies
@@ -987,6 +989,9 @@ host-suffix, xn--hxtr4rozx.xn--czr694b, category-companies
 host-suffix, xn--kput3imi374g.xn--hxt814e, category-companies
 host-suffix, xn--ohq11k7pl25iyo8a.cn, category-companies
 host-suffix, xn--ruq8a011kt6y.xn--hxt814e, category-companies
+host, apple.com.akadns.net, category-companies
+host, courier-push-apple.com.akadns.net, category-companies
+host, push-apple.com.akadns.net, category-companies
 host, amp-api-search-edge.apps.apple.com, category-companies
 host, amp-api.apps.apple.com, category-companies
 host, aod.itunes.apple.com, category-companies
@@ -1074,6 +1079,7 @@ host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, category-companie
 host, gsp4-cn.ls.apple.com.edgekey.net, category-companies
 host, gsp4-cn.ls.apple.com, category-companies
 host, gsp5-cn.ls.apple.com, category-companies
+host, gsp85-cn-ssl.ls.apple.com, category-companies
 host, gspe19-cn-ssl.ls.apple.com, category-companies
 host, gspe19-cn.ls-apple.com.akadns.net, category-companies
 host, gspe19-cn.ls.apple.com, category-companies
@@ -1144,9 +1150,6 @@ host, valid.origin-apple.com.akadns.net, category-companies
 host, www.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, www.apple.com.edgekey.net, category-companies
 host, www.apple.com, category-companies
-host, apple.com.akadns.net, category-companies
-host, courier-push-apple.com.akadns.net, category-companies
-host, push-apple.com.akadns.net, category-companies
 host-suffix, iadsdk.apple.com, category-companies
 host-suffix, iad.apple.com, category-companies
 host-suffix, qwapi.com, category-companies
@@ -4714,6 +4717,7 @@ host-suffix, githubhackathon.com, category-companies
 host-suffix, githubstatus.com, category-companies
 host-suffix, githubusercontent.com, category-companies
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-companies
+host, github-cloud.s3.amazonaws.com, category-companies
 host-suffix, npm.community, category-companies
 host-suffix, npmjs.com, category-companies
 host-suffix, npmjs.org, category-companies
@@ -4859,12 +4863,21 @@ host-suffix, naver.net, category-companies
 host-suffix, navercorp.com, category-companies
 host-suffix, plug.game, category-companies
 host-suffix, pstatic.net, category-companies
+host-suffix, webtoons.com, category-companies
 host-suffix, lin.ee, category-companies
-host-suffix, line.me, category-companies
-host-suffix, line.naver.jp, category-companies
+host-suffix, line-apps-beta.com, category-companies
 host-suffix, line-apps.com, category-companies
+host-suffix, line-beta.me, category-companies
 host-suffix, line-cdn.net, category-companies
 host-suffix, line-scdn.net, category-companies
+host-suffix, line.me, category-companies
+host-suffix, line.naver.jp, category-companies
+host-suffix, linecorp.com, category-companies
+host-suffix, linefriends.com, category-companies
+host-suffix, linefriends.com.tw, category-companies
+host-suffix, linegame.jp, category-companies
+host-suffix, linemobile.com, category-companies
+host-suffix, linetv.tw, category-companies
 host-suffix, nhncorp.jp, category-companies
 host-suffix, neuralink.com, category-companies
 host-suffix, geforce.cn, category-companies
@@ -5230,9 +5243,11 @@ host-suffix, oath.cloud, category-companies
 host-suffix, oath.com, category-companies
 host-suffix, ouroath.com, category-companies
 host-suffix, static-verizon.com, category-companies
+host-suffix, uplynk.com, category-companies
 host-suffix, verizon.com, category-companies
 host-suffix, verizon.net, category-companies
 host-suffix, verizonbusinessfios.com, category-companies
+host-suffix, verizondigitalmedia.com, category-companies
 host-suffix, verizonenterprise.com, category-companies
 host-suffix, verizonfios.com, category-companies
 host-suffix, verizonmedia.com, category-companies

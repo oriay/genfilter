@@ -127,6 +127,17 @@ host-suffix, bbc, category-media
 host-suffix, bbc.co.uk, category-media
 host-suffix, bbc.com, category-media
 host-suffix, bbci.co.uk, category-media
+host-suffix, bbcverticals.com, category-media
+host-suffix, bbcfmt.s.llnwi.net, category-media
+host-suffix, bidi.net.uk, category-media
+host-suffix, bbcmedia.co.uk, category-media
+host-suffix, bbc.net.uk, category-media
+host, vod-dash-ww-live.akamaized.net, category-media
+host, vod-thumb-ww-live.akamaized.net, category-media
+host, vod-dash-uk-live.akamaized.net, category-media
+host, vod-thumb-uk-live.akamaized.net, category-media
+host, vod-hls-uk-live.akamaized.net, category-media
+host, vod-sub-uk-live.akamaized.net, category-media
 host-suffix, bloomberg, category-media
 host-suffix, bbgevent.com, category-media
 host-suffix, bbhub.io, category-media
@@ -417,6 +428,7 @@ host-suffix, foxnewsrundown.com, category-media
 host-suffix, foxnewssunday.com, category-media
 host-suffix, foxon.com, category-media
 host-suffix, foxphiladelphia.com, category-media
+host-suffix, foxplus.com, category-media
 host-suffix, foxpoker.com, category-media
 host-suffix, foxrad.io, category-media
 host-suffix, foxredeem.com, category-media
@@ -978,6 +990,7 @@ host-suffix, reuters.tv, category-media
 host-suffix, reutersmedia.net, category-media
 host-suffix, bigbigchannel.com.hk, category-media
 host-suffix, bigbigshop.com, category-media
+host-suffix, encoretvb.com, category-media
 host-suffix, tvb.com, category-media
 host-suffix, tvb.com.au, category-media
 host-suffix, tvbanywhere.com, category-media
@@ -989,6 +1002,11 @@ host-suffix, tvbweekly.com, category-media
 host-suffix, tvmedia.net.au, category-media
 host-suffix, mytvsuper.com, category-media
 host-suffix, tvb.com, category-media
+host-suffix, dogatch.jp, category-media
+host-suffix, gorin.jp, category-media
+host-suffix, screens-lab.jp, category-media
+host-suffix, tver.co.jp, category-media
+host-suffix, tver.jp, category-media
 host-suffix, udn.com, category-media
 host-suffix, udn.com.tw, category-media
 host-suffix, udnfunlife.com, category-media

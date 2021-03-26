@@ -212,6 +212,7 @@ DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
@@ -337,10 +338,12 @@ DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,metacpan.org
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
-DOMAIN-SUFFIX,pypa.io
-DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,qt-project.org
 DOMAIN-SUFFIX,readthedocs-hosted.com

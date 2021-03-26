@@ -353,6 +353,7 @@ host-suffix, githubhackathon.com, microsoft
 host-suffix, githubstatus.com, microsoft
 host-suffix, githubusercontent.com, microsoft
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, microsoft
+host, github-cloud.s3.amazonaws.com, microsoft
 host-suffix, npm.community, microsoft
 host-suffix, npmjs.com, microsoft
 host-suffix, npmjs.org, microsoft

@@ -39,6 +39,7 @@ host, ocsp2.globalsign.com, category-cas
 host-suffix, identrust.com, category-cas
 host-suffix, identrust.co.uk, category-cas
 host-suffix, identrust.net, category-cas
+host-suffix, lencr.org, category-cas
 host-suffix, letsencrypt.org, category-cas
 host-suffix, secom.co.jp, category-cas
 host-suffix, secomtrust.net, category-cas

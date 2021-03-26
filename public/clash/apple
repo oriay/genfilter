@@ -684,6 +684,9 @@ DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
 DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
+DOMAIN,apple.com.akadns.net
+DOMAIN,courier-push-apple.com.akadns.net
+DOMAIN,push-apple.com.akadns.net
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,aod.itunes.apple.com
@@ -771,6 +774,7 @@ DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN,gsp4-cn.ls.apple.com
 DOMAIN,gsp5-cn.ls.apple.com
+DOMAIN,gsp85-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN,gspe19-cn.ls.apple.com
@@ -841,9 +845,6 @@ DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
-DOMAIN,apple.com.akadns.net
-DOMAIN,courier-push-apple.com.akadns.net
-DOMAIN,push-apple.com.akadns.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com

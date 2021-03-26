@@ -212,6 +212,7 @@ host-suffix, githubhackathon.com, category-dev
 host-suffix, githubstatus.com, category-dev
 host-suffix, githubusercontent.com, category-dev
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-dev
+host, github-cloud.s3.amazonaws.com, category-dev
 host-suffix, npm.community, category-dev
 host-suffix, npmjs.com, category-dev
 host-suffix, npmjs.org, category-dev
@@ -337,10 +338,12 @@ host-suffix, cpan.org, category-dev
 host-suffix, metacpan.org, category-dev
 host-suffix, polymer-project.org, category-dev
 host-suffix, polymerproject.org, category-dev
+host-suffix, pycon.org, category-dev
+host-suffix, pypa.io, category-dev
+host-suffix, pypi.io, category-dev
+host-suffix, pypi.org, category-dev
 host-suffix, python.org, category-dev
 host-suffix, pythonhosted.org, category-dev
-host-suffix, pypa.io, category-dev
-host-suffix, pypi.org, category-dev
 host-suffix, qt.io, category-dev
 host-suffix, qt-project.org, category-dev
 host-suffix, readthedocs-hosted.com, category-dev

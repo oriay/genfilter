@@ -684,6 +684,9 @@ host-suffix, xn--hxtr4rozx.xn--czr694b, apple
 host-suffix, xn--kput3imi374g.xn--hxt814e, apple
 host-suffix, xn--ohq11k7pl25iyo8a.cn, apple
 host-suffix, xn--ruq8a011kt6y.xn--hxt814e, apple
+host, apple.com.akadns.net, apple
+host, courier-push-apple.com.akadns.net, apple
+host, push-apple.com.akadns.net, apple
 host, amp-api-search-edge.apps.apple.com, apple
 host, amp-api.apps.apple.com, apple
 host, aod.itunes.apple.com, apple
@@ -771,6 +774,7 @@ host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, apple
 host, gsp4-cn.ls.apple.com.edgekey.net, apple
 host, gsp4-cn.ls.apple.com, apple
 host, gsp5-cn.ls.apple.com, apple
+host, gsp85-cn-ssl.ls.apple.com, apple
 host, gspe19-cn-ssl.ls.apple.com, apple
 host, gspe19-cn.ls-apple.com.akadns.net, apple
 host, gspe19-cn.ls.apple.com, apple
@@ -841,9 +845,6 @@ host, valid.origin-apple.com.akadns.net, apple
 host, www.apple.com.edgekey.net.globalredir.akadns.net, apple
 host, www.apple.com.edgekey.net, apple
 host, www.apple.com, apple
-host, apple.com.akadns.net, apple
-host, courier-push-apple.com.akadns.net, apple
-host, push-apple.com.akadns.net, apple
 host-suffix, iadsdk.apple.com, apple
 host-suffix, iad.apple.com, apple
 host-suffix, qwapi.com, apple

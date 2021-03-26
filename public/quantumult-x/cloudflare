@@ -13,6 +13,7 @@ host-suffix, cloudflarestatus.com, cloudflare
 host-suffix, cloudflarestream.com, cloudflare
 host-suffix, cloudflaretest.com, cloudflare
 host-suffix, one.one.one, cloudflare
+host-suffix, pages.dev, cloudflare
 host-suffix, trycloudflare.com, cloudflare
 host-suffix, videodelivery.net, cloudflare
 host-suffix, warp.plus, cloudflare

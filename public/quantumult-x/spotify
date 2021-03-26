@@ -6,7 +6,10 @@ host-suffix, spotify-everywhere.com, spotify
 host-suffix, spotify.com, spotify
 host-suffix, spotify.design, spotify
 host-suffix, spotifycdn.com, spotify
+host-suffix, spotifycdn.net, spotify
 host-suffix, spotifycharts.com, spotify
 host-suffix, spotifycodes.com, spotify
 host-suffix, spotifyforbrands.com, spotify
 host-suffix, spotifyjobs.com, spotify
+host, audio-ak-spotify-com.akamaized.net, spotify
+host, heads4-ak-spotify-com.akamaized.net, spotify

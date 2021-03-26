@@ -233,6 +233,7 @@ DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,aesworkshops.com
 DOMAIN-SUFFIX,amazonaws-china.com
+DOMAIN-SUFFIX,amazonaws.co.uk
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazonworkdocs.cn
@@ -280,6 +281,7 @@ DOMAIN-SUFFIX,kindleoasis.org
 DOMAIN-SUFFIX,kindleoasis.us
 DOMAIN-SUFFIX,kindleoasisnews.com
 DOMAIN-SUFFIX,kindleproject.com
+DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,amazonprimevideos.com
@@ -987,6 +989,9 @@ DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
 DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
 DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
+DOMAIN,apple.com.akadns.net
+DOMAIN,courier-push-apple.com.akadns.net
+DOMAIN,push-apple.com.akadns.net
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,aod.itunes.apple.com
@@ -1074,6 +1079,7 @@ DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN,gsp4-cn.ls.apple.com
 DOMAIN,gsp5-cn.ls.apple.com
+DOMAIN,gsp85-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN,gspe19-cn.ls.apple.com
@@ -1144,9 +1150,6 @@ DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
-DOMAIN,apple.com.akadns.net
-DOMAIN,courier-push-apple.com.akadns.net
-DOMAIN,push-apple.com.akadns.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
@@ -4714,6 +4717,7 @@ DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
@@ -4859,12 +4863,21 @@ DOMAIN-SUFFIX,naver.net
 DOMAIN-SUFFIX,navercorp.com
 DOMAIN-SUFFIX,plug.game
 DOMAIN-SUFFIX,pstatic.net
+DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,lin.ee
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,linefriends.com
+DOMAIN-SUFFIX,linefriends.com.tw
+DOMAIN-SUFFIX,linegame.jp
+DOMAIN-SUFFIX,linemobile.com
+DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,neuralink.com
 DOMAIN-SUFFIX,geforce.cn
@@ -5230,9 +5243,11 @@ DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,ouroath.com
 DOMAIN-SUFFIX,static-verizon.com
+DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,verizon.com
 DOMAIN-SUFFIX,verizon.net
 DOMAIN-SUFFIX,verizonbusinessfios.com
+DOMAIN-SUFFIX,verizondigitalmedia.com
 DOMAIN-SUFFIX,verizonenterprise.com
 DOMAIN-SUFFIX,verizonfios.com
 DOMAIN-SUFFIX,verizonmedia.com

@@ -100,6 +100,7 @@ host-suffix, acmvalidations.com, amazon
 host-suffix, acmvalidationsaws.com, amazon
 host-suffix, aesworkshops.com, amazon
 host-suffix, amazonaws-china.com, amazon
+host-suffix, amazonaws.co.uk, amazon
 host-suffix, amazonaws.com, amazon
 host-suffix, amazonaws.tv, amazon
 host-suffix, amazonworkdocs.cn, amazon
@@ -147,6 +148,7 @@ host-suffix, kindleoasis.org, amazon
 host-suffix, kindleoasis.us, amazon
 host-suffix, kindleoasisnews.com, amazon
 host-suffix, kindleproject.com, amazon
+host-suffix, aiv-cdn.net, amazon
 host-suffix, amazonprimevideo.cn, amazon
 host-suffix, amazonprimevideo.com.cn, amazon
 host-suffix, amazonprimevideos.com, amazon

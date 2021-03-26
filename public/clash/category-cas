@@ -39,6 +39,7 @@ DOMAIN,ocsp2.globalsign.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,identrust.co.uk
 DOMAIN-SUFFIX,identrust.net
+DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,secom.co.jp
 DOMAIN-SUFFIX,secomtrust.net
