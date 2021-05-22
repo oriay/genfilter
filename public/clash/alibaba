@@ -158,7 +158,6 @@ DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,appdownload.alicdn.com
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atanx2.alicdn.com
-DOMAIN-SUFFIX,cbu01.alicdn.com
 DOMAIN-SUFFIX,cdn0.mobmore.com
 DOMAIN-SUFFIX,click.aliyun.com
 DOMAIN-SUFFIX,click.mz.simba.taobao.com
@@ -277,6 +276,8 @@ DOMAIN-SUFFIX,eleme.cn
 DOMAIN-SUFFIX,teambition.com
 DOMAIN-SUFFIX,teambition.net
 DOMAIN-SUFFIX,teambitionapis.com
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com

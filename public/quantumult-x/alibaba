@@ -158,7 +158,6 @@ host-suffix, apoll.m.taobao.com, alibaba
 host-suffix, appdownload.alicdn.com, alibaba
 host-suffix, atanx.alicdn.com, alibaba
 host-suffix, atanx2.alicdn.com, alibaba
-host-suffix, cbu01.alicdn.com, alibaba
 host-suffix, cdn0.mobmore.com, alibaba
 host-suffix, click.aliyun.com, alibaba
 host-suffix, click.mz.simba.taobao.com, alibaba
@@ -277,6 +276,8 @@ host-suffix, eleme.cn, alibaba
 host-suffix, teambition.com, alibaba
 host-suffix, teambition.net, alibaba
 host-suffix, teambitionapis.com, alibaba
+host-suffix, uc.cn, alibaba
+host-suffix, ucweb.com, alibaba
 host-suffix, mobmore.com, alibaba
 host-suffix, umeng.com, alibaba
 host-suffix, umengcloud.com, alibaba

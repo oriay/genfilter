@@ -1036,7 +1036,6 @@ host, adcdownload.apple.com.akadns.net, category-companies
 host, adcdownload.apple.com, category-companies
 host, appldnld.apple.com, category-companies
 host, appldnld.g.aaplimg.com, category-companies
-host, apps.apple.com, category-companies
 host, apps.mzstatic.com, category-companies
 host, cdn-cn1.apple-mapkit.com, category-companies
 host, cdn-cn2.apple-mapkit.com, category-companies
@@ -2527,6 +2526,7 @@ host-suffix, facebook-corp.com, category-companies
 host-suffix, facebook-covid-19.com, category-companies
 host-suffix, facebook-ebook.com, category-companies
 host-suffix, facebook-forum.com, category-companies
+host-suffix, facebook-hardware.com, category-companies
 host-suffix, facebook-inc.com, category-companies
 host-suffix, facebook-login.com, category-companies
 host-suffix, facebook-newsroom.com, category-companies
@@ -3479,6 +3479,7 @@ host-suffix, xn--ngstr-lra8j.com, category-companies
 host-suffix, xplr.co, category-companies
 host-suffix, zukunftswerkstatt.de, category-companies
 host, csi-china.l.google.com, category-companies
+host, gstaticadssl.l.google.com, category-companies
 host, www.recaptcha.net, category-companies
 host, 265.com, category-companies
 host, 2mdn.net, category-companies
@@ -3724,6 +3725,7 @@ host, scholar.google.ru, category-companies
 host, scholar.google.se, category-companies
 host, scholar.google.si, category-companies
 host, scholar.google.sk, category-companies
+host, scholar.l.google.com, category-companies
 host-suffix, polymer-project.org, category-companies
 host-suffix, polymerproject.org, category-companies
 host-suffix, v8.dev, category-companies
@@ -4705,6 +4707,7 @@ host, bj1.api.bing.com, category-companies
 host, emoi-cncdn.bing.com, category-companies
 host-suffix, atom.io, category-companies
 host-suffix, dependabot.com, category-companies
+host-suffix, ghcr.io, category-companies
 host-suffix, git.io, category-companies
 host-suffix, github.blog, category-companies
 host-suffix, github.com, category-companies

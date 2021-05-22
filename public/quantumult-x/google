@@ -478,6 +478,7 @@ host-suffix, xn--ngstr-lra8j.com, google
 host-suffix, xplr.co, google
 host-suffix, zukunftswerkstatt.de, google
 host, csi-china.l.google.com, google
+host, gstaticadssl.l.google.com, google
 host, www.recaptcha.net, google
 host, 265.com, google
 host, 2mdn.net, google
@@ -723,6 +724,7 @@ host, scholar.google.ru, google
 host, scholar.google.se, google
 host, scholar.google.si, google
 host, scholar.google.sk, google
+host, scholar.l.google.com, google
 host-suffix, polymer-project.org, google
 host-suffix, polymerproject.org, google
 host-suffix, v8.dev, google

@@ -200,6 +200,7 @@ host-suffix, gitbook.com, category-dev
 host-suffix, gitbook.io, category-dev
 host-suffix, atom.io, category-dev
 host-suffix, dependabot.com, category-dev
+host-suffix, ghcr.io, category-dev
 host-suffix, git.io, category-dev
 host-suffix, github.blog, category-dev
 host-suffix, github.com, category-dev

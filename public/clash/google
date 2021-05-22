@@ -478,6 +478,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN,csi-china.l.google.com
+DOMAIN,gstaticadssl.l.google.com
 DOMAIN,www.recaptcha.net
 DOMAIN,265.com
 DOMAIN,2mdn.net
@@ -723,6 +724,7 @@ DOMAIN,scholar.google.ru
 DOMAIN,scholar.google.se
 DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
+DOMAIN,scholar.l.google.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,v8.dev

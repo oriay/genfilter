@@ -1036,7 +1036,6 @@ DOMAIN,adcdownload.apple.com.akadns.net
 DOMAIN,adcdownload.apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
-DOMAIN,apps.apple.com
 DOMAIN,apps.mzstatic.com
 DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
@@ -2527,6 +2526,7 @@ DOMAIN-SUFFIX,facebook-corp.com
 DOMAIN-SUFFIX,facebook-covid-19.com
 DOMAIN-SUFFIX,facebook-ebook.com
 DOMAIN-SUFFIX,facebook-forum.com
+DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,facebook-inc.com
 DOMAIN-SUFFIX,facebook-login.com
 DOMAIN-SUFFIX,facebook-newsroom.com
@@ -3479,6 +3479,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN,csi-china.l.google.com
+DOMAIN,gstaticadssl.l.google.com
 DOMAIN,www.recaptcha.net
 DOMAIN,265.com
 DOMAIN,2mdn.net
@@ -3724,6 +3725,7 @@ DOMAIN,scholar.google.ru
 DOMAIN,scholar.google.se
 DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
+DOMAIN,scholar.l.google.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,v8.dev
@@ -4705,6 +4707,7 @@ DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com

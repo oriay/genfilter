@@ -93,7 +93,6 @@ host-suffix, apoll.m.taobao.com, category-ads-all
 host-suffix, appdownload.alicdn.com, category-ads-all
 host-suffix, atanx.alicdn.com, category-ads-all
 host-suffix, atanx2.alicdn.com, category-ads-all
-host-suffix, cbu01.alicdn.com, category-ads-all
 host-suffix, cdn0.mobmore.com, category-ads-all
 host-suffix, click.aliyun.com, category-ads-all
 host-suffix, click.mz.simba.taobao.com, category-ads-all
@@ -288,9 +287,6 @@ host-suffix, spcode.baidu.com, category-ads-all
 host-suffix, stat.v.baidu.com, category-ads-all
 host-suffix, su.bdimg.com, category-ads-all
 host-suffix, su.bdstatic.com, category-ads-all
-host-suffix, t10.baidu.com, category-ads-all
-host-suffix, t11.baidu.com, category-ads-all
-host-suffix, t12.baidu.com, category-ads-all
 host-suffix, tk.baidu.com, category-ads-all
 host-suffix, tkweb.baidu.com, category-ads-all
 host-suffix, tob-cms.bj.bcebos.com, category-ads-all

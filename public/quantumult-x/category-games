@@ -2,6 +2,7 @@ host-suffix, fanatical.com, category-games
 host-suffix, humblebundle.com, category-games
 host-suffix, blizzard.cn, category-games
 host-suffix, blizzard.com, category-games
+host-suffix, blizzardgames.cn, category-games
 host-suffix, blizzardgearstore.com, category-games
 host-suffix, blz-contentstack.com, category-games
 host-suffix, blzstatic.cn, category-games
@@ -462,6 +463,7 @@ host, steamcommunity-a.akamaihd.net, category-games
 host, steamstore-a.akamaihd.net, category-games
 host, steamusercontent-a.akamaihd.net, category-games
 host, steamuserimages-a.akamaihd.net, category-games
+host, steamvideo-a.akamaihd.net, category-games
 host-suffix, steamunlocked.net, category-games
 host-suffix, ubi.com, category-games
 host-suffix, ubisoft.com, category-games

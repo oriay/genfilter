@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgames.cn
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,blzstatic.cn
@@ -462,6 +463,7 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com

@@ -71,7 +71,6 @@ DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,appdownload.alicdn.com
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atanx2.alicdn.com
-DOMAIN-SUFFIX,cbu01.alicdn.com
 DOMAIN-SUFFIX,cdn0.mobmore.com
 DOMAIN-SUFFIX,click.aliyun.com
 DOMAIN-SUFFIX,click.mz.simba.taobao.com
@@ -266,9 +265,6 @@ DOMAIN-SUFFIX,spcode.baidu.com
 DOMAIN-SUFFIX,stat.v.baidu.com
 DOMAIN-SUFFIX,su.bdimg.com
 DOMAIN-SUFFIX,su.bdstatic.com
-DOMAIN-SUFFIX,t10.baidu.com
-DOMAIN-SUFFIX,t11.baidu.com
-DOMAIN-SUFFIX,t12.baidu.com
 DOMAIN-SUFFIX,tk.baidu.com
 DOMAIN-SUFFIX,tkweb.baidu.com
 DOMAIN-SUFFIX,tob-cms.bj.bcebos.com

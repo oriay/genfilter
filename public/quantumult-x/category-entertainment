@@ -51,6 +51,7 @@ host-suffix, fanatical.com, category-entertainment
 host-suffix, humblebundle.com, category-entertainment
 host-suffix, blizzard.cn, category-entertainment
 host-suffix, blizzard.com, category-entertainment
+host-suffix, blizzardgames.cn, category-entertainment
 host-suffix, blizzardgearstore.com, category-entertainment
 host-suffix, blz-contentstack.com, category-entertainment
 host-suffix, blzstatic.cn, category-entertainment
@@ -511,6 +512,7 @@ host, steamcommunity-a.akamaihd.net, category-entertainment
 host, steamstore-a.akamaihd.net, category-entertainment
 host, steamusercontent-a.akamaihd.net, category-entertainment
 host, steamuserimages-a.akamaihd.net, category-entertainment
+host, steamvideo-a.akamaihd.net, category-entertainment
 host-suffix, steamunlocked.net, category-entertainment
 host-suffix, ubi.com, category-entertainment
 host-suffix, ubisoft.com, category-entertainment
@@ -688,6 +690,7 @@ host-suffix, hbogo.com, category-entertainment
 host-suffix, hbogoasia.com, category-entertainment
 host-suffix, hbogoasia.hk, category-entertainment
 host-suffix, hbomax.com, category-entertainment
+host-suffix, hbomaxcdn.com, category-entertainment
 host-suffix, hbonow.com, category-entertainment
 host-suffix, maxgo.com, category-entertainment
 host-suffix, 112263.com, category-entertainment
@@ -763,6 +766,16 @@ host-suffix, nflximg.net, category-entertainment
 host-suffix, nflxsearch.net, category-entertainment
 host-suffix, nflxso.net, category-entertainment
 host-suffix, nflxvideo.net, category-entertainment
+host-suffix, netflixdnstest1.com, category-entertainment
+host-suffix, netflixdnstest2.com, category-entertainment
+host-suffix, netflixdnstest3.com, category-entertainment
+host-suffix, netflixdnstest4.com, category-entertainment
+host-suffix, netflixdnstest5.com, category-entertainment
+host-suffix, netflixdnstest6.com, category-entertainment
+host-suffix, netflixdnstest7.com, category-entertainment
+host-suffix, netflixdnstest8.com, category-entertainment
+host-suffix, netflixdnstest9.com, category-entertainment
+host-suffix, netflixdnstest10.com, category-entertainment
 host-suffix, nico, category-entertainment
 host-suffix, nicodic.jp, category-entertainment
 host-suffix, nicomanga.jp, category-entertainment
@@ -822,7 +835,6 @@ host, heads4-ak-spotify-com.akamaized.net, category-entertainment
 host-suffix, tidal.com, category-entertainment
 host-suffix, tidalhifi.com, category-entertainment
 host-suffix, wimpmusic.com, category-entertainment
-host-suffix, amemv.com, category-entertainment
 host-suffix, muscdn.com, category-entertainment
 host-suffix, musical.ly, category-entertainment
 host-suffix, tiktok.com, category-entertainment

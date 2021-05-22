@@ -159,9 +159,6 @@ host-suffix, spcode.baidu.com, baidu
 host-suffix, stat.v.baidu.com, baidu
 host-suffix, su.bdimg.com, baidu
 host-suffix, su.bdstatic.com, baidu
-host-suffix, t10.baidu.com, baidu
-host-suffix, t11.baidu.com, baidu
-host-suffix, t12.baidu.com, baidu
 host-suffix, tk.baidu.com, baidu
 host-suffix, tkweb.baidu.com, baidu
 host-suffix, tob-cms.bj.bcebos.com, baidu

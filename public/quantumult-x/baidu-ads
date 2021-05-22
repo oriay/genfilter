@@ -120,9 +120,6 @@ host-suffix, spcode.baidu.com, baidu-ads
 host-suffix, stat.v.baidu.com, baidu-ads
 host-suffix, su.bdimg.com, baidu-ads
 host-suffix, su.bdstatic.com, baidu-ads
-host-suffix, t10.baidu.com, baidu-ads
-host-suffix, t11.baidu.com, baidu-ads
-host-suffix, t12.baidu.com, baidu-ads
 host-suffix, tk.baidu.com, baidu-ads
 host-suffix, tkweb.baidu.com, baidu-ads
 host-suffix, tob-cms.bj.bcebos.com, baidu-ads
