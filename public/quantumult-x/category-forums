@@ -1,7 +1,6 @@
 host-suffix, avsforum.com, category-forums
 host-suffix, doom9.org, category-forums
 host-suffix, gab.com, category-forums
-host-suffix, hkgolden.com, category-forums
 host-suffix, mewe.com, category-forums
 host-suffix, parler.com, category-forums
 host-suffix, pincong.rocks, category-forums
@@ -14,6 +13,8 @@ host-suffix, 2ch.net, category-forums
 host-suffix, 5ch.net, category-forums
 host-suffix, dcard.io, category-forums
 host-suffix, dcard.tw, category-forums
+host-suffix, hkgolden.com, category-forums
+host-suffix, hkgolden.media, category-forums
 host-suffix, lih.kg, category-forums
 host-suffix, lihkg.com, category-forums
 host-suffix, pimg.tw, category-forums

@@ -402,6 +402,7 @@ host-suffix, picnik.com, google
 host-suffix, pittpatt.com, google
 host-suffix, pixate.com, google
 host-suffix, postini.com, google
+host-suffix, privacysandbox.com, google
 host-suffix, projectara.com, google
 host-suffix, projectbaseline.com, google
 host-suffix, publishproxy.com, google
@@ -486,6 +487,7 @@ host, adservice.google.com, google
 host, app-measurement.com, google
 host, beacons.gcp.gvt2.com, google
 host, beacons.gvt2.com, google
+host, beacons2.gvt2.com, google
 host, beacons3.gvt2.com, google
 host, c.admob.com, google
 host, c.android.clients.google.com, google
@@ -503,12 +505,15 @@ host, doubleclick.net, google
 host, firebase-settings.crashlytics.com, google
 host, fonts.googleapis.com, google
 host, fonts.gstatic.com, google
+host, g1.gstatic.com, google
+host, g2.gstatic.com, google
 host, google-analytics.com, google
 host, googleadservices.com, google
 host, googleanalytics.com, google
 host, googlesyndication.com, google
 host, googletagmanager.com, google
 host, googletagservices.com, google
+host, gstaticadssl.l.google.com, google
 host, gtm.oasisfeng.com, google
 host, imasdk.googleapis.com, google
 host, ocsp.pki.goog, google
@@ -516,6 +521,7 @@ host, pagead-googlehosted.l.google.com, google
 host, pki-goog.l.google.com, google
 host, recaptcha.net, google
 host, redirector.gvt1.com, google
+host, regioninfo-pa.googleapis.com, google
 host, safebrowsing-cache.google.com, google
 host, safebrowsing.googleapis.com, google
 host, settings.crashlytics.com, google
@@ -525,7 +531,9 @@ host, toolbarqueries.google.com, google
 host, tools.google.com, google
 host, tools.l.google.com, google
 host, translate.googleapis.com, google
+host, translation.googleapis.com, google
 host, update.googleapis.com, google
+host, www-google-analytics.l.google.com, google
 host, www-googletagmanager.l.google.com, google
 host, www.gstatic.com, google
 host-suffix, android.com, google

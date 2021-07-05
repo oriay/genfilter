@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,japanknowledge.com
 DOMAIN-SUFFIX,jbe-platform.com
 DOMAIN-SUFFIX,jmlr.org
 DOMAIN-SUFFIX,jneurosci.org
+DOMAIN-SUFFIX,jstage.jst.go.jp
 DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,kuke.com
 DOMAIN-SUFFIX,lawdata.com.tw
@@ -41,6 +42,7 @@ DOMAIN-SUFFIX,medrxiv.org
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,nejm.org
 DOMAIN-SUFFIX,neurology.org
+DOMAIN-SUFFIX,nii.ac.jp
 DOMAIN-SUFFIX,ovid.com
 DOMAIN-SUFFIX,peerj.com
 DOMAIN-SUFFIX,physiology.org
@@ -66,6 +68,10 @@ DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,yale.edu
 DOMAIN-SUFFIX,zenodo.org
+DOMAIN,database.asahi.com
+DOMAIN,elib.maruzen.co.jp
+DOMAIN,t21.nikkei.co.jp
+DOMAIN,t21ipau.nikkei.co.jp
 DOMAIN-SUFFIX,apa.org
 DOMAIN-SUFFIX,psyccareers.com
 DOMAIN-SUFFIX,cambridge.org

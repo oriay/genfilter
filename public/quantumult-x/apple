@@ -694,7 +694,6 @@ host, api-edge.apps.apple.com, apple
 host, apptrailers.itunes.apple.com, apple
 host, bag.itunes.apple.com, apple
 host, bookkeeper.itunes.apple.com, apple
-host, books.apple.com, apple
 host, client-api.itunes.apple.com, apple
 host, cma.itunes.apple.com, apple
 host, communities.apple.com, apple

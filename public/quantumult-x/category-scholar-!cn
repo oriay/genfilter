@@ -32,6 +32,7 @@ host-suffix, japanknowledge.com, category-scholar-!cn
 host-suffix, jbe-platform.com, category-scholar-!cn
 host-suffix, jmlr.org, category-scholar-!cn
 host-suffix, jneurosci.org, category-scholar-!cn
+host-suffix, jstage.jst.go.jp, category-scholar-!cn
 host-suffix, jstor.org, category-scholar-!cn
 host-suffix, kuke.com, category-scholar-!cn
 host-suffix, lawdata.com.tw, category-scholar-!cn
@@ -41,6 +42,7 @@ host-suffix, medrxiv.org, category-scholar-!cn
 host-suffix, nature.com, category-scholar-!cn
 host-suffix, nejm.org, category-scholar-!cn
 host-suffix, neurology.org, category-scholar-!cn
+host-suffix, nii.ac.jp, category-scholar-!cn
 host-suffix, ovid.com, category-scholar-!cn
 host-suffix, peerj.com, category-scholar-!cn
 host-suffix, physiology.org, category-scholar-!cn
@@ -66,6 +68,10 @@ host-suffix, umass.edu, category-scholar-!cn
 host-suffix, wiley.com, category-scholar-!cn
 host-suffix, yale.edu, category-scholar-!cn
 host-suffix, zenodo.org, category-scholar-!cn
+host, database.asahi.com, category-scholar-!cn
+host, elib.maruzen.co.jp, category-scholar-!cn
+host, t21.nikkei.co.jp, category-scholar-!cn
+host, t21ipau.nikkei.co.jp, category-scholar-!cn
 host-suffix, apa.org, category-scholar-!cn
 host-suffix, psyccareers.com, category-scholar-!cn
 host-suffix, cambridge.org, category-scholar-!cn

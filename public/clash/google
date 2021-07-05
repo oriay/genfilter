@@ -402,6 +402,7 @@ DOMAIN-SUFFIX,picnik.com
 DOMAIN-SUFFIX,pittpatt.com
 DOMAIN-SUFFIX,pixate.com
 DOMAIN-SUFFIX,postini.com
+DOMAIN-SUFFIX,privacysandbox.com
 DOMAIN-SUFFIX,projectara.com
 DOMAIN-SUFFIX,projectbaseline.com
 DOMAIN-SUFFIX,publishproxy.com
@@ -486,6 +487,7 @@ DOMAIN,adservice.google.com
 DOMAIN,app-measurement.com
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
+DOMAIN,beacons2.gvt2.com
 DOMAIN,beacons3.gvt2.com
 DOMAIN,c.admob.com
 DOMAIN,c.android.clients.google.com
@@ -503,12 +505,15 @@ DOMAIN,doubleclick.net
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,g1.gstatic.com
+DOMAIN,g2.gstatic.com
 DOMAIN,google-analytics.com
 DOMAIN,googleadservices.com
 DOMAIN,googleanalytics.com
 DOMAIN,googlesyndication.com
 DOMAIN,googletagmanager.com
 DOMAIN,googletagservices.com
+DOMAIN,gstaticadssl.l.google.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,ocsp.pki.goog
@@ -516,6 +521,7 @@ DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,recaptcha.net
 DOMAIN,redirector.gvt1.com
+DOMAIN,regioninfo-pa.googleapis.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,settings.crashlytics.com
@@ -525,7 +531,9 @@ DOMAIN,toolbarqueries.google.com
 DOMAIN,tools.google.com
 DOMAIN,tools.l.google.com
 DOMAIN,translate.googleapis.com
+DOMAIN,translation.googleapis.com
 DOMAIN,update.googleapis.com
+DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.gstatic.com
 DOMAIN-SUFFIX,android.com

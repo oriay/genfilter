@@ -999,7 +999,6 @@ host, api-edge.apps.apple.com, category-companies
 host, apptrailers.itunes.apple.com, category-companies
 host, bag.itunes.apple.com, category-companies
 host, bookkeeper.itunes.apple.com, category-companies
-host, books.apple.com, category-companies
 host, client-api.itunes.apple.com, category-companies
 host, cma.itunes.apple.com, category-companies
 host, communities.apple.com, category-companies
@@ -3403,6 +3402,7 @@ host-suffix, picnik.com, category-companies
 host-suffix, pittpatt.com, category-companies
 host-suffix, pixate.com, category-companies
 host-suffix, postini.com, category-companies
+host-suffix, privacysandbox.com, category-companies
 host-suffix, projectara.com, category-companies
 host-suffix, projectbaseline.com, category-companies
 host-suffix, publishproxy.com, category-companies
@@ -3487,6 +3487,7 @@ host, adservice.google.com, category-companies
 host, app-measurement.com, category-companies
 host, beacons.gcp.gvt2.com, category-companies
 host, beacons.gvt2.com, category-companies
+host, beacons2.gvt2.com, category-companies
 host, beacons3.gvt2.com, category-companies
 host, c.admob.com, category-companies
 host, c.android.clients.google.com, category-companies
@@ -3504,12 +3505,15 @@ host, doubleclick.net, category-companies
 host, firebase-settings.crashlytics.com, category-companies
 host, fonts.googleapis.com, category-companies
 host, fonts.gstatic.com, category-companies
+host, g1.gstatic.com, category-companies
+host, g2.gstatic.com, category-companies
 host, google-analytics.com, category-companies
 host, googleadservices.com, category-companies
 host, googleanalytics.com, category-companies
 host, googlesyndication.com, category-companies
 host, googletagmanager.com, category-companies
 host, googletagservices.com, category-companies
+host, gstaticadssl.l.google.com, category-companies
 host, gtm.oasisfeng.com, category-companies
 host, imasdk.googleapis.com, category-companies
 host, ocsp.pki.goog, category-companies
@@ -3517,6 +3521,7 @@ host, pagead-googlehosted.l.google.com, category-companies
 host, pki-goog.l.google.com, category-companies
 host, recaptcha.net, category-companies
 host, redirector.gvt1.com, category-companies
+host, regioninfo-pa.googleapis.com, category-companies
 host, safebrowsing-cache.google.com, category-companies
 host, safebrowsing.googleapis.com, category-companies
 host, settings.crashlytics.com, category-companies
@@ -3526,7 +3531,9 @@ host, toolbarqueries.google.com, category-companies
 host, tools.google.com, category-companies
 host, tools.l.google.com, category-companies
 host, translate.googleapis.com, category-companies
+host, translation.googleapis.com, category-companies
 host, update.googleapis.com, category-companies
+host, www-google-analytics.l.google.com, category-companies
 host, www-googletagmanager.l.google.com, category-companies
 host, www.gstatic.com, category-companies
 host-suffix, android.com, category-companies
@@ -4717,8 +4724,11 @@ host-suffix, github.io, category-companies
 host-suffix, githubapp.com, category-companies
 host-suffix, githubassets.com, category-companies
 host-suffix, githubhackathon.com, category-companies
+host-suffix, githubpreview.dev, category-companies
 host-suffix, githubstatus.com, category-companies
 host-suffix, githubusercontent.com, category-companies
+host-suffix, myoctocat.com, category-companies
+host-suffix, thegithubshop.com, category-companies
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-companies
 host, github-cloud.s3.amazonaws.com, category-companies
 host-suffix, npm.community, category-companies

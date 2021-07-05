@@ -210,8 +210,11 @@ host-suffix, github.io, category-dev
 host-suffix, githubapp.com, category-dev
 host-suffix, githubassets.com, category-dev
 host-suffix, githubhackathon.com, category-dev
+host-suffix, githubpreview.dev, category-dev
 host-suffix, githubstatus.com, category-dev
 host-suffix, githubusercontent.com, category-dev
+host-suffix, myoctocat.com, category-dev
+host-suffix, thegithubshop.com, category-dev
 host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-dev
 host, github-cloud.s3.amazonaws.com, category-dev
 host-suffix, npm.community, category-dev
