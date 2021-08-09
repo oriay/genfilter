@@ -212,6 +212,7 @@ host-suffix, githubassets.com, category-dev
 host-suffix, githubhackathon.com, category-dev
 host-suffix, githubpreview.dev, category-dev
 host-suffix, githubstatus.com, category-dev
+host-suffix, githubuniverse.com, category-dev
 host-suffix, githubusercontent.com, category-dev
 host-suffix, myoctocat.com, category-dev
 host-suffix, thegithubshop.com, category-dev
@@ -238,6 +239,7 @@ host-suffix, hashicorp.com, category-dev
 host-suffix, nomadproject.io, category-dev
 host-suffix, packer.io, category-dev
 host-suffix, terraform.io, category-dev
+host-suffix, vagrantcloud.com, category-dev
 host-suffix, vagrantup.com, category-dev
 host-suffix, vaultproject.io, category-dev
 host-suffix, haskell.org, category-dev
@@ -381,6 +383,8 @@ host-suffix, thesffblog.com, category-dev
 host-suffix, mystrikingly.com, category-dev
 host-suffix, strikingly.com, category-dev
 host-suffix, strikinglycdn.com, category-dev
+host-suffix, termux.com, category-dev
+host-suffix, termux.org, category-dev
 host-suffix, lfai.foundation, category-dev
 host-suffix, linuxfoundation.org, category-dev
 host-suffix, kernel.org, category-dev

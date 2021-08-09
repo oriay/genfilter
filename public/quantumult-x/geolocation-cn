@@ -115,6 +115,7 @@ host-suffix, 7po.com, geolocation-cn
 host-suffix, 7x24cc.com, geolocation-cn
 host-suffix, 7xdown.com, geolocation-cn
 host-suffix, 818ps.com, geolocation-cn
+host-suffix, 8264.com, geolocation-cn
 host-suffix, 84399.com, geolocation-cn
 host-suffix, 885.com, geolocation-cn
 host-suffix, 900.la, geolocation-cn
@@ -435,6 +436,8 @@ host-suffix, haote.com, geolocation-cn
 host-suffix, haoyouyinxiang.com, geolocation-cn
 host-suffix, hefei.cc, geolocation-cn
 host-suffix, heisha.net, geolocation-cn
+host-suffix, hellobike.com, geolocation-cn
+host-suffix, hello-inc.com, geolocation-cn
 host-suffix, henha.com, geolocation-cn
 host-suffix, henkuai.com, geolocation-cn
 host-suffix, herostart.com, geolocation-cn
@@ -2577,15 +2580,19 @@ host-suffix, zzy1.quyaoya.com, geolocation-cn
 host-suffix, zuoyebang.cc, geolocation-cn
 host-suffix, zuoyebang.com, geolocation-cn
 host-suffix, zybang.com, geolocation-cn
+host-suffix, amemv.com, geolocation-cn
 host-suffix, bytecdn.cn, geolocation-cn
 host-suffix, byted-static.com, geolocation-cn
 host-suffix, bytedance.com, geolocation-cn
 host-suffix, bytedance.net, geolocation-cn
 host-suffix, bytedns.net, geolocation-cn
 host-suffix, bytednsdoc.com, geolocation-cn
+host-suffix, bytegoofy.com, geolocation-cn
 host-suffix, byteimg.com, geolocation-cn
 host-suffix, byteoversea.com, geolocation-cn
+host-suffix, bytescm.com, geolocation-cn
 host-suffix, bytexservice.com, geolocation-cn
+host-suffix, feelgood.cn, geolocation-cn
 host-suffix, huaxiong.com, geolocation-cn
 host-suffix, ibytedtos.com, geolocation-cn
 host-suffix, ibyteimg.com, geolocation-cn
@@ -2605,9 +2612,12 @@ host-suffix, toutiaoimg.com, geolocation-cn
 host-suffix, toutiaoimg.net, geolocation-cn
 host-suffix, toutiaopage.com, geolocation-cn
 host-suffix, toutiaostatic.com, geolocation-cn
-host-suffix, douyinstatic.com, geolocation-cn
 host-suffix, douyin.com, geolocation-cn
+host-suffix, douyinpic.com, geolocation-cn
+host-suffix, douyinstatic.com, geolocation-cn
+host-suffix, douyinvod.com, geolocation-cn
 host-suffix, huoshan.com, geolocation-cn
+host-suffix, huoshanstatic.com, geolocation-cn
 host-suffix, huoshanzhibo.com, geolocation-cn
 host-suffix, ixigua.com, geolocation-cn
 host-suffix, ixiguavideo.com, geolocation-cn
@@ -2910,6 +2920,8 @@ host-suffix, go2map.com, geolocation-cn
 host-suffix, sogo.com, geolocation-cn
 host-suffix, sogou.com, geolocation-cn
 host-suffix, sogoucdn.com, geolocation-cn
+host-suffix, qq.xn--fiqs8s, geolocation-cn
+host-suffix, xn--r70as2s.xn--fiqs8s, geolocation-cn
 host-suffix, apcdns.net, geolocation-cn
 host-suffix, cdn-go.cn, geolocation-cn
 host-suffix, cdntips.com, geolocation-cn
@@ -3054,6 +3066,7 @@ host-suffix, bystack.com, geolocation-cn
 host-suffix, chainnode.com, geolocation-cn
 host-suffix, matpool.com, geolocation-cn
 host-suffix, matpool.net, geolocation-cn
+host-suffix, chinaexpressair.com, geolocation-cn
 host-suffix, hainanairlines.com, geolocation-cn
 host-suffix, hnacargo.com, geolocation-cn
 host-suffix, hnair.com, geolocation-cn

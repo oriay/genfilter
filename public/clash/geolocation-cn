@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,7po.com
 DOMAIN-SUFFIX,7x24cc.com
 DOMAIN-SUFFIX,7xdown.com
 DOMAIN-SUFFIX,818ps.com
+DOMAIN-SUFFIX,8264.com
 DOMAIN-SUFFIX,84399.com
 DOMAIN-SUFFIX,885.com
 DOMAIN-SUFFIX,900.la
@@ -435,6 +436,8 @@ DOMAIN-SUFFIX,haote.com
 DOMAIN-SUFFIX,haoyouyinxiang.com
 DOMAIN-SUFFIX,hefei.cc
 DOMAIN-SUFFIX,heisha.net
+DOMAIN-SUFFIX,hellobike.com
+DOMAIN-SUFFIX,hello-inc.com
 DOMAIN-SUFFIX,henha.com
 DOMAIN-SUFFIX,henkuai.com
 DOMAIN-SUFFIX,herostart.com
@@ -2577,15 +2580,19 @@ DOMAIN-SUFFIX,zzy1.quyaoya.com
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
 DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,huaxiong.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
@@ -2605,9 +2612,12 @@ DOMAIN-SUFFIX,toutiaoimg.com
 DOMAIN-SUFFIX,toutiaoimg.net
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,toutiaostatic.com
-DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,huoshanstatic.com
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
@@ -2910,6 +2920,8 @@ DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
+DOMAIN-SUFFIX,qq.xn--fiqs8s
+DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
 DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,cdntips.com
@@ -3054,6 +3066,7 @@ DOMAIN-SUFFIX,bystack.com
 DOMAIN-SUFFIX,chainnode.com
 DOMAIN-SUFFIX,matpool.com
 DOMAIN-SUFFIX,matpool.net
+DOMAIN-SUFFIX,chinaexpressair.com
 DOMAIN-SUFFIX,hainanairlines.com
 DOMAIN-SUFFIX,hnacargo.com
 DOMAIN-SUFFIX,hnair.com

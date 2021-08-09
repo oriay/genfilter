@@ -733,6 +733,8 @@ host, scholar.google.se, google
 host, scholar.google.si, google
 host, scholar.google.sk, google
 host, scholar.l.google.com, google
+host-suffix, kaggle.com, google
+host-suffix, kaggle.io, google
 host-suffix, polymer-project.org, google
 host-suffix, polymerproject.org, google
 host-suffix, v8.dev, google

@@ -3,5 +3,6 @@ DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,nomadproject.io
 DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vagrantup.com
 DOMAIN-SUFFIX,vaultproject.io

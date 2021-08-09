@@ -212,6 +212,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,thegithubshop.com
@@ -238,6 +239,7 @@ DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,nomadproject.io
 DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vagrantup.com
 DOMAIN-SUFFIX,vaultproject.io
 DOMAIN-SUFFIX,haskell.org
@@ -381,6 +383,8 @@ DOMAIN-SUFFIX,thesffblog.com
 DOMAIN-SUFFIX,mystrikingly.com
 DOMAIN-SUFFIX,strikingly.com
 DOMAIN-SUFFIX,strikinglycdn.com
+DOMAIN-SUFFIX,termux.com
+DOMAIN-SUFFIX,termux.org
 DOMAIN-SUFFIX,lfai.foundation
 DOMAIN-SUFFIX,linuxfoundation.org
 DOMAIN-SUFFIX,kernel.org

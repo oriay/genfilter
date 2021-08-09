@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bcbits.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgames.cn
@@ -89,6 +90,8 @@ DOMAIN,blz.nosdn.127.net
 DOMAIN,blzmedia-a.akamaihd.net
 DOMAIN,blznav.akamaized.net
 DOMAIN,cn.actual.battle.net
+DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
 DOMAIN-SUFFIX,battlefront2.com
@@ -765,6 +768,7 @@ DOMAIN-SUFFIX,payhulu.com
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
@@ -816,6 +820,18 @@ DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pca.st
 DOMAIN-SUFFIX,pocketcasts.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,mgo.com
 DOMAIN-SUFFIX,mgo-images.com

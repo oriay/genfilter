@@ -50,6 +50,7 @@ host-suffix, bandcamp.com, category-entertainment
 host-suffix, bcbits.com, category-entertainment
 host-suffix, fanatical.com, category-entertainment
 host-suffix, humblebundle.com, category-entertainment
+host-suffix, planetminecraft.com, category-entertainment
 host-suffix, blizzard.cn, category-entertainment
 host-suffix, blizzard.com, category-entertainment
 host-suffix, blizzardgames.cn, category-entertainment
@@ -89,6 +90,8 @@ host, blz.nosdn.127.net, category-entertainment
 host, blzmedia-a.akamaihd.net, category-entertainment
 host, blznav.akamaized.net, category-entertainment
 host, cn.actual.battle.net, category-entertainment
+host-suffix, curseforge.com, category-entertainment
+host-suffix, forgecdn.net, category-entertainment
 host-suffix, awayoutgame.com, category-entertainment
 host-suffix, battlefieldbadcompany2.com, category-entertainment
 host-suffix, battlefront2.com, category-entertainment
@@ -765,6 +768,7 @@ host-suffix, payhulu.com, category-entertainment
 host-suffix, registerhulu.com, category-entertainment
 host-suffix, thehulubraintrust.com, category-entertainment
 host-suffix, wwwhuluplus.com, category-entertainment
+host-suffix, imdb, category-entertainment
 host-suffix, boxofficemojo.com, category-entertainment
 host-suffix, imdb.com, category-entertainment
 host-suffix, imdb.to, category-entertainment
@@ -816,6 +820,18 @@ host-suffix, pixiv.co.jp, category-entertainment
 host-suffix, pximg.net, category-entertainment
 host-suffix, pca.st, category-entertainment
 host-suffix, pocketcasts.com, category-entertainment
+host-suffix, aiv-cdn.net, category-entertainment
+host-suffix, amazonprimevideo.cn, category-entertainment
+host-suffix, amazonprimevideo.com.cn, category-entertainment
+host-suffix, amazonprimevideos.com, category-entertainment
+host-suffix, amazonvideo.cc, category-entertainment
+host-suffix, amazonvideo.com, category-entertainment
+host-suffix, prime-video.com, category-entertainment
+host-suffix, primevideo.cc, category-entertainment
+host-suffix, primevideo.com, category-entertainment
+host-suffix, primevideo.info, category-entertainment
+host-suffix, primevideo.org, category-entertainment
+host-suffix, primevideo.tv, category-entertainment
 host-suffix, fandango.com, category-entertainment
 host-suffix, mgo.com, category-entertainment
 host-suffix, mgo-images.com, category-entertainment

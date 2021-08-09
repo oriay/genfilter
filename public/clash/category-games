@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgames.cn
@@ -39,6 +40,8 @@ DOMAIN,blz.nosdn.127.net
 DOMAIN,blzmedia-a.akamaihd.net
 DOMAIN,blznav.akamaized.net
 DOMAIN,cn.actual.battle.net
+DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
 DOMAIN-SUFFIX,battlefront2.com

@@ -733,6 +733,8 @@ DOMAIN,scholar.google.se
 DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
 DOMAIN,scholar.l.google.com
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,v8.dev

@@ -130,6 +130,7 @@ host-suffix, 7po.com, cn
 host-suffix, 7x24cc.com, cn
 host-suffix, 7xdown.com, cn
 host-suffix, 818ps.com, cn
+host-suffix, 8264.com, cn
 host-suffix, 84399.com, cn
 host-suffix, 885.com, cn
 host-suffix, 900.la, cn
@@ -450,6 +451,8 @@ host-suffix, haote.com, cn
 host-suffix, haoyouyinxiang.com, cn
 host-suffix, hefei.cc, cn
 host-suffix, heisha.net, cn
+host-suffix, hellobike.com, cn
+host-suffix, hello-inc.com, cn
 host-suffix, henha.com, cn
 host-suffix, henkuai.com, cn
 host-suffix, herostart.com, cn
@@ -2592,15 +2595,19 @@ host-suffix, zzy1.quyaoya.com, cn
 host-suffix, zuoyebang.cc, cn
 host-suffix, zuoyebang.com, cn
 host-suffix, zybang.com, cn
+host-suffix, amemv.com, cn
 host-suffix, bytecdn.cn, cn
 host-suffix, byted-static.com, cn
 host-suffix, bytedance.com, cn
 host-suffix, bytedance.net, cn
 host-suffix, bytedns.net, cn
 host-suffix, bytednsdoc.com, cn
+host-suffix, bytegoofy.com, cn
 host-suffix, byteimg.com, cn
 host-suffix, byteoversea.com, cn
+host-suffix, bytescm.com, cn
 host-suffix, bytexservice.com, cn
+host-suffix, feelgood.cn, cn
 host-suffix, huaxiong.com, cn
 host-suffix, ibytedtos.com, cn
 host-suffix, ibyteimg.com, cn
@@ -2620,9 +2627,12 @@ host-suffix, toutiaoimg.com, cn
 host-suffix, toutiaoimg.net, cn
 host-suffix, toutiaopage.com, cn
 host-suffix, toutiaostatic.com, cn
-host-suffix, douyinstatic.com, cn
 host-suffix, douyin.com, cn
+host-suffix, douyinpic.com, cn
+host-suffix, douyinstatic.com, cn
+host-suffix, douyinvod.com, cn
 host-suffix, huoshan.com, cn
+host-suffix, huoshanstatic.com, cn
 host-suffix, huoshanzhibo.com, cn
 host-suffix, ixigua.com, cn
 host-suffix, ixiguavideo.com, cn
@@ -2925,6 +2935,8 @@ host-suffix, go2map.com, cn
 host-suffix, sogo.com, cn
 host-suffix, sogou.com, cn
 host-suffix, sogoucdn.com, cn
+host-suffix, qq.xn--fiqs8s, cn
+host-suffix, xn--r70as2s.xn--fiqs8s, cn
 host-suffix, apcdns.net, cn
 host-suffix, cdn-go.cn, cn
 host-suffix, cdntips.com, cn
@@ -3069,6 +3081,7 @@ host-suffix, bystack.com, cn
 host-suffix, chainnode.com, cn
 host-suffix, matpool.com, cn
 host-suffix, matpool.net, cn
+host-suffix, chinaexpressair.com, cn
 host-suffix, hainanairlines.com, cn
 host-suffix, hnacargo.com, cn
 host-suffix, hnair.com, cn

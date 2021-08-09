@@ -1,5 +1,6 @@
 host-suffix, fanatical.com, category-games
 host-suffix, humblebundle.com, category-games
+host-suffix, planetminecraft.com, category-games
 host-suffix, blizzard.cn, category-games
 host-suffix, blizzard.com, category-games
 host-suffix, blizzardgames.cn, category-games
@@ -39,6 +40,8 @@ host, blz.nosdn.127.net, category-games
 host, blzmedia-a.akamaihd.net, category-games
 host, blznav.akamaized.net, category-games
 host, cn.actual.battle.net, category-games
+host-suffix, curseforge.com, category-games
+host-suffix, forgecdn.net, category-games
 host-suffix, awayoutgame.com, category-games
 host-suffix, battlefieldbadcompany2.com, category-games
 host-suffix, battlefront2.com, category-games

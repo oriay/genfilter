@@ -1,7 +1,4 @@
-host-suffix, aws, amazon
 host-suffix, amazon, amazon
-host-suffix, imdb, amazon
-host-suffix, kindle, amazon
 host-suffix, xn--cckwcxetd, amazon
 host-suffix, xn--jlq480n2rg, amazon
 host-suffix, yamaxun, amazon
@@ -96,6 +93,11 @@ host-suffix, yamaxun.com, amazon
 host-suffix, z.cn, amazon
 host-suffix, alexa.com, amazon
 host-suffix, audible.com, amazon
+host-suffix, createspace.com, amazon
+host, images-cn.ssl-images-amazon.com, amazon
+host, images-cn-8.ssl-images-amazon.com, amazon
+host-suffix, amazon-adsystem.com, amazon
+host-suffix, aws, amazon
 host-suffix, acmvalidations.com, amazon
 host-suffix, acmvalidationsaws.com, amazon
 host-suffix, aesworkshops.com, amazon
@@ -128,7 +130,12 @@ host-suffix, cloudfront.net, amazon
 host-suffix, containersonaws.com, amazon
 host-suffix, elasticbeanstalk.com, amazon
 host-suffix, thinkboxsoftware.com, amazon
-host-suffix, createspace.com, amazon
+host-suffix, imdb, amazon
+host-suffix, boxofficemojo.com, amazon
+host-suffix, imdb.com, amazon
+host-suffix, imdb.to, amazon
+host-suffix, media-imdb.com, amazon
+host-suffix, kindle, amazon
 host-suffix, kindle.cn, amazon
 host-suffix, kindle.co.jp, amazon
 host-suffix, kindle.co.uk, amazon
@@ -160,10 +167,10 @@ host-suffix, primevideo.com, amazon
 host-suffix, primevideo.info, amazon
 host-suffix, primevideo.org, amazon
 host-suffix, primevideo.tv, amazon
-host, images-cn.ssl-images-amazon.com, amazon
-host, images-cn-8.ssl-images-amazon.com, amazon
-host-suffix, amazon-adsystem.com, amazon
+host-suffix, wfm.com, amazon
 host-suffix, wholecitiesfoundation.org, amazon
+host-suffix, wholefoods.com, amazon
+host-suffix, wholefoodsmarket.co.uk, amazon
 host-suffix, wholefoodsmarket.com, amazon
 host-suffix, wholekidsfoundation.org, amazon
 host-suffix, wholeplanetfoundation.org, amazon
