@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
@@ -42,6 +43,11 @@ DOMAIN,blznav.akamaized.net
 DOMAIN,cn.actual.battle.net
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldflipper.akamaized.net
+DOMAIN-SUFFIX,umamusume.akamaized.net
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
 DOMAIN-SUFFIX,battlefront2.com
@@ -450,10 +456,11 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
@@ -467,6 +474,7 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
+DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com

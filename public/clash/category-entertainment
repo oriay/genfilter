@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,castro.fm
+DOMAIN-SUFFIX,egta.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,gbnews.uk
 DOMAIN-SUFFIX,internationalsaimoe.com
@@ -11,6 +12,7 @@ DOMAIN-SUFFIX,moov.hk
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,syosetu.com
+DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,abema.io
@@ -50,6 +52,7 @@ DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bcbits.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
@@ -92,6 +95,11 @@ DOMAIN,blznav.akamaized.net
 DOMAIN,cn.actual.battle.net
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldflipper.akamaized.net
+DOMAIN-SUFFIX,umamusume.akamaized.net
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
 DOMAIN-SUFFIX,battlefront2.com
@@ -500,10 +508,11 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
@@ -517,6 +526,7 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
+DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
@@ -559,6 +569,8 @@ DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,dandanzan.cc
+DOMAIN-SUFFIX,nunuyy.cc
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
@@ -711,6 +723,9 @@ DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
 DOMAIN-SUFFIX,ngeo.com
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,forthethrone.com
 DOMAIN-SUFFIX,hbo.com
@@ -782,6 +797,8 @@ DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kktix.com
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,vod360.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,fast.com
@@ -874,6 +891,8 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,subscene.com
+DOMAIN,i.jeded.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,wimpmusic.com
@@ -883,6 +902,9 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,screens-lab.jp

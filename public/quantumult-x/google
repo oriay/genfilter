@@ -226,8 +226,6 @@ host-suffix, bazel.build, google
 host-suffix, bdn.dev, google
 host-suffix, beatthatquote.com, google
 host-suffix, blink.org, google
-host-suffix, blogblog.com, google
-host-suffix, blogger.com, google
 host-suffix, brocaproject.com, google
 host-suffix, brotli.org, google
 host-suffix, bumpshare.com, google
@@ -538,6 +536,8 @@ host, www-googletagmanager.l.google.com, google
 host, www.gstatic.com, google
 host-suffix, android.com, google
 host-suffix, androidify.com, google
+host-suffix, blogger.com, google
+host-suffix, blogblog.com, google
 host-suffix, blogspot.ae, google
 host-suffix, blogspot.al, google
 host-suffix, blogspot.am, google

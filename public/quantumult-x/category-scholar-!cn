@@ -262,6 +262,12 @@ host-suffix, universitypressscholarship.com, category-scholar-!cn
 host-suffix, veryshortintroductions.com, category-scholar-!cn
 host-suffix, serialssolutions.com, category-scholar-!cn
 host-suffix, proquest.com, category-scholar-!cn
+host-suffix, sci-hub.se, category-scholar-!cn
+host-suffix, sci-hub.ee, category-scholar-!cn
+host-suffix, sci-hub.it.nf, category-scholar-!cn
+host-suffix, sci-hub.mksa.top, category-scholar-!cn
+host-suffix, sci-hub.st, category-scholar-!cn
+host-suffix, sci.hubg.org, category-scholar-!cn
 host-suffix, sciencedirect.com, category-scholar-!cn
 host-suffix, sciencedirectassets.com, category-scholar-!cn
 host-suffix, apress.com, category-scholar-!cn

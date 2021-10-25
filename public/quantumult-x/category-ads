@@ -294,7 +294,17 @@ host-suffix, wn.pos.baidu.com, category-ads
 host-suffix, znsv.baidu.com, category-ads
 host-suffix, zz.bdstatic.com, category-ads
 host-suffix, zzy1.quyaoya.com, category-ads
+host-suffix, bds.snssdk.com, category-ads
+host-suffix, ctobsnssdk.com, category-ads
+host-suffix, dig.bdurl.net, category-ads
+host-suffix, extlog.snssdk.com, category-ads
+host-suffix, i.snssdk.com, category-ads
+host-suffix, is.snssdk.com, category-ads
 host-suffix, mcs.snssdk.com, category-ads
+host-suffix, pangolin.snssdk.com, category-ads
+host-suffix, pangolin-sdk-toutiao.com, category-ads
+host-suffix, pglstatp-toutiao.com, category-ads
+host-suffix, sf3-ttcdn-tos.pstatp.com, category-ads
 host-suffix, x.clearbitjs.com, category-ads
 host-suffix, bluekai.com, category-ads
 host-suffix, fout.jp, category-ads

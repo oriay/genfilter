@@ -1010,6 +1010,7 @@ DOMAIN,client-api.itunes.apple.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,communities.apple.com
 DOMAIN,discussionschinese.apple.com
+DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
@@ -2151,6 +2152,7 @@ DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,redzonechannel.com
 DOMAIN-SUFFIX,txdirectv.com
 DOMAIN-SUFFIX,xandr.com
+DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bwh8.net
@@ -2385,6 +2387,7 @@ DOMAIN-SUFFIX,vmtestdrive.com
 DOMAIN-SUFFIX,vmw.com
 DOMAIN-SUFFIX,vmware-cloudmanagement.com
 DOMAIN-SUFFIX,vmware-techcenter.com
+DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,vmware20mosaic.com
 DOMAIN-SUFFIX,vmwareausnews.com
 DOMAIN-SUFFIX,vmwarecertificationvideos.com
@@ -2455,6 +2458,8 @@ DOMAIN-SUFFIX,whatisairwatch.com
 DOMAIN-SUFFIX,whatisworkspaceone.com
 DOMAIN-SUFFIX,workspaceone.com
 DOMAIN,vmware.tt.omtrdc.net
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -3233,8 +3238,6 @@ DOMAIN-SUFFIX,bazel.build
 DOMAIN-SUFFIX,bdn.dev
 DOMAIN-SUFFIX,beatthatquote.com
 DOMAIN-SUFFIX,blink.org
-DOMAIN-SUFFIX,blogblog.com
-DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,brocaproject.com
 DOMAIN-SUFFIX,brotli.org
 DOMAIN-SUFFIX,bumpshare.com
@@ -3545,6 +3548,8 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.gstatic.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogspot.ae
 DOMAIN-SUFFIX,blogspot.al
 DOMAIN-SUFFIX,blogspot.am
@@ -3918,7 +3923,11 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,emome.net
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,csifund.org
 DOMAIN-SUFFIX,hkbn.com.hk
 DOMAIN-SUFFIX,hkbn.net
@@ -4863,6 +4872,7 @@ DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
@@ -4871,6 +4881,7 @@ DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN,developer.mozilla.org
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,mdn.mozillademos.org
@@ -5468,6 +5479,7 @@ DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,g-technology.com
 DOMAIN-SUFFIX,sandisk.ae
 DOMAIN-SUFFIX,sandisk.it

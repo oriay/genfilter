@@ -1,5 +1,6 @@
 host-suffix, fanatical.com, category-games
 host-suffix, humblebundle.com, category-games
+host-suffix, loverslab.com, category-games
 host-suffix, planetminecraft.com, category-games
 host-suffix, blizzard.cn, category-games
 host-suffix, blizzard.com, category-games
@@ -42,6 +43,11 @@ host, blznav.akamaized.net, category-games
 host, cn.actual.battle.net, category-games
 host-suffix, curseforge.com, category-games
 host-suffix, forgecdn.net, category-games
+host-suffix, cygames.jp, category-games
+host-suffix, cygames.co.jp, category-games
+host-suffix, worldflipper.jp, category-games
+host-suffix, worldflipper.akamaized.net, category-games
+host-suffix, umamusume.akamaized.net, category-games
 host-suffix, awayoutgame.com, category-games
 host-suffix, battlefieldbadcompany2.com, category-games
 host-suffix, battlefront2.com, category-games
@@ -450,10 +456,11 @@ host-suffix, steamstatic.com, category-games
 host-suffix, steamusercontent.com, category-games
 host-suffix, underlords.com, category-games
 host-suffix, valvesoftware.com, category-games
-host-suffix, wmsjsteam.com, category-games
 host-suffix, csgo.wmsj.cn, category-games
-host-suffix, dl.steam.ksyna.com, category-games
 host-suffix, dota2.wmsj.cn, category-games
+host-suffix, wmsjsteam.com, category-games
+host-suffix, dl.steam.clngaa.com, category-games
+host-suffix, dl.steam.ksyna.com, category-games
 host-suffix, st.dl.bscstorage.net, category-games
 host-suffix, st.dl.eccdnx.com, category-games
 host-suffix, st.dl.pinyuncloud.com, category-games
@@ -467,6 +474,7 @@ host, steamstore-a.akamaihd.net, category-games
 host, steamusercontent-a.akamaihd.net, category-games
 host, steamuserimages-a.akamaihd.net, category-games
 host, steamvideo-a.akamaihd.net, category-games
+host-suffix, steamchina.com, category-games
 host-suffix, steamunlocked.net, category-games
 host-suffix, ubi.com, category-games
 host-suffix, ubisoft.com, category-games

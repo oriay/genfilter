@@ -1,5 +1,6 @@
 host-suffix, blubrry.com, category-entertainment
 host-suffix, castro.fm, category-entertainment
+host-suffix, egta.com, category-entertainment
 host-suffix, fireside.fm, category-entertainment
 host-suffix, gbnews.uk, category-entertainment
 host-suffix, internationalsaimoe.com, category-entertainment
@@ -11,6 +12,7 @@ host-suffix, moov.hk, category-entertainment
 host-suffix, odysee.com, category-entertainment
 host-suffix, overcast.fm, category-entertainment
 host-suffix, syosetu.com, category-entertainment
+host-suffix, thetvdb.com, category-entertainment
 host-suffix, weverse.io, category-entertainment
 host-suffix, yande.re, category-entertainment
 host-suffix, abema.io, category-entertainment
@@ -50,6 +52,7 @@ host-suffix, bandcamp.com, category-entertainment
 host-suffix, bcbits.com, category-entertainment
 host-suffix, fanatical.com, category-entertainment
 host-suffix, humblebundle.com, category-entertainment
+host-suffix, loverslab.com, category-entertainment
 host-suffix, planetminecraft.com, category-entertainment
 host-suffix, blizzard.cn, category-entertainment
 host-suffix, blizzard.com, category-entertainment
@@ -92,6 +95,11 @@ host, blznav.akamaized.net, category-entertainment
 host, cn.actual.battle.net, category-entertainment
 host-suffix, curseforge.com, category-entertainment
 host-suffix, forgecdn.net, category-entertainment
+host-suffix, cygames.jp, category-entertainment
+host-suffix, cygames.co.jp, category-entertainment
+host-suffix, worldflipper.jp, category-entertainment
+host-suffix, worldflipper.akamaized.net, category-entertainment
+host-suffix, umamusume.akamaized.net, category-entertainment
 host-suffix, awayoutgame.com, category-entertainment
 host-suffix, battlefieldbadcompany2.com, category-entertainment
 host-suffix, battlefront2.com, category-entertainment
@@ -500,10 +508,11 @@ host-suffix, steamstatic.com, category-entertainment
 host-suffix, steamusercontent.com, category-entertainment
 host-suffix, underlords.com, category-entertainment
 host-suffix, valvesoftware.com, category-entertainment
-host-suffix, wmsjsteam.com, category-entertainment
 host-suffix, csgo.wmsj.cn, category-entertainment
-host-suffix, dl.steam.ksyna.com, category-entertainment
 host-suffix, dota2.wmsj.cn, category-entertainment
+host-suffix, wmsjsteam.com, category-entertainment
+host-suffix, dl.steam.clngaa.com, category-entertainment
+host-suffix, dl.steam.ksyna.com, category-entertainment
 host-suffix, st.dl.bscstorage.net, category-entertainment
 host-suffix, st.dl.eccdnx.com, category-entertainment
 host-suffix, st.dl.pinyuncloud.com, category-entertainment
@@ -517,6 +526,7 @@ host, steamstore-a.akamaihd.net, category-entertainment
 host, steamusercontent-a.akamaihd.net, category-entertainment
 host, steamuserimages-a.akamaihd.net, category-entertainment
 host, steamvideo-a.akamaihd.net, category-entertainment
+host-suffix, steamchina.com, category-entertainment
 host-suffix, steamunlocked.net, category-entertainment
 host-suffix, ubi.com, category-entertainment
 host-suffix, ubisoft.com, category-entertainment
@@ -559,6 +569,8 @@ host-suffix, callersbane.com, category-entertainment
 host-suffix, minecraft.net, category-entertainment
 host-suffix, minecraftshop.com, category-entertainment
 host-suffix, mojang.com, category-entertainment
+host-suffix, dandanzan.cc, category-entertainment
+host-suffix, nunuyy.cc, category-entertainment
 host-suffix, dazn-api.com, category-entertainment
 host-suffix, dazn.com, category-entertainment
 host-suffix, dazndn.com, category-entertainment
@@ -711,6 +723,9 @@ host-suffix, natgeomaps.com, category-entertainment
 host-suffix, nationalgeographic.com, category-entertainment
 host-suffix, nationalgeographicpartners.com, category-entertainment
 host-suffix, ngeo.com, category-entertainment
+host-suffix, gogocdn.net, category-entertainment
+host-suffix, gogoanime.vc, category-entertainment
+host-suffix, gogo-load.com, category-entertainment
 host-suffix, cinemax.com, category-entertainment
 host-suffix, forthethrone.com, category-entertainment
 host-suffix, hbo.com, category-entertainment
@@ -782,6 +797,8 @@ host-suffix, kkbox.com.tw, category-entertainment
 host-suffix, kktix.com, category-entertainment
 host-suffix, kktv.com.tw, category-entertainment
 host-suffix, kktv.me, category-entertainment
+host-suffix, mudvod.tv, category-entertainment
+host-suffix, vod360.net, category-entertainment
 host-suffix, mytvsuper.com, category-entertainment
 host-suffix, tvb.com, category-entertainment
 host-suffix, fast.com, category-entertainment
@@ -874,6 +891,8 @@ host-suffix, spotifyforbrands.com, category-entertainment
 host-suffix, spotifyjobs.com, category-entertainment
 host, audio-ak-spotify-com.akamaized.net, category-entertainment
 host, heads4-ak-spotify-com.akamaized.net, category-entertainment
+host-suffix, subscene.com, category-entertainment
+host, i.jeded.com, category-entertainment
 host-suffix, tidal.com, category-entertainment
 host-suffix, tidalhifi.com, category-entertainment
 host-suffix, wimpmusic.com, category-entertainment
@@ -883,6 +902,9 @@ host-suffix, tiktok.com, category-entertainment
 host-suffix, tiktokcdn.com, category-entertainment
 host-suffix, tiktokv.com, category-entertainment
 host, p16-tiktokcdn-com.akamaized.net, category-entertainment
+host-suffix, themoviedb.org, category-entertainment
+host-suffix, tmdb.org, category-entertainment
+host-suffix, thetvdb.com, category-entertainment
 host-suffix, dogatch.jp, category-entertainment
 host-suffix, gorin.jp, category-entertainment
 host-suffix, screens-lab.jp, category-entertainment

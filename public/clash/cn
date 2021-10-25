@@ -137,6 +137,7 @@ DOMAIN-SUFFIX,900.la
 DOMAIN-SUFFIX,917.com
 DOMAIN-SUFFIX,91danji.com
 DOMAIN-SUFFIX,91yunxiao.com
+DOMAIN-SUFFIX,95508.com
 DOMAIN-SUFFIX,9553.com
 DOMAIN-SUFFIX,962.net
 DOMAIN-SUFFIX,9718.com
@@ -324,7 +325,6 @@ DOMAIN-SUFFIX,dingxiang-inc.com
 DOMAIN-SUFFIX,diopic.net
 DOMAIN-SUFFIX,diyiyou.com
 DOMAIN-SUFFIX,dj99.com
-DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,dockerone.com
 DOMAIN-SUFFIX,dockone.io
 DOMAIN-SUFFIX,dogedoge.com
@@ -575,7 +575,6 @@ DOMAIN-SUFFIX,kimiss.com
 DOMAIN-SUFFIX,kingdee.com
 DOMAIN-SUFFIX,kkzj.com
 DOMAIN-SUFFIX,kongfz.com
-DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,kouclo.com
 DOMAIN-SUFFIX,koudai.com
 DOMAIN-SUFFIX,koudai8.com
@@ -1132,6 +1131,7 @@ DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
 DOMAIN-SUFFIX,w.cnzz.com
+DOMAIN-SUFFIX,baijiayun.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,phpcomposer.com
@@ -1240,6 +1240,7 @@ DOMAIN-SUFFIX,cignacmb.com
 DOMAIN-SUFFIX,cmb-leasing.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,cmfchina.com
 DOMAIN-SUFFIX,icbc
@@ -1545,6 +1546,7 @@ DOMAIN-SUFFIX,jcloudcache.com
 DOMAIN-SUFFIX,jcloudcs.com
 DOMAIN-SUFFIX,jclouddn.com
 DOMAIN-SUFFIX,jcloudec.com
+DOMAIN-SUFFIX,jcloudedge.com
 DOMAIN-SUFFIX,jcloudlb.com
 DOMAIN-SUFFIX,jcloudlive.com
 DOMAIN-SUFFIX,jcloudlv.com
@@ -1663,6 +1665,11 @@ DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,bilicdn2.com
+DOMAIN-SUFFIX,bilicdn3.com
+DOMAIN-SUFFIX,bilicdn4.com
+DOMAIN-SUFFIX,bilicdn5.com
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
@@ -1687,6 +1694,8 @@ DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyucdn2.cn
 DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
+DOMAIN-SUFFIX,dtstatic.com
+DOMAIN-SUFFIX,duitang.com
 DOMAIN-SUFFIX,gamersky.com
 DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,gitv.cn
@@ -1956,6 +1965,9 @@ DOMAIN-SUFFIX,yiche.com
 DOMAIN-SUFFIX,yccdn.com
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,yuque.com
+DOMAIN-SUFFIX,doc88.com
+DOMAIN-SUFFIX,docin.com
+DOMAIN-SUFFIX,douding.cn
 DOMAIN-SUFFIX,capitalonline.net
 DOMAIN-SUFFIX,mirrors.yun-idc.com
 DOMAIN-SUFFIX,chinaso.com
@@ -2058,6 +2070,9 @@ DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,cugbonline.cn
 DOMAIN-SUFFIX,guokr.com
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koopass.com
 DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,wf.pub
 DOMAIN-SUFFIX,speiyou.com
@@ -2351,6 +2366,7 @@ DOMAIN-SUFFIX,aliyun-iot-share.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,kunlunaq.com
@@ -2374,6 +2390,7 @@ DOMAIN-SUFFIX,kunlunta.com
 DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dingding.xin
 DOMAIN-SUFFIX,dingtalk.cn
@@ -2436,6 +2453,7 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,quyaoya.com
+DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,smartapps.cn
 DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tiebaimg.com
@@ -2966,6 +2984,7 @@ DOMAIN-SUFFIX,tencent.com.cn
 DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,tencent.net.cn
 DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencentyun.com
 DOMAIN-SUFFIX,tenpay.com
@@ -3076,6 +3095,7 @@ DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,mychinaunicom.com
 DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,j-test.com
+DOMAIN-SUFFIX,nattest-china.com
 DOMAIN-SUFFIX,8btc.com
 DOMAIN-SUFFIX,bystack.com
 DOMAIN-SUFFIX,chainnode.com

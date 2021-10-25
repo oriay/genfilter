@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,adidas.at
 DOMAIN-SUFFIX,adidas.be
 DOMAIN-SUFFIX,adidas.ch
@@ -114,6 +115,7 @@ DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmmapis.com
+DOMAIN,api-p.videomarket.jp
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,4ebaytraders.com
 DOMAIN-SUFFIX,adcommerce.cn
@@ -750,9 +752,17 @@ DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstrommedia.com
 DOMAIN-SUFFIX,ecimg.tw
 DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomeec.tw
+DOMAIN-SUFFIX,pchomeonline.com.tw
 DOMAIN-SUFFIX,pchomepay.com.tw
 DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,pcstore.com.tw
+DOMAIN-SUFFIX,piapp.com.tw
+DOMAIN-SUFFIX,rakuya.com.tw
+DOMAIN-SUFFIX,tagapie.com.tw
+DOMAIN-SUFFIX,toget.com.tw
 DOMAIN,ecapi-pchome.cdn.hinet.net
+DOMAIN,pchomeonline.com.tw
 DOMAIN-SUFFIX,r10s.com
 DOMAIN-SUFFIX,r10s.jp
 DOMAIN-SUFFIX,rakuten-static.com

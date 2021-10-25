@@ -8,6 +8,7 @@ host-suffix, aliyun-iot-share.com, aliyun
 host-suffix, aliyun.com, aliyun
 host-suffix, aliyuncdn.com, aliyun
 host-suffix, aliyuncs.com, aliyun
+host-suffix, cdngslb.com, aliyun
 host-suffix, hichina.com, aliyun
 host-suffix, ica-alliance.org, aliyun
 host-suffix, kunlunaq.com, aliyun
@@ -31,3 +32,4 @@ host-suffix, kunlunta.com, aliyun
 host-suffix, kunlunvi.com, aliyun
 host-suffix, kunlunwe.com, aliyun
 host-suffix, mxhichina.com, aliyun
+host-suffix, myalicdn.com, aliyun

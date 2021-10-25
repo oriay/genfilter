@@ -698,6 +698,7 @@ host, client-api.itunes.apple.com, apple
 host, cma.itunes.apple.com, apple
 host, communities.apple.com, apple
 host, discussionschinese.apple.com, apple
+host, downloaddispatch.itunes.apple.com, apple
 host, fides-pol.apple.com, apple
 host, gspe11-2-cn-ssl.ls.apple.com, apple
 host, gspe12-cn-ssl.ls.apple.com, apple

@@ -10,3 +10,4 @@ host, router.asus.com, private
 host-suffix, localhost.sec.qq.com, private
 host-suffix, localhost.ptlogin2.qq.com, private
 host-suffix, msftconnecttest.com, private
+host-suffix, msftncsi.com, private

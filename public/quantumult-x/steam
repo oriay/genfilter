@@ -9,10 +9,11 @@ host-suffix, steamstatic.com, steam
 host-suffix, steamusercontent.com, steam
 host-suffix, underlords.com, steam
 host-suffix, valvesoftware.com, steam
-host-suffix, wmsjsteam.com, steam
 host-suffix, csgo.wmsj.cn, steam
-host-suffix, dl.steam.ksyna.com, steam
 host-suffix, dota2.wmsj.cn, steam
+host-suffix, wmsjsteam.com, steam
+host-suffix, dl.steam.clngaa.com, steam
+host-suffix, dl.steam.ksyna.com, steam
 host-suffix, st.dl.bscstorage.net, steam
 host-suffix, st.dl.eccdnx.com, steam
 host-suffix, st.dl.pinyuncloud.com, steam
@@ -26,3 +27,4 @@ host, steamstore-a.akamaihd.net, steam
 host, steamusercontent-a.akamaihd.net, steam
 host, steamuserimages-a.akamaihd.net, steam
 host, steamvideo-a.akamaihd.net, steam
+host-suffix, steamchina.com, steam

@@ -1010,6 +1010,7 @@ host, client-api.itunes.apple.com, category-companies
 host, cma.itunes.apple.com, category-companies
 host, communities.apple.com, category-companies
 host, discussionschinese.apple.com, category-companies
+host, downloaddispatch.itunes.apple.com, category-companies
 host, fides-pol.apple.com, category-companies
 host, gspe11-2-cn-ssl.ls.apple.com, category-companies
 host, gspe12-cn-ssl.ls.apple.com, category-companies
@@ -2151,6 +2152,7 @@ host-suffix, mydirectvchannels.com, category-companies
 host-suffix, redzonechannel.com, category-companies
 host-suffix, txdirectv.com, category-companies
 host-suffix, xandr.com, category-companies
+host-suffix, autodesk.com, category-companies
 host-suffix, bandwagonhost.com, category-companies
 host-suffix, bwh1.net, category-companies
 host-suffix, bwh8.net, category-companies
@@ -2385,6 +2387,7 @@ host-suffix, vmtestdrive.com, category-companies
 host-suffix, vmw.com, category-companies
 host-suffix, vmware-cloudmanagement.com, category-companies
 host-suffix, vmware-techcenter.com, category-companies
+host-suffix, vmware.com, category-companies
 host-suffix, vmware20mosaic.com, category-companies
 host-suffix, vmwareausnews.com, category-companies
 host-suffix, vmwarecertificationvideos.com, category-companies
@@ -2455,6 +2458,8 @@ host-suffix, whatisairwatch.com, category-companies
 host-suffix, whatisworkspaceone.com, category-companies
 host-suffix, workspaceone.com, category-companies
 host, vmware.tt.omtrdc.net, category-companies
+host-suffix, digitalocean.com, category-companies
+host-suffix, digitaloceanspaces.com, category-companies
 host-suffix, aboutfacebook.com, category-companies
 host-suffix, accessfacebookfromschool.com, category-companies
 host-suffix, acebooik.com, category-companies
@@ -3233,8 +3238,6 @@ host-suffix, bazel.build, category-companies
 host-suffix, bdn.dev, category-companies
 host-suffix, beatthatquote.com, category-companies
 host-suffix, blink.org, category-companies
-host-suffix, blogblog.com, category-companies
-host-suffix, blogger.com, category-companies
 host-suffix, brocaproject.com, category-companies
 host-suffix, brotli.org, category-companies
 host-suffix, bumpshare.com, category-companies
@@ -3545,6 +3548,8 @@ host, www-googletagmanager.l.google.com, category-companies
 host, www.gstatic.com, category-companies
 host-suffix, android.com, category-companies
 host-suffix, androidify.com, category-companies
+host-suffix, blogger.com, category-companies
+host-suffix, blogblog.com, category-companies
 host-suffix, blogspot.ae, category-companies
 host-suffix, blogspot.al, category-companies
 host-suffix, blogspot.am, category-companies
@@ -3918,7 +3923,11 @@ host-suffix, youtubekids.com, category-companies
 host-suffix, youtubemobilesupport.com, category-companies
 host-suffix, yt.be, category-companies
 host-suffix, ytimg.com, category-companies
+host-suffix, cht.com.tw, category-companies
+host-suffix, chtf.org.tw, category-companies
+host-suffix, emome.net, category-companies
 host-suffix, hinet.net, category-companies
+host-suffix, xuite.net, category-companies
 host-suffix, csifund.org, category-companies
 host-suffix, hkbn.com.hk, category-companies
 host-suffix, hkbn.net, category-companies
@@ -4863,6 +4872,7 @@ host-suffix, callersbane.com, category-companies
 host-suffix, minecraft.net, category-companies
 host-suffix, minecraftshop.com, category-companies
 host-suffix, mojang.com, category-companies
+host-suffix, mozilla.com, category-companies
 host-suffix, mozilla.community, category-companies
 host-suffix, mozilla.net, category-companies
 host-suffix, mozilla.org, category-companies
@@ -4871,6 +4881,7 @@ host-suffix, getpocket.com, category-companies
 host-suffix, seamonkey-project.org, category-companies
 host-suffix, thunderbird.net, category-companies
 host-suffix, firefox.com, category-companies
+host-suffix, firefoxusercontent.com, category-companies
 host, developer.mozilla.org, category-companies
 host, interactive-examples.mdn.mozilla.net, category-companies
 host, mdn.mozillademos.org, category-companies
@@ -5468,6 +5479,7 @@ host-suffix, vkuseraudio.com, category-companies
 host-suffix, vkuserlive.net, category-companies
 host-suffix, vkuservideo.com, category-companies
 host-suffix, vkuservideo.net, category-companies
+host-suffix, vultr.com, category-companies
 host-suffix, g-technology.com, category-companies
 host-suffix, sandisk.ae, category-companies
 host-suffix, sandisk.it, category-companies

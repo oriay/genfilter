@@ -239,6 +239,7 @@ host-suffix, aliyun-iot-share.com, alibaba
 host-suffix, aliyun.com, alibaba
 host-suffix, aliyuncdn.com, alibaba
 host-suffix, aliyuncs.com, alibaba
+host-suffix, cdngslb.com, alibaba
 host-suffix, hichina.com, alibaba
 host-suffix, ica-alliance.org, alibaba
 host-suffix, kunlunaq.com, alibaba
@@ -262,6 +263,7 @@ host-suffix, kunlunta.com, alibaba
 host-suffix, kunlunvi.com, alibaba
 host-suffix, kunlunwe.com, alibaba
 host-suffix, mxhichina.com, alibaba
+host-suffix, myalicdn.com, alibaba
 host-suffix, ddurl.to, alibaba
 host-suffix, dingding.xin, alibaba
 host-suffix, dingtalk.cn, alibaba
