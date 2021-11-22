@@ -2,6 +2,7 @@ host-suffix, mozilla.com, mozilla
 host-suffix, mozilla.community, mozilla
 host-suffix, mozilla.net, mozilla
 host-suffix, mozilla.org, mozilla
+host-suffix, extensionworkshop.com, mozilla
 host-suffix, bugzilla.org, mozilla
 host-suffix, getpocket.com, mozilla
 host-suffix, seamonkey-project.org, mozilla

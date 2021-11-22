@@ -265,6 +265,7 @@ host-suffix, java.com, category-dev
 host-suffix, java.net, category-dev
 host-suffix, jetbrains.com, category-dev
 host-suffix, jetbrains.net, category-dev
+host-suffix, jetbrains.team, category-dev
 host-suffix, datalore.io, category-dev
 host-suffix, kotlinlang.org, category-dev
 host-suffix, jfrog.com, category-dev

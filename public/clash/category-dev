@@ -265,6 +265,7 @@ DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,jfrog.com

@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,guoxuemi.com
 DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,haidilao.com
+DOMAIN-SUFFIX,liulishuo.com
+DOMAIN-SUFFIX,llsapp.com
+DOMAIN-SUFFIX,llscdn.com
+DOMAIN-SUFFIX,llsserver.com
 DOMAIN-SUFFIX,0123456789.com
 DOMAIN-SUFFIX,0379home.com
 DOMAIN-SUFFIX,055110.com
@@ -2139,6 +2143,7 @@ DOMAIN-SUFFIX,alimebot.com
 DOMAIN-SUFFIX,alimei.com
 DOMAIN-SUFFIX,alios.cn
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipaydns.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,aliplus.com
 DOMAIN-SUFFIX,aliresearch.com

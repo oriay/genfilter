@@ -1,5 +1,6 @@
 host-suffix, cloudflare-dns.com, cloudflare
 host-suffix, cloudflare-ipfs.com, cloudflare
+host-suffix, cloudflare-quic.com, cloudflare
 host-suffix, cloudflare.com, cloudflare
 host-suffix, cloudflare.net, cloudflare
 host-suffix, cloudflareapps.com, cloudflare

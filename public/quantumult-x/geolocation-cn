@@ -4,6 +4,10 @@ host-suffix, guoxuemi.com, geolocation-cn
 host-suffix, mojidict.com, geolocation-cn
 host-suffix, jikipedia.com, geolocation-cn
 host-suffix, haidilao.com, geolocation-cn
+host-suffix, liulishuo.com, geolocation-cn
+host-suffix, llsapp.com, geolocation-cn
+host-suffix, llscdn.com, geolocation-cn
+host-suffix, llsserver.com, geolocation-cn
 host-suffix, 0123456789.com, geolocation-cn
 host-suffix, 0379home.com, geolocation-cn
 host-suffix, 055110.com, geolocation-cn
@@ -2139,6 +2143,7 @@ host-suffix, alimebot.com, geolocation-cn
 host-suffix, alimei.com, geolocation-cn
 host-suffix, alios.cn, geolocation-cn
 host-suffix, alipay.com, geolocation-cn
+host-suffix, alipaydns.com, geolocation-cn
 host-suffix, alipayobjects.com, geolocation-cn
 host-suffix, aliplus.com, geolocation-cn
 host-suffix, aliresearch.com, geolocation-cn
