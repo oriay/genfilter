@@ -3,6 +3,7 @@ host-suffix, bytecdn.cn, bytedance
 host-suffix, byted-static.com, bytedance
 host-suffix, bytedance.com, bytedance
 host-suffix, bytedance.net, bytedance
+host-suffix, bytedanceapi.com, bytedance
 host-suffix, bytedns.net, bytedance
 host-suffix, bytednsdoc.com, bytedance
 host-suffix, bytegoofy.com, bytedance
@@ -18,6 +19,7 @@ host-suffix, pstatp.com, bytedance
 host-suffix, snssdk.com, bytedance
 host-suffix, zijiecdn.com, bytedance
 host-suffix, zijiecdn.net, bytedance
+host-suffix, zjbyte.cn, bytedance
 host-suffix, zjcdn.com, bytedance
 host-suffix, toutiao.com, bytedance
 host-suffix, toutiaocdn.com, bytedance
@@ -41,13 +43,21 @@ host-suffix, ixigua.com, bytedance
 host-suffix, ixiguavideo.com, bytedance
 host-suffix, ixgvideo.com, bytedance
 host-suffix, bdxiguaimg.com, bytedance
+host-suffix, bdxiguastatic.com, bytedance
 host-suffix, baike.com, bytedance
 host-suffix, feishu.cn, bytedance
 host-suffix, feishucdn.com, bytedance
 host-suffix, wukong.com, bytedance
 host-suffix, wukongwenda.cn, bytedance
 host-suffix, wukongwenda.com, bytedance
+host-suffix, dcarapi.com, bytedance
+host-suffix, dcarimg.com, bytedance
+host-suffix, dcarlive.com, bytedance
+host-suffix, dcarstatic.com, bytedance
+host-suffix, dcarvod.com, bytedance
+host-suffix, dcdapp.com, bytedance
 host-suffix, dongchedi.com, bytedance
+host-suffix, dongchediapp.com, bytedance
 host-suffix, 365yg.com, bytedance
 host-suffix, gogokid.com.cn, bytedance
 host-suffix, gogokid.com, bytedance

@@ -20,6 +20,7 @@ host-suffix, st.dl.pinyuncloud.com, steam
 host-suffix, steampipe.steamcontent.tnkjmec.com, steam
 host-suffix, steampowered.com.8686c.com, steam
 host-suffix, steamstatic.com.8686c.com, steam
+host, xz.pphimalayanrt.com, steam
 host, steambroadcast.akamaized.net, steam
 host, steamcdn-a.akamaihd.net, steam
 host, steamcommunity-a.akamaihd.net, steam

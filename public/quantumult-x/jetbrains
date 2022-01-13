@@ -1,5 +1,9 @@
+host-suffix, intellij.com, jetbrains
+host-suffix, intellij.net, jetbrains
+host-suffix, intellij.org, jetbrains
 host-suffix, jetbrains.com, jetbrains
 host-suffix, jetbrains.net, jetbrains
+host-suffix, jetbrains.space, jetbrains
 host-suffix, jetbrains.team, jetbrains
 host-suffix, datalore.io, jetbrains
 host-suffix, kotlinlang.org, jetbrains

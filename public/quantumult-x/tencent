@@ -2,6 +2,7 @@ host-suffix, qq.xn--fiqs8s, tencent
 host-suffix, xn--r70as2s.xn--fiqs8s, tencent
 host-suffix, apcdns.net, tencent
 host-suffix, cdn-go.cn, tencent
+host-suffix, cdntip.com, tencent
 host-suffix, cdntips.com, tencent
 host-suffix, foxmail.com, tencent
 host-suffix, foxmail.com.cn, tencent
@@ -30,6 +31,7 @@ host-suffix, tencent.com.hk, tencent
 host-suffix, tencent.net.cn, tencent
 host-suffix, tencent-cloud.com, tencent
 host-suffix, tencent-cloud.net, tencent
+host-suffix, tencentcs.com, tencent
 host-suffix, tencentmusic.com, tencent
 host-suffix, tencentyun.com, tencent
 host-suffix, tenpay.com, tencent

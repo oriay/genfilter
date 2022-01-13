@@ -1044,6 +1044,7 @@ host, adcdownload.apple.com, category-companies
 host, appldnld.apple.com, category-companies
 host, appldnld.g.aaplimg.com, category-companies
 host, apps.mzstatic.com, category-companies
+host, api-cn.apple-mapkit.com, category-companies
 host, cdn-cn1.apple-mapkit.com, category-companies
 host, cdn-cn2.apple-mapkit.com, category-companies
 host, cdn-cn3.apple-mapkit.com, category-companies
@@ -4439,6 +4440,7 @@ host-suffix, microsoft.lt, category-companies
 host-suffix, microsoft.lu, category-companies
 host-suffix, microsoft.lv, category-companies
 host-suffix, microsoft.md, category-companies
+host-suffix, microsoft.net, category-companies
 host-suffix, microsoft.pl, category-companies
 host-suffix, microsoft.pt, category-companies
 host-suffix, microsoft.red, category-companies

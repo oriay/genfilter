@@ -732,6 +732,7 @@ host, adcdownload.apple.com, apple
 host, appldnld.apple.com, apple
 host, appldnld.g.aaplimg.com, apple
 host, apps.mzstatic.com, apple
+host, api-cn.apple-mapkit.com, apple
 host, cdn-cn1.apple-mapkit.com, apple
 host, cdn-cn2.apple-mapkit.com, apple
 host, cdn-cn3.apple-mapkit.com, apple

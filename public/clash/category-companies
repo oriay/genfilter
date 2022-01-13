@@ -1044,6 +1044,7 @@ DOMAIN,adcdownload.apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
 DOMAIN,apps.mzstatic.com
+DOMAIN,api-cn.apple-mapkit.com
 DOMAIN,cdn-cn1.apple-mapkit.com
 DOMAIN,cdn-cn2.apple-mapkit.com
 DOMAIN,cdn-cn3.apple-mapkit.com
@@ -4439,6 +4440,7 @@ DOMAIN-SUFFIX,microsoft.lt
 DOMAIN-SUFFIX,microsoft.lu
 DOMAIN-SUFFIX,microsoft.lv
 DOMAIN-SUFFIX,microsoft.md
+DOMAIN-SUFFIX,microsoft.net
 DOMAIN-SUFFIX,microsoft.pl
 DOMAIN-SUFFIX,microsoft.pt
 DOMAIN-SUFFIX,microsoft.red

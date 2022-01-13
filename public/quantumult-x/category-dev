@@ -124,6 +124,7 @@ host-suffix, snapstore.io, category-dev
 host-suffix, ubuntu.com, category-dev
 host-suffix, ubuntu.net, category-dev
 host-suffix, ubuntuforums.org, category-dev
+host-suffix, ubuntu-touch.io, category-dev
 host-suffix, dart.dev, category-dev
 host-suffix, dartlang.org, category-dev
 host-suffix, dartpad.dev, category-dev
@@ -263,8 +264,12 @@ host-suffix, ospray.org, category-dev
 host-suffix, java, category-dev
 host-suffix, java.com, category-dev
 host-suffix, java.net, category-dev
+host-suffix, intellij.com, category-dev
+host-suffix, intellij.net, category-dev
+host-suffix, intellij.org, category-dev
 host-suffix, jetbrains.com, category-dev
 host-suffix, jetbrains.net, category-dev
+host-suffix, jetbrains.space, category-dev
 host-suffix, jetbrains.team, category-dev
 host-suffix, datalore.io, category-dev
 host-suffix, kotlinlang.org, category-dev

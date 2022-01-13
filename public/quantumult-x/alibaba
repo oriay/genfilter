@@ -135,6 +135,7 @@ host-suffix, gaode.com, alibaba
 host-suffix, xiami.com, alibaba
 host-suffix, xiami.fm, alibaba
 host-suffix, xiami.net, alibaba
+host-suffix, koubei.com, alibaba
 host-suffix, a.alimama.cn, alibaba
 host-suffix, acjs.aliyun.com, alibaba
 host-suffix, adash.m.taobao.com, alibaba
@@ -291,3 +292,4 @@ host-suffix, whalecloud.com, alibaba
 host-suffix, alog.umeng.com, alibaba
 host-suffix, alog.umengcloud.com, alibaba
 host-suffix, w.cnzz.com, alibaba
+host-suffix, z.gds.cnzz.com, alibaba
