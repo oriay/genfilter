@@ -746,6 +746,7 @@ host-suffix, googlevideo.com, google
 host-suffix, withyoutube.com, google
 host-suffix, youtu.be, google
 host-suffix, youtube-nocookie.com, google
+host-suffix, youtube-ui.l.google.com, google
 host-suffix, youtube.ae, google
 host-suffix, youtube.al, google
 host-suffix, youtube.am, google
@@ -841,6 +842,7 @@ host-suffix, youtube.es, google
 host-suffix, youtube.fi, google
 host-suffix, youtube.fr, google
 host-suffix, youtube.ge, google
+host-suffix, youtube.googleapis.com, google
 host-suffix, youtube.gr, google
 host-suffix, youtube.gt, google
 host-suffix, youtube.hk, google
@@ -898,6 +900,7 @@ host-suffix, youtube.ug, google
 host-suffix, youtube.uy, google
 host-suffix, youtube.vn, google
 host-suffix, youtubeeducation.com, google
+host-suffix, youtubeembeddedplayer.googleapis.com, google
 host-suffix, youtubefanfest.com, google
 host-suffix, youtubegaming.com, google
 host-suffix, youtubego.co.id, google

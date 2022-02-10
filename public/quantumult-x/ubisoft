@@ -1,0 +1,8 @@
+host-suffix, ubi.com, ubisoft
+host-suffix, ubisoft.com, ubisoft
+host-suffix, ubisoftconnect.com, ubisoft
+host-suffix, uplay.com, ubisoft
+host, ubisoft-uplay-savegames.s3.amazonaws.com, ubisoft
+host, ubisoft-orbit-savegames.s3.amazonaws.com, ubisoft
+host, ubistatic3-a.akamaihd.net, ubisoft
+host, uplaypc-s-ubisoft.cdn.ubi.com, ubisoft

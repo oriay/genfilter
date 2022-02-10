@@ -321,6 +321,11 @@ host, menu-static.gog-statics.com, category-entertainment
 host, productcard.gog-statics.com, category-entertainment
 host, static-login.gog-statics.com, category-entertainment
 host, www4-static.gog-statics.com, category-entertainment
+host-suffix, mihayou.com, category-entertainment
+host-suffix, mihoyo.com, category-entertainment
+host-suffix, bh3.com, category-entertainment
+host-suffix, yuanshen.com, category-entertainment
+host-suffix, benghuai.com, category-entertainment
 host-suffix, 100classicbooks.com, category-entertainment
 host-suffix, amiibo.com, category-entertainment
 host-suffix, ayudanintendo.com, category-entertainment
@@ -544,9 +549,11 @@ host-suffix, steamchina.com, category-entertainment
 host-suffix, steamunlocked.net, category-entertainment
 host-suffix, ubi.com, category-entertainment
 host-suffix, ubisoft.com, category-entertainment
+host-suffix, ubisoftconnect.com, category-entertainment
 host-suffix, uplay.com, category-entertainment
 host, ubisoft-uplay-savegames.s3.amazonaws.com, category-entertainment
 host, ubisoft-orbit-savegames.s3.amazonaws.com, category-entertainment
+host, ubistatic3-a.akamaihd.net, category-entertainment
 host, uplaypc-s-ubisoft.cdn.ubi.com, category-entertainment
 host-suffix, forzamotorsport.net, category-entertainment
 host-suffix, forzaracingchampionship.com, category-entertainment

@@ -3777,6 +3777,7 @@ host-suffix, googlevideo.com, category-companies
 host-suffix, withyoutube.com, category-companies
 host-suffix, youtu.be, category-companies
 host-suffix, youtube-nocookie.com, category-companies
+host-suffix, youtube-ui.l.google.com, category-companies
 host-suffix, youtube.ae, category-companies
 host-suffix, youtube.al, category-companies
 host-suffix, youtube.am, category-companies
@@ -3872,6 +3873,7 @@ host-suffix, youtube.es, category-companies
 host-suffix, youtube.fi, category-companies
 host-suffix, youtube.fr, category-companies
 host-suffix, youtube.ge, category-companies
+host-suffix, youtube.googleapis.com, category-companies
 host-suffix, youtube.gr, category-companies
 host-suffix, youtube.gt, category-companies
 host-suffix, youtube.hk, category-companies
@@ -3929,6 +3931,7 @@ host-suffix, youtube.ug, category-companies
 host-suffix, youtube.uy, category-companies
 host-suffix, youtube.vn, category-companies
 host-suffix, youtubeeducation.com, category-companies
+host-suffix, youtubeembeddedplayer.googleapis.com, category-companies
 host-suffix, youtubefanfest.com, category-companies
 host-suffix, youtubegaming.com, category-companies
 host-suffix, youtubego.co.id, category-companies
@@ -4919,8 +4922,10 @@ host-suffix, navercorp.com, category-companies
 host-suffix, plug.game, category-companies
 host-suffix, pstatic.net, category-companies
 host-suffix, webtoons.com, category-companies
+host-suffix, gcld-line.com, category-companies
 host-suffix, lin.ee, category-companies
 host-suffix, line-apps-beta.com, category-companies
+host-suffix, line-apps-rc.com, category-companies
 host-suffix, line-apps.com, category-companies
 host-suffix, line-beta.me, category-companies
 host-suffix, line-cdn.net, category-companies
@@ -4932,6 +4937,8 @@ host-suffix, linefriends.com, category-companies
 host-suffix, linefriends.com.tw, category-companies
 host-suffix, linegame.jp, category-companies
 host-suffix, linemobile.com, category-companies
+host-suffix, linemyshop.com, category-companies
+host-suffix, lineshoppingseller.com, category-companies
 host-suffix, linetv.tw, category-companies
 host-suffix, nhncorp.jp, category-companies
 host-suffix, neuralink.com, category-companies

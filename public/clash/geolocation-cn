@@ -858,6 +858,7 @@ DOMAIN-SUFFIX,tom.com
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,topthink.com
 DOMAIN-SUFFIX,touqikan.com
+DOMAIN-SUFFIX,touzid.com
 DOMAIN-SUFFIX,travelsky.com
 DOMAIN-SUFFIX,trunktech.com
 DOMAIN-SUFFIX,trustexporter.com
@@ -1742,8 +1743,11 @@ DOMAIN-SUFFIX,letvimg.com
 DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhifm.com
 DOMAIN-SUFFIX,miaopai.com
+DOMAIN-SUFFIX,mihayou.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,muwai.com
 DOMAIN-SUFFIX,pplive.cn
 DOMAIN-SUFFIX,pplive.com
@@ -1894,6 +1898,7 @@ DOMAIN-SUFFIX,jiemian.com.cn
 DOMAIN-SUFFIX,lancdn.com
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,wsoso.com
+DOMAIN-SUFFIX,landian.vip
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,phoenixcenter.cn
@@ -1931,8 +1936,6 @@ DOMAIN-SUFFIX,danjuanfunds.com
 DOMAIN-SUFFIX,imedao.com
 DOMAIN-SUFFIX,snowballsecurities.com
 DOMAIN-SUFFIX,xueqiu.com
-DOMAIN-SUFFIX,csdl.ac.cn
-DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,fuwai.com
 DOMAIN-SUFFIX,pkuh6.cn
 DOMAIN-SUFFIX,puh3.net.cn
@@ -2000,6 +2003,7 @@ DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzous.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,woozooo.com
+DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,liepin.com
 DOMAIN-SUFFIX,lietou.com
 DOMAIN-SUFFIX,lietou-static.com
@@ -2048,11 +2052,20 @@ DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN,moocs.unipus.cn
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,study.163.com
+DOMAIN-SUFFIX,51ccd.com
+DOMAIN-SUFFIX,airitilibrary.cn
+DOMAIN-SUFFIX,ancientbooks.cn
 DOMAIN-SUFFIX,apabi.com
+DOMAIN-SUFFIX,bjinfobank.com
+DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,cnthinkers.com
 DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,duxiu.com
 DOMAIN-SUFFIX,er07.com
 DOMAIN-SUFFIX,ersjk.com
+DOMAIN-SUFFIX,gtarsc.com
+DOMAIN-SUFFIX,hwshu.com
+DOMAIN-SUFFIX,rdfybk.com
 DOMAIN-SUFFIX,sbsjk.com
 DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,las.ac.cn

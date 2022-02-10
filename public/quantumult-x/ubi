@@ -1,6 +1,0 @@
-host-suffix, ubi.com, ubi
-host-suffix, ubisoft.com, ubi
-host-suffix, uplay.com, ubi
-host, ubisoft-uplay-savegames.s3.amazonaws.com, ubi
-host, ubisoft-orbit-savegames.s3.amazonaws.com, ubi
-host, uplaypc-s-ubisoft.cdn.ubi.com, ubi

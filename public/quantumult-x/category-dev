@@ -357,6 +357,7 @@ host-suffix, pypi.io, category-dev
 host-suffix, pypi.org, category-dev
 host-suffix, python.org, category-dev
 host-suffix, pythonhosted.org, category-dev
+host-suffix, piwheels.org, category-dev
 host-suffix, qt.io, category-dev
 host-suffix, qt-project.org, category-dev
 host-suffix, readthedocs-hosted.com, category-dev

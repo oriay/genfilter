@@ -357,6 +357,7 @@ DOMAIN-SUFFIX,pypi.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,piwheels.org
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,qt-project.org
 DOMAIN-SUFFIX,readthedocs-hosted.com

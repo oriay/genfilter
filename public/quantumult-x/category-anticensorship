@@ -10,6 +10,7 @@ host-suffix, ffprofile.com, category-anticensorship
 host-suffix, freenetproject.org, category-anticensorship
 host-suffix, fteproxy.org, category-anticensorship
 host-suffix, geti2p.net, category-anticensorship
+host-suffix, gfw.report, category-anticensorship
 host-suffix, guardianproject.info, category-anticensorship
 host-suffix, ipfs.io, category-anticensorship
 host-suffix, jitsi.org, category-anticensorship
@@ -34,8 +35,6 @@ host-suffix, wireguard.com, category-anticensorship
 host-suffix, zeronet.io, category-anticensorship
 host-suffix, citizenlab.ca, category-anticensorship
 host-suffix, citizenlab.org, category-anticensorship
-host-suffix, gfw.press, category-anticensorship
-host-suffix, gfw.report, category-anticensorship
 host-suffix, applecensorship.com, category-anticensorship
 host-suffix, freebrowser.org, category-anticensorship
 host-suffix, freewechat.com, category-anticensorship

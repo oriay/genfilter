@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ffprofile.com
 DOMAIN-SUFFIX,freenetproject.org
 DOMAIN-SUFFIX,fteproxy.org
 DOMAIN-SUFFIX,geti2p.net
+DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jitsi.org
@@ -34,8 +35,6 @@ DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,gfw.press
-DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com

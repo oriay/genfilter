@@ -858,6 +858,7 @@ host-suffix, tom.com, geolocation-cn
 host-suffix, tongdun.net, geolocation-cn
 host-suffix, topthink.com, geolocation-cn
 host-suffix, touqikan.com, geolocation-cn
+host-suffix, touzid.com, geolocation-cn
 host-suffix, travelsky.com, geolocation-cn
 host-suffix, trunktech.com, geolocation-cn
 host-suffix, trustexporter.com, geolocation-cn
@@ -1742,8 +1743,11 @@ host-suffix, letvimg.com, geolocation-cn
 host-suffix, lizhi.fm, geolocation-cn
 host-suffix, lizhifm.com, geolocation-cn
 host-suffix, miaopai.com, geolocation-cn
+host-suffix, mihayou.com, geolocation-cn
 host-suffix, mihoyo.com, geolocation-cn
 host-suffix, bh3.com, geolocation-cn
+host-suffix, yuanshen.com, geolocation-cn
+host-suffix, benghuai.com, geolocation-cn
 host-suffix, muwai.com, geolocation-cn
 host-suffix, pplive.cn, geolocation-cn
 host-suffix, pplive.com, geolocation-cn
@@ -1894,6 +1898,7 @@ host-suffix, jiemian.com.cn, geolocation-cn
 host-suffix, lancdn.com, geolocation-cn
 host-suffix, landiannews.com, geolocation-cn
 host-suffix, wsoso.com, geolocation-cn
+host-suffix, landian.vip, geolocation-cn
 host-suffix, ifeng.com, geolocation-cn
 host-suffix, ifengimg.com, geolocation-cn
 host-suffix, phoenixcenter.cn, geolocation-cn
@@ -1931,8 +1936,6 @@ host-suffix, danjuanfunds.com, geolocation-cn
 host-suffix, imedao.com, geolocation-cn
 host-suffix, snowballsecurities.com, geolocation-cn
 host-suffix, xueqiu.com, geolocation-cn
-host-suffix, csdl.ac.cn, geolocation-cn
-host-suffix, las.ac.cn, geolocation-cn
 host-suffix, fuwai.com, geolocation-cn
 host-suffix, pkuh6.cn, geolocation-cn
 host-suffix, puh3.net.cn, geolocation-cn
@@ -2000,6 +2003,7 @@ host-suffix, lanzoui.com, geolocation-cn
 host-suffix, lanzous.com, geolocation-cn
 host-suffix, lanzoux.com, geolocation-cn
 host-suffix, woozooo.com, geolocation-cn
+host-suffix, ldmnq.com, geolocation-cn
 host-suffix, liepin.com, geolocation-cn
 host-suffix, lietou.com, geolocation-cn
 host-suffix, lietou-static.com, geolocation-cn
@@ -2048,11 +2052,20 @@ host-suffix, pmphmooc.com, geolocation-cn
 host, moocs.unipus.cn, geolocation-cn
 host, opencourse.pku.edu.cn, geolocation-cn
 host, study.163.com, geolocation-cn
+host-suffix, 51ccd.com, geolocation-cn
+host-suffix, airitilibrary.cn, geolocation-cn
+host-suffix, ancientbooks.cn, geolocation-cn
 host-suffix, apabi.com, geolocation-cn
+host-suffix, bjinfobank.com, geolocation-cn
+host-suffix, cnbksy.com, geolocation-cn
 host-suffix, cnthinkers.com, geolocation-cn
 host-suffix, cqvip.com, geolocation-cn
+host-suffix, duxiu.com, geolocation-cn
 host-suffix, er07.com, geolocation-cn
 host-suffix, ersjk.com, geolocation-cn
+host-suffix, gtarsc.com, geolocation-cn
+host-suffix, hwshu.com, geolocation-cn
+host-suffix, rdfybk.com, geolocation-cn
 host-suffix, sbsjk.com, geolocation-cn
 host-suffix, csdl.ac.cn, geolocation-cn
 host-suffix, las.ac.cn, geolocation-cn

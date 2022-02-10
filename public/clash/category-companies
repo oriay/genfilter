@@ -3777,6 +3777,7 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtube.ae
 DOMAIN-SUFFIX,youtube.al
 DOMAIN-SUFFIX,youtube.am
@@ -3872,6 +3873,7 @@ DOMAIN-SUFFIX,youtube.es
 DOMAIN-SUFFIX,youtube.fi
 DOMAIN-SUFFIX,youtube.fr
 DOMAIN-SUFFIX,youtube.ge
+DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtube.gr
 DOMAIN-SUFFIX,youtube.gt
 DOMAIN-SUFFIX,youtube.hk
@@ -3929,6 +3931,7 @@ DOMAIN-SUFFIX,youtube.ug
 DOMAIN-SUFFIX,youtube.uy
 DOMAIN-SUFFIX,youtube.vn
 DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
 DOMAIN-SUFFIX,youtubefanfest.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubego.co.id
@@ -4919,8 +4922,10 @@ DOMAIN-SUFFIX,navercorp.com
 DOMAIN-SUFFIX,plug.game
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,webtoons.com
+DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps-beta.com
+DOMAIN-SUFFIX,line-apps-rc.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,line-cdn.net
@@ -4932,6 +4937,8 @@ DOMAIN-SUFFIX,linefriends.com
 DOMAIN-SUFFIX,linefriends.com.tw
 DOMAIN-SUFFIX,linegame.jp
 DOMAIN-SUFFIX,linemobile.com
+DOMAIN-SUFFIX,linemyshop.com
+DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,neuralink.com
