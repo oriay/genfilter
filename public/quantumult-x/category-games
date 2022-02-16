@@ -256,11 +256,14 @@ host, menu-static.gog-statics.com, category-games
 host, productcard.gog-statics.com, category-games
 host, static-login.gog-statics.com, category-games
 host, www4-static.gog-statics.com, category-games
+host-suffix, hoyoverse.com, category-games
 host-suffix, mihayou.com, category-games
 host-suffix, mihoyo.com, category-games
-host-suffix, bh3.com, category-games
-host-suffix, yuanshen.com, category-games
 host-suffix, benghuai.com, category-games
+host-suffix, bh3.com, category-games
+host-suffix, honkaistarrail.com, category-games
+host-suffix, hoyolab.com, category-games
+host-suffix, yuanshen.com, category-games
 host-suffix, 100classicbooks.com, category-games
 host-suffix, amiibo.com, category-games
 host-suffix, ayudanintendo.com, category-games

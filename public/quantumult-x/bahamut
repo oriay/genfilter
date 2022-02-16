@@ -1,4 +1,5 @@
-host-suffix, gamer.com.tw, bahamut
+host-suffix, bahamut.akamaized.net, bahamut
 host-suffix, bahamut.com.tw, bahamut
-host, gamer-cds.cdn.hinet.net, bahamut
+host-suffix, gamer.com.tw, bahamut
 host, gamer2-cds.cdn.hinet.net, bahamut
+host, gamer-cds.cdn.hinet.net, bahamut
