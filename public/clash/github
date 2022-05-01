@@ -15,8 +15,8 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com

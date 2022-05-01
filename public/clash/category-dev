@@ -217,8 +217,8 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
@@ -334,6 +334,7 @@ DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,developer.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
@@ -373,6 +374,7 @@ DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,blogoverflow.com
+DOMAIN-SUFFIX,codeforaliving.io
 DOMAIN-SUFFIX,mathoverflow.net
 DOMAIN-SUFFIX,serverfault.com
 DOMAIN-SUFFIX,sstatic.net
@@ -381,9 +383,11 @@ DOMAIN-SUFFIX,stackauth.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,stackmod.blog
 DOMAIN-SUFFIX,stackoverflow.blog
+DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stackoverflow.email
 DOMAIN-SUFFIX,stackoverflowbusiness.com
+DOMAIN-SUFFIX,stackoverflowcareers.com
 DOMAIN-SUFFIX,stacksnippets.net
 DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,tex-talk.net

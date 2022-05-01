@@ -3,6 +3,7 @@ host-suffix, academic.eb.com, category-scholar-!cn
 host-suffix, aclweb.org, category-scholar-!cn
 host-suffix, acm.org, category-scholar-!cn
 host-suffix, acs.org, category-scholar-!cn
+host-suffix, agu.org, category-scholar-!cn
 host-suffix, aiaa.org, category-scholar-!cn
 host-suffix, aimsciences.org, category-scholar-!cn
 host-suffix, airiti.com, category-scholar-!cn
@@ -42,6 +43,7 @@ host-suffix, bvdinfo.com, category-scholar-!cn
 host-suffix, cairn.info, category-scholar-!cn
 host-suffix, capitaliq.com, category-scholar-!cn
 host-suffix, cas.org, category-scholar-!cn
+host-suffix, ceicdata.com, category-scholar-!cn
 host-suffix, chemnetbase.com, category-scholar-!cn
 host-suffix, choicereviews.org, category-scholar-!cn
 host-suffix, cios.org, category-scholar-!cn
@@ -64,6 +66,7 @@ host-suffix, facultyopinions.com, category-scholar-!cn
 host-suffix, frontiersin.org, category-scholar-!cn
 host-suffix, gale.com, category-scholar-!cn
 host-suffix, galegroup.com, category-scholar-!cn
+host-suffix, geolytics.com, category-scholar-!cn
 host-suffix, ggsrv.com, category-scholar-!cn
 host-suffix, global-sci.org, category-scholar-!cn
 host-suffix, heinonline.org, category-scholar-!cn
@@ -73,6 +76,8 @@ host-suffix, icevirtuallibrary.com, category-scholar-!cn
 host-suffix, icsd.fiz-karlsruhe.de, category-scholar-!cn
 host-suffix, igi-global.com, category-scholar-!cn
 host-suffix, igpublish.com, category-scholar-!cn
+host-suffix, hanzhen.xmulib.org, category-scholar-!cn
+host-suffix, infolinker.com.tw, category-scholar-!cn
 host-suffix, informs.org, category-scholar-!cn
 host-suffix, iop.org, category-scholar-!cn
 host-suffix, isca-speech.org, category-scholar-!cn
@@ -120,6 +125,7 @@ host-suffix, scholarpedia.org, category-scholar-!cn
 host-suffix, science.com, category-scholar-!cn
 host-suffix, science.org, category-scholar-!cn
 host-suffix, sciencemag.org, category-scholar-!cn
+host-suffix, scienceonline.org, category-scholar-!cn
 host-suffix, scientificamerican.com, category-scholar-!cn
 host-suffix, scitation.org, category-scholar-!cn
 host-suffix, semanticscholar.org, category-scholar-!cn
@@ -128,6 +134,7 @@ host-suffix, silverchair-cdn.com, category-scholar-!cn
 host-suffix, spiedigitallibrary.org, category-scholar-!cn
 host-suffix, statsmakemecry.com, category-scholar-!cn
 host-suffix, thelancet.com, category-scholar-!cn
+host-suffix, tickdata.com, category-scholar-!cn
 host-suffix, thieme.de, category-scholar-!cn
 host-suffix, thieme-connect.com, category-scholar-!cn
 host-suffix, thieme-connect.de, category-scholar-!cn

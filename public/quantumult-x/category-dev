@@ -217,8 +217,8 @@ host-suffix, githubstatus.com, category-dev
 host-suffix, githubuniverse.com, category-dev
 host-suffix, githubusercontent.com, category-dev
 host-suffix, myoctocat.com, category-dev
+host-suffix, opensource.guide, category-dev
 host-suffix, thegithubshop.com, category-dev
-host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-dev
 host, github-cloud.s3.amazonaws.com, category-dev
 host-suffix, npm.community, category-dev
 host-suffix, npmjs.com, category-dev
@@ -334,6 +334,7 @@ host-suffix, visualstudio.net, category-dev
 host-suffix, vfsforgit.com, category-dev
 host-suffix, vfsforgit.org, category-dev
 host-suffix, vsassets.io, category-dev
+host-suffix, vscode.dev, category-dev
 host-suffix, xamarin.com, category-dev
 host, developer.microsoft.com, category-dev
 host, dtlgalleryint.cloudapp.net, category-dev
@@ -373,6 +374,7 @@ host-suffix, scala-lang.org, category-dev
 host-suffix, scala-sbt.org, category-dev
 host-suffix, askubuntu.com, category-dev
 host-suffix, blogoverflow.com, category-dev
+host-suffix, codeforaliving.io, category-dev
 host-suffix, mathoverflow.net, category-dev
 host-suffix, serverfault.com, category-dev
 host-suffix, sstatic.net, category-dev
@@ -381,9 +383,11 @@ host-suffix, stackauth.com, category-dev
 host-suffix, stackexchange.com, category-dev
 host-suffix, stackmod.blog, category-dev
 host-suffix, stackoverflow.blog, category-dev
+host-suffix, stackoverflow.co, category-dev
 host-suffix, stackoverflow.com, category-dev
 host-suffix, stackoverflow.email, category-dev
 host-suffix, stackoverflowbusiness.com, category-dev
+host-suffix, stackoverflowcareers.com, category-dev
 host-suffix, stacksnippets.net, category-dev
 host-suffix, superuser.com, category-dev
 host-suffix, tex-talk.net, category-dev

@@ -735,6 +735,10 @@ DOMAIN,scholar.google.sk
 DOMAIN,scholar.l.google.com
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,deps.dev
+DOMAIN-SUFFIX,deps.info
+DOMAIN-SUFFIX,opensourceinsight.dev
+DOMAIN-SUFFIX,opensourceinsights.dev
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,v8.dev

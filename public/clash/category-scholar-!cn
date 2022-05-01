@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,academic.eb.com
 DOMAIN-SUFFIX,aclweb.org
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,agu.org
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aimsciences.org
 DOMAIN-SUFFIX,airiti.com
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,bvdinfo.com
 DOMAIN-SUFFIX,cairn.info
 DOMAIN-SUFFIX,capitaliq.com
 DOMAIN-SUFFIX,cas.org
+DOMAIN-SUFFIX,ceicdata.com
 DOMAIN-SUFFIX,chemnetbase.com
 DOMAIN-SUFFIX,choicereviews.org
 DOMAIN-SUFFIX,cios.org
@@ -64,6 +66,7 @@ DOMAIN-SUFFIX,facultyopinions.com
 DOMAIN-SUFFIX,frontiersin.org
 DOMAIN-SUFFIX,gale.com
 DOMAIN-SUFFIX,galegroup.com
+DOMAIN-SUFFIX,geolytics.com
 DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,global-sci.org
 DOMAIN-SUFFIX,heinonline.org
@@ -73,6 +76,8 @@ DOMAIN-SUFFIX,icevirtuallibrary.com
 DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de
 DOMAIN-SUFFIX,igi-global.com
 DOMAIN-SUFFIX,igpublish.com
+DOMAIN-SUFFIX,hanzhen.xmulib.org
+DOMAIN-SUFFIX,infolinker.com.tw
 DOMAIN-SUFFIX,informs.org
 DOMAIN-SUFFIX,iop.org
 DOMAIN-SUFFIX,isca-speech.org
@@ -120,6 +125,7 @@ DOMAIN-SUFFIX,scholarpedia.org
 DOMAIN-SUFFIX,science.com
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,scienceonline.org
 DOMAIN-SUFFIX,scientificamerican.com
 DOMAIN-SUFFIX,scitation.org
 DOMAIN-SUFFIX,semanticscholar.org
@@ -128,6 +134,7 @@ DOMAIN-SUFFIX,silverchair-cdn.com
 DOMAIN-SUFFIX,spiedigitallibrary.org
 DOMAIN-SUFFIX,statsmakemecry.com
 DOMAIN-SUFFIX,thelancet.com
+DOMAIN-SUFFIX,tickdata.com
 DOMAIN-SUFFIX,thieme.de
 DOMAIN-SUFFIX,thieme-connect.com
 DOMAIN-SUFFIX,thieme-connect.de

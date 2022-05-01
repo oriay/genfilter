@@ -4,12 +4,14 @@ host-suffix, buypass.no, category-cas
 host-suffix, buypass.se, category-cas
 host-suffix, minid.no, category-cas
 host-suffix, comodo.com, category-cas
+host-suffix, comodo.net, category-cas
 host-suffix, comodoca.com, category-cas
 host-suffix, comodoca2.com, category-cas
 host-suffix, comodoca3.com, category-cas
 host-suffix, comodoca4.com, category-cas
 host-suffix, cybertrust.co.jp, category-cas
 host-suffix, cybertrust.ne.jp, category-cas
+host-suffix, digicert-cn.com, category-cas
 host-suffix, digicert.cn, category-cas
 host-suffix, digicert.com, category-cas
 host-suffix, digitalcertvalidation.com, category-cas

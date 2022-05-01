@@ -121,6 +121,7 @@ host-suffix, toutapp.com, category-companies
 host-suffix, compresspdf.new, category-companies
 host-suffix, pdf.new, category-companies
 host-suffix, sign.new, category-companies
+host-suffix, scene7.com, category-companies
 host-suffix, typekit.com, category-companies
 host-suffix, typekit.net, category-companies
 host-suffix, alibabacloud.co.in, category-companies
@@ -3766,6 +3767,10 @@ host, scholar.google.sk, category-companies
 host, scholar.l.google.com, category-companies
 host-suffix, kaggle.com, category-companies
 host-suffix, kaggle.io, category-companies
+host-suffix, deps.dev, category-companies
+host-suffix, deps.info, category-companies
+host-suffix, opensourceinsight.dev, category-companies
+host-suffix, opensourceinsights.dev, category-companies
 host-suffix, polymer-project.org, category-companies
 host-suffix, polymerproject.org, category-companies
 host-suffix, v8.dev, category-companies
@@ -4397,8 +4402,18 @@ host-suffix, lghvacstory.com, category-companies
 host-suffix, lgrecyclingprogram.com, category-companies
 host-suffix, lgsalesportal.com, category-companies
 host, lgelectronics.122.2o7.net, category-companies
-host-suffix, linkedin.com, category-companies
+host-suffix, bizographics.com, category-companies
+host-suffix, l-0005.dc-msedge.net, category-companies
+host-suffix, l-0005.l-msedge.net, category-companies
 host-suffix, licdn.com, category-companies
+host-suffix, linkedin.at, category-companies
+host-suffix, linkedin.com, category-companies
+host-suffix, lnkd.in, category-companies
+host-suffix, licdn.cn, category-companies
+host-suffix, linkedin.cn, category-companies
+host, e122475.dscg.akamaiedge.net, category-companies
+host, licdn.cn.cdn20.com, category-companies
+host, linkedin.sc.omtrdc.net, category-companies
 host-suffix, logi.com, category-companies
 host-suffix, logicool.co.jp, category-companies
 host-suffix, logicoolg.com, category-companies
@@ -4770,8 +4785,8 @@ host-suffix, githubstatus.com, category-companies
 host-suffix, githubuniverse.com, category-companies
 host-suffix, githubusercontent.com, category-companies
 host-suffix, myoctocat.com, category-companies
+host-suffix, opensource.guide, category-companies
 host-suffix, thegithubshop.com, category-companies
-host, github-avatars.oss-cn-hongkong.aliyuncs.com, category-companies
 host, github-cloud.s3.amazonaws.com, category-companies
 host-suffix, npm.community, category-companies
 host-suffix, npmjs.com, category-companies
@@ -4827,6 +4842,7 @@ host-suffix, visualstudio.net, category-companies
 host-suffix, vfsforgit.com, category-companies
 host-suffix, vfsforgit.org, category-companies
 host-suffix, vsassets.io, category-companies
+host-suffix, vscode.dev, category-companies
 host-suffix, xamarin.com, category-companies
 host, developer.microsoft.com, category-companies
 host, dtlgalleryint.cloudapp.net, category-companies
@@ -5007,6 +5023,7 @@ host-suffix, oracle.com, category-companies
 host-suffix, oraclecloud.com, category-companies
 host-suffix, oraclefoundation.org, category-companies
 host-suffix, oracleimg.com, category-companies
+host-suffix, oracleinfinity.io, category-companies
 host-suffix, ateam-oracle.com, category-companies
 host-suffix, bronto.com, category-companies
 host-suffix, covid19-rx.org, category-companies
@@ -5477,6 +5494,7 @@ host-suffix, yahoodns.net, category-companies
 host-suffix, yahoofinance.com, category-companies
 host-suffix, yahoohealth.com, category-companies
 host-suffix, yahoomusic.com, category-companies
+host-suffix, yahoosandbox.com, category-companies
 host-suffix, yahoosportsbook.com, category-companies
 host-suffix, yho.com, category-companies
 host-suffix, yimg.com, category-companies
@@ -5692,6 +5710,7 @@ host-suffix, yahoodns.net, category-companies
 host-suffix, yahoofinance.com, category-companies
 host-suffix, yahoohealth.com, category-companies
 host-suffix, yahoomusic.com, category-companies
+host-suffix, yahoosandbox.com, category-companies
 host-suffix, yahoosportsbook.com, category-companies
 host-suffix, yho.com, category-companies
 host-suffix, yimg.com, category-companies

@@ -80,8 +80,10 @@ host, p8-juejin.byteimg.com, bytedance
 host, p9-juejin.byteimg.com, bytedance
 host-suffix, larksuite.com, bytedance
 host-suffix, larksuitecdn.com, bytedance
+host-suffix, byteoversea.com, bytedance
 host-suffix, muscdn.com, bytedance
 host-suffix, musical.ly, bytedance
+host-suffix, tik-tokapi.com, bytedance
 host-suffix, tiktok.com, bytedance
 host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokv.com, bytedance

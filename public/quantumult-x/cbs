@@ -1,7 +1,6 @@
 host-suffix, cbs, cbs
 host-suffix, showtime, cbs
 host-suffix, cbs.com, cbs
-host-suffix, cbsaavideo.com, cbs
 host-suffix, cbscorporation.com, cbs
 host-suffix, cbsi.com, cbs
 host-suffix, cbsi.video, cbs
@@ -21,3 +20,12 @@ host-suffix, viacom.com, cbs
 host-suffix, viacomcbs.com, cbs
 host-suffix, viacomcbspressexpress.com, cbs
 host-suffix, paramount.com, cbs
+host-suffix, amlg.io, cbs
+host-suffix, cbsaavideo.com, cbs
+host-suffix, mtvnservices.com, cbs
+host-suffix, paramountplus.com, cbs
+host-suffix, pplusstatic.com, cbs
+host, cbsi.live.ott.irdeto.com, cbs
+host, cbsplaylistserver.aws.syncbak.com, cbs
+host, cbsservice.aws.syncbak.com, cbs
+host, link.theplatform.com, cbs

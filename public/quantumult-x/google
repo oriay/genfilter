@@ -735,6 +735,10 @@ host, scholar.google.sk, google
 host, scholar.l.google.com, google
 host-suffix, kaggle.com, google
 host-suffix, kaggle.io, google
+host-suffix, deps.dev, google
+host-suffix, deps.info, google
+host-suffix, opensourceinsight.dev, google
+host-suffix, opensourceinsights.dev, google
 host-suffix, polymer-project.org, google
 host-suffix, polymerproject.org, google
 host-suffix, v8.dev, google

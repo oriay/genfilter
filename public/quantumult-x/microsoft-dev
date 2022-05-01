@@ -49,6 +49,7 @@ host-suffix, visualstudio.net, microsoft-dev
 host-suffix, vfsforgit.com, microsoft-dev
 host-suffix, vfsforgit.org, microsoft-dev
 host-suffix, vsassets.io, microsoft-dev
+host-suffix, vscode.dev, microsoft-dev
 host-suffix, xamarin.com, microsoft-dev
 host, developer.microsoft.com, microsoft-dev
 host, dtlgalleryint.cloudapp.net, microsoft-dev

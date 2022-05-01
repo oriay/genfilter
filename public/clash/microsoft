@@ -357,8 +357,8 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
@@ -414,6 +414,7 @@ DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,developer.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
