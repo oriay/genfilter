@@ -2,6 +2,7 @@ host-suffix, ahmia.fi, category-anticensorship
 host-suffix, akasha.world, category-anticensorship
 host-suffix, browserleaks.com, category-anticensorship
 host-suffix, bypasscensorship.org, category-anticensorship
+host-suffix, censorship.ai, category-anticensorship
 host-suffix, dat.foundation, category-anticensorship
 host-suffix, democracy.earth, category-anticensorship
 host-suffix, eff.org, category-anticensorship
@@ -10,6 +11,7 @@ host-suffix, ffprofile.com, category-anticensorship
 host-suffix, freenetproject.org, category-anticensorship
 host-suffix, fteproxy.org, category-anticensorship
 host-suffix, geti2p.net, category-anticensorship
+host-suffix, getoutline.org, category-anticensorship
 host-suffix, gfw.report, category-anticensorship
 host-suffix, guardianproject.info, category-anticensorship
 host-suffix, ipfs.io, category-anticensorship
@@ -28,6 +30,7 @@ host-suffix, tribler.org, category-anticensorship
 host-suffix, tunsafe.com, category-anticensorship
 host-suffix, twister.net.co, category-anticensorship
 host-suffix, uproxy.org, category-anticensorship
+host-suffix, vpngate.org, category-anticensorship
 host-suffix, vuvuzela.io, category-anticensorship
 host-suffix, whonix.org, category-anticensorship
 host-suffix, wikileaks.org, category-anticensorship

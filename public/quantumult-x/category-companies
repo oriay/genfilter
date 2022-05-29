@@ -2017,6 +2017,7 @@ host-suffix, swiftui.com.cn, category-companies
 host-suffix, asus.com, category-companies
 host-suffix, asus.com.cn, category-companies
 host-suffix, atlassian.com, category-companies
+host-suffix, bitbucket.io, category-companies
 host-suffix, bitbucket.org, category-companies
 host-suffix, statuspage.io, category-companies
 host-suffix, trello.com, category-companies
@@ -2462,6 +2463,7 @@ host-suffix, workspaceone.com, category-companies
 host, vmware.tt.omtrdc.net, category-companies
 host-suffix, digitalocean.com, category-companies
 host-suffix, digitaloceanspaces.com, category-companies
+host-suffix, nginxconfig.io, category-companies
 host-suffix, aboutfacebook.com, category-companies
 host-suffix, accessfacebookfromschool.com, category-companies
 host-suffix, acebooik.com, category-companies
@@ -4628,6 +4630,7 @@ host-suffix, skypeassets.net, category-companies
 host-suffix, staffhub.ms, category-companies
 host-suffix, successwithteams.com, category-companies
 host-suffix, surface.com, category-companies
+host-suffix, svc.ms, category-companies
 host-suffix, sway-cdn.com, category-companies
 host-suffix, sway.com, category-companies
 host-suffix, sysinternals.com, category-companies

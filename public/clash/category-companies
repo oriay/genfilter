@@ -2017,6 +2017,7 @@ DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,trello.com
@@ -2462,6 +2463,7 @@ DOMAIN-SUFFIX,workspaceone.com
 DOMAIN,vmware.tt.omtrdc.net
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -4628,6 +4630,7 @@ DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,staffhub.ms
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,surface.com
+DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway.com
 DOMAIN-SUFFIX,sysinternals.com
