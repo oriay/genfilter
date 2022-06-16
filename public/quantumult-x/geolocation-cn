@@ -153,6 +153,7 @@ host-suffix, 9xgame.com, geolocation-cn
 host-suffix, 9xu.com, geolocation-cn
 host-suffix, a9vg.com, geolocation-cn
 host-suffix, aardio.com, geolocation-cn
+host-suffix, acetaffy.club, geolocation-cn
 host-suffix, adxvip.com, geolocation-cn
 host-suffix, afzhan.com, geolocation-cn
 host-suffix, agrantsem.com, geolocation-cn
@@ -584,6 +585,7 @@ host-suffix, kejet.net, geolocation-cn
 host-suffix, kf5.com, geolocation-cn
 host-suffix, kimiss.com, geolocation-cn
 host-suffix, kingdee.com, geolocation-cn
+host-suffix, kiyuu.club, geolocation-cn
 host-suffix, kkzj.com, geolocation-cn
 host-suffix, kongfz.com, geolocation-cn
 host-suffix, kouclo.com, geolocation-cn
@@ -1766,6 +1768,7 @@ host-suffix, letvcdn.com, geolocation-cn
 host-suffix, letvimg.com, geolocation-cn
 host-suffix, lizhi.fm, geolocation-cn
 host-suffix, lizhifm.com, geolocation-cn
+host-suffix, mfuns.cn, geolocation-cn
 host-suffix, miaopai.com, geolocation-cn
 host-suffix, mhyurl.cn, geolocation-cn
 host-suffix, mihayo.com, geolocation-cn
@@ -2064,6 +2067,7 @@ host-suffix, wjx.com, geolocation-cn
 host-suffix, wjx.top, geolocation-cn
 host-suffix, wolai.com, geolocation-cn
 host-suffix, wol.tv, geolocation-cn
+host-suffix, wostatic.cn, geolocation-cn
 host-suffix, yinxiang.com, geolocation-cn
 host-suffix, zcmbc.com.cn, geolocation-cn
 host-suffix, zdns.cn, geolocation-cn
@@ -2754,6 +2758,8 @@ host-suffix, zuoyebang.com, geolocation-cn
 host-suffix, zybang.com, geolocation-cn
 host-suffix, amemv.com, geolocation-cn
 host-suffix, bytecdn.cn, geolocation-cn
+host-suffix, bytetcc.com, geolocation-cn
+host-suffix, bytetos.com, geolocation-cn
 host-suffix, byted-static.com, geolocation-cn
 host-suffix, bytedance.com, geolocation-cn
 host-suffix, bytedance.net, geolocation-cn
@@ -2767,12 +2773,14 @@ host-suffix, bytescm.com, geolocation-cn
 host-suffix, bytexservice.com, geolocation-cn
 host-suffix, feelgood.cn, geolocation-cn
 host-suffix, huaxiong.com, geolocation-cn
+host-suffix, ibytedapm.com, geolocation-cn
 host-suffix, ibytedtos.com, geolocation-cn
 host-suffix, ibyteimg.com, geolocation-cn
 host-suffix, pstatp.com, geolocation-cn
 host-suffix, snssdk.com, geolocation-cn
 host-suffix, zijiecdn.com, geolocation-cn
 host-suffix, zijiecdn.net, geolocation-cn
+host-suffix, zijieapi.com, geolocation-cn
 host-suffix, zjbyte.cn, geolocation-cn
 host-suffix, zjcdn.com, geolocation-cn
 host-suffix, toutiao.com, geolocation-cn

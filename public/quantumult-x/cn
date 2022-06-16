@@ -168,6 +168,7 @@ host-suffix, 9xgame.com, cn
 host-suffix, 9xu.com, cn
 host-suffix, a9vg.com, cn
 host-suffix, aardio.com, cn
+host-suffix, acetaffy.club, cn
 host-suffix, adxvip.com, cn
 host-suffix, afzhan.com, cn
 host-suffix, agrantsem.com, cn
@@ -599,6 +600,7 @@ host-suffix, kejet.net, cn
 host-suffix, kf5.com, cn
 host-suffix, kimiss.com, cn
 host-suffix, kingdee.com, cn
+host-suffix, kiyuu.club, cn
 host-suffix, kkzj.com, cn
 host-suffix, kongfz.com, cn
 host-suffix, kouclo.com, cn
@@ -1781,6 +1783,7 @@ host-suffix, letvcdn.com, cn
 host-suffix, letvimg.com, cn
 host-suffix, lizhi.fm, cn
 host-suffix, lizhifm.com, cn
+host-suffix, mfuns.cn, cn
 host-suffix, miaopai.com, cn
 host-suffix, mhyurl.cn, cn
 host-suffix, mihayo.com, cn
@@ -2079,6 +2082,7 @@ host-suffix, wjx.com, cn
 host-suffix, wjx.top, cn
 host-suffix, wolai.com, cn
 host-suffix, wol.tv, cn
+host-suffix, wostatic.cn, cn
 host-suffix, yinxiang.com, cn
 host-suffix, zcmbc.com.cn, cn
 host-suffix, zdns.cn, cn
@@ -2769,6 +2773,8 @@ host-suffix, zuoyebang.com, cn
 host-suffix, zybang.com, cn
 host-suffix, amemv.com, cn
 host-suffix, bytecdn.cn, cn
+host-suffix, bytetcc.com, cn
+host-suffix, bytetos.com, cn
 host-suffix, byted-static.com, cn
 host-suffix, bytedance.com, cn
 host-suffix, bytedance.net, cn
@@ -2782,12 +2788,14 @@ host-suffix, bytescm.com, cn
 host-suffix, bytexservice.com, cn
 host-suffix, feelgood.cn, cn
 host-suffix, huaxiong.com, cn
+host-suffix, ibytedapm.com, cn
 host-suffix, ibytedtos.com, cn
 host-suffix, ibyteimg.com, cn
 host-suffix, pstatp.com, cn
 host-suffix, snssdk.com, cn
 host-suffix, zijiecdn.com, cn
 host-suffix, zijiecdn.net, cn
+host-suffix, zijieapi.com, cn
 host-suffix, zjbyte.cn, cn
 host-suffix, zjcdn.com, cn
 host-suffix, toutiao.com, cn

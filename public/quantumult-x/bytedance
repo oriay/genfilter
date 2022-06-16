@@ -1,5 +1,7 @@
 host-suffix, amemv.com, bytedance
 host-suffix, bytecdn.cn, bytedance
+host-suffix, bytetcc.com, bytedance
+host-suffix, bytetos.com, bytedance
 host-suffix, byted-static.com, bytedance
 host-suffix, bytedance.com, bytedance
 host-suffix, bytedance.net, bytedance
@@ -13,12 +15,14 @@ host-suffix, bytescm.com, bytedance
 host-suffix, bytexservice.com, bytedance
 host-suffix, feelgood.cn, bytedance
 host-suffix, huaxiong.com, bytedance
+host-suffix, ibytedapm.com, bytedance
 host-suffix, ibytedtos.com, bytedance
 host-suffix, ibyteimg.com, bytedance
 host-suffix, pstatp.com, bytedance
 host-suffix, snssdk.com, bytedance
 host-suffix, zijiecdn.com, bytedance
 host-suffix, zijiecdn.net, bytedance
+host-suffix, zijieapi.com, bytedance
 host-suffix, zjbyte.cn, bytedance
 host-suffix, zjcdn.com, bytedance
 host-suffix, toutiao.com, bytedance
