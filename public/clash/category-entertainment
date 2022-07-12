@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,castro.fm
 DOMAIN-SUFFIX,egta.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,gbnews.uk
+DOMAIN-SUFFIX,gimy.cc
 DOMAIN-SUFFIX,internationalsaimoe.com
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,linetv.tw
@@ -780,6 +781,12 @@ DOMAIN-SUFFIX,nationalgeographicpartners.com
 DOMAIN-SUFFIX,ngeo.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gr-assets.com
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN,scc.ott.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,weblive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,forthethrone.com
 DOMAIN-SUFFIX,hbo.com
@@ -902,6 +909,7 @@ DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,nico
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp

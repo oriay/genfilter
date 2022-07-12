@@ -20,3 +20,4 @@ host-suffix, netflixdnstest7.com, netflix
 host-suffix, netflixdnstest8.com, netflix
 host-suffix, netflixdnstest9.com, netflix
 host-suffix, netflixdnstest10.com, netflix
+host, netflix.com.edgesuite.net, netflix

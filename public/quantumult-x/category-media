@@ -672,13 +672,14 @@ host-suffix, guo.media, category-media
 host-suffix, gwiki.net, category-media
 host-suffix, gwins.org, category-media
 host-suffix, himalaya.exchange, category-media
-host-suffix, himalaya-exchange.zendesk.com, category-media
-host-suffix, news3.rexcha.com, category-media
+host-suffix, himalayawashingtondc.org, category-media
 host-suffix, nfsc.global, category-media
 host-suffix, nfscdict.com, category-media
+host-suffix, rexcha.com, category-media
 host-suffix, rolfoundation.org, category-media
 host-suffix, rolsociety.org, category-media
 host-suffix, yiqiedoushiganggangkaishi.org, category-media
+host, himalaya-exchange.zendesk.com, category-media
 host-suffix, apexprint.com.hk, category-media
 host-suffix, eprc.com.hk, category-media
 host-suffix, etbc.com.hk, category-media

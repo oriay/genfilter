@@ -3,6 +3,7 @@ host-suffix, castro.fm, category-entertainment
 host-suffix, egta.com, category-entertainment
 host-suffix, fireside.fm, category-entertainment
 host-suffix, gbnews.uk, category-entertainment
+host-suffix, gimy.cc, category-entertainment
 host-suffix, internationalsaimoe.com, category-entertainment
 host-suffix, joox.com, category-entertainment
 host-suffix, linetv.tw, category-entertainment
@@ -780,6 +781,12 @@ host-suffix, nationalgeographicpartners.com, category-entertainment
 host-suffix, ngeo.com, category-entertainment
 host-suffix, goodreads.com, category-entertainment
 host-suffix, gr-assets.com, category-entertainment
+host, apl-hamivideo.cdn.hinet.net, category-entertainment
+host, hamivideo.hinet.net, category-entertainment
+host, mobilelive-hamivideo.cdn.hinet.net, category-entertainment
+host, scc.ott.hinet.net, category-entertainment
+host, static-hamivideo.cdn.hinet.net, category-entertainment
+host, weblive-hamivideo.cdn.hinet.net, category-entertainment
 host-suffix, cinemax.com, category-entertainment
 host-suffix, forthethrone.com, category-entertainment
 host-suffix, hbo.com, category-entertainment
@@ -902,6 +909,7 @@ host-suffix, netflixdnstest7.com, category-entertainment
 host-suffix, netflixdnstest8.com, category-entertainment
 host-suffix, netflixdnstest9.com, category-entertainment
 host-suffix, netflixdnstest10.com, category-entertainment
+host, netflix.com.edgesuite.net, category-entertainment
 host-suffix, nico, category-entertainment
 host-suffix, nicodic.jp, category-entertainment
 host-suffix, nicomanga.jp, category-entertainment

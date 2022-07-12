@@ -488,7 +488,6 @@ host-suffix, huashengdaili.com, geolocation-cn
 host-suffix, huatu.com, geolocation-cn
 host-suffix, huize.com, geolocation-cn
 host-suffix, hujia.org, geolocation-cn
-host-suffix, hujiang.com, geolocation-cn
 host-suffix, hunantv.com, geolocation-cn
 host-suffix, huochepiao.com, geolocation-cn
 host-suffix, huocheso.com, geolocation-cn
@@ -2181,6 +2180,11 @@ host-suffix, moegirl.org, geolocation-cn
 host-suffix, moegirl.org.cn, geolocation-cn
 host-suffix, cugbonline.cn, geolocation-cn
 host-suffix, guokr.com, geolocation-cn
+host-suffix, cctalk.com, geolocation-cn
+host-suffix, hjapi.com, geolocation-cn
+host-suffix, hjfile.cn, geolocation-cn
+host-suffix, hujiang.com, geolocation-cn
+host-suffix, yeshj.com, geolocation-cn
 host-suffix, ihuman.com, geolocation-cn
 host-suffix, hongen.com, geolocation-cn
 host-suffix, koocdn.com, geolocation-cn

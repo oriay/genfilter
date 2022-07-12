@@ -503,7 +503,6 @@ host-suffix, huashengdaili.com, cn
 host-suffix, huatu.com, cn
 host-suffix, huize.com, cn
 host-suffix, hujia.org, cn
-host-suffix, hujiang.com, cn
 host-suffix, hunantv.com, cn
 host-suffix, huochepiao.com, cn
 host-suffix, huocheso.com, cn
@@ -2196,6 +2195,11 @@ host-suffix, moegirl.org, cn
 host-suffix, moegirl.org.cn, cn
 host-suffix, cugbonline.cn, cn
 host-suffix, guokr.com, cn
+host-suffix, cctalk.com, cn
+host-suffix, hjapi.com, cn
+host-suffix, hjfile.cn, cn
+host-suffix, hujiang.com, cn
+host-suffix, yeshj.com, cn
 host-suffix, ihuman.com, cn
 host-suffix, hongen.com, cn
 host-suffix, koocdn.com, cn

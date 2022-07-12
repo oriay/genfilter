@@ -3280,6 +3280,7 @@ host-suffix, chronicle.security, category-companies
 host-suffix, chroniclesec.com, category-companies
 host-suffix, cloudburstresearch.com, category-companies
 host-suffix, cloudfunctions.net, category-companies
+host-suffix, cloudproxy.app, category-companies
 host-suffix, cloudrobotics.com, category-companies
 host-suffix, cobrasearch.com, category-companies
 host-suffix, codespot.com, category-companies
@@ -3953,6 +3954,10 @@ host-suffix, youtubekids.com, category-companies
 host-suffix, youtubemobilesupport.com, category-companies
 host-suffix, yt.be, category-companies
 host-suffix, ytimg.com, category-companies
+host-suffix, hetzner.cloud, category-companies
+host-suffix, hetzner.com, category-companies
+host-suffix, hetzner.de, category-companies
+host-suffix, your-server.de, category-companies
 host-suffix, cht.com.tw, category-companies
 host-suffix, chtf.org.tw, category-companies
 host-suffix, emome.net, category-companies
