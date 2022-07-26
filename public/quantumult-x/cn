@@ -767,7 +767,6 @@ host-suffix, pipaw.net, cn
 host-suffix, pptbest.com, cn
 host-suffix, pubyun.com, cn
 host-suffix, qc188.com, cn
-host-suffix, qcc.com, cn
 host-suffix, qcds.com, cn
 host-suffix, qd8.com, cn
 host-suffix, qd-metro.com, cn
@@ -1125,9 +1124,6 @@ host-suffix, zuhaowan.com, cn
 host-suffix, zuidaima.com, cn
 host-suffix, zuowen8.com, cn
 host-suffix, zuowenwang.net, cn
-host-suffix, jindidata.com, cn
-host-suffix, tianyancha.com, cn
-host-suffix, zhuanxiandai.com, cn
 host-suffix, fm3838.com, cn
 host-suffix, larsonlimited.com, cn
 host-suffix, runsheng.com, cn
@@ -3301,3 +3297,12 @@ host-suffix, sinopec.com, cn
 host-suffix, sinopecgroup.com, cn
 host-suffix, sinopecnews.com.cn, cn
 host-suffix, sinopecsales.com, cn
+host-suffix, aiqicha.baidu.com, cn
+host-suffix, hongdunwang.com.cn, cn
+host-suffix, qcc.com, cn
+host-suffix, qichamao.com, cn
+host-suffix, qixin.com, cn
+host-suffix, qyyjt.cn, cn
+host-suffix, jindidata.com, cn
+host-suffix, tianyancha.com, cn
+host-suffix, x315.com, cn

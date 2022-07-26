@@ -752,7 +752,6 @@ host-suffix, pipaw.net, geolocation-cn
 host-suffix, pptbest.com, geolocation-cn
 host-suffix, pubyun.com, geolocation-cn
 host-suffix, qc188.com, geolocation-cn
-host-suffix, qcc.com, geolocation-cn
 host-suffix, qcds.com, geolocation-cn
 host-suffix, qd8.com, geolocation-cn
 host-suffix, qd-metro.com, geolocation-cn
@@ -1110,9 +1109,6 @@ host-suffix, zuhaowan.com, geolocation-cn
 host-suffix, zuidaima.com, geolocation-cn
 host-suffix, zuowen8.com, geolocation-cn
 host-suffix, zuowenwang.net, geolocation-cn
-host-suffix, jindidata.com, geolocation-cn
-host-suffix, tianyancha.com, geolocation-cn
-host-suffix, zhuanxiandai.com, geolocation-cn
 host-suffix, fm3838.com, geolocation-cn
 host-suffix, larsonlimited.com, geolocation-cn
 host-suffix, runsheng.com, geolocation-cn
@@ -3286,3 +3282,12 @@ host-suffix, sinopec.com, geolocation-cn
 host-suffix, sinopecgroup.com, geolocation-cn
 host-suffix, sinopecnews.com.cn, geolocation-cn
 host-suffix, sinopecsales.com, geolocation-cn
+host-suffix, aiqicha.baidu.com, geolocation-cn
+host-suffix, hongdunwang.com.cn, geolocation-cn
+host-suffix, qcc.com, geolocation-cn
+host-suffix, qichamao.com, geolocation-cn
+host-suffix, qixin.com, geolocation-cn
+host-suffix, qyyjt.cn, geolocation-cn
+host-suffix, jindidata.com, geolocation-cn
+host-suffix, tianyancha.com, geolocation-cn
+host-suffix, x315.com, geolocation-cn
