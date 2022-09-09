@@ -1,8 +1,10 @@
 host-suffix, 2mdn.net, google-ads
 host-suffix, admob.com, google-ads
+host-suffix, ads.youtube.com, google-ads
 host-suffix, adsense.com, google-ads
 host-suffix, adsensecustomsearchads.com, google-ads
 host-suffix, adsenseformobileapps.com, google-ads
+host-suffix, adservice.google.com, google-ads
 host-suffix, advertisercommunity.com, google-ads
 host-suffix, advertiserscommunity.com, google-ads
 host-suffix, adwords-community.com, google-ads

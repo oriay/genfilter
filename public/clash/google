@@ -497,7 +497,6 @@ DOMAIN,clickserve.dartsearch.net
 DOMAIN,clientservices.googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,corp.google.com
-DOMAIN,crl.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
@@ -516,7 +515,6 @@ DOMAIN,googletagservices.com
 DOMAIN,gstaticadssl.l.google.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN,imasdk.googleapis.com
-DOMAIN,ocsp.pki.goog
 DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,recaptcha.net
@@ -630,9 +628,11 @@ DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
+DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com
@@ -735,6 +735,9 @@ DOMAIN,scholar.google.se
 DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
 DOMAIN,scholar.l.google.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN,crl.pki.goog
+DOMAIN,ocsp.pki.goog
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
 DOMAIN-SUFFIX,deps.dev

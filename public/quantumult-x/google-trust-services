@@ -1,0 +1,3 @@
+host-suffix, pki.goog, google-trust-services
+host, crl.pki.goog, google-trust-services
+host, ocsp.pki.goog, google-trust-services

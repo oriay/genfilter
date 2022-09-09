@@ -4,3 +4,5 @@ host, mobilelive-hamivideo.cdn.hinet.net, hamivideo
 host, scc.ott.hinet.net, hamivideo
 host, static-hamivideo.cdn.hinet.net, hamivideo
 host, weblive-hamivideo.cdn.hinet.net, hamivideo
+host, pvr-hamivideo.cdn.hinet.net, hamivideo
+host, tvcastlive-hamivideo.cdn.hinet.net, hamivideo

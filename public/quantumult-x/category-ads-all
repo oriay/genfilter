@@ -45,11 +45,14 @@ host-suffix, go2.global, category-ads-all
 host-suffix, img-bss.csdn.net, category-ads-all
 host-suffix, imglnkc.com, category-ads-all
 host-suffix, imglnkd.com, category-ads-all
+host-suffix, innovid.com, category-ads-all
 host-suffix, ja2.gamersky.com, category-ads-all
 host-suffix, jl3.yjaxa.top, category-ads-all
 host-suffix, juicyads.com, category-ads-all
 host-suffix, kepler-37b.com, category-ads-all
 host-suffix, lqc006.com, category-ads-all
+host-suffix, moat.com, category-ads-all
+host-suffix, moatads.com, category-ads-all
 host-suffix, realsrv.com, category-ads-all
 host-suffix, s4yxaqyq95.com, category-ads-all
 host-suffix, shhs-ydd8x2.yjrmss.cn, category-ads-all
@@ -69,6 +72,8 @@ host-suffix, das-rpt-log.ucloud.cn, category-ads-all
 host, apilog-web.acfun.cn, category-ads-all
 host-suffix, adcolony.com, category-ads-all
 host-suffix, adjust.com, category-ads-all
+host-suffix, advertising.adobe.com, category-ads-all
+host-suffix, tubemogul.com, category-ads-all
 host-suffix, a.alimama.cn, category-ads-all
 host-suffix, acjs.aliyun.com, category-ads-all
 host-suffix, adash.m.taobao.com, category-ads-all
@@ -157,6 +162,7 @@ host-suffix, userimg.qunar.com, category-ads-all
 host-suffix, w.m.taobao.com, category-ads-all
 host-suffix, yiliao.hupan.com, category-ads-all
 host-suffix, amazon-adsystem.com, category-ads-all
+host-suffix, serving-sys.com, category-ads-all
 host-suffix, iadsdk.apple.com, category-ads-all
 host-suffix, iad.apple.com, category-ads-all
 host-suffix, qwapi.com, category-ads-all
@@ -343,9 +349,11 @@ host-suffix, emogi.com, category-ads-all
 host-suffix, data.flurry.com, category-ads-all
 host-suffix, 2mdn.net, category-ads-all
 host-suffix, admob.com, category-ads-all
+host-suffix, ads.youtube.com, category-ads-all
 host-suffix, adsense.com, category-ads-all
 host-suffix, adsensecustomsearchads.com, category-ads-all
 host-suffix, adsenseformobileapps.com, category-ads-all
+host-suffix, adservice.google.com, category-ads-all
 host-suffix, advertisercommunity.com, category-ads-all
 host-suffix, advertiserscommunity.com, category-ads-all
 host-suffix, adwords-community.com, category-ads-all

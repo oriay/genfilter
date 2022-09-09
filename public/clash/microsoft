@@ -128,6 +128,7 @@ DOMAIN-SUFFIX,microsoftinternetsafety.net
 DOMAIN-SUFFIX,microsoftlatamaitour.com
 DOMAIN-SUFFIX,microsoftlinc.com
 DOMAIN-SUFFIX,microsoftonline-p.com
+DOMAIN-SUFFIX,microsoftonline.cn
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoftpartnercommunity.com
 DOMAIN-SUFFIX,microsoftready.com
@@ -158,7 +159,6 @@ DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftnet.org
 DOMAIN-SUFFIX,msgamesresearch.com
 DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,msocsp.com
 DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,mymicrosoft.com
@@ -169,12 +169,15 @@ DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.cn
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,officewebapps.cn
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,opticsforthecloud.net
 DOMAIN-SUFFIX,outingsapp.com
+DOMAIN-SUFFIX,outlook.cn
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,passport.net
 DOMAIN-SUFFIX,pixapp.net
@@ -254,7 +257,6 @@ DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
-DOMAIN,www.microsoft.com
 DOMAIN,xb.dlservice.microsoft.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
@@ -432,6 +434,12 @@ DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN,crl.microsoft.com
+DOMAIN,mscrl.microsoft.com
+DOMAIN,ocsp.microsoft.com
+DOMAIN,oneocsp.microsoft.com
+DOMAIN,www.microsoft.com
 DOMAIN-SUFFIX,microsoftnews.cc
 DOMAIN-SUFFIX,microsoftnews.cn
 DOMAIN-SUFFIX,microsoftnews.com

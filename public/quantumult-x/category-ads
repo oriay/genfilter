@@ -23,11 +23,14 @@ host-suffix, go2.global, category-ads
 host-suffix, img-bss.csdn.net, category-ads
 host-suffix, imglnkc.com, category-ads
 host-suffix, imglnkd.com, category-ads
+host-suffix, innovid.com, category-ads
 host-suffix, ja2.gamersky.com, category-ads
 host-suffix, jl3.yjaxa.top, category-ads
 host-suffix, juicyads.com, category-ads
 host-suffix, kepler-37b.com, category-ads
 host-suffix, lqc006.com, category-ads
+host-suffix, moat.com, category-ads
+host-suffix, moatads.com, category-ads
 host-suffix, realsrv.com, category-ads
 host-suffix, s4yxaqyq95.com, category-ads
 host-suffix, shhs-ydd8x2.yjrmss.cn, category-ads
@@ -47,6 +50,8 @@ host-suffix, das-rpt-log.ucloud.cn, category-ads
 host, apilog-web.acfun.cn, category-ads
 host-suffix, adcolony.com, category-ads
 host-suffix, adjust.com, category-ads
+host-suffix, advertising.adobe.com, category-ads
+host-suffix, tubemogul.com, category-ads
 host-suffix, a.alimama.cn, category-ads
 host-suffix, acjs.aliyun.com, category-ads
 host-suffix, adash.m.taobao.com, category-ads
@@ -135,6 +140,7 @@ host-suffix, userimg.qunar.com, category-ads
 host-suffix, w.m.taobao.com, category-ads
 host-suffix, yiliao.hupan.com, category-ads
 host-suffix, amazon-adsystem.com, category-ads
+host-suffix, serving-sys.com, category-ads
 host-suffix, iadsdk.apple.com, category-ads
 host-suffix, iad.apple.com, category-ads
 host-suffix, qwapi.com, category-ads
@@ -321,9 +327,11 @@ host-suffix, emogi.com, category-ads
 host-suffix, data.flurry.com, category-ads
 host-suffix, 2mdn.net, category-ads
 host-suffix, admob.com, category-ads
+host-suffix, ads.youtube.com, category-ads
 host-suffix, adsense.com, category-ads
 host-suffix, adsensecustomsearchads.com, category-ads
 host-suffix, adsenseformobileapps.com, category-ads
+host-suffix, adservice.google.com, category-ads
 host-suffix, advertisercommunity.com, category-ads
 host-suffix, advertiserscommunity.com, category-ads
 host-suffix, adwords-community.com, category-ads

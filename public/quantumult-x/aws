@@ -20,12 +20,12 @@ host-suffix, awsedstart.com, aws
 host-suffix, awseducate.com, aws
 host-suffix, awseducate.net, aws
 host-suffix, awseducate.org, aws
+host-suffix, awsglobalaccelerator.com, aws
 host-suffix, awsloft-johannesburg.com, aws
 host-suffix, awsloft-stockholm.com, aws
 host-suffix, awssecworkshops.com, aws
 host-suffix, awsstatic.com, aws
 host-suffix, awsthinkbox.com, aws
-host-suffix, awstrust.com, aws
 host-suffix, cdkworkshop.com, aws
 host-suffix, cloudfront.net, aws
 host-suffix, containersonaws.com, aws

@@ -3,8 +3,10 @@ host-suffix, atypi.org, category-orgs
 host-suffix, change.org, category-orgs
 host-suffix, f-droid.org, category-orgs
 host-suffix, globalsecurity.org, category-orgs
+host-suffix, iana.org, category-orgs
 host-suffix, ietf.org, category-orgs
 host-suffix, itu.int, category-orgs
+host-suffix, opte.org, category-orgs
 host-suffix, smpte.org, category-orgs
 host-suffix, un.org, category-orgs
 host-suffix, w3.org, category-orgs

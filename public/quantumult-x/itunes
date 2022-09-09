@@ -19,6 +19,7 @@ host-suffix, itun.es, itunes
 host-suffix, itunbes.com, itunes
 host-suffix, ituneas.com, itunes
 host-suffix, itunes-apple.cn, itunes
+host-suffix, itunes-apple.com.akadns.net, itunes
 host-suffix, itunes-radio.net, itunes
 host-suffix, itunes.ca, itunes
 host-suffix, itunes.co, itunes
@@ -49,4 +50,3 @@ host-suffix, itunesu.com, itunes
 host-suffix, itunesu.net, itunes
 host-suffix, iutunes.com, itunes
 host-suffix, wwwitunes.com, itunes
-host, itunes-apple.com.akadns.net, itunes

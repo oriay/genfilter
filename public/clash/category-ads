@@ -23,11 +23,14 @@ DOMAIN-SUFFIX,go2.global
 DOMAIN-SUFFIX,img-bss.csdn.net
 DOMAIN-SUFFIX,imglnkc.com
 DOMAIN-SUFFIX,imglnkd.com
+DOMAIN-SUFFIX,innovid.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,jl3.yjaxa.top
 DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,kepler-37b.com
 DOMAIN-SUFFIX,lqc006.com
+DOMAIN-SUFFIX,moat.com
+DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,realsrv.com
 DOMAIN-SUFFIX,s4yxaqyq95.com
 DOMAIN-SUFFIX,shhs-ydd8x2.yjrmss.cn
@@ -47,6 +50,8 @@ DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
 DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash.m.taobao.com
@@ -135,6 +140,7 @@ DOMAIN-SUFFIX,userimg.qunar.com
 DOMAIN-SUFFIX,w.m.taobao.com
 DOMAIN-SUFFIX,yiliao.hupan.com
 DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
@@ -321,9 +327,11 @@ DOMAIN-SUFFIX,emogi.com
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
+DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com

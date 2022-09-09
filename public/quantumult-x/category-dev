@@ -18,6 +18,7 @@ host-suffix, ffmpeg.org, category-dev
 host-suffix, freebsd.org, category-dev
 host-suffix, gentoo.org, category-dev
 host-suffix, getcomposer.org, category-dev
+host-suffix, getzola.org, category-dev
 host-suffix, git-scm.com, category-dev
 host-suffix, gnu.org, category-dev
 host-suffix, greenend.org.uk, category-dev
@@ -50,9 +51,11 @@ host-suffix, postgresql.org, category-dev
 host-suffix, r-project.org, category-dev
 host-suffix, raspberrypi.org, category-dev
 host-suffix, raspbian.org, category-dev
+host-suffix, regex101.com, category-dev
 host-suffix, rpmfusion.org, category-dev
 host-suffix, scientificlinux.org, category-dev
 host-suffix, scoop.sh, category-dev
+host-suffix, shellcheck.net, category-dev
 host-suffix, shields.io, category-dev
 host-suffix, sqlite.org, category-dev
 host-suffix, sublimetext.com, category-dev
@@ -405,7 +408,14 @@ host-suffix, thesffblog.com, category-dev
 host-suffix, mystrikingly.com, category-dev
 host-suffix, strikingly.com, category-dev
 host-suffix, strikinglycdn.com, category-dev
+host-suffix, openmidas.com, category-dev
+host-suffix, qq.design, category-dev
+host-suffix, qqgamedesign.com, category-dev
+host-suffix, tencent.design, category-dev
+host-suffix, wegamedeveloper.com, category-dev
+host-suffix, weui.io, category-dev
 host-suffix, termux.com, category-dev
+host-suffix, termux.dev, category-dev
 host-suffix, termux.org, category-dev
 host-suffix, lfai.foundation, category-dev
 host-suffix, linuxfoundation.org, category-dev
@@ -424,6 +434,7 @@ host-suffix, jquerymobile.com, category-dev
 host-suffix, jqueryui.com, category-dev
 host-suffix, mochajs.org, category-dev
 host-suffix, nodejs.org, category-dev
+host-suffix, topcoder.com, category-dev
 host-suffix, unity.com, category-dev
 host-suffix, unity3d.com, category-dev
 host-suffix, unityads.unity3d.com, category-dev

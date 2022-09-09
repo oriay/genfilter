@@ -497,7 +497,6 @@ host, clickserve.dartsearch.net, google
 host, clientservices.googleapis.com, google
 host, connectivitycheck.gstatic.com, google
 host, corp.google.com, google
-host, crl.pki.goog, google
 host, csi.gstatic.com, google
 host, dl.google.com, google
 host, dl.l.google.com, google
@@ -516,7 +515,6 @@ host, googletagservices.com, google
 host, gstaticadssl.l.google.com, google
 host, gtm.oasisfeng.com, google
 host, imasdk.googleapis.com, google
-host, ocsp.pki.goog, google
 host, pagead-googlehosted.l.google.com, google
 host, pki-goog.l.google.com, google
 host, recaptcha.net, google
@@ -630,9 +628,11 @@ host-suffix, golang.net, google
 host-suffix, golang.org, google
 host-suffix, 2mdn.net, google
 host-suffix, admob.com, google
+host-suffix, ads.youtube.com, google
 host-suffix, adsense.com, google
 host-suffix, adsensecustomsearchads.com, google
 host-suffix, adsenseformobileapps.com, google
+host-suffix, adservice.google.com, google
 host-suffix, advertisercommunity.com, google
 host-suffix, advertiserscommunity.com, google
 host-suffix, adwords-community.com, google
@@ -735,6 +735,9 @@ host, scholar.google.se, google
 host, scholar.google.si, google
 host, scholar.google.sk, google
 host, scholar.l.google.com, google
+host-suffix, pki.goog, google
+host, crl.pki.goog, google
+host, ocsp.pki.goog, google
 host-suffix, kaggle.com, google
 host-suffix, kaggle.io, google
 host-suffix, deps.dev, google

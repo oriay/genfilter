@@ -1,0 +1,6 @@
+host, certs-lb.apple.com.akadns.net, apple-pki
+host, certs.apple.com, apple-pki
+host, crl-lb.apple.com.akadns.net, apple-pki
+host, crl.apple.com, apple-pki
+host, ocsp-lb.apple.com.akadns.net, apple-pki
+host, ocsp.apple.com, apple-pki

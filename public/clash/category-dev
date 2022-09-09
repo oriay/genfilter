@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,freebsd.org
 DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,getcomposer.org
+DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,greenend.org.uk
@@ -50,9 +51,11 @@ DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
+DOMAIN-SUFFIX,regex101.com
 DOMAIN-SUFFIX,rpmfusion.org
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,scoop.sh
+DOMAIN-SUFFIX,shellcheck.net
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,sqlite.org
 DOMAIN-SUFFIX,sublimetext.com
@@ -405,7 +408,14 @@ DOMAIN-SUFFIX,thesffblog.com
 DOMAIN-SUFFIX,mystrikingly.com
 DOMAIN-SUFFIX,strikingly.com
 DOMAIN-SUFFIX,strikinglycdn.com
+DOMAIN-SUFFIX,openmidas.com
+DOMAIN-SUFFIX,qq.design
+DOMAIN-SUFFIX,qqgamedesign.com
+DOMAIN-SUFFIX,tencent.design
+DOMAIN-SUFFIX,wegamedeveloper.com
+DOMAIN-SUFFIX,weui.io
 DOMAIN-SUFFIX,termux.com
+DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,termux.org
 DOMAIN-SUFFIX,lfai.foundation
 DOMAIN-SUFFIX,linuxfoundation.org
@@ -424,6 +434,7 @@ DOMAIN-SUFFIX,jquerymobile.com
 DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,mochajs.org
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,topcoder.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com

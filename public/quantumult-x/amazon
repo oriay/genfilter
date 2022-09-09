@@ -71,7 +71,6 @@ host-suffix, amazonpay.com, amazon
 host-suffix, amazonpay.in, amazon
 host-suffix, amazonsdi.com, amazon
 host-suffix, amazonstudiosguilds.com, amazon
-host-suffix, amazontrust.com, amazon
 host-suffix, amazonvideodirect.com, amazon
 host-suffix, amzn.asia, amazon
 host-suffix, amzn.com, amazon
@@ -98,6 +97,10 @@ host-suffix, createspace.com, amazon
 host, images-cn.ssl-images-amazon.com, amazon
 host, images-cn-8.ssl-images-amazon.com, amazon
 host-suffix, amazon-adsystem.com, amazon
+host-suffix, serving-sys.com, amazon
+host-suffix, amazontrust.com, amazon
+host-suffix, awstrust.com, amazon
+host-suffix, ss2.us, amazon
 host-suffix, aws, amazon
 host-suffix, acmvalidations.com, amazon
 host-suffix, acmvalidationsaws.com, amazon
@@ -120,12 +123,12 @@ host-suffix, awsedstart.com, amazon
 host-suffix, awseducate.com, amazon
 host-suffix, awseducate.net, amazon
 host-suffix, awseducate.org, amazon
+host-suffix, awsglobalaccelerator.com, amazon
 host-suffix, awsloft-johannesburg.com, amazon
 host-suffix, awsloft-stockholm.com, amazon
 host-suffix, awssecworkshops.com, amazon
 host-suffix, awsstatic.com, amazon
 host-suffix, awsthinkbox.com, amazon
-host-suffix, awstrust.com, amazon
 host-suffix, cdkworkshop.com, amazon
 host-suffix, cloudfront.net, amazon
 host-suffix, containersonaws.com, amazon

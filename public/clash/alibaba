@@ -95,7 +95,6 @@ DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cainiao-inc.com
@@ -104,6 +103,7 @@ DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemashare.cn
 DOMAIN-SUFFIX,shyhhema.com
+DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,juhuasuan.com
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,tmalltv.com
 DOMAIN-SUFFIX,tmjl.ai
+DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,feizhu.cn
 DOMAIN-SUFFIX,feizhu.com
@@ -234,6 +235,7 @@ DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alicloud.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alicloudapi.com
 DOMAIN-SUFFIX,alidayu.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,alikunlun.com

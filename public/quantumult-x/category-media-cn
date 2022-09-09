@@ -25,11 +25,15 @@ host-suffix, ths123.com, category-media-cn
 host-suffix, dzh.com.cn, category-media-cn
 host-suffix, gw.com.cn, category-media-cn
 host-suffix, yundzh.com, category-media-cn
+host-suffix, caixin.com, category-media-cn
+host-suffix, xinhuanet.com, category-media-cn
+host-suffix, news.cn, category-media-cn
+host-suffix, people.com.cn, category-media-cn
+host-suffix, people.cn, category-media-cn
 host-suffix, 36dianping.com, category-media-cn
 host-suffix, 36kr.com, category-media-cn
 host-suffix, 36krcdn.com, category-media-cn
 host-suffix, 36krcnd.com, category-media-cn
-host-suffix, caixin.com, category-media-cn
 host-suffix, cctv.cn, category-media-cn
 host-suffix, cctv.com, category-media-cn
 host-suffix, cctvpic.com, category-media-cn

@@ -812,8 +812,6 @@ host, mesu-cdn.apple.com.akadns.net, apple
 host, mesu-china.apple.com.akadns.net, apple
 host, mesu.apple.com, apple
 host, music.apple.com, apple
-host, ocsp-lb.apple.com.akadns.net, apple
-host, ocsp.apple.com, apple
 host, oscdn.apple.com, apple
 host, oscdn.origin-apple.com.akadns.net, apple
 host, pancake.apple.com, apple
@@ -881,6 +879,12 @@ host-suffix, appleswift.com, apple
 host-suffix, swift.org, apple
 host-suffix, swiftui.cn, apple
 host-suffix, swiftui.com.cn, apple
+host, certs-lb.apple.com.akadns.net, apple
+host, certs.apple.com, apple
+host, crl-lb.apple.com.akadns.net, apple
+host, crl.apple.com, apple
+host, ocsp-lb.apple.com.akadns.net, apple
+host, ocsp.apple.com, apple
 host-suffix, 100beatscheap.com, apple
 host-suffix, 1monsterbeatsbydreus.com, apple
 host-suffix, 2013beatsbydrdreonline.com, apple
@@ -1666,6 +1670,7 @@ host-suffix, itun.es, apple
 host-suffix, itunbes.com, apple
 host-suffix, ituneas.com, apple
 host-suffix, itunes-apple.cn, apple
+host-suffix, itunes-apple.com.akadns.net, apple
 host-suffix, itunes-radio.net, apple
 host-suffix, itunes.ca, apple
 host-suffix, itunes.co, apple
@@ -1696,7 +1701,6 @@ host-suffix, itunesu.com, apple
 host-suffix, itunesu.net, apple
 host-suffix, iutunes.com, apple
 host-suffix, wwwitunes.com, apple
-host, itunes-apple.com.akadns.net, apple
 host-suffix, appleswift.com, apple
 host-suffix, swift.org, apple
 host-suffix, swiftui.cn, apple

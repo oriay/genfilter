@@ -95,7 +95,6 @@ host-suffix, aliexpress.com, alibaba
 host-suffix, aliexpress.ru, alibaba
 host-suffix, alicloudccp.com, alibaba
 host-suffix, aliyundrive.com, alibaba
-host-suffix, sm.cn, alibaba
 host-suffix, cainiao.com, alibaba
 host-suffix, cainiao.com.cn, alibaba
 host-suffix, cainiao-inc.com, alibaba
@@ -104,6 +103,7 @@ host-suffix, hemamax.com, alibaba
 host-suffix, hemaos.com, alibaba
 host-suffix, hemashare.cn, alibaba
 host-suffix, shyhhema.com, alibaba
+host-suffix, sm.cn, alibaba
 host-suffix, 1688.com, alibaba
 host-suffix, etao.com, alibaba
 host-suffix, juhuasuan.com, alibaba
@@ -122,6 +122,7 @@ host-suffix, tmall.com, alibaba
 host-suffix, tmall.ru, alibaba
 host-suffix, tmalltv.com, alibaba
 host-suffix, tmjl.ai, alibaba
+host-suffix, quark.cn, alibaba
 host-suffix, alitrip.com, alibaba
 host-suffix, feizhu.cn, alibaba
 host-suffix, feizhu.com, alibaba
@@ -234,6 +235,7 @@ host-suffix, alibabacloud.com.tw, alibaba
 host-suffix, alicloud.com, alibaba
 host-suffix, alibabadns.com, alibaba
 host-suffix, alicdn.com, alibaba
+host-suffix, alicloudapi.com, alibaba
 host-suffix, alidayu.com, alibaba
 host-suffix, alidns.com, alibaba
 host-suffix, alikunlun.com, alibaba

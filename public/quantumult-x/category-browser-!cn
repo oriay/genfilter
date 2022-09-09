@@ -1,0 +1,8 @@
+host-suffix, chrome, category-browser-!cn
+host-suffix, chrome.com, category-browser-!cn
+host-suffix, chromium.org, category-browser-!cn
+host-suffix, bromite.org, category-browser-!cn
+host-suffix, vivaldi.com, category-browser-!cn
+host-suffix, waterfox.net, category-browser-!cn
+host-suffix, firefox.com, category-browser-!cn
+host-suffix, firefoxusercontent.com, category-browser-!cn
