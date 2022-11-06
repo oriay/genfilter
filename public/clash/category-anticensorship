@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jitsi.org
+DOMAIN-SUFFIX,lokinet.org
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
@@ -32,7 +33,6 @@ DOMAIN-SUFFIX,tribler.org
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,uproxy.org
-DOMAIN-SUFFIX,vpngate.org
 DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,softether-download.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ray.cool
 DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,opengw.net
+DOMAIN-SUFFIX,vpngate.jp
+DOMAIN-SUFFIX,vpngate.net

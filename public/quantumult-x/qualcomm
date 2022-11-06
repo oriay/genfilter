@@ -1,14 +1,18 @@
 host-suffix, airgonetworks.com, qualcomm
 host-suffix, berkanawireless.com, qualcomm
+host-suffix, cdmatech.com, qualcomm
 host-suffix, dragoniscoming.com, qualcomm
 host-suffix, gobianywhere.com, qualcomm
+host-suffix, gpsonextra.net, qualcomm
 host-suffix, hellosmartbook.com, qualcomm
 host-suffix, imod.com, qualcomm
 host-suffix, ipleadership.org, qualcomm
 host-suffix, iskoot.com, qualcomm
+host-suffix, izatcloud.net, qualcomm
 host-suffix, meetsmartbook.com, qualcomm
 host-suffix, patenttruth.org, qualcomm
 host-suffix, pixtronix.com, qualcomm
+host-suffix, qceventscenter.com.cn, qualcomm
 host-suffix, qctconnect.com, qualcomm
 host-suffix, qprize.com, qualcomm
 host-suffix, qualcomm-email.com, qualcomm
@@ -36,5 +40,6 @@ host-suffix, snapdragonbooth.com, qualcomm
 host-suffix, uplinq.com, qualcomm
 host-suffix, wipower.com, qualcomm
 host-suffix, wirelessreach.com, qualcomm
+host-suffix, xtracloud.cn, qualcomm
 host-suffix, brewmp.com, qualcomm
 host, qualcomm.sc.omtrdc.net, qualcomm

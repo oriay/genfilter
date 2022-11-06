@@ -1,7 +1,9 @@
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
+DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,firefox.com

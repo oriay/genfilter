@@ -1,3 +1,11 @@
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,bcy.net
+DOMAIN-SUFFIX,bcyimg.com
+DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,douban.fm
+DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,97973.com
 DOMAIN-SUFFIX,picself.cn
 DOMAIN-SUFFIX,sina.cn
@@ -103,5 +111,7 @@ DOMAIN-SUFFIX,widget.weibo.com
 DOMAIN-SUFFIX,woocall.sina.com.cn
 DOMAIN-SUFFIX,zc.biz.weibo.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com

@@ -1,3 +1,11 @@
+host-suffix, tieba.baidu.com, category-social-media-cn
+host-suffix, tieba.com, category-social-media-cn
+host-suffix, bcy.net, category-social-media-cn
+host-suffix, bcyimg.com, category-social-media-cn
+host-suffix, lf-rc1.yhgfb-cn-static.com, category-social-media-cn
+host-suffix, douban.com, category-social-media-cn
+host-suffix, douban.fm, category-social-media-cn
+host-suffix, doubanio.com, category-social-media-cn
 host-suffix, 97973.com, category-social-media-cn
 host-suffix, picself.cn, category-social-media-cn
 host-suffix, sina.cn, category-social-media-cn
@@ -103,5 +111,7 @@ host-suffix, widget.weibo.com, category-social-media-cn
 host-suffix, woocall.sina.com.cn, category-social-media-cn
 host-suffix, zc.biz.weibo.com, category-social-media-cn
 host-suffix, zymo.mps.weibo.com, category-social-media-cn
+host-suffix, xhscdn.com, category-social-media-cn
+host-suffix, xiaohongshu.com, category-social-media-cn
 host-suffix, zhihu.com, category-social-media-cn
 host-suffix, zhimg.com, category-social-media-cn

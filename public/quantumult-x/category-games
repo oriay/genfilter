@@ -610,6 +610,7 @@ host, ubisoft-uplay-savegames.s3.amazonaws.com, category-games
 host, ubisoft-orbit-savegames.s3.amazonaws.com, category-games
 host, ubistatic3-a.akamaihd.net, category-games
 host, uplaypc-s-ubisoft.cdn.ubi.com, category-games
+host-suffix, xbox, category-games
 host-suffix, forzamotorsport.net, category-games
 host-suffix, forzaracingchampionship.com, category-games
 host-suffix, forzarc.com, category-games

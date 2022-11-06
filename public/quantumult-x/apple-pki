@@ -4,3 +4,5 @@ host, crl-lb.apple.com.akadns.net, apple-pki
 host, crl.apple.com, apple-pki
 host, ocsp-lb.apple.com.akadns.net, apple-pki
 host, ocsp.apple.com, apple-pki
+host, ocsp2-lb.apple.com.akadns.net, apple-pki
+host, ocsp2.apple.com, apple-pki

@@ -1,2 +1,5 @@
-host-suffix, netlify.com, netlify
 host-suffix, bitballoon.com, netlify
+host-suffix, netlify.app, netlify
+host-suffix, netlify.com, netlify
+host-suffix, netlifystatus.com, netlify
+host, d33wubrfki0l68.cloudfront.net, netlify

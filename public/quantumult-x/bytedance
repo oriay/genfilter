@@ -1,8 +1,7 @@
 host-suffix, amemv.com, bytedance
 host-suffix, bytecdn.cn, bytedance
-host-suffix, bytetcc.com, bytedance
-host-suffix, bytetos.com, bytedance
 host-suffix, byted-static.com, bytedance
+host-suffix, byted.org, bytedance
 host-suffix, bytedance.com, bytedance
 host-suffix, bytedance.net, bytedance
 host-suffix, bytedanceapi.com, bytedance
@@ -12,6 +11,8 @@ host-suffix, bytegoofy.com, bytedance
 host-suffix, byteimg.com, bytedance
 host-suffix, byteoversea.com, bytedance
 host-suffix, bytescm.com, bytedance
+host-suffix, bytetcc.com, bytedance
+host-suffix, bytetos.com, bytedance
 host-suffix, bytexservice.com, bytedance
 host-suffix, feelgood.cn, bytedance
 host-suffix, huaxiong.com, bytedance
@@ -21,9 +22,9 @@ host-suffix, ibyteimg.com, bytedance
 host-suffix, pstatp.com, bytedance
 host-suffix, snssdk.com, bytedance
 host-suffix, wtturl.cn, bytedance
+host-suffix, zijieapi.com, bytedance
 host-suffix, zijiecdn.com, bytedance
 host-suffix, zijiecdn.net, bytedance
-host-suffix, zijieapi.com, bytedance
 host-suffix, zjbyte.cn, bytedance
 host-suffix, zjcdn.com, bytedance
 host-suffix, toutiao.com, bytedance
@@ -71,6 +72,9 @@ host-suffix, muyewx.com, bytedance
 host-suffix, changdunovel.com, bytedance
 host-suffix, faceu.com, bytedance
 host-suffix, ulikecam.com, bytedance
+host-suffix, bcy.net, bytedance
+host-suffix, bcyimg.com, bytedance
+host-suffix, lf-rc1.yhgfb-cn-static.com, bytedance
 host-suffix, juejin.cn, bytedance
 host-suffix, juejin.im, bytedance
 host-suffix, xitu.io, bytedance

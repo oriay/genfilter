@@ -1,3 +1,5 @@
+host-suffix, cnbeta.com, category-media
+host-suffix, cnbetacdn.com, category-media
 host-suffix, 881903.com, category-media
 host-suffix, am730.com.hk, category-media
 host-suffix, americasvoice.news, category-media
@@ -665,7 +667,6 @@ host-suffix, gclubs.com, category-media
 host-suffix, gettr.com, category-media
 host-suffix, gfashion.com, category-media
 host-suffix, gnews.org, category-media
-host-suffix, gsearch.media, category-media
 host-suffix, gtv.org, category-media
 host-suffix, gtv1.org, category-media
 host-suffix, gtvmediagroupfairfund.com, category-media
@@ -673,7 +674,7 @@ host-suffix, guo.media, category-media
 host-suffix, gwiki.net, category-media
 host-suffix, gwins.org, category-media
 host-suffix, himalaya.exchange, category-media
-host-suffix, himalayawashingtondc.org, category-media
+host-suffix, hpayshop.com, category-media
 host-suffix, nfsc.global, category-media
 host-suffix, nfscdict.com, category-media
 host-suffix, rexcha.com, category-media
@@ -1178,6 +1179,7 @@ host-suffix, thomsonreuters.ru, category-media
 host-suffix, thomsonreutersmexico.com, category-media
 host-suffix, tmsnrt.rs, category-media
 host-suffix, tr.com, category-media
+host-suffix, reut.rs, category-media
 host-suffix, reuters.com, category-media
 host-suffix, reuters.tv, category-media
 host-suffix, reutersmedia.net, category-media

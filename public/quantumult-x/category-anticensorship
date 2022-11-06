@@ -16,6 +16,7 @@ host-suffix, gfw.report, category-anticensorship
 host-suffix, guardianproject.info, category-anticensorship
 host-suffix, ipfs.io, category-anticensorship
 host-suffix, jitsi.org, category-anticensorship
+host-suffix, lokinet.org, category-anticensorship
 host-suffix, ntc.party, category-anticensorship
 host-suffix, onionshare.org, category-anticensorship
 host-suffix, ooni.org, category-anticensorship
@@ -32,7 +33,6 @@ host-suffix, tribler.org, category-anticensorship
 host-suffix, tunsafe.com, category-anticensorship
 host-suffix, twister.net.co, category-anticensorship
 host-suffix, uproxy.org, category-anticensorship
-host-suffix, vpngate.org, category-anticensorship
 host-suffix, vuvuzela.io, category-anticensorship
 host-suffix, whonix.org, category-anticensorship
 host-suffix, wikileaks.org, category-anticensorship
@@ -54,3 +54,6 @@ host-suffix, softether-download.com, category-anticensorship
 host-suffix, v2ray.com, category-anticensorship
 host-suffix, v2ray.cool, category-anticensorship
 host-suffix, v2fly.org, category-anticensorship
+host-suffix, opengw.net, category-anticensorship
+host-suffix, vpngate.jp, category-anticensorship
+host-suffix, vpngate.net, category-anticensorship

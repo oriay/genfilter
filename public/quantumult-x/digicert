@@ -1,4 +1,5 @@
 host-suffix, digicert-cn.com, digicert
+host-suffix, digicert-validation.com, digicert
 host-suffix, digicert.cn, digicert
 host-suffix, digicert.com, digicert
 host-suffix, digitalcertvalidation.com, digicert
@@ -8,3 +9,5 @@ host-suffix, rapidssl.com, digicert
 host-suffix, thawte.com, digicert
 host-suffix, thawte.de, digicert
 host-suffix, thawte.fr, digicert
+host-suffix, quovadisglobal.com, digicert
+host-suffix, public-trust.com, digicert

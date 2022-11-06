@@ -26,7 +26,9 @@ DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,alimebot.com
 DOMAIN-SUFFIX,alimei.com
 DOMAIN-SUFFIX,alios.cn
+DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.com.cn
 DOMAIN-SUFFIX,alipaydns.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,aliplus.com
@@ -85,6 +87,7 @@ DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,supet.com
 DOMAIN-SUFFIX,ttpod.com
 DOMAIN-SUFFIX,wandoujia.com
+DOMAIN-SUFFIX,xin.xin
 DOMAIN-SUFFIX,xinlingshou.cn
 DOMAIN-SUFFIX,yowhale.com
 DOMAIN-SUFFIX,yunos-inc.com
@@ -93,6 +96,7 @@ DOMAIN-SUFFIX,yushanfang.com
 DOMAIN-SUFFIX,zuodao.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,cainiao.com
@@ -103,6 +107,11 @@ DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemashare.cn
 DOMAIN-SUFFIX,shyhhema.com
+DOMAIN-SUFFIX,antfortune.com
+DOMAIN-SUFFIX,fund123.cn
+DOMAIN-SUFFIX,antfin.com
+DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,antgroup-inc.cn
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,etao.com
@@ -137,6 +146,7 @@ DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.fm
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,koubei.com
+DOMAIN-SUFFIX,zhisheng.com
 DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com

@@ -45,3 +45,4 @@ host-suffix, payhulu.com, hulu
 host-suffix, registerhulu.com, hulu
 host-suffix, thehulubraintrust.com, hulu
 host-suffix, wwwhuluplus.com, hulu
+host, hulu.playback.edge.bamgrid.com, hulu

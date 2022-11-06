@@ -26,7 +26,9 @@ host-suffix, alimama.com, alibaba
 host-suffix, alimebot.com, alibaba
 host-suffix, alimei.com, alibaba
 host-suffix, alios.cn, alibaba
+host-suffix, alipay.cn, alibaba
 host-suffix, alipay.com, alibaba
+host-suffix, alipay.com.cn, alibaba
 host-suffix, alipaydns.com, alibaba
 host-suffix, alipayobjects.com, alibaba
 host-suffix, aliplus.com, alibaba
@@ -85,6 +87,7 @@ host-suffix, sparenode.com, alibaba
 host-suffix, supet.com, alibaba
 host-suffix, ttpod.com, alibaba
 host-suffix, wandoujia.com, alibaba
+host-suffix, xin.xin, alibaba
 host-suffix, xinlingshou.cn, alibaba
 host-suffix, yowhale.com, alibaba
 host-suffix, yunos-inc.com, alibaba
@@ -93,6 +96,7 @@ host-suffix, yushanfang.com, alibaba
 host-suffix, zuodao.com, alibaba
 host-suffix, aliexpress.com, alibaba
 host-suffix, aliexpress.ru, alibaba
+host-suffix, alipayplus.com, alibaba
 host-suffix, alicloudccp.com, alibaba
 host-suffix, aliyundrive.com, alibaba
 host-suffix, cainiao.com, alibaba
@@ -103,6 +107,11 @@ host-suffix, hemamax.com, alibaba
 host-suffix, hemaos.com, alibaba
 host-suffix, hemashare.cn, alibaba
 host-suffix, shyhhema.com, alibaba
+host-suffix, antfortune.com, alibaba
+host-suffix, fund123.cn, alibaba
+host-suffix, antfin.com, alibaba
+host-suffix, antgroup.com, alibaba
+host-suffix, antgroup-inc.cn, alibaba
 host-suffix, sm.cn, alibaba
 host-suffix, 1688.com, alibaba
 host-suffix, etao.com, alibaba
@@ -137,6 +146,7 @@ host-suffix, xiami.com, alibaba
 host-suffix, xiami.fm, alibaba
 host-suffix, xiami.net, alibaba
 host-suffix, koubei.com, alibaba
+host-suffix, zhisheng.com, alibaba
 host-suffix, npmmirror.com, alibaba
 host-suffix, a.alimama.cn, alibaba
 host-suffix, acjs.aliyun.com, alibaba

@@ -16,6 +16,7 @@ host-suffix, githubuniverse.com, github
 host-suffix, githubusercontent.com, github
 host-suffix, myoctocat.com, github
 host-suffix, opensource.guide, github
+host-suffix, repo.new, github
 host-suffix, thegithubshop.com, github
 host, github-cloud.s3.amazonaws.com, github
 host-suffix, npm.community, github
