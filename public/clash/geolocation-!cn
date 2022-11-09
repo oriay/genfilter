@@ -13034,6 +13034,7 @@ DOMAIN-SUFFIX,hentaiathome.net
 DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-SUFFIX,ero-labs.com
 DOMAIN-SUFFIX,ero-labs.net
+DOMAIN-SUFFIX,ero-labs.online
 DOMAIN-SUFFIX,erolabs.cloud
 DOMAIN-SUFFIX,erolabs.com
 DOMAIN-SUFFIX,erolabs.game
@@ -13708,6 +13709,7 @@ DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,greenend.org.uk
+DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,js.org
@@ -14048,6 +14050,8 @@ DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
@@ -19254,6 +19258,8 @@ DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net

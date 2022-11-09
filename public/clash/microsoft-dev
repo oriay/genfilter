@@ -50,6 +50,8 @@ DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net

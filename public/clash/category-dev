@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,greenend.org.uk
+DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,js.org
@@ -362,6 +363,8 @@ DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net

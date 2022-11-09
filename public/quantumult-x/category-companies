@@ -5098,6 +5098,8 @@ host-suffix, vfsforgit.com, category-companies
 host-suffix, vfsforgit.org, category-companies
 host-suffix, vsassets.io, category-companies
 host-suffix, vscode.dev, category-companies
+host-suffix, vscode-cdn.net, category-companies
+host-suffix, vscode-unpkg.net, category-companies
 host-suffix, xamarin.com, category-companies
 host, az764295.vo.msecnd.net, category-companies
 host, bingsettingssearch.trafficmanager.net, category-companies

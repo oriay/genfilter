@@ -13034,6 +13034,7 @@ host-suffix, hentaiathome.net, geolocation-!cn
 host-suffix, hentaiverse.org, geolocation-!cn
 host-suffix, ero-labs.com, geolocation-!cn
 host-suffix, ero-labs.net, geolocation-!cn
+host-suffix, ero-labs.online, geolocation-!cn
 host-suffix, erolabs.cloud, geolocation-!cn
 host-suffix, erolabs.com, geolocation-!cn
 host-suffix, erolabs.game, geolocation-!cn
@@ -13708,6 +13709,7 @@ host-suffix, getzola.org, geolocation-!cn
 host-suffix, git-scm.com, geolocation-!cn
 host-suffix, gnu.org, geolocation-!cn
 host-suffix, greenend.org.uk, geolocation-!cn
+host-suffix, hex.pm, geolocation-!cn
 host-suffix, ius.io, geolocation-!cn
 host-suffix, jenkins.io, geolocation-!cn
 host-suffix, js.org, geolocation-!cn
@@ -14048,6 +14050,8 @@ host-suffix, vfsforgit.com, geolocation-!cn
 host-suffix, vfsforgit.org, geolocation-!cn
 host-suffix, vsassets.io, geolocation-!cn
 host-suffix, vscode.dev, geolocation-!cn
+host-suffix, vscode-cdn.net, geolocation-!cn
+host-suffix, vscode-unpkg.net, geolocation-!cn
 host-suffix, xamarin.com, geolocation-!cn
 host, az764295.vo.msecnd.net, geolocation-!cn
 host, bingsettingssearch.trafficmanager.net, geolocation-!cn
@@ -19254,6 +19258,8 @@ host-suffix, vfsforgit.com, geolocation-!cn
 host-suffix, vfsforgit.org, geolocation-!cn
 host-suffix, vsassets.io, geolocation-!cn
 host-suffix, vscode.dev, geolocation-!cn
+host-suffix, vscode-cdn.net, geolocation-!cn
+host-suffix, vscode-unpkg.net, geolocation-!cn
 host-suffix, xamarin.com, geolocation-!cn
 host, az764295.vo.msecnd.net, geolocation-!cn
 host, bingsettingssearch.trafficmanager.net, geolocation-!cn

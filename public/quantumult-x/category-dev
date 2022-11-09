@@ -22,6 +22,7 @@ host-suffix, getzola.org, category-dev
 host-suffix, git-scm.com, category-dev
 host-suffix, gnu.org, category-dev
 host-suffix, greenend.org.uk, category-dev
+host-suffix, hex.pm, category-dev
 host-suffix, ius.io, category-dev
 host-suffix, jenkins.io, category-dev
 host-suffix, js.org, category-dev
@@ -362,6 +363,8 @@ host-suffix, vfsforgit.com, category-dev
 host-suffix, vfsforgit.org, category-dev
 host-suffix, vsassets.io, category-dev
 host-suffix, vscode.dev, category-dev
+host-suffix, vscode-cdn.net, category-dev
+host-suffix, vscode-unpkg.net, category-dev
 host-suffix, xamarin.com, category-dev
 host, az764295.vo.msecnd.net, category-dev
 host, bingsettingssearch.trafficmanager.net, category-dev

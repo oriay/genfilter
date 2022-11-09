@@ -501,6 +501,8 @@ host-suffix, vfsforgit.com, microsoft
 host-suffix, vfsforgit.org, microsoft
 host-suffix, vsassets.io, microsoft
 host-suffix, vscode.dev, microsoft
+host-suffix, vscode-cdn.net, microsoft
+host-suffix, vscode-unpkg.net, microsoft
 host-suffix, xamarin.com, microsoft
 host, az764295.vo.msecnd.net, microsoft
 host, bingsettingssearch.trafficmanager.net, microsoft
