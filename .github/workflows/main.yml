@@ -8,15 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v3.3.0
+     - uses: actions/setup-python@v4
+       with:
+         python-version: '3.9' 
      - name: Install jq
        uses: dcarbone/install-jq-action@v1.0.1
-     - name: setup
+     - name: install poetry
        run: curl -sSL https://install.python-poetry.org | python3 -
      - name: get release tag
        run: |
          export release_tag=$(curl  https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq -r '.tag_name')
          echo "release_tag=$release_tag" >> $GITHUB_ENV
-     - name: gene
+     - name: generate
        run: |
          poetry install
          poetry run genfilter -t all -g $release_tag
