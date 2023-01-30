@@ -1,0 +1,14 @@
+name: test-var
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+     - name: Install jq
+     - name: get release tag
+       run: |
+         export release_tag=$(curl  https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq -r '.tag_name')
+         echo "::set-env name=release_tag::$release_tag"
+     - name: read tag
+       run: echo $release_tag
