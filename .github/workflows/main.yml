@@ -4,7 +4,7 @@ on:
    - cron:  '30 5,17 * * *'
   workflow_dispatch:
 jobs:
-  first:
+  gen_filter:
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v3.3.0
