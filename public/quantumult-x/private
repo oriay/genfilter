@@ -106,6 +106,7 @@ host-suffix, 127.100.in-addr.arpa, private
 host, instant.arubanetworks.com, private
 host, setmeup.arubanetworks.com, private
 host, router.asus.com, private
+host-suffix, networkcheck.kde.org, private
 host-suffix, hiwifi.com, private
 host-suffix, leike.cc, private
 host-suffix, miwifi.com, private

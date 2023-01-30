@@ -2625,12 +2625,12 @@ host-suffix, , geolocation-cn
 host-suffix, , geolocation-cn
 host-suffix, tieba.baidu.com, geolocation-cn
 host-suffix, tieba.com, geolocation-cn
-host-suffix, Couldn't, geolocation-cn
-host-suffix, Couldn't, geolocation-cn
-host-suffix, Couldn't, geolocation-cn
-host-suffix, Couldn't, geolocation-cn
-host-suffix, Couldn't, geolocation-cn
-host-suffix, Couldn't, geolocation-cn
+host-suffix, 404:, geolocation-cn
+host-suffix, 404:, geolocation-cn
+host-suffix, 404:, geolocation-cn
+host-suffix, 404:, geolocation-cn
+host-suffix, 404:, geolocation-cn
+host-suffix, 404:, geolocation-cn
 host-suffix, aixcoder.com, geolocation-cn
 host-suffix, nnthink.com, geolocation-cn
 host-suffix, blogjava.net, geolocation-cn

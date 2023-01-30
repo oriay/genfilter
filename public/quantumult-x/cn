@@ -2640,12 +2640,12 @@ host-suffix, , cn
 host-suffix, , cn
 host-suffix, tieba.baidu.com, cn
 host-suffix, tieba.com, cn
-host-suffix, Couldn't, cn
-host-suffix, Couldn't, cn
-host-suffix, Couldn't, cn
-host-suffix, Couldn't, cn
-host-suffix, Couldn't, cn
-host-suffix, Couldn't, cn
+host-suffix, 404:, cn
+host-suffix, 404:, cn
+host-suffix, 404:, cn
+host-suffix, 404:, cn
+host-suffix, 404:, cn
+host-suffix, 404:, cn
 host-suffix, aixcoder.com, cn
 host-suffix, nnthink.com, cn
 host-suffix, blogjava.net, cn
