@@ -6,3 +6,5 @@ jobs:
     steps:
      - name: setup
        run: curl -sSL https://install.python-poetry.org | python3 -
+     - name: gene
+       run: poetry run genfilter -t all
