@@ -5,9 +5,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v3.3.0
+     - name: Install jq
+       uses: dcarbone/install-jq-action@v1.0.1
      - name: setup
        run: curl -sSL https://install.python-poetry.org | python3 -
+     - name: get release tag
+       run: export release_tag=$(curl  https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq '.tag_name')
      - name: gene
        run: |
          poetry install
-         poetry run genfilter -t all
+         poetry run genfilter -t all -g $release_tag
+     - name: Commit & Push changes
+       uses: actions-js/push@master
+       with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         branch: 'master'
+          
