@@ -1,6 +1,7 @@
 host-suffix, enterprisessl.com, sectigo
 host-suffix, hackerguardian.com, sectigo
 host-suffix, instantssl.com, sectigo
+host-suffix, oemssl.cn, sectigo
 host-suffix, optimumssl.com, sectigo
 host-suffix, positivessl.com, sectigo
 host-suffix, sectigo.com, sectigo

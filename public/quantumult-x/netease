@@ -4,10 +4,12 @@ host-suffix, 126.net, netease
 host-suffix, 127.com, netease
 host-suffix, 127.net, netease
 host-suffix, 163.com, netease
+host-suffix, 163cn.tv, netease
 host-suffix, 163industry.com, netease
 host-suffix, 163mail.com, netease
 host-suffix, 163qiyukf.com, netease
 host-suffix, 163yun.com, netease
+host-suffix, 166.com, netease
 host-suffix, 166.net, netease
 host-suffix, haowu.link, netease
 host-suffix, icourse163.org, netease
@@ -21,6 +23,7 @@ host-suffix, qiyukf.com, netease
 host-suffix, ydstatic.com, netease
 host-suffix, yeah.net, netease
 host-suffix, youdao.com, netease
+host-suffix, zhuanzfx.com, netease
 host-suffix, analytics.163.com, netease
 host-suffix, crash.163.com, netease
 host-suffix, crashlytics.163.com, netease

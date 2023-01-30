@@ -24,6 +24,8 @@ host-suffix, fofa.info, cn
 host-suffix, itdog.cn, cn
 host-suffix, webmasterhome.cn, cn
 host-suffix, kuaiduizuoye.com, cn
+host-suffix, infinitynewtab.com, cn
+host-suffix, inftab.com, cn
 host-suffix, ip138.com, cn
 host-suffix, ipplus360.com, cn
 host-suffix, mcmod.cn, cn
@@ -65,6 +67,13 @@ host-suffix, lsplayer.com, cn
 host-suffix, yeshen.com, cn
 host-suffix, upe.net, cn
 host-suffix, suzuki-china.com, cn
+host-suffix, chugou360.com, cn
+host-suffix, ycrx360.com, cn
+host-suffix, jikeiot.cloud, cn
+host-suffix, zyh365.com, cn
+host-suffix, cyol.com, cn
+host-suffix, webterren.com, cn
+host-suffix, zzdtec.com, cn
 host-suffix, 0123456789.com, cn
 host-suffix, 0379home.com, cn
 host-suffix, 055110.com, cn
@@ -218,6 +227,7 @@ host-suffix, aotrip.net, cn
 host-suffix, aoyou.com, cn
 host-suffix, apk3.com, cn
 host-suffix, apk8.com, cn
+host-suffix, aplaybox.com, cn
 host-suffix, appchina.com, cn
 host-suffix, appinn.com, cn
 host-suffix, arpun.com, cn
@@ -544,7 +554,6 @@ host-suffix, imedao.com, cn
 host-suffix, imgo.tv, cn
 host-suffix, imooc.com, cn
 host-suffix, indienova.com, cn
-host-suffix, infinitynewtab.com, cn
 host-suffix, infoq.com, cn
 host-suffix, infoqstatic.com, cn
 host-suffix, ip-cdn.com, cn
@@ -929,7 +938,6 @@ host-suffix, tuwan.com, cn
 host-suffix, tuwanjun.com, cn
 host-suffix, txrjy.com, cn
 host-suffix, u.tools, cn
-host-suffix, ubuntukylin.com, cn
 host-suffix, ucbug.com, cn
 host-suffix, uggame.com, cn
 host-suffix, uoko.com, cn
@@ -2053,9 +2061,11 @@ host-suffix, biligame.co, cn
 host-suffix, biligame.com, cn
 host-suffix, biligame.net, cn
 host-suffix, biligo.com, cn
+host-suffix, biliintl.com, cn
 host-suffix, bilivideo.cn, cn
 host-suffix, bilivideo.com, cn
 host-suffix, bilivideo.net, cn
+host-suffix, dreamcast.hk, cn
 host-suffix, hdslb.com, cn
 host-suffix, hdslb.org, cn
 host-suffix, im9.com, cn
@@ -2176,6 +2186,8 @@ host-suffix, ykimg.com, cn
 host-suffix, mmstat.com, cn
 host-suffix, soku.com, cn
 host-suffix, cibntv.net, cn
+host-suffix, youngmoe.com, cn
+host, blog.youngmoe.com, cn
 host-suffix, yy.com, cn
 host-suffix, yystatic.com, cn
 host-suffix, duowan.com, cn
@@ -2607,6 +2619,7 @@ host-suffix, ylike.net, cn
 host-suffix, zaifan.com, cn
 host-suffix, zaifan.com.cn, cn
 host-suffix, zhihang100.com, cn
+host-suffix, cnki.com.cn, cn
 host-suffix, cnki.net, cn
 host-suffix, wanfangdata.com.cn, cn
 host-suffix, wf.pub, cn
@@ -2622,123 +2635,16 @@ host-suffix, ihuman.com, cn
 host-suffix, hongen.com, cn
 host-suffix, wanfangdata.com.cn, cn
 host-suffix, wf.pub, cn
-host-suffix, tieba.baidu.com, cn
-host-suffix, tieba.com, cn
-host-suffix, bcy.net, cn
-host-suffix, bcyimg.com, cn
-host-suffix, lf-rc1.yhgfb-cn-static.com, cn
-host-suffix, douban.com, cn
-host-suffix, douban.fm, cn
-host-suffix, doubanio.com, cn
-host-suffix, 97973.com, cn
-host-suffix, picself.cn, cn
-host-suffix, sina.cn, cn
-host-suffix, sina.com, cn
-host-suffix, sina.com.cn, cn
-host-suffix, sina.net, cn
-host-suffix, sinaapp.com, cn
-host-suffix, sinaedge.com, cn
-host-suffix, sinaimg.cn, cn
-host-suffix, sinaimg.com, cn
-host-suffix, sinajs.cn, cn
-host-suffix, sinajs.com, cn
-host-suffix, t.cn, cn
-host-suffix, videoself.cn, cn
-host-suffix, wbimg.com, cn
-host-suffix, wbimg.cn, cn
-host-suffix, wcdn.cn, cn
-host-suffix, weibo.cn, cn
-host-suffix, weibo.com, cn
-host-suffix, weibo.com.cn, cn
-host-suffix, weibocdn.com, cn
-host-suffix, xhaiwai.com, cn
-host-suffix, 2016.sina.cn, cn
-host-suffix, ad.sina.com.cn, cn
-host-suffix, adbox.sina.com.cn, cn
-host-suffix, adimages.sina.com.hk, cn
-host-suffix, adimg.mobile.sina.cn, cn
-host-suffix, adimg.uve.weibo.com, cn
-host-suffix, adm.leju.sina.com.cn, cn
-host-suffix, ads.sina.com, cn
-host-suffix, alitui.weibo.com, cn
-host-suffix, api.apps.sina.cn, cn
-host-suffix, appgift.sinaapp.com, cn
-host-suffix, appsupdate.sinaapp.com, cn
-host-suffix, atm.sina.com, cn
-host-suffix, beacon.sina.com.cn, cn
-host-suffix, biz.weibo.com, cn
-host-suffix, c.biz.weibo.com, cn
-host-suffix, c.wcpt.biz.weibo.com, cn
-host-suffix, click.uve.mobile.sina.cn, cn
-host-suffix, click.uve.weibo.com, cn
-host-suffix, cm.dmp.sina.cn, cn
-host-suffix, contentrecommend-out.mobile.sina.cn, cn
-host-suffix, count.video.sina.com.cn, cn
-host-suffix, counter.sina.com.cn, cn
-host-suffix, cre.dp.sina.cn, cn
-host-suffix, cre-dp.sina.cn, cn
-host-suffix, d00.sina.com.cn, cn
-host-suffix, dcads.sina.com.cn, cn
-host-suffix, dl.kjava.sina.cn, cn
-host-suffix, dmp.sina.cn, cn
-host-suffix, dp.im.weibo.cn, cn
-host-suffix, game.weibo.cn, cn
-host-suffix, game.weibo.com, cn
-host-suffix, gw5.push.mcp.weibo.cn, cn
-host-suffix, gw6.push.mcp.weibo.cn, cn
-host-suffix, img.adbox.sina.com.cn, cn
-host-suffix, img.amp.ad.sina.com.cn, cn
-host-suffix, int.dpool.sina.com.cn, cn
-host-suffix, interest.mix.sina.com.cn, cn
-host-suffix, log.interest.mix.sina.com.cn, cn
-host-suffix, log.mix.sina.com.cn, cn
-host-suffix, log.sina.cn, cn
-host-suffix, m.beacon.sina.com.cn, cn
-host-suffix, m.game.weibo.cn, cn
-host-suffix, mg.games.sina.com.cn, cn
-host-suffix, motu.p4p.sina.com.cn, cn
-host-suffix, newspush.sinajs.cn, cn
-host-suffix, oascentral.sina.com, cn
-host-suffix, oascentral.sina.com.hk, cn
-host-suffix, p4p.sina.com.cn, cn
-host-suffix, palmnews.sina.cn, cn
-host-suffix, pay.mobile.sina.cn, cn
-host-suffix, pfp.sina.com.cn, cn
-host-suffix, pfpip.sina.com, cn
-host-suffix, promote.biz.weibo.cn, cn
-host-suffix, r.dmp.sina.cn, cn
-host-suffix, rm.sina.com.cn, cn
-host-suffix, rs.sinajs.cn, cn
-host-suffix, s.alitui.weibo.com, cn
-host-suffix, s.img.mix.sina.com.cn, cn
-host-suffix, sapi.sina.cn, cn
-host-suffix, sax.sina.cn, cn
-host-suffix, sax.sina.com.cn, cn
-host-suffix, saxn.sina.com.cn, cn
-host-suffix, saxs.sina.com.cn, cn
-host-suffix, sbeacon.sina.com.cn, cn
-host-suffix, sdkapp.mobile.sina.cn, cn
-host-suffix, sdkapp.uve.weibo.com, cn
-host-suffix, sdkclick.mobile.sina.cn, cn
-host-suffix, slog.sina.cn, cn
-host-suffix, slog.sina.com.cn, cn
-host-suffix, staticadm.leju.sina.com.cn, cn
-host-suffix, tjs.sjs.sinajs.cn, cn
-host-suffix, trends.mobile.sina.cn, cn
-host-suffix, u1.img.mobile.sina.cn, cn
-host-suffix, wapwbclick.mobile.sina.cn, cn
-host-suffix, wbapp.mobile.sina.cn, cn
-host-suffix, wbapp.uve.weibo.com, cn
-host-suffix, wbclick.mobile.sina.cn, cn
-host-suffix, wbpctips.mobile.sina.cn, cn
-host-suffix, widget.weibo.com, cn
-host-suffix, woocall.sina.com.cn, cn
-host-suffix, zc.biz.weibo.com, cn
-host-suffix, zymo.mps.weibo.com, cn
-host-suffix, xhscdn.com, cn
-host-suffix, xiaohongshu.com, cn
-host-suffix, zhihu.com, cn
-host-suffix, zhimg.com, cn
+host-suffix, , cn
+host-suffix, , cn
+host-suffix, tieba.baidu.com, cn
+host-suffix, tieba.com, cn
+host-suffix, Couldn't, cn
+host-suffix, Couldn't, cn
+host-suffix, Couldn't, cn
+host-suffix, Couldn't, cn
+host-suffix, Couldn't, cn
+host-suffix, Couldn't, cn
 host-suffix, aixcoder.com, cn
 host-suffix, nnthink.com, cn
 host-suffix, blogjava.net, cn
@@ -2803,6 +2709,8 @@ host-suffix, mysxl.cn, cn
 host-suffix, sxl.cn, cn
 host-suffix, sxlcdn.cn, cn
 host-suffix, tipdim.org, cn
+host-suffix, openkylin.top, cn
+host-suffix, ubuntukylin.com, cn
 host-suffix, xueyuanjun.com, cn
 host-suffix, 51nod.com, cn
 host-suffix, alibaba, cn
@@ -2904,6 +2812,8 @@ host-suffix, zuodao.com, cn
 host-suffix, aliexpress.com, cn
 host-suffix, aliexpress.ru, cn
 host-suffix, alipayplus.com, cn
+host-suffix, alipay.hk, cn
+host-suffix, alipaymo.com, cn
 host-suffix, alicloudccp.com, cn
 host-suffix, aliyundrive.com, cn
 host-suffix, cainiao.com, cn
@@ -3344,8 +3254,12 @@ host-suffix, bytedance.net, cn
 host-suffix, bytedanceapi.com, cn
 host-suffix, bytedns.net, cn
 host-suffix, bytednsdoc.com, cn
+host-suffix, bytedns1.com, cn
+host-suffix, bytefcdn.com, cn
 host-suffix, bytegoofy.com, cn
+host-suffix, bytegslb.com, cn
 host-suffix, byteimg.com, cn
+host-suffix, bytelb.net, cn
 host-suffix, byteoversea.com, cn
 host-suffix, bytescm.com, cn
 host-suffix, bytetcc.com, cn
@@ -3365,6 +3279,7 @@ host-suffix, zijiecdn.net, cn
 host-suffix, zjbyte.cn, cn
 host-suffix, zjcdn.com, cn
 host-suffix, toutiao.com, cn
+host-suffix, toutiaoapi.com, cn
 host-suffix, toutiaocdn.com, cn
 host-suffix, toutiaocloud.com, cn
 host-suffix, toutiaocloud.net, cn
@@ -3375,7 +3290,10 @@ host-suffix, toutiaoimg.com, cn
 host-suffix, toutiaoimg.net, cn
 host-suffix, toutiaopage.com, cn
 host-suffix, toutiaostatic.com, cn
+host-suffix, toutiaovod.com, cn
 host-suffix, douyin.com, cn
+host-suffix, douyincdn.com, cn
+host-suffix, douyinliving.com, cn
 host-suffix, douyinpic.com, cn
 host-suffix, douyinstatic.com, cn
 host-suffix, douyinvod.com, cn
@@ -3689,10 +3607,12 @@ host-suffix, 126.net, cn
 host-suffix, 127.com, cn
 host-suffix, 127.net, cn
 host-suffix, 163.com, cn
+host-suffix, 163cn.tv, cn
 host-suffix, 163industry.com, cn
 host-suffix, 163mail.com, cn
 host-suffix, 163qiyukf.com, cn
 host-suffix, 163yun.com, cn
+host-suffix, 166.com, cn
 host-suffix, 166.net, cn
 host-suffix, haowu.link, cn
 host-suffix, icourse163.org, cn
@@ -3706,6 +3626,7 @@ host-suffix, qiyukf.com, cn
 host-suffix, ydstatic.com, cn
 host-suffix, yeah.net, cn
 host-suffix, youdao.com, cn
+host-suffix, zhuanzfx.com, cn
 host-suffix, analytics.163.com, cn
 host-suffix, crash.163.com, cn
 host-suffix, crashlytics.163.com, cn
@@ -3754,6 +3675,7 @@ host-suffix, 360shouji.com, cn
 host-suffix, 360taojin.com, cn
 host-suffix, 360totalsecurity.com, cn
 host-suffix, 360tpcdn.com, cn
+host-suffix, 360tres.com, cn
 host-suffix, 360webcache.com, cn
 host-suffix, 360zqaq.com, cn
 host-suffix, anquanke.com, cn
@@ -4433,3 +4355,19 @@ host-suffix, qyyjt.cn, cn
 host-suffix, jindidata.com, cn
 host-suffix, tianyancha.com, cn
 host-suffix, x315.com, cn
+host-suffix, , cn
+host-suffix, bjyouth.gov.cn, cn
+host-suffix, bjyouth.net, cn
+host-suffix, sqqnh.cn, cn
+host-suffix, sqqnh.org, cn
+host-suffix, , cn
+host-suffix, gongqingyun.cn, cn
+host-suffix, jzfz.net, cn
+host-suffix, sumkoo.cn, cn
+host-suffix, sumkoo.com, cn
+host-suffix, sumkoo.net, cn
+host-suffix, veeqi.net, cn
+host-suffix, wenmingban.com, cn
+host-suffix, zhiyuanhe.cn, cn
+host-suffix, zhiyuanyun.com.cn, cn
+host-suffix, zyhe.com.cn, cn

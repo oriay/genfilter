@@ -48,3 +48,5 @@ host-suffix, myicloud.net, icloud
 host-suffix, mylcloud.net, icloud
 host-suffix, wwwicloud.com, icloud
 host, www-cdn.icloud.com.akadns.net, icloud
+host-suffix, mask-h2.icloud.com, icloud
+host-suffix, mask.icloud.com, icloud

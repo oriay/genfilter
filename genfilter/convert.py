@@ -59,9 +59,9 @@ def convert_clash(domain_list, file_name):
             e.write(item+"\n")
 
 
-def convert(target):
+def convert(target, tag="latest"):
     creat_dirs(target)
-    data = DataExtrator("latest")
+    data = DataExtrator(tag)
     file_list = data.get_file_list()
     with Progress() as progress:
         if target != "all":

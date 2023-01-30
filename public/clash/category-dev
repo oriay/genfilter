@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,atom.io
@@ -8,6 +9,7 @@ DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
 DOMAIN-SUFFIX,clojure.org
 DOMAIN-SUFFIX,cnpmjs.org
+DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cython.org
 DOMAIN-SUFFIX,deno.land
@@ -23,6 +25,7 @@ DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,greenend.org.uk
 DOMAIN-SUFFIX,hex.pm
+DOMAIN-SUFFIX,hexdocs.pm
 DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,js.org
@@ -64,6 +67,8 @@ DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
+DOMAIN-SUFFIX,wapm.io
+DOMAIN-SUFFIX,wasmer.io
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xposed.info
@@ -285,7 +290,6 @@ DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,acpica.com
-DOMAIN-SUFFIX,clearlinux.cn
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
@@ -410,6 +414,10 @@ DOMAIN-SUFFIX,redislabs.com
 DOMAIN-SUFFIX,remirepo.net
 DOMAIN-SUFFIX,ruby-lang.org
 DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
 DOMAIN-SUFFIX,askubuntu.com

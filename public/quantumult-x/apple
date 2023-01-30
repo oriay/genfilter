@@ -1661,6 +1661,8 @@ host-suffix, myicloud.net, apple
 host-suffix, mylcloud.net, apple
 host-suffix, wwwicloud.com, apple
 host, www-cdn.icloud.com.akadns.net, apple
+host-suffix, mask-h2.icloud.com, apple
+host-suffix, mask.icloud.com, apple
 host-suffix, 12diasdepresentesdeitunes.com, apple
 host-suffix, 12diasderegalosdeitunes.cl, apple
 host-suffix, 12diasderegalosdeitunes.co, apple

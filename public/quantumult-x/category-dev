@@ -1,3 +1,4 @@
+host-suffix, adventofcode.com, category-dev
 host-suffix, alpinelinux.org, category-dev
 host-suffix, apache.org, category-dev
 host-suffix, atom.io, category-dev
@@ -8,6 +9,7 @@ host-suffix, centos.org, category-dev
 host-suffix, chocolatey.org, category-dev
 host-suffix, clojure.org, category-dev
 host-suffix, cnpmjs.org, category-dev
+host-suffix, codeberg.org, category-dev
 host-suffix, cygwin.com, category-dev
 host-suffix, cython.org, category-dev
 host-suffix, deno.land, category-dev
@@ -23,6 +25,7 @@ host-suffix, git-scm.com, category-dev
 host-suffix, gnu.org, category-dev
 host-suffix, greenend.org.uk, category-dev
 host-suffix, hex.pm, category-dev
+host-suffix, hexdocs.pm, category-dev
 host-suffix, ius.io, category-dev
 host-suffix, jenkins.io, category-dev
 host-suffix, js.org, category-dev
@@ -64,6 +67,8 @@ host-suffix, termius.com, category-dev
 host-suffix, unpkg.com, category-dev
 host-suffix, videojs.com, category-dev
 host-suffix, videolan.org, category-dev
+host-suffix, wapm.io, category-dev
+host-suffix, wasmer.io, category-dev
 host-suffix, wireshark.org, category-dev
 host-suffix, x.org, category-dev
 host-suffix, xposed.info, category-dev
@@ -285,7 +290,6 @@ host-suffix, oneapi.com, category-dev
 host-suffix, openvinotoolkit.org, category-dev
 host-suffix, snap-telemetry.io, category-dev
 host-suffix, acpica.com, category-dev
-host-suffix, clearlinux.cn, category-dev
 host-suffix, clearlinux.org, category-dev
 host-suffix, ospray.net, category-dev
 host-suffix, ospray.org, category-dev
@@ -410,6 +414,10 @@ host-suffix, redislabs.com, category-dev
 host-suffix, remirepo.net, category-dev
 host-suffix, ruby-lang.org, category-dev
 host-suffix, rubygems.org, category-dev
+host-suffix, rust-lang.org, category-dev
+host-suffix, rustup.rs, category-dev
+host-suffix, crates.io, category-dev
+host-suffix, docs.rs, category-dev
 host-suffix, scala-lang.org, category-dev
 host-suffix, scala-sbt.org, category-dev
 host-suffix, askubuntu.com, category-dev

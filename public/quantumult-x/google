@@ -38,6 +38,7 @@ host-suffix, google.ci, google
 host-suffix, google.cl, google
 host-suffix, google.cm, google
 host-suffix, google.cn, google
+host-suffix, google.co, google
 host-suffix, google.co.ao, google
 host-suffix, google.co.bw, google
 host-suffix, google.co.ck, google
@@ -257,7 +258,6 @@ host-suffix, coova.com, google
 host-suffix, coova.net, google
 host-suffix, coova.org, google
 host-suffix, crossmediapanel.com, google
-host-suffix, crr.com, google
 host-suffix, cs4hs.com, google
 host-suffix, dartsearch.net, google
 host-suffix, dataliberation.org, google
@@ -298,6 +298,7 @@ host-suffix, goo.gl, google
 host-suffix, googel.com, google
 host-suffix, googil.com, google
 host-suffix, googl.com, google
+host-suffix, google-access.net, google
 host-suffix, google-syndication.com, google
 host-suffix, google.berlin, google
 host-suffix, google.dev, google
@@ -759,12 +760,17 @@ host-suffix, googletagservices.com, google
 host-suffix, googletraveladservices.com, google
 host-suffix, urchin.com, google
 host-suffix, charlestonroadregistry.com, google
+host-suffix, crr.com, google
 host-suffix, registry.google, google
 host-suffix, get.app, google
 host-suffix, get.dev, google
 host-suffix, get.how, google
+host-suffix, get.new, google
 host-suffix, get.page, google
+host-suffix, get.rsvp, google
+host-suffix, hey.boo, google
 host-suffix, iam.soy, google
+host-suffix, new.day, google
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, google
 host, scholar.google.ae, google
 host, scholar.google.at, google
@@ -870,6 +876,7 @@ host-suffix, youtube, google
 host-suffix, ggpht.cn, google
 host-suffix, ggpht.com, google
 host-suffix, googlevideo.com, google
+host-suffix, wide-youtube.l.google.com, google
 host-suffix, withyoutube.com, google
 host-suffix, youtu.be, google
 host-suffix, youtube-nocookie.com, google

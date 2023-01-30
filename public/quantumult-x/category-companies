@@ -2002,6 +2002,8 @@ host-suffix, myicloud.net, category-companies
 host-suffix, mylcloud.net, category-companies
 host-suffix, wwwicloud.com, category-companies
 host, www-cdn.icloud.com.akadns.net, category-companies
+host-suffix, mask-h2.icloud.com, category-companies
+host-suffix, mask.icloud.com, category-companies
 host-suffix, 12diasdepresentesdeitunes.com, category-companies
 host-suffix, 12diasderegalosdeitunes.cl, category-companies
 host-suffix, 12diasderegalosdeitunes.co, category-companies
@@ -2581,6 +2583,7 @@ host-suffix, google.ci, category-companies
 host-suffix, google.cl, category-companies
 host-suffix, google.cm, category-companies
 host-suffix, google.cn, category-companies
+host-suffix, google.co, category-companies
 host-suffix, google.co.ao, category-companies
 host-suffix, google.co.bw, category-companies
 host-suffix, google.co.ck, category-companies
@@ -2800,7 +2803,6 @@ host-suffix, coova.com, category-companies
 host-suffix, coova.net, category-companies
 host-suffix, coova.org, category-companies
 host-suffix, crossmediapanel.com, category-companies
-host-suffix, crr.com, category-companies
 host-suffix, cs4hs.com, category-companies
 host-suffix, dartsearch.net, category-companies
 host-suffix, dataliberation.org, category-companies
@@ -2841,6 +2843,7 @@ host-suffix, goo.gl, category-companies
 host-suffix, googel.com, category-companies
 host-suffix, googil.com, category-companies
 host-suffix, googl.com, category-companies
+host-suffix, google-access.net, category-companies
 host-suffix, google-syndication.com, category-companies
 host-suffix, google.berlin, category-companies
 host-suffix, google.dev, category-companies
@@ -3302,12 +3305,17 @@ host-suffix, googletagservices.com, category-companies
 host-suffix, googletraveladservices.com, category-companies
 host-suffix, urchin.com, category-companies
 host-suffix, charlestonroadregistry.com, category-companies
+host-suffix, crr.com, category-companies
 host-suffix, registry.google, category-companies
 host-suffix, get.app, category-companies
 host-suffix, get.dev, category-companies
 host-suffix, get.how, category-companies
+host-suffix, get.new, category-companies
 host-suffix, get.page, category-companies
+host-suffix, get.rsvp, category-companies
+host-suffix, hey.boo, category-companies
 host-suffix, iam.soy, category-companies
+host-suffix, new.day, category-companies
 host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, category-companies
 host, scholar.google.ae, category-companies
 host, scholar.google.at, category-companies
@@ -3413,6 +3421,7 @@ host-suffix, youtube, category-companies
 host-suffix, ggpht.cn, category-companies
 host-suffix, ggpht.com, category-companies
 host-suffix, googlevideo.com, category-companies
+host-suffix, wide-youtube.l.google.com, category-companies
 host-suffix, withyoutube.com, category-companies
 host-suffix, youtu.be, category-companies
 host-suffix, youtube-nocookie.com, category-companies
@@ -4028,7 +4037,6 @@ host-suffix, oneapi.com, category-companies
 host-suffix, openvinotoolkit.org, category-companies
 host-suffix, snap-telemetry.io, category-companies
 host-suffix, acpica.com, category-companies
-host-suffix, clearlinux.cn, category-companies
 host-suffix, clearlinux.org, category-companies
 host-suffix, ospray.net, category-companies
 host-suffix, ospray.org, category-companies
@@ -4048,6 +4056,7 @@ host-suffix, logicoolg.com, category-companies
 host-suffix, logitech.biz, category-companies
 host-suffix, logitech.com, category-companies
 host-suffix, logitech.fr, category-companies
+host-suffix, logitech.io, category-companies
 host-suffix, logitechg.com, category-companies
 host-suffix, logitechg.fr, category-companies
 host-suffix, worldsfastestgamer.net, category-companies
@@ -4323,7 +4332,9 @@ host-suffix, favebook.com, category-companies
 host-suffix, faycbok.com, category-companies
 host-suffix, fb.careers, category-companies
 host-suffix, fb.com, category-companies
+host-suffix, fb.gg, category-companies
 host-suffix, fb.me, category-companies
+host-suffix, fb.watch, category-companies
 host-suffix, fbacebook.com, category-companies
 host-suffix, fbbmarket.com, category-companies
 host-suffix, fbboostyourbusiness.com, category-companies
@@ -4344,6 +4355,7 @@ host-suffix, fbthirdpartypixel.com, category-companies
 host-suffix, fbthirdpartypixel.net, category-companies
 host-suffix, fbthirdpartypixel.org, category-companies
 host-suffix, fburl.com, category-companies
+host-suffix, fbwat.ch, category-companies
 host-suffix, fbworkmail.com, category-companies
 host-suffix, fcacebook.com, category-companies
 host-suffix, fcaebook.com, category-companies
@@ -4854,6 +4866,9 @@ host-suffix, windowsupdate.com, category-companies
 host-suffix, winhec.com, category-companies
 host-suffix, winhec.net, category-companies
 host-suffix, yammer.com, category-companies
+host-suffix, edge-skype-com.s-0001.s-msedge.net, category-companies
+host-suffix, skype-edf.akadns.net, category-companies
+host-suffix, skypedata.akadns.net, category-companies
 host-suffix, dl.delivery.mp.microsoft.com, category-companies
 host-suffix, download.windowsupdate.com, category-companies
 host, bg.v4.a.dl.ws.microsoft.com, category-companies
@@ -4914,6 +4929,7 @@ host-suffix, azure.cn, category-companies
 host-suffix, azure.com, category-companies
 host-suffix, azure.net, category-companies
 host-suffix, azurecomcdn.net, category-companies
+host-suffix, azurecomm.net, category-companies
 host-suffix, azurecontainer.io, category-companies
 host-suffix, azurecosmos.net, category-companies
 host-suffix, azurecosmosdb.com, category-companies
@@ -5222,6 +5238,7 @@ host-suffix, line-apps.com, category-companies
 host-suffix, line-beta.me, category-companies
 host-suffix, line-cdn.net, category-companies
 host-suffix, line-scdn.net, category-companies
+host-suffix, line.biz, category-companies
 host-suffix, line.me, category-companies
 host-suffix, line.naver.jp, category-companies
 host-suffix, linecorp.com, category-companies
@@ -5287,6 +5304,7 @@ host-suffix, nvidia.ru, category-companies
 host-suffix, nvidia.se, category-companies
 host-suffix, nvidia.tw, category-companies
 host-suffix, nvidiaforhp.com, category-companies
+host-suffix, nvidiagrid.net, category-companies
 host-suffix, shotwithgeforce.com, category-companies
 host-suffix, tegrazone.co, category-companies
 host-suffix, tegrazone.co.kr, category-companies
@@ -5294,6 +5312,7 @@ host-suffix, tegrazone.com, category-companies
 host-suffix, tegrazone.jp, category-companies
 host-suffix, tegrazone.kr, category-companies
 host, nvidia.tt.omtrdc.net, category-companies
+host-suffix, openai.com, category-companies
 host-suffix, openweather.co.uk, category-companies
 host-suffix, openweathermap.org, category-companies
 host-suffix, oracle, category-companies
@@ -5391,6 +5410,10 @@ host-suffix, wirelessreach.com, category-companies
 host-suffix, xtracloud.cn, category-companies
 host-suffix, brewmp.com, category-companies
 host, qualcomm.sc.omtrdc.net, category-companies
+host-suffix, qwant.com, category-companies
+host-suffix, qwant.de, category-companies
+host-suffix, qwant.fr, category-companies
+host-suffix, qwant.it, category-companies
 host-suffix, razer.com, category-companies
 host-suffix, razersupport.com, category-companies
 host-suffix, razerzone.com, category-companies
@@ -5464,12 +5487,13 @@ host-suffix, smartonesolutions.com.hk, category-companies
 host-suffix, smartonesolutions.hk, category-companies
 host-suffix, valuegb.com, category-companies
 host-suffix, wise-research.com, category-companies
+host-suffix, snapads.com, category-companies
 host-suffix, sc-cdn.net, category-companies
 host-suffix, snap-dev.net, category-companies
 host-suffix, snap.com, category-companies
-host-suffix, snapads.com, category-companies
 host-suffix, snapchat.com, category-companies
 host-suffix, snapkit.co, category-companies
+host, impala-media-production.s3.amazonaws.com, category-companies
 host-suffix, sony, category-companies
 host-suffix, ginzasonypark.jp, category-companies
 host-suffix, sony-africa.com, category-companies
@@ -5756,6 +5780,7 @@ host-suffix, yahoo.vg, category-companies
 host-suffix, yahoo.ws, category-companies
 host-suffix, maktoob.com, category-companies
 host-suffix, myguide.hk, category-companies
+host-suffix, techcrunch.com, category-companies
 host-suffix, yahoo-news.com.hk, category-companies
 host-suffix, yahooapis.com, category-companies
 host-suffix, yahoodns.net, category-companies
@@ -5956,6 +5981,7 @@ host-suffix, yahoo.vg, category-companies
 host-suffix, yahoo.ws, category-companies
 host-suffix, maktoob.com, category-companies
 host-suffix, myguide.hk, category-companies
+host-suffix, techcrunch.com, category-companies
 host-suffix, yahoo-news.com.hk, category-companies
 host-suffix, yahooapis.com, category-companies
 host-suffix, yahoodns.net, category-companies

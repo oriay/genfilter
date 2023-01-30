@@ -20,6 +20,7 @@ host-suffix, weverse.io, category-entertainment
 host-suffix, yande.re, category-entertainment
 host-suffix, abema.io, category-entertainment
 host-suffix, abema.tv, category-entertainment
+host-suffix, abema-tv.com, category-entertainment
 host-suffix, adx.promo, category-entertainment
 host-suffix, ameba.jp, category-entertainment
 host-suffix, amebame.com, category-entertainment
@@ -864,6 +865,7 @@ host-suffix, espn.net, category-entertainment
 host-suffix, espncdn.com, category-entertainment
 host-suffix, espnqa.com, category-entertainment
 host-suffix, watchespn.com, category-entertainment
+host, espn.api.edge.bamgrid.com, category-entertainment
 host, espn.hb.omtrdc.net, category-entertainment
 host, espndotcom.tt.omtrdc.net, category-entertainment
 host-suffix, hotstar.com, category-entertainment
@@ -1014,6 +1016,7 @@ host-suffix, nbys.tv, category-entertainment
 host-suffix, nbyy.tv, category-entertainment
 host-suffix, nbys1.tv, category-entertainment
 host-suffix, newpppp.com, category-entertainment
+host-suffix, nivod.tv, category-entertainment
 host-suffix, vod360.net, category-entertainment
 host-suffix, mytvsuper.com, category-entertainment
 host-suffix, tvb.com, category-entertainment
@@ -1110,7 +1113,12 @@ host-suffix, spotifycodes.com, category-entertainment
 host-suffix, spotifyforbrands.com, category-entertainment
 host-suffix, spotifyjobs.com, category-entertainment
 host, audio-ak-spotify-com.akamaized.net, category-entertainment
+host, audio4-ak-spotify-com.akamaized.net, category-entertainment
+host, heads-ak-spotify-com.akamaized.net, category-entertainment
 host, heads4-ak-spotify-com.akamaized.net, category-entertainment
+host, spotify.com.edgesuite.net, category-entertainment
+host, spotify.map.fastly.net, category-entertainment
+host, spotify.map.fastlylb.net, category-entertainment
 host-suffix, subscene.com, category-entertainment
 host, i.jeded.com, category-entertainment
 host-suffix, tidal.com, category-entertainment
@@ -1182,6 +1190,7 @@ host-suffix, youtube, category-entertainment
 host-suffix, ggpht.cn, category-entertainment
 host-suffix, ggpht.com, category-entertainment
 host-suffix, googlevideo.com, category-entertainment
+host-suffix, wide-youtube.l.google.com, category-entertainment
 host-suffix, withyoutube.com, category-entertainment
 host-suffix, youtu.be, category-entertainment
 host-suffix, youtube-nocookie.com, category-entertainment

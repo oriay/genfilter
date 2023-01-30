@@ -6,6 +6,7 @@ host-suffix, t.me, telegram
 host-suffix, tdesktop.com, telegram
 host-suffix, telega.one, telegram
 host-suffix, telegra.ph, telegram
+host-suffix, telegram-cdn.org, telegram
 host-suffix, telegram.dog, telegram
 host-suffix, telegram.me, telegram
 host-suffix, telegram.org, telegram

@@ -44,6 +44,7 @@ host-suffix, comodoca3.com, category-cas
 host-suffix, comodoca4.com, category-cas
 host-suffix, cybertrust.co.jp, category-cas
 host-suffix, cybertrust.ne.jp, category-cas
+host-suffix, dcocsp.cn, category-cas
 host-suffix, digicert-cn.com, category-cas
 host-suffix, digicert-validation.com, category-cas
 host-suffix, digicert.cn, category-cas
@@ -117,6 +118,7 @@ host-suffix, managedpki.ne.jp, category-cas
 host-suffix, enterprisessl.com, category-cas
 host-suffix, hackerguardian.com, category-cas
 host-suffix, instantssl.com, category-cas
+host-suffix, oemssl.cn, category-cas
 host-suffix, optimumssl.com, category-cas
 host-suffix, positivessl.com, category-cas
 host-suffix, sectigo.com, category-cas
@@ -372,6 +374,7 @@ host-suffix, yahoo.vg, category-cas
 host-suffix, yahoo.ws, category-cas
 host-suffix, maktoob.com, category-cas
 host-suffix, myguide.hk, category-cas
+host-suffix, techcrunch.com, category-cas
 host-suffix, yahoo-news.com.hk, category-cas
 host-suffix, yahooapis.com, category-cas
 host-suffix, yahoodns.net, category-cas

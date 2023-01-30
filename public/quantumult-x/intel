@@ -255,7 +255,6 @@ host-suffix, oneapi.com, intel
 host-suffix, openvinotoolkit.org, intel
 host-suffix, snap-telemetry.io, intel
 host-suffix, acpica.com, intel
-host-suffix, clearlinux.cn, intel
 host-suffix, clearlinux.org, intel
 host-suffix, ospray.net, intel
 host-suffix, ospray.org, intel

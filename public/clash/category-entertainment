@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,amebame.com
@@ -864,6 +865,7 @@ DOMAIN-SUFFIX,espn.net
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,watchespn.com
+DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN-SUFFIX,hotstar.com
@@ -1014,6 +1016,7 @@ DOMAIN-SUFFIX,nbys.tv
 DOMAIN-SUFFIX,nbyy.tv
 DOMAIN-SUFFIX,nbys1.tv
 DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,nivod.tv
 DOMAIN-SUFFIX,vod360.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
@@ -1110,7 +1113,12 @@ DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN,audio-ak-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
+DOMAIN,spotify.com.edgesuite.net
+DOMAIN,spotify.map.fastly.net
+DOMAIN,spotify.map.fastlylb.net
 DOMAIN-SUFFIX,subscene.com
 DOMAIN,i.jeded.com
 DOMAIN-SUFFIX,tidal.com
@@ -1182,6 +1190,7 @@ DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com

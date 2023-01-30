@@ -7,8 +7,12 @@ host-suffix, bytedance.net, bytedance
 host-suffix, bytedanceapi.com, bytedance
 host-suffix, bytedns.net, bytedance
 host-suffix, bytednsdoc.com, bytedance
+host-suffix, bytedns1.com, bytedance
+host-suffix, bytefcdn.com, bytedance
 host-suffix, bytegoofy.com, bytedance
+host-suffix, bytegslb.com, bytedance
 host-suffix, byteimg.com, bytedance
+host-suffix, bytelb.net, bytedance
 host-suffix, byteoversea.com, bytedance
 host-suffix, bytescm.com, bytedance
 host-suffix, bytetcc.com, bytedance
@@ -28,6 +32,7 @@ host-suffix, zijiecdn.net, bytedance
 host-suffix, zjbyte.cn, bytedance
 host-suffix, zjcdn.com, bytedance
 host-suffix, toutiao.com, bytedance
+host-suffix, toutiaoapi.com, bytedance
 host-suffix, toutiaocdn.com, bytedance
 host-suffix, toutiaocloud.com, bytedance
 host-suffix, toutiaocloud.net, bytedance
@@ -38,7 +43,10 @@ host-suffix, toutiaoimg.com, bytedance
 host-suffix, toutiaoimg.net, bytedance
 host-suffix, toutiaopage.com, bytedance
 host-suffix, toutiaostatic.com, bytedance
+host-suffix, toutiaovod.com, bytedance
 host-suffix, douyin.com, bytedance
+host-suffix, douyincdn.com, bytedance
+host-suffix, douyinliving.com, bytedance
 host-suffix, douyinpic.com, bytedance
 host-suffix, douyinstatic.com, bytedance
 host-suffix, douyinvod.com, bytedance

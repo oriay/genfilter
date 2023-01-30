@@ -1,3 +1,4 @@
+host-suffix, argotunnel.com, cloudflare
 host-suffix, cf-ipfs.com, cloudflare
 host-suffix, cloudflare-dns.com, cloudflare
 host-suffix, cloudflare-ipfs.com, cloudflare
@@ -5,6 +6,7 @@ host-suffix, cloudflare-quic.com, cloudflare
 host-suffix, cloudflare.com, cloudflare
 host-suffix, cloudflare.net, cloudflare
 host-suffix, cloudflare.tv, cloudflare
+host-suffix, cloudflareaccess.com, cloudflare
 host-suffix, cloudflareapps.com, cloudflare
 host-suffix, cloudflarebolt.com, cloudflare
 host-suffix, cloudflareclient.com, cloudflare
@@ -26,3 +28,17 @@ host-suffix, trycloudflare.com, cloudflare
 host-suffix, videodelivery.net, cloudflare
 host-suffix, warp.plus, cloudflare
 host-suffix, workers.dev, cloudflare
+host-suffix, cf-ns.com, cloudflare
+host-suffix, cf-ns.net, cloudflare
+host-suffix, cf-ns.tech, cloudflare
+host-suffix, cf-ns.site, cloudflare
+host-suffix, cftest5.cn, cloudflare
+host-suffix, cftest6.cn, cloudflare
+host-suffix, cftest7.com, cloudflare
+host-suffix, cftest8.com, cloudflare
+host-suffix, cloudflare-cn.com, cloudflare
+host-suffix, cloudflarecn.net, cloudflare
+host-suffix, cloudflareinsights-cn.com, cloudflare
+host-suffix, cloudflareprod.com, cloudflare
+host-suffix, cloudflarestaging.com, cloudflare
+host-suffix, cloudflarestoragegw.com, cloudflare

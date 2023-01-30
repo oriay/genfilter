@@ -1,6 +1,8 @@
 host-suffix, balad.ir, category-ir
 host-suffix, neshan.org, category-ir
 host-suffix, varzesh3.com, category-ir
+host-suffix, isignal.ir, category-ir
+host-suffix, tgju.org, category-ir
 host-suffix, agri-bank.com, category-ir
 host-suffix, ansarbank.com, category-ir
 host-suffix, bank-maskan.ir, category-ir
@@ -22,6 +24,7 @@ host-suffix, mebank.ir, category-ir
 host-suffix, parsian-bank.com, category-ir
 host-suffix, postbank.ir, category-ir
 host-suffix, qmb.ir, category-ir
+host-suffix, rb24.ir, category-ir
 host-suffix, refah-bank.ir, category-ir
 host-suffix, rqbank.ir, category-ir
 host-suffix, sb24.com, category-ir
@@ -64,6 +67,7 @@ host-suffix, samanbourse.com, category-ir
 host-suffix, sdbhouse.com, category-ir
 host-suffix, sepahbourse.com, category-ir
 host-suffix, tadbirgar.com, category-ir
+host-suffix, adliran.ir, category-ir
 host-suffix, bazresi.ir, category-ir
 host-suffix, bia-judiciary.ir, category-ir
 host-suffix, budget.imo.org.ir, category-ir
@@ -78,6 +82,7 @@ host-suffix, eadl.ir, category-ir
 host-suffix, gov.ir, category-ir
 host-suffix, hadafmandi.ir, category-ir
 host-suffix, intamedia.ir, category-ir
+host-suffix, irimo.ir, category-ir
 host-suffix, mporg.ir, category-ir
 host-suffix, parliran.ir, category-ir
 host-suffix, president.ir, category-ir
@@ -124,6 +129,8 @@ host-suffix, telewebion.com, category-ir
 host-suffix, tv3.ir, category-ir
 host-suffix, tv5.ir, category-ir
 host-suffix, tv7.ir, category-ir
+host-suffix, asanpardakht.com, category-ir
+host-suffix, asanpardakht.net, category-ir
 host-suffix, behpardakht.com, category-ir
 host-suffix, iranicard.ir, category-ir
 host-suffix, mydigipay.com, category-ir
@@ -139,6 +146,7 @@ host-suffix, edu.ir, category-ir
 host-suffix, jtt.ir, category-ir
 host-suffix, sharif.ir, category-ir
 host-suffix, srttu.edu, category-ir
+host-suffix, digi-kala.com, category-ir
 host-suffix, digikala.com, category-ir
 host-suffix, divar.ir, category-ir
 host-suffix, emalls.ir, category-ir
@@ -149,6 +157,7 @@ host-suffix, torob.com, category-ir
 host-suffix, zanbil.ir, category-ir
 host-suffix, afranet.com, category-ir
 host-suffix, arvancloud.com, category-ir
+host-suffix, arvancloud.ir, category-ir
 host-suffix, asiatech.ir, category-ir
 host-suffix, download.ir, category-ir
 host-suffix, git.ir, category-ir
@@ -158,6 +167,7 @@ host-suffix, iranserver.com, category-ir
 host-suffix, mci.ir, category-ir
 host-suffix, mihanwebhost.com, category-ir
 host-suffix, mobinnet.ir, category-ir
+host-suffix, myket.ir, category-ir
 host-suffix, p30download.com, category-ir
 host-suffix, p30download.ir, category-ir
 host-suffix, parsonline.com, category-ir
@@ -171,5 +181,9 @@ host-suffix, tci.ir, category-ir
 host-suffix, alibaba.ir, category-ir
 host-suffix, flightio.com, category-ir
 host-suffix, mrbilit.com, category-ir
+host-suffix, snapp.cab, category-ir
 host-suffix, snapp.ir, category-ir
+host-suffix, snapp.site, category-ir
+host-suffix, snapp.taxi, category-ir
+host-suffix, snapp.tech, category-ir
 host-suffix, tapsi.ir, category-ir

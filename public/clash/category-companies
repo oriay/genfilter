@@ -2002,6 +2002,8 @@ DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co
@@ -2581,6 +2583,7 @@ DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
 DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
 DOMAIN-SUFFIX,google.co.ck
@@ -2800,7 +2803,6 @@ DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
 DOMAIN-SUFFIX,crossmediapanel.com
-DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,cs4hs.com
 DOMAIN-SUFFIX,dartsearch.net
 DOMAIN-SUFFIX,dataliberation.org
@@ -2841,6 +2843,7 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
 DOMAIN-SUFFIX,googl.com
+DOMAIN-SUFFIX,google-access.net
 DOMAIN-SUFFIX,google-syndication.com
 DOMAIN-SUFFIX,google.berlin
 DOMAIN-SUFFIX,google.dev
@@ -3302,12 +3305,17 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
+DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,registry.google
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
+DOMAIN-SUFFIX,get.new
 DOMAIN-SUFFIX,get.page
+DOMAIN-SUFFIX,get.rsvp
+DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,iam.soy
+DOMAIN-SUFFIX,new.day
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
@@ -3413,6 +3421,7 @@ DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
@@ -4028,7 +4037,6 @@ DOMAIN-SUFFIX,oneapi.com
 DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,acpica.com
-DOMAIN-SUFFIX,clearlinux.cn
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
@@ -4048,6 +4056,7 @@ DOMAIN-SUFFIX,logicoolg.com
 DOMAIN-SUFFIX,logitech.biz
 DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitech.fr
+DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,worldsfastestgamer.net
@@ -4323,7 +4332,9 @@ DOMAIN-SUFFIX,favebook.com
 DOMAIN-SUFFIX,faycbok.com
 DOMAIN-SUFFIX,fb.careers
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbacebook.com
 DOMAIN-SUFFIX,fbbmarket.com
 DOMAIN-SUFFIX,fbboostyourbusiness.com
@@ -4344,6 +4355,7 @@ DOMAIN-SUFFIX,fbthirdpartypixel.com
 DOMAIN-SUFFIX,fbthirdpartypixel.net
 DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,fcacebook.com
 DOMAIN-SUFFIX,fcaebook.com
@@ -4854,6 +4866,9 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,yammer.com
+DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
+DOMAIN-SUFFIX,skype-edf.akadns.net
+DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
@@ -4914,6 +4929,7 @@ DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,azurecomm.net
 DOMAIN-SUFFIX,azurecontainer.io
 DOMAIN-SUFFIX,azurecosmos.net
 DOMAIN-SUFFIX,azurecosmosdb.com
@@ -5222,6 +5238,7 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,linecorp.com
@@ -5287,6 +5304,7 @@ DOMAIN-SUFFIX,nvidia.ru
 DOMAIN-SUFFIX,nvidia.se
 DOMAIN-SUFFIX,nvidia.tw
 DOMAIN-SUFFIX,nvidiaforhp.com
+DOMAIN-SUFFIX,nvidiagrid.net
 DOMAIN-SUFFIX,shotwithgeforce.com
 DOMAIN-SUFFIX,tegrazone.co
 DOMAIN-SUFFIX,tegrazone.co.kr
@@ -5294,6 +5312,7 @@ DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN,nvidia.tt.omtrdc.net
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,oracle
@@ -5391,6 +5410,10 @@ DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,brewmp.com
 DOMAIN,qualcomm.sc.omtrdc.net
+DOMAIN-SUFFIX,qwant.com
+DOMAIN-SUFFIX,qwant.de
+DOMAIN-SUFFIX,qwant.fr
+DOMAIN-SUFFIX,qwant.it
 DOMAIN-SUFFIX,razer.com
 DOMAIN-SUFFIX,razersupport.com
 DOMAIN-SUFFIX,razerzone.com
@@ -5464,12 +5487,13 @@ DOMAIN-SUFFIX,smartonesolutions.com.hk
 DOMAIN-SUFFIX,smartonesolutions.hk
 DOMAIN-SUFFIX,valuegb.com
 DOMAIN-SUFFIX,wise-research.com
+DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,snap.com
-DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,snapkit.co
+DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN-SUFFIX,sony
 DOMAIN-SUFFIX,ginzasonypark.jp
 DOMAIN-SUFFIX,sony-africa.com
@@ -5756,6 +5780,7 @@ DOMAIN-SUFFIX,yahoo.vg
 DOMAIN-SUFFIX,yahoo.ws
 DOMAIN-SUFFIX,maktoob.com
 DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
@@ -5956,6 +5981,7 @@ DOMAIN-SUFFIX,yahoo.vg
 DOMAIN-SUFFIX,yahoo.ws
 DOMAIN-SUFFIX,maktoob.com
 DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net

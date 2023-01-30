@@ -131,6 +131,7 @@ host-suffix, espn.net, disney
 host-suffix, espncdn.com, disney
 host-suffix, espnqa.com, disney
 host-suffix, watchespn.com, disney
+host, espn.api.edge.bamgrid.com, disney
 host, espn.hb.omtrdc.net, disney
 host, espndotcom.tt.omtrdc.net, disney
 host-suffix, hotstar.com, disney

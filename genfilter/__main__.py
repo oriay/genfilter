@@ -10,7 +10,7 @@ def main():
     if args.target not in ["quantumult-x", "clash"] and args.target != "all":
         print("wrong parameter!")
         return
-    convert(args.target)
+    convert(args.target, args.tag)
 
 
 if __name__ == "__main__":

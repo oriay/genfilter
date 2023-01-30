@@ -27,6 +27,7 @@ host-suffix, azure.cn, azure
 host-suffix, azure.com, azure
 host-suffix, azure.net, azure
 host-suffix, azurecomcdn.net, azure
+host-suffix, azurecomm.net, azure
 host-suffix, azurecontainer.io, azure
 host-suffix, azurecosmos.net, azure
 host-suffix, azurecosmosdb.com, azure

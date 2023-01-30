@@ -16,7 +16,6 @@ host-suffix, dogecoin.com, category-cryptocurrency
 host-suffix, infura.io, category-cryptocurrency
 host-suffix, mytokenapi.com, category-cryptocurrency
 host-suffix, kraken.com, category-cryptocurrency
-host-suffix, okex.com, category-cryptocurrency
 host-suffix, opensea.io, category-cryptocurrency
 host-suffix, paxful.com, category-cryptocurrency
 host-suffix, truefi.io, category-cryptocurrency
@@ -75,6 +74,8 @@ host-suffix, huobigroup.com, category-cryptocurrency
 host-suffix, huobitoken.com, category-cryptocurrency
 host-suffix, localbitcoins.com, category-cryptocurrency
 host-suffix, localbitcoinschain.com, category-cryptocurrency
+host-suffix, okex.com, category-cryptocurrency
+host-suffix, okx.com, category-cryptocurrency
 host-suffix, wisecoin.com, category-cryptocurrency
 host-suffix, wiseid.com, category-cryptocurrency
 host-suffix, wisekey.com, category-cryptocurrency

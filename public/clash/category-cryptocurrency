@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,mytokenapi.com
 DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,truefi.io
@@ -75,6 +74,8 @@ DOMAIN-SUFFIX,huobigroup.com
 DOMAIN-SUFFIX,huobitoken.com
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com

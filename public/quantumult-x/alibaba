@@ -97,6 +97,8 @@ host-suffix, zuodao.com, alibaba
 host-suffix, aliexpress.com, alibaba
 host-suffix, aliexpress.ru, alibaba
 host-suffix, alipayplus.com, alibaba
+host-suffix, alipay.hk, alibaba
+host-suffix, alipaymo.com, alibaba
 host-suffix, alicloudccp.com, alibaba
 host-suffix, aliyundrive.com, alibaba
 host-suffix, cainiao.com, alibaba

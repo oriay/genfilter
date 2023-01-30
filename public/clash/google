@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
 DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
 DOMAIN-SUFFIX,google.co.ck
@@ -257,7 +258,6 @@ DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
 DOMAIN-SUFFIX,crossmediapanel.com
-DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,cs4hs.com
 DOMAIN-SUFFIX,dartsearch.net
 DOMAIN-SUFFIX,dataliberation.org
@@ -298,6 +298,7 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googel.com
 DOMAIN-SUFFIX,googil.com
 DOMAIN-SUFFIX,googl.com
+DOMAIN-SUFFIX,google-access.net
 DOMAIN-SUFFIX,google-syndication.com
 DOMAIN-SUFFIX,google.berlin
 DOMAIN-SUFFIX,google.dev
@@ -759,12 +760,17 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
+DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,registry.google
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,get.how
+DOMAIN-SUFFIX,get.new
 DOMAIN-SUFFIX,get.page
+DOMAIN-SUFFIX,get.rsvp
+DOMAIN-SUFFIX,hey.boo
 DOMAIN-SUFFIX,iam.soy
+DOMAIN-SUFFIX,new.day
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
@@ -870,6 +876,7 @@ DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
