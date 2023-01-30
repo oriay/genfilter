@@ -1,7 +1,5 @@
 name: default
-on:
-  schedule:
-    - cron: '30 5,17 * * *'
+on: workflow_dispatch
 jobs:
   first:
     runs-on: ubuntu-latest
