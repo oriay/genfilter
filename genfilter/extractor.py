@@ -25,7 +25,7 @@ class DataExtrator():
 
     def data_parser(self, file_name):
         resp = requests.get(
-            "https://cdn.jsdelivr.net/gh/v2fly/domain-list-community@"+self.release_tag+"/data/"+file_name).content.decode('utf-8')
+            "https://raw.githubusercontent.com/v2fly/domain-list-community/"+self.release_tag+"/data/"+file_name).content.decode('utf-8')
         domain_list = resp.split("\n")
 
         # 删除空白行
