@@ -19981,10 +19981,10 @@ host-suffix, seamonkey-project.org, geolocation-!cn
 host-suffix, thunderbird.net, geolocation-!cn
 host-suffix, firefox.com, geolocation-!cn
 host-suffix, firefoxusercontent.com, geolocation-!cn
+host-suffix, mdn.mozit.cloud, geolocation-!cn
 host, developer.mozilla.org, geolocation-!cn
 host, interactive-examples.mdn.mozilla.net, geolocation-!cn
 host, mdn.mozillademos.org, geolocation-!cn
-host, media.prod.mdn.mozit.cloud, geolocation-!cn
 host-suffix, rust-lang.org, geolocation-!cn
 host-suffix, rustup.rs, geolocation-!cn
 host-suffix, crates.io, geolocation-!cn

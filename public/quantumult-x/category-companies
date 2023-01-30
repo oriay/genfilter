@@ -5212,10 +5212,10 @@ host-suffix, seamonkey-project.org, category-companies
 host-suffix, thunderbird.net, category-companies
 host-suffix, firefox.com, category-companies
 host-suffix, firefoxusercontent.com, category-companies
+host-suffix, mdn.mozit.cloud, category-companies
 host, developer.mozilla.org, category-companies
 host, interactive-examples.mdn.mozilla.net, category-companies
 host, mdn.mozillademos.org, category-companies
-host, media.prod.mdn.mozit.cloud, category-companies
 host-suffix, rust-lang.org, category-companies
 host-suffix, rustup.rs, category-companies
 host-suffix, crates.io, category-companies

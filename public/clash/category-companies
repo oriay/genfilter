@@ -5212,10 +5212,10 @@ DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN,developer.mozilla.org
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,mdn.mozillademos.org
-DOMAIN,media.prod.mdn.mozit.cloud
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,crates.io

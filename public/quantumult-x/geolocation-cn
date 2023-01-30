@@ -2476,6 +2476,7 @@ host-suffix, zdnscloud.info, geolocation-cn
 host-suffix, zdnscloud.net, geolocation-cn
 host-suffix, zdnscloud.net.cn, geolocation-cn
 host-suffix, zdnscloud.org.cn, geolocation-cn
+host-suffix, dgjy.net, geolocation-cn
 host-suffix, 91yunxiao.com, geolocation-cn
 host-suffix, aiyunxiao.com, geolocation-cn
 host-suffix, haofenshu.com, geolocation-cn
