@@ -10,7 +10,7 @@ jobs:
      - name: setup
        run: curl -sSL https://install.python-poetry.org | python3 -
      - name: get release tag
-       run: export release_tag=$(curl  https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq '.tag_name')
+       run: export release_tag=$(curl  https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq -r '.tag_name')
      - name: gene
        run: |
          poetry install
