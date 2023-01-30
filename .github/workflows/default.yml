@@ -1,4 +1,10 @@
 name: default
+on:
+  schedule:
+    - cron: '30 5,17 * * *'
 jobs:
-    first:
-    
+  first:
+    runs-on: ubuntu-latest
+    steps:
+        ins:
+          run: apt install python3
