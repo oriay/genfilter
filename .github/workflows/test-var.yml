@@ -6,6 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - name: Install jq
+       uses: dcarbone/install-jq-action@v1.0.1
      - name: get release tag
        run: |
          export release_tag=$(curl  https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq -r '.tag_name')
