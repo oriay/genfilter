@@ -2171,8 +2171,6 @@ host-suffix, ykimg.com, geolocation-cn
 host-suffix, mmstat.com, geolocation-cn
 host-suffix, soku.com, geolocation-cn
 host-suffix, cibntv.net, geolocation-cn
-host-suffix, youngmoe.com, geolocation-cn
-host, blog.youngmoe.com, geolocation-cn
 host-suffix, yy.com, geolocation-cn
 host-suffix, yystatic.com, geolocation-cn
 host-suffix, duowan.com, geolocation-cn
