@@ -59,6 +59,10 @@ host-suffix, zyh365.com, geolocation-cn
 host-suffix, cyol.com, geolocation-cn
 host-suffix, webterren.com, geolocation-cn
 host-suffix, zzdtec.com, geolocation-cn
+host-suffix, fdcyun.com, geolocation-cn
+host-suffix, mingyuanyun.com, geolocation-cn
+host-suffix, mypaas.com, geolocation-cn
+host-suffix, mypaas.com.cn, geolocation-cn
 host-suffix, 0123456789.com, geolocation-cn
 host-suffix, 0379home.com, geolocation-cn
 host-suffix, 055110.com, geolocation-cn
