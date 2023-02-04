@@ -2982,8 +2982,8 @@ host-suffix, warp.plus, geolocation-!cn
 host-suffix, workers.dev, geolocation-!cn
 host-suffix, cf-ns.com, geolocation-!cn
 host-suffix, cf-ns.net, geolocation-!cn
-host-suffix, cf-ns.tech, geolocation-!cn
 host-suffix, cf-ns.site, geolocation-!cn
+host-suffix, cf-ns.tech, geolocation-!cn
 host-suffix, cftest5.cn, geolocation-!cn
 host-suffix, cftest6.cn, geolocation-!cn
 host-suffix, cftest7.com, geolocation-!cn

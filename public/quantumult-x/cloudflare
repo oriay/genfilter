@@ -30,8 +30,8 @@ host-suffix, warp.plus, cloudflare
 host-suffix, workers.dev, cloudflare
 host-suffix, cf-ns.com, cloudflare
 host-suffix, cf-ns.net, cloudflare
-host-suffix, cf-ns.tech, cloudflare
 host-suffix, cf-ns.site, cloudflare
+host-suffix, cf-ns.tech, cloudflare
 host-suffix, cftest5.cn, cloudflare
 host-suffix, cftest6.cn, cloudflare
 host-suffix, cftest7.com, cloudflare
