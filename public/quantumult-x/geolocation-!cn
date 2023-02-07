@@ -14223,6 +14223,7 @@ host-suffix, organicmaps.app, geolocation-!cn
 host-suffix, osdn.net, geolocation-!cn
 host-suffix, pastebin.com, geolocation-!cn
 host-suffix, patreon.com, geolocation-!cn
+host-suffix, patreonusercontent.com, geolocation-!cn
 host-suffix, pics.ee, geolocation-!cn
 host-suffix, picsee.co, geolocation-!cn
 host-suffix, picsee.pro, geolocation-!cn
