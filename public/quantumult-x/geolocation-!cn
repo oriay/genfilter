@@ -3613,6 +3613,7 @@ host-suffix, localbitcoins.com, geolocation-!cn
 host-suffix, localbitcoinschain.com, geolocation-!cn
 host-suffix, okex.com, geolocation-!cn
 host-suffix, okx.com, geolocation-!cn
+host-suffix, oklink.com, geolocation-!cn
 host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
 host-suffix, wisekey.com, geolocation-!cn
@@ -7165,7 +7166,6 @@ host-suffix, eventsinfocus.org, geolocation-!cn
 host-suffix, factwire.org, geolocation-!cn
 host-suffix, fortuneinsight.com, geolocation-!cn
 host-suffix, freebeacon.com, geolocation-!cn
-host-suffix, ganjingworld.com, geolocation-!cn
 host-suffix, gbnews.uk, geolocation-!cn
 host-suffix, hk01.com, geolocation-!cn
 host-suffix, hkcitizenmedia.com, geolocation-!cn
@@ -11507,6 +11507,7 @@ host-suffix, nijinchu.com, geolocation-!cn
 host-suffix, nijioma.blog, geolocation-!cn
 host-suffix, nineteentube.com, geolocation-!cn
 host-suffix, ninpu.cyou, geolocation-!cn
+host-suffix, niuc2.com, geolocation-!cn
 host-suffix, niziero.info, geolocation-!cn
 host-suffix, nlsexfilmpjes.com, geolocation-!cn
 host-suffix, nlt-media.com, geolocation-!cn
@@ -13967,6 +13968,8 @@ host-suffix, dafahao.com, geolocation-!cn
 host-suffix, dongtaiwang.com, geolocation-!cn
 host-suffix, falundafa.org, geolocation-!cn
 host-suffix, falundafa.org.tw, geolocation-!cn
+host-suffix, ganjing.com, geolocation-!cn
+host-suffix, ganjingworld.com, geolocation-!cn
 host-suffix, mhradio.org, geolocation-!cn
 host-suffix, ninecommentaries.com, geolocation-!cn
 host-suffix, shenyun.com, geolocation-!cn
@@ -14223,7 +14226,9 @@ host-suffix, organicmaps.app, geolocation-!cn
 host-suffix, osdn.net, geolocation-!cn
 host-suffix, pastebin.com, geolocation-!cn
 host-suffix, patreon.com, geolocation-!cn
+host-suffix, patreoncommunity.com, geolocation-!cn
 host-suffix, patreonusercontent.com, geolocation-!cn
+host, live-patreon-marketing.pantheonsite.io, geolocation-!cn
 host-suffix, pics.ee, geolocation-!cn
 host-suffix, picsee.co, geolocation-!cn
 host-suffix, picsee.pro, geolocation-!cn
@@ -18904,10 +18909,13 @@ host-suffix, logicool.co.jp, geolocation-!cn
 host-suffix, logicoolg.com, geolocation-!cn
 host-suffix, logitech.biz, geolocation-!cn
 host-suffix, logitech.com, geolocation-!cn
+host-suffix, logitech.com.cn, geolocation-!cn
 host-suffix, logitech.fr, geolocation-!cn
 host-suffix, logitech.io, geolocation-!cn
 host-suffix, logitechg.com, geolocation-!cn
+host-suffix, logitechg.com.cn, geolocation-!cn
 host-suffix, logitechg.fr, geolocation-!cn
+host-suffix, logitechio.com.cn, geolocation-!cn
 host-suffix, worldsfastestgamer.net, geolocation-!cn
 host-suffix, imgsmail.ru, geolocation-!cn
 host-suffix, mail.ru, geolocation-!cn
