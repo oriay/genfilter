@@ -337,8 +337,10 @@ host-suffix, wholefoodsmarket.com, category-companies
 host-suffix, wholekidsfoundation.org, category-companies
 host-suffix, wholeplanetfoundation.org, category-companies
 host-suffix, amd.com, category-companies
+host-suffix, amd.com.cn, category-companies
 host-suffix, amdfanstore.com, category-companies
 host-suffix, radeon.com, category-companies
+host, www.amd.com, category-companies
 host-suffix, apple, category-companies
 host-suffix, apple.ae, category-companies
 host-suffix, apple.at, category-companies

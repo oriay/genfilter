@@ -15192,8 +15192,10 @@ host-suffix, wholefoodsmarket.com, geolocation-!cn
 host-suffix, wholekidsfoundation.org, geolocation-!cn
 host-suffix, wholeplanetfoundation.org, geolocation-!cn
 host-suffix, amd.com, geolocation-!cn
+host-suffix, amd.com.cn, geolocation-!cn
 host-suffix, amdfanstore.com, geolocation-!cn
 host-suffix, radeon.com, geolocation-!cn
+host, www.amd.com, geolocation-!cn
 host-suffix, apple, geolocation-!cn
 host-suffix, apple.ae, geolocation-!cn
 host-suffix, apple.at, geolocation-!cn
