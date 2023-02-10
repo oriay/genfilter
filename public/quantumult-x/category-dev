@@ -13,6 +13,7 @@ host-suffix, codeberg.org, category-dev
 host-suffix, cygwin.com, category-dev
 host-suffix, cython.org, category-dev
 host-suffix, deno.land, category-dev
+host-suffix, dev.to, category-dev
 host-suffix, elixir-lang.org, category-dev
 host-suffix, elrepo.org, category-dev
 host-suffix, erlang.org, category-dev

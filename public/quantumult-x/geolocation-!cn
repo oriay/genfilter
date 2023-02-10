@@ -14386,6 +14386,7 @@ host-suffix, codeberg.org, geolocation-!cn
 host-suffix, cygwin.com, geolocation-!cn
 host-suffix, cython.org, geolocation-!cn
 host-suffix, deno.land, geolocation-!cn
+host-suffix, dev.to, geolocation-!cn
 host-suffix, elixir-lang.org, geolocation-!cn
 host-suffix, elrepo.org, geolocation-!cn
 host-suffix, erlang.org, geolocation-!cn
