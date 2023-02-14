@@ -4426,3 +4426,6 @@ host-suffix, wenmingban.com, geolocation-cn
 host-suffix, zhiyuanhe.cn, geolocation-cn
 host-suffix, zhiyuanyun.com.cn, geolocation-cn
 host-suffix, zyhe.com.cn, geolocation-cn
+host-suffix, lkcoffee.com, geolocation-cn
+host-suffix, luckincoffeecdn.com, geolocation-cn
+host-suffix, yyds.co, geolocation-cn
