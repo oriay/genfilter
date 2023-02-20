@@ -53,6 +53,7 @@ host-suffix, phantomjs.org, category-dev
 host-suffix, php.net, category-dev
 host-suffix, putty.org, category-dev
 host-suffix, postgresql.org, category-dev
+host-suffix, quay.io, category-dev
 host-suffix, r-project.org, category-dev
 host-suffix, raspberrypi.org, category-dev
 host-suffix, raspbian.org, category-dev

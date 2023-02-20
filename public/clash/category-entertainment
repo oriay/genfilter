@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,777tv.net
 DOMAIN-SUFFIX,blubrry.com
+DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,castro.fm
 DOMAIN-SUFFIX,egta.com
 DOMAIN-SUFFIX,fireside.fm
@@ -17,6 +18,9 @@ DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
+DOMAIN-SUFFIX,amp-api.podcast.apple.com
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,bookeeper.itunes.apple.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema-tv.com

@@ -1,5 +1,6 @@
 host-suffix, 777tv.net, category-entertainment
 host-suffix, blubrry.com, category-entertainment
+host-suffix, buzzsprout.com, category-entertainment
 host-suffix, castro.fm, category-entertainment
 host-suffix, egta.com, category-entertainment
 host-suffix, fireside.fm, category-entertainment
@@ -17,6 +18,9 @@ host-suffix, syosetu.com, category-entertainment
 host-suffix, thetvdb.com, category-entertainment
 host-suffix, weverse.io, category-entertainment
 host-suffix, yande.re, category-entertainment
+host-suffix, amp-api.podcast.apple.com, category-entertainment
+host-suffix, bag.itunes.apple.com, category-entertainment
+host-suffix, bookeeper.itunes.apple.com, category-entertainment
 host-suffix, abema.io, category-entertainment
 host-suffix, abema.tv, category-entertainment
 host-suffix, abema-tv.com, category-entertainment
