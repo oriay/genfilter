@@ -5188,6 +5188,8 @@ host, gamer2-cds.cdn.hinet.net, geolocation-!cn
 host, gamer-cds.cdn.hinet.net, geolocation-!cn
 host-suffix, bandcamp.com, geolocation-!cn
 host-suffix, bcbits.com, geolocation-!cn
+host-suffix, boomerang.com, geolocation-!cn
+host-suffix, wbdnbo.net, geolocation-!cn
 host-suffix, fanatical.com, geolocation-!cn
 host-suffix, humblebundle.com, geolocation-!cn
 host-suffix, loverslab.com, geolocation-!cn
@@ -6184,6 +6186,7 @@ host-suffix, nicoseiga.jp, geolocation-!cn
 host-suffix, nicovideo.jp, geolocation-!cn
 host-suffix, nimg.jp, geolocation-!cn
 host-suffix, simg.jp, geolocation-!cn
+host-suffix, pbs.org, geolocation-!cn
 host-suffix, booth.pm, geolocation-!cn
 host-suffix, fanbox.cc, geolocation-!cn
 host-suffix, pixiv.net, geolocation-!cn
@@ -6191,6 +6194,8 @@ host-suffix, pixiv.org, geolocation-!cn
 host-suffix, pixiv.co.jp, geolocation-!cn
 host-suffix, pixiv.me, geolocation-!cn
 host-suffix, pximg.net, geolocation-!cn
+host-suffix, pluto.tv, geolocation-!cn
+host-suffix, plutotv.net, geolocation-!cn
 host-suffix, pca.st, geolocation-!cn
 host-suffix, pocketcasts.com, geolocation-!cn
 host-suffix, aiv-cdn.net, geolocation-!cn

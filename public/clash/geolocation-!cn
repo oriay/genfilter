@@ -5188,6 +5188,8 @@ DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bcbits.com
+DOMAIN-SUFFIX,boomerang.com
+DOMAIN-SUFFIX,wbdnbo.net
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,loverslab.com
@@ -6184,6 +6186,7 @@ DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pixiv.net
@@ -6191,6 +6194,8 @@ DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,pca.st
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,aiv-cdn.net
