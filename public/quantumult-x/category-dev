@@ -53,7 +53,6 @@ host-suffix, phantomjs.org, category-dev
 host-suffix, php.net, category-dev
 host-suffix, putty.org, category-dev
 host-suffix, postgresql.org, category-dev
-host-suffix, quay.io, category-dev
 host-suffix, r-project.org, category-dev
 host-suffix, raspberrypi.org, category-dev
 host-suffix, raspbian.org, category-dev
@@ -136,6 +135,14 @@ host-suffix, ubuntu.com, category-dev
 host-suffix, ubuntu.net, category-dev
 host-suffix, ubuntuforums.org, category-dev
 host-suffix, ubuntu-touch.io, category-dev
+host-suffix, azurecr.io, category-dev
+host-suffix, docker.io, category-dev
+host-suffix, ecr.aws, category-dev
+host-suffix, gcr.io, category-dev
+host-suffix, ghcr.io, category-dev
+host-suffix, mcr.microsoft.com, category-dev
+host-suffix, quay.io, category-dev
+host-suffix, registry.k8s.io, category-dev
 host-suffix, dart.dev, category-dev
 host-suffix, dartlang.org, category-dev
 host-suffix, dartpad.dev, category-dev

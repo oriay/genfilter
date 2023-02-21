@@ -12290,6 +12290,7 @@ DOMAIN-SUFFIX,s8ds5gfm.xyz
 DOMAIN-SUFFIX,sabuibo.net
 DOMAIN-SUFFIX,sacduc.com
 DOMAIN-SUFFIX,sacredhentai.com
+DOMAIN-SUFFIX,saerock.com
 DOMAIN-SUFFIX,safebooru.org
 DOMAIN-SUFFIX,sakuralive.com
 DOMAIN-SUFFIX,sambaporno.com
@@ -14510,7 +14511,6 @@ DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
 DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,postgresql.org
-DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
@@ -14593,6 +14593,14 @@ DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ubuntuforums.org
 DOMAIN-SUFFIX,ubuntu-touch.io
+DOMAIN-SUFFIX,azurecr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ecr.aws
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,mcr.microsoft.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,registry.k8s.io
 DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,dartpad.dev

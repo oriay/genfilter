@@ -12290,6 +12290,7 @@ host-suffix, s8ds5gfm.xyz, geolocation-!cn
 host-suffix, sabuibo.net, geolocation-!cn
 host-suffix, sacduc.com, geolocation-!cn
 host-suffix, sacredhentai.com, geolocation-!cn
+host-suffix, saerock.com, geolocation-!cn
 host-suffix, safebooru.org, geolocation-!cn
 host-suffix, sakuralive.com, geolocation-!cn
 host-suffix, sambaporno.com, geolocation-!cn
@@ -14510,7 +14511,6 @@ host-suffix, phantomjs.org, geolocation-!cn
 host-suffix, php.net, geolocation-!cn
 host-suffix, putty.org, geolocation-!cn
 host-suffix, postgresql.org, geolocation-!cn
-host-suffix, quay.io, geolocation-!cn
 host-suffix, r-project.org, geolocation-!cn
 host-suffix, raspberrypi.org, geolocation-!cn
 host-suffix, raspbian.org, geolocation-!cn
@@ -14593,6 +14593,14 @@ host-suffix, ubuntu.com, geolocation-!cn
 host-suffix, ubuntu.net, geolocation-!cn
 host-suffix, ubuntuforums.org, geolocation-!cn
 host-suffix, ubuntu-touch.io, geolocation-!cn
+host-suffix, azurecr.io, geolocation-!cn
+host-suffix, docker.io, geolocation-!cn
+host-suffix, ecr.aws, geolocation-!cn
+host-suffix, gcr.io, geolocation-!cn
+host-suffix, ghcr.io, geolocation-!cn
+host-suffix, mcr.microsoft.com, geolocation-!cn
+host-suffix, quay.io, geolocation-!cn
+host-suffix, registry.k8s.io, geolocation-!cn
 host-suffix, dart.dev, geolocation-!cn
 host-suffix, dartlang.org, geolocation-!cn
 host-suffix, dartpad.dev, geolocation-!cn
