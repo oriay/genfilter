@@ -7197,6 +7197,7 @@ host-suffix, money-link.com.tw, geolocation-!cn
 host-suffix, my-formosa.com, geolocation-!cn
 host-suffix, newtalk.tw, geolocation-!cn
 host-suffix, newyorker.com, geolocation-!cn
+host-suffix, nextapple.com, geolocation-!cn
 host-suffix, nownews.com, geolocation-!cn
 host-suffix, npr.org, geolocation-!cn
 host-suffix, on.cc, geolocation-!cn
@@ -11064,7 +11065,6 @@ host-suffix, koalaporn.com, geolocation-!cn
 host-suffix, kobe-pastel.com, geolocation-!cn
 host-suffix, kompoz.com, geolocation-!cn
 host-suffix, kompoz2.com, geolocation-!cn
-host-suffix, konachan.net, geolocation-!cn
 host-suffix, konachan.wjcodes.com, geolocation-!cn
 host-suffix, koreanpornmovie.com, geolocation-!cn
 host-suffix, korewaeroi.com, geolocation-!cn
@@ -13862,6 +13862,8 @@ host-suffix, johren.net, geolocation-!cn
 host-suffix, hkporn.net, geolocation-!cn
 host-suffix, justav.net, geolocation-!cn
 host-suffix, twporn.net, geolocation-!cn
+host-suffix, konachan.com, geolocation-!cn
+host-suffix, konachan.net, geolocation-!cn
 host-suffix, kubakuba.global, geolocation-!cn
 host-suffix, kubakuba1996.com, geolocation-!cn
 host-suffix, lethalhardcore.com, geolocation-!cn
@@ -20302,7 +20304,9 @@ host-suffix, tegrazone.com, geolocation-!cn
 host-suffix, tegrazone.jp, geolocation-!cn
 host-suffix, tegrazone.kr, geolocation-!cn
 host, nvidia.tt.omtrdc.net, geolocation-!cn
+host-suffix, ai.com, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn
+host, openaiapi-site.azureedge.net, geolocation-!cn
 host-suffix, openweather.co.uk, geolocation-!cn
 host-suffix, openweathermap.org, geolocation-!cn
 host-suffix, oracle, geolocation-!cn

@@ -1,1 +1,3 @@
+host-suffix, ai.com, openai
 host-suffix, openai.com, openai
+host, openaiapi-site.azureedge.net, openai

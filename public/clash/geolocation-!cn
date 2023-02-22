@@ -7197,6 +7197,7 @@ DOMAIN-SUFFIX,money-link.com.tw
 DOMAIN-SUFFIX,my-formosa.com
 DOMAIN-SUFFIX,newtalk.tw
 DOMAIN-SUFFIX,newyorker.com
+DOMAIN-SUFFIX,nextapple.com
 DOMAIN-SUFFIX,nownews.com
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,on.cc
@@ -11064,7 +11065,6 @@ DOMAIN-SUFFIX,koalaporn.com
 DOMAIN-SUFFIX,kobe-pastel.com
 DOMAIN-SUFFIX,kompoz.com
 DOMAIN-SUFFIX,kompoz2.com
-DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
 DOMAIN-SUFFIX,koreanpornmovie.com
 DOMAIN-SUFFIX,korewaeroi.com
@@ -13862,6 +13862,8 @@ DOMAIN-SUFFIX,johren.net
 DOMAIN-SUFFIX,hkporn.net
 DOMAIN-SUFFIX,justav.net
 DOMAIN-SUFFIX,twporn.net
+DOMAIN-SUFFIX,konachan.com
+DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,kubakuba.global
 DOMAIN-SUFFIX,kubakuba1996.com
 DOMAIN-SUFFIX,lethalhardcore.com
@@ -20302,7 +20304,9 @@ DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN,nvidia.tt.omtrdc.net
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,oracle
