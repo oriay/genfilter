@@ -142,6 +142,7 @@ host-suffix, gcr.io, category-dev
 host-suffix, ghcr.io, category-dev
 host-suffix, mcr.microsoft.com, category-dev
 host-suffix, quay.io, category-dev
+host-suffix, registry.gitlab.com, category-dev
 host-suffix, registry.k8s.io, category-dev
 host-suffix, dart.dev, category-dev
 host-suffix, dartlang.org, category-dev
