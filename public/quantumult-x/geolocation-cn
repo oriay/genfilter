@@ -63,6 +63,7 @@ host-suffix, fdcyun.com, geolocation-cn
 host-suffix, mingyuanyun.com, geolocation-cn
 host-suffix, mypaas.com, geolocation-cn
 host-suffix, mypaas.com.cn, geolocation-cn
+host-suffix, myypark.com, geolocation-cn
 host-suffix, 0123456789.com, geolocation-cn
 host-suffix, 0379home.com, geolocation-cn
 host-suffix, 055110.com, geolocation-cn
@@ -4212,6 +4213,7 @@ host-suffix, mpush.qq.com, geolocation-cn
 host-suffix, mtrace.qq.com, geolocation-cn
 host-suffix, push.qq.com, geolocation-cn
 host-suffix, pgdt.gtimg.cn, geolocation-cn
+host-suffix, ugdtimg.com, geolocation-cn
 host-suffix, openmidas.com, geolocation-cn
 host-suffix, qq.design, geolocation-cn
 host-suffix, qqgamedesign.com, geolocation-cn
