@@ -6021,6 +6021,12 @@ host-suffix, natgeomaps.com, geolocation-!cn
 host-suffix, nationalgeographic.com, geolocation-!cn
 host-suffix, nationalgeographicpartners.com, geolocation-!cn
 host-suffix, ngeo.com, geolocation-!cn
+host-suffix, starott.com, geolocation-!cn
+host-suffix, starplus.com, geolocation-!cn
+host-suffix, star.api.edge.bamgrid.com, geolocation-!cn
+host-suffix, star.connections.edge.bamgrid.com, geolocation-!cn
+host-suffix, star.content.edge.bamgrid.com, geolocation-!cn
+host-suffix, star.playback.edge.bamgrid.com, geolocation-!cn
 host-suffix, chobit.cc, geolocation-!cn
 host-suffix, ci-en.net, geolocation-!cn
 host-suffix, dlsite.com, geolocation-!cn

@@ -904,6 +904,12 @@ host-suffix, natgeomaps.com, category-entertainment
 host-suffix, nationalgeographic.com, category-entertainment
 host-suffix, nationalgeographicpartners.com, category-entertainment
 host-suffix, ngeo.com, category-entertainment
+host-suffix, starott.com, category-entertainment
+host-suffix, starplus.com, category-entertainment
+host-suffix, star.api.edge.bamgrid.com, category-entertainment
+host-suffix, star.connections.edge.bamgrid.com, category-entertainment
+host-suffix, star.content.edge.bamgrid.com, category-entertainment
+host-suffix, star.playback.edge.bamgrid.com, category-entertainment
 host-suffix, chobit.cc, category-entertainment
 host-suffix, ci-en.net, category-entertainment
 host-suffix, dlsite.com, category-entertainment
