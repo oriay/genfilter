@@ -14435,7 +14435,6 @@ host-suffix, domain:okaapps.com, geolocation-!cn
 host-suffix, opencollective.com, geolocation-!cn
 host-suffix, omaps.app, geolocation-!cn
 host-suffix, organicmaps.app, geolocation-!cn
-host-suffix, osdn.net, geolocation-!cn
 host-suffix, pastebin.com, geolocation-!cn
 host-suffix, patreon.com, geolocation-!cn
 host-suffix, patreoncommunity.com, geolocation-!cn
