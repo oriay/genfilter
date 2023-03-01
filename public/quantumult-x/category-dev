@@ -401,6 +401,7 @@ host-suffix, nginx.com, category-dev
 host-suffix, nginx.org, category-dev
 host-suffix, openwrt.org, category-dev
 host-suffix, lede-project.org, category-dev
+host-suffix, osdn.net, category-dev
 host-suffix, perl.org, category-dev
 host-suffix, cpan.org, category-dev
 host-suffix, metacpan.org, category-dev

@@ -14986,6 +14986,7 @@ host-suffix, nginx.com, geolocation-!cn
 host-suffix, nginx.org, geolocation-!cn
 host-suffix, openwrt.org, geolocation-!cn
 host-suffix, lede-project.org, geolocation-!cn
+host-suffix, osdn.net, geolocation-!cn
 host-suffix, perl.org, geolocation-!cn
 host-suffix, cpan.org, geolocation-!cn
 host-suffix, metacpan.org, geolocation-!cn

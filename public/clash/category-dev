@@ -401,6 +401,7 @@ DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,lede-project.org
+DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,perl.org
 DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,metacpan.org
