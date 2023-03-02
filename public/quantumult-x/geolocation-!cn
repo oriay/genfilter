@@ -17152,6 +17152,7 @@ host-suffix, swiftui.com.cn, geolocation-!cn
 host-suffix, asus.com, geolocation-!cn
 host-suffix, asus.com.cn, geolocation-!cn
 host-suffix, atlassian.com, geolocation-!cn
+host-suffix, atlassian.net, geolocation-!cn
 host-suffix, bitbucket.io, geolocation-!cn
 host-suffix, bitbucket.org, geolocation-!cn
 host-suffix, statuspage.io, geolocation-!cn

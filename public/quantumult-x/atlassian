@@ -1,4 +1,5 @@
 host-suffix, atlassian.com, atlassian
+host-suffix, atlassian.net, atlassian
 host-suffix, bitbucket.io, atlassian
 host-suffix, bitbucket.org, atlassian
 host-suffix, statuspage.io, atlassian
