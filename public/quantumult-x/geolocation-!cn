@@ -19811,6 +19811,7 @@ host-suffix, managedmeetingrooms.com, geolocation-!cn
 host-suffix, meetfasttrack.com, geolocation-!cn
 host-suffix, meetyourdevices.com, geolocation-!cn
 host-suffix, mepn.com, geolocation-!cn
+host-suffix, microsoft-falcon.io, geolocation-!cn
 host-suffix, microsoft-int.com, geolocation-!cn
 host-suffix, microsoft-ppe.com, geolocation-!cn
 host-suffix, microsoft-sap-events.com, geolocation-!cn
@@ -19822,6 +19823,7 @@ host-suffix, microsoftads.com, geolocation-!cn
 host-suffix, microsoftadvertising.com, geolocation-!cn
 host-suffix, microsoftadvertisingregionalawards.com, geolocation-!cn
 host-suffix, microsoftaffiliates.com, geolocation-!cn
+host-suffix, microsoftapp.net, geolocation-!cn
 host-suffix, microsoftcloud.com, geolocation-!cn
 host-suffix, microsoftcloudworkshop.com, geolocation-!cn
 host-suffix, microsoftcommunitytraining.com, geolocation-!cn

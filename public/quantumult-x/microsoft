@@ -109,6 +109,7 @@ host-suffix, managedmeetingrooms.com, microsoft
 host-suffix, meetfasttrack.com, microsoft
 host-suffix, meetyourdevices.com, microsoft
 host-suffix, mepn.com, microsoft
+host-suffix, microsoft-falcon.io, microsoft
 host-suffix, microsoft-int.com, microsoft
 host-suffix, microsoft-ppe.com, microsoft
 host-suffix, microsoft-sap-events.com, microsoft
@@ -120,6 +121,7 @@ host-suffix, microsoftads.com, microsoft
 host-suffix, microsoftadvertising.com, microsoft
 host-suffix, microsoftadvertisingregionalawards.com, microsoft
 host-suffix, microsoftaffiliates.com, microsoft
+host-suffix, microsoftapp.net, microsoft
 host-suffix, microsoftcloud.com, microsoft
 host-suffix, microsoftcloudworkshop.com, microsoft
 host-suffix, microsoftcommunitytraining.com, microsoft
