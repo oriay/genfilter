@@ -388,6 +388,9 @@ host-suffix, stat.m.jd.com, category-ads
 host-suffix, img-x.jd.com, category-ads
 host, log-sdk.gifshow.com, category-ads
 host, wlog.kuaishou.com, category-ads
+host-suffix, ads.service.kugou.com, category-ads
+host-suffix, adserviceretry.kglink.cn, category-ads
+host-suffix, adserviceretry.kugou.com, category-ads
 host-suffix, leanplum.com, category-ads
 host-suffix, api.game.letvstore.com, category-ads
 host-suffix, ark.letv.com, category-ads
@@ -582,6 +585,9 @@ host-suffix, ad.hpplay.cn, category-ads
 host-suffix, adeng.hpplay.cn, category-ads
 host-suffix, kuyun.com, category-ads
 host-suffix, umeng.com, category-ads
+host-suffix, adbehavior.ximalaya.com, category-ads
+host-suffix, adse.wsa.ximalaya.com, category-ads
+host-suffix, adse.ximalaya.com, category-ads
 host-suffix, ads.yahoo.com, category-ads
 host-suffix, gemini.yahoo.com, category-ads
 host-suffix, ysm.yahoo.com, category-ads

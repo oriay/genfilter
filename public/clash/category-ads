@@ -388,6 +388,9 @@ DOMAIN-SUFFIX,stat.m.jd.com
 DOMAIN-SUFFIX,img-x.jd.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
 DOMAIN-SUFFIX,leanplum.com
 DOMAIN-SUFFIX,api.game.letvstore.com
 DOMAIN-SUFFIX,ark.letv.com
@@ -582,6 +585,9 @@ DOMAIN-SUFFIX,ad.hpplay.cn
 DOMAIN-SUFFIX,adeng.hpplay.cn
 DOMAIN-SUFFIX,kuyun.com
 DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
