@@ -15064,6 +15064,7 @@ host-suffix, openmidas.com, geolocation-!cn
 host-suffix, qq.design, geolocation-!cn
 host-suffix, qqgamedesign.com, geolocation-!cn
 host-suffix, tencent.design, geolocation-!cn
+host-suffix, tjstats.com, geolocation-!cn
 host-suffix, wegamedeveloper.com, geolocation-!cn
 host-suffix, weui.io, geolocation-!cn
 host-suffix, termux.com, geolocation-!cn
