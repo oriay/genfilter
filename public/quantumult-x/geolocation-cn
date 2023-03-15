@@ -1999,6 +1999,7 @@ host-suffix, mogucdn.com, geolocation-cn
 host-suffix, mogujie.com, geolocation-cn
 host-suffix, pddpic.com, geolocation-cn
 host-suffix, pinduoduo.com, geolocation-cn
+host-suffix, pinduoduo.net, geolocation-cn
 host-suffix, yangkeduo.com, geolocation-cn
 host-suffix, smzdm.com, geolocation-cn
 host-suffix, zdmimg.com, geolocation-cn
