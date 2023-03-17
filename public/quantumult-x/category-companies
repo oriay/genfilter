@@ -3396,6 +3396,7 @@ host, scholar.google.ru, category-companies
 host, scholar.google.se, category-companies
 host, scholar.google.si, category-companies
 host, scholar.google.sk, category-companies
+host, scholar.googleusercontent.com, category-companies
 host, scholar.l.google.com, category-companies
 host-suffix, pki.goog, category-companies
 host, clients1.google.com, category-companies

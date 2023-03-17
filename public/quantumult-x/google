@@ -846,6 +846,7 @@ host, scholar.google.ru, google
 host, scholar.google.se, google
 host, scholar.google.si, google
 host, scholar.google.sk, google
+host, scholar.googleusercontent.com, google
 host, scholar.l.google.com, google
 host-suffix, pki.goog, google
 host, clients1.google.com, google

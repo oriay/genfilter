@@ -4812,6 +4812,7 @@ host, scholar.google.ru, geolocation-!cn
 host, scholar.google.se, geolocation-!cn
 host, scholar.google.si, geolocation-!cn
 host, scholar.google.sk, geolocation-!cn
+host, scholar.googleusercontent.com, geolocation-!cn
 host, scholar.l.google.com, geolocation-!cn
 host-suffix, ieee.org, geolocation-!cn
 host-suffix, ieee.tv, geolocation-!cn
@@ -18607,6 +18608,7 @@ host, scholar.google.ru, geolocation-!cn
 host, scholar.google.se, geolocation-!cn
 host, scholar.google.si, geolocation-!cn
 host, scholar.google.sk, geolocation-!cn
+host, scholar.googleusercontent.com, geolocation-!cn
 host, scholar.l.google.com, geolocation-!cn
 host-suffix, pki.goog, geolocation-!cn
 host, clients1.google.com, geolocation-!cn
