@@ -6613,9 +6613,10 @@ host-suffix, pixplug.in, geolocation-!cn
 host-suffix, ptt.cc, geolocation-!cn
 host-suffix, ptt2.cc, geolocation-!cn
 host-suffix, ptt3.cc, geolocation-!cn
+host-suffix, poe.com, geolocation-!cn
+host-suffix, qr.ae, geolocation-!cn
 host-suffix, quora.com, geolocation-!cn
 host-suffix, quoracdn.net, geolocation-!cn
-host-suffix, qr.ae, geolocation-!cn
 host-suffix, reddit.com, geolocation-!cn
 host-suffix, redditstatic.com, geolocation-!cn
 host-suffix, redditmail.com, geolocation-!cn
