@@ -1843,6 +1843,7 @@ host-suffix, cloudzhuhai.com, geolocation-cn
 host-suffix, dao123.com, geolocation-cn
 host-suffix, duiou.com.cn, geolocation-cn
 host-suffix, goselling.com, geolocation-cn
+host-suffix, healthjd.com, geolocation-cn
 host-suffix, isvjcloud.com, geolocation-cn
 host-suffix, isvjd.com, geolocation-cn
 host-suffix, jcloud-cache.com, geolocation-cn
@@ -1933,6 +1934,7 @@ host-suffix, jdemall.com, geolocation-cn
 host-suffix, jdfw1.com, geolocation-cn
 host-suffix, jdgslb.com, geolocation-cn
 host-suffix, jdgslb.net, geolocation-cn
+host-suffix, jdh.com, geolocation-cn
 host-suffix, jdjinrong.com, geolocation-cn
 host-suffix, jdl.cn, geolocation-cn
 host-suffix, jdl.com, geolocation-cn
@@ -1965,6 +1967,8 @@ host-suffix, qingzhouip.com, geolocation-cn
 host-suffix, sgsic.com, geolocation-cn
 host-suffix, toplife.com, geolocation-cn
 host-suffix, vg.com, geolocation-cn
+host-suffix, vipmro.com, geolocation-cn
+host-suffix, vipmro.net, geolocation-cn
 host-suffix, wangyin.com, geolocation-cn
 host-suffix, wdfok.com, geolocation-cn
 host-suffix, wuliujie.cn, geolocation-cn
@@ -1976,6 +1980,7 @@ host-suffix, yihaodian.com, geolocation-cn
 host-suffix, yihaodianimg.com, geolocation-cn
 host-suffix, yiyaojd.com, geolocation-cn
 host-suffix, yizhitou.com, geolocation-cn
+host-suffix, duolabao.com, geolocation-cn
 host-suffix, ads.union.jd.com, geolocation-cn
 host-suffix, c-nfa.jd.com, geolocation-cn
 host-suffix, cps.360buy.com, geolocation-cn
