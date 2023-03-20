@@ -73,6 +73,8 @@ host-suffix, bandcamp.com, category-entertainment
 host-suffix, bcbits.com, category-entertainment
 host-suffix, boomerang.com, category-entertainment
 host-suffix, wbdnbo.net, category-entertainment
+host-suffix, catchplay.com, category-entertainment
+host-suffix, tra-ww000-cp.akamaized.net, category-entertainment
 host-suffix, fanatical.com, category-entertainment
 host-suffix, humblebundle.com, category-entertainment
 host-suffix, loverslab.com, category-entertainment
@@ -1014,6 +1016,11 @@ host-suffix, kkbox.com.tw, category-entertainment
 host-suffix, kktix.com, category-entertainment
 host-suffix, kktv.com.tw, category-entertainment
 host-suffix, kktv.me, category-entertainment
+host-suffix, kktv.com.tw, category-entertainment
+host-suffix, kktv.me, category-entertainment
+host-suffix, theater-kktv.cdn.hinet.net, category-entertainment
+host-suffix, litv.tv, category-entertainment
+host-suffix, litvfreepc.akamaized.net, category-entertainment
 host-suffix, manhuagui.com, category-entertainment
 host-suffix, genshinimpact.com, category-entertainment
 host-suffix, honkaiimpact3.com, category-entertainment

@@ -374,6 +374,7 @@ host-suffix, management-azure-devices.cn, microsoft
 host-suffix, management-azure-devices.net, microsoft
 host-suffix, mcchcdn.com, microsoft
 host-suffix, mgmt-azure-api.cn, microsoft
+host-suffix, microsoftazuresponsorships.com, microsoft
 host-suffix, microsoftazurestatus.cn, microsoft
 host-suffix, microsofteca.com, microsoft
 host-suffix, microsoftiotcentral.com, microsoft

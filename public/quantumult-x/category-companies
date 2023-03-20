@@ -4992,6 +4992,7 @@ host-suffix, management-azure-devices.cn, category-companies
 host-suffix, management-azure-devices.net, category-companies
 host-suffix, mcchcdn.com, category-companies
 host-suffix, mgmt-azure-api.cn, category-companies
+host-suffix, microsoftazuresponsorships.com, category-companies
 host-suffix, microsoftazurestatus.cn, category-companies
 host-suffix, microsofteca.com, category-companies
 host-suffix, microsoftiotcentral.com, category-companies
@@ -6064,6 +6065,7 @@ host-suffix, gemini.yahoo.com, category-companies
 host-suffix, ysm.yahoo.com, category-companies
 host-suffix, yandex, category-companies
 host-suffix, xn--d1acpjx3f.xn--p1ai, category-companies
+host-suffix, dzen.ru, category-companies
 host-suffix, ya.ru, category-companies
 host-suffix, yandex.aero, category-companies
 host-suffix, yandex.az, category-companies

@@ -4992,6 +4992,7 @@ DOMAIN-SUFFIX,management-azure-devices.cn
 DOMAIN-SUFFIX,management-azure-devices.net
 DOMAIN-SUFFIX,mcchcdn.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
+DOMAIN-SUFFIX,microsoftazuresponsorships.com
 DOMAIN-SUFFIX,microsoftazurestatus.cn
 DOMAIN-SUFFIX,microsofteca.com
 DOMAIN-SUFFIX,microsoftiotcentral.com
@@ -6064,6 +6065,7 @@ DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+DOMAIN-SUFFIX,dzen.ru
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
