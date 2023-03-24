@@ -20556,8 +20556,9 @@ DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,developer.allizom.org
+DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,mdn.mozit.cloud
-DOMAIN,developer.mozilla.org
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,mdn.mozillademos.org
 DOMAIN-SUFFIX,rust-lang.org
