@@ -20659,6 +20659,7 @@ host-suffix, tegrazone.kr, geolocation-!cn
 host, nvidia.tt.omtrdc.net, geolocation-!cn
 host-suffix, ai.com, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn
+host, chat.openai.com.cdn.cloudflare.net, geolocation-!cn
 host, openaiapi-site.azureedge.net, geolocation-!cn
 host-suffix, openweather.co.uk, geolocation-!cn
 host-suffix, openweathermap.org, geolocation-!cn

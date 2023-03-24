@@ -2758,6 +2758,8 @@ host-suffix, chinauos.com, cn
 host-suffix, uniontech.com, cn
 host-suffix, gitee.com, cn
 host-suffix, gitee.io, cn
+host-suffix, goproxy.cn, cn
+host-suffix, goproxy.io, cn
 host-suffix, jinrishici.com, cn
 host-suffix, juejin.cn, cn
 host-suffix, juejin.im, cn

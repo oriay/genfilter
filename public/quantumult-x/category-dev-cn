@@ -32,6 +32,8 @@ host-suffix, chinauos.com, category-dev-cn
 host-suffix, uniontech.com, category-dev-cn
 host-suffix, gitee.com, category-dev-cn
 host-suffix, gitee.io, category-dev-cn
+host-suffix, goproxy.cn, category-dev-cn
+host-suffix, goproxy.io, category-dev-cn
 host-suffix, jinrishici.com, category-dev-cn
 host-suffix, juejin.cn, category-dev-cn
 host-suffix, juejin.im, category-dev-cn

@@ -2743,6 +2743,8 @@ host-suffix, chinauos.com, geolocation-cn
 host-suffix, uniontech.com, geolocation-cn
 host-suffix, gitee.com, geolocation-cn
 host-suffix, gitee.io, geolocation-cn
+host-suffix, goproxy.cn, geolocation-cn
+host-suffix, goproxy.io, geolocation-cn
 host-suffix, jinrishici.com, geolocation-cn
 host-suffix, juejin.cn, geolocation-cn
 host-suffix, juejin.im, geolocation-cn
