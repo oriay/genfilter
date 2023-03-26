@@ -6586,6 +6586,7 @@ host-suffix, pincong.rocks, geolocation-!cn
 host-suffix, safechat.com, geolocation-!cn
 host-suffix, sis001.com, geolocation-!cn
 host-suffix, v2ex.com, geolocation-!cn
+host-suffix, hydrogenaud.io, geolocation-!cn
 host-suffix, 4cdn.org, geolocation-!cn
 host-suffix, 4chan.org, geolocation-!cn
 host-suffix, 4channel.org, geolocation-!cn
@@ -16090,6 +16091,7 @@ host-suffix, 1to1conference.com.au, geolocation-!cn
 host-suffix, 5lml.com, geolocation-!cn
 host-suffix, a0pple.net, geolocation-!cn
 host-suffix, aapl.tw, geolocation-!cn
+host-suffix, aaplimg.com, geolocation-!cn
 host-suffix, airport.brussels, geolocation-!cn
 host-suffix, airport.com, geolocation-!cn
 host-suffix, airport.eu, geolocation-!cn
