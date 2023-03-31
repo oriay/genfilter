@@ -105,6 +105,8 @@ host-suffix, 126.100.in-addr.arpa, private
 host-suffix, 127.100.in-addr.arpa, private
 host, instant.arubanetworks.com, private
 host, setmeup.arubanetworks.com, private
+host-suffix, captive.apple.com, private
+host-suffix, connectivitycheck.gstatic.com, private
 host, router.asus.com, private
 host-suffix, networkcheck.kde.org, private
 host-suffix, hiwifi.com, private

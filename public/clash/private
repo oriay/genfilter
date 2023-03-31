@@ -105,6 +105,8 @@ DOMAIN-SUFFIX,126.100.in-addr.arpa
 DOMAIN-SUFFIX,127.100.in-addr.arpa
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN,router.asus.com
 DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN-SUFFIX,hiwifi.com

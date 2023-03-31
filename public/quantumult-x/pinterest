@@ -35,6 +35,7 @@ host-suffix, pinterest.it, pinterest
 host-suffix, pinterest.jp, pinterest
 host-suffix, pinterest.kr, pinterest
 host-suffix, pinterest.mx, pinterest
+host-suffix, pinterest.net, pinterest
 host-suffix, pinterest.nl, pinterest
 host-suffix, pinterest.nz, pinterest
 host-suffix, pinterest.pe, pinterest
@@ -47,3 +48,5 @@ host-suffix, pinterest.tw, pinterest
 host-suffix, pinterest.uk, pinterest
 host-suffix, pinterest.vn, pinterest
 host-suffix, pinterestmail.com, pinterest
+host-suffix, pinimg.com.cdn.cloudflare.net, pinterest
+host-suffix, pinterest.map.fastly.net, pinterest

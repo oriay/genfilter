@@ -1191,6 +1191,7 @@ host-suffix, pinterest.it, geolocation-!cn
 host-suffix, pinterest.jp, geolocation-!cn
 host-suffix, pinterest.kr, geolocation-!cn
 host-suffix, pinterest.mx, geolocation-!cn
+host-suffix, pinterest.net, geolocation-!cn
 host-suffix, pinterest.nl, geolocation-!cn
 host-suffix, pinterest.nz, geolocation-!cn
 host-suffix, pinterest.pe, geolocation-!cn
@@ -1203,6 +1204,8 @@ host-suffix, pinterest.tw, geolocation-!cn
 host-suffix, pinterest.uk, geolocation-!cn
 host-suffix, pinterest.vn, geolocation-!cn
 host-suffix, pinterestmail.com, geolocation-!cn
+host-suffix, pinimg.com.cdn.cloudflare.net, geolocation-!cn
+host-suffix, pinterest.map.fastly.net, geolocation-!cn
 host-suffix, realtype.co.jp, geolocation-!cn
 host-suffix, realtype.jp, geolocation-!cn
 host-suffix, typenetwork.com, geolocation-!cn
@@ -10753,6 +10756,7 @@ host-suffix, heroero.com, geolocation-!cn
 host-suffix, heydouga.com, geolocation-!cn
 host-suffix, hgamer.pro, geolocation-!cn
 host-suffix, hgsacx.com, geolocation-!cn
+host-suffix, hh-content.com, geolocation-!cn
 host-suffix, hhtdq17.com, geolocation-!cn
 host-suffix, hiddenvoyeurspy.com, geolocation-!cn
 host-suffix, hidefporn.ws, geolocation-!cn
@@ -11276,6 +11280,7 @@ host-suffix, kingofpics.com, geolocation-!cn
 host-suffix, kink.com, geolocation-!cn
 host-suffix, kinkbook.com, geolocation-!cn
 host-suffix, kinklive.com, geolocation-!cn
+host-suffix, kinkoid.com, geolocation-!cn
 host-suffix, kinkyfamily.com, geolocation-!cn
 host-suffix, kinkypeepz.com, geolocation-!cn
 host-suffix, kir2kos.net, geolocation-!cn
@@ -13706,6 +13711,7 @@ host-suffix, xshaker.net, geolocation-!cn
 host-suffix, xshr.online, geolocation-!cn
 host-suffix, xsrxpwvg.com, geolocation-!cn
 host-suffix, xsvod.xyz, geolocation-!cn
+host-suffix, xsz-av.com, geolocation-!cn
 host-suffix, xtapes.to, geolocation-!cn
 host-suffix, xtube.com, geolocation-!cn
 host-suffix, xtubebdsm.com, geolocation-!cn
