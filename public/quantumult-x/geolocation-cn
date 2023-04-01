@@ -2138,6 +2138,8 @@ host, upos-hz-mirrorakam.akamaized.net, geolocation-cn
 host-suffix, ciweimao.com, geolocation-cn
 host-suffix, hbooker.com, geolocation-cn
 host-suffix, kuangxiangit.com, geolocation-cn
+host-suffix, cowlevel.net, geolocation-cn
+host-suffix, cdncl.net, geolocation-cn
 host-suffix, biji.com, geolocation-cn
 host-suffix, ddmogo.com, geolocation-cn
 host-suffix, igetget.cn, geolocation-cn

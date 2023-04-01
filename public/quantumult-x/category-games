@@ -412,6 +412,8 @@ host-suffix, wiivc.net, category-games
 host-suffix, xenoblade.com, category-games
 host-suffix, op.gg, category-games
 host, opgg-static.akamaized.net, category-games
+host-suffix, joyjoy.net, category-games
+host-suffix, pandanet-igs.com, category-games
 host-suffix, pinkcore.com, category-games
 host-suffix, pinkcore.net, category-games
 host-suffix, playstation, category-games

@@ -489,6 +489,8 @@ DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,op.gg
 DOMAIN,opgg-static.akamaized.net
+DOMAIN-SUFFIX,joyjoy.net
+DOMAIN-SUFFIX,pandanet-igs.com
 DOMAIN-SUFFIX,pinkcore.com
 DOMAIN-SUFFIX,pinkcore.net
 DOMAIN-SUFFIX,playstation
@@ -1093,6 +1095,7 @@ DOMAIN-SUFFIX,olevod.io
 DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-SUFFIX,pbs.org
+DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,pixiv.net
@@ -1122,6 +1125,8 @@ DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
+DOMAIN-SUFFIX,showtimeanytime.com
+DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,dishworld.com
 DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,sling.com

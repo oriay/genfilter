@@ -489,6 +489,8 @@ host-suffix, wiivc.net, category-entertainment
 host-suffix, xenoblade.com, category-entertainment
 host-suffix, op.gg, category-entertainment
 host, opgg-static.akamaized.net, category-entertainment
+host-suffix, joyjoy.net, category-entertainment
+host-suffix, pandanet-igs.com, category-entertainment
 host-suffix, pinkcore.com, category-entertainment
 host-suffix, pinkcore.net, category-entertainment
 host-suffix, playstation, category-entertainment
@@ -1093,6 +1095,7 @@ host-suffix, olevod.io, category-entertainment
 host-suffix, olevod.tv, category-entertainment
 host-suffix, olevodtv.com, category-entertainment
 host-suffix, pbs.org, category-entertainment
+host-suffix, ads-pixiv.net, category-entertainment
 host-suffix, booth.pm, category-entertainment
 host-suffix, fanbox.cc, category-entertainment
 host-suffix, pixiv.net, category-entertainment
@@ -1122,6 +1125,8 @@ host-suffix, mgo-images.com, category-entertainment
 host-suffix, ravm.tv, category-entertainment
 host-suffix, roku.com, category-entertainment
 host-suffix, rokutime.com, category-entertainment
+host-suffix, showtimeanytime.com, category-entertainment
+host-suffix, showtime.com, category-entertainment
 host-suffix, dishworld.com, category-entertainment
 host-suffix, slinginternational.com, category-entertainment
 host-suffix, sling.com, category-entertainment
