@@ -5534,6 +5534,7 @@ host-suffix, ai.com, category-companies
 host-suffix, openai.com, category-companies
 host, chat.openai.com.cdn.cloudflare.net, category-companies
 host, openaiapi-site.azureedge.net, category-companies
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-companies
 host-suffix, openweather.co.uk, category-companies
 host-suffix, openweathermap.org, category-companies
 host-suffix, oracle, category-companies
