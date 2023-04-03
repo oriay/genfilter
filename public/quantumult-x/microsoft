@@ -408,6 +408,7 @@ host-suffix, bing.com.cn, microsoft
 host-suffix, bing.net, microsoft
 host-suffix, bingads.com, microsoft
 host-suffix, bingagencyawards.com, microsoft
+host-suffix, bingapis.com, microsoft
 host-suffix, bingapistatistics.com, microsoft
 host-suffix, bingsandbox.com, microsoft
 host-suffix, bingvisualsearch.com, microsoft
