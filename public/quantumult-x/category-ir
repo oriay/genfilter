@@ -104,6 +104,7 @@ host-suffix, gov.ir, category-ir
 host-suffix, hadafmandi.ir, category-ir
 host-suffix, intamedia.ir, category-ir
 host-suffix, irimo.ir, category-ir
+host-suffix, moi.ir, category-ir
 host-suffix, mporg.ir, category-ir
 host-suffix, parliran.ir, category-ir
 host-suffix, president.ir, category-ir
@@ -218,6 +219,8 @@ host-suffix, shaparak.ir, category-ir
 host-suffix, zarinpal.ir, category-ir
 host-suffix, ac.ir, category-ir
 host-suffix, edu.ir, category-ir
+host-suffix, iau.ac.ir, category-ir
+host-suffix, iranlms.ir, category-ir
 host-suffix, jtt.ir, category-ir
 host-suffix, sharif.ir, category-ir
 host-suffix, srttu.edu, category-ir

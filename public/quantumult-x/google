@@ -865,6 +865,7 @@ host, alt8-mtalk.google.com, google
 host, mtalk.google.com, google
 host-suffix, kaggle.com, google
 host-suffix, kaggle.io, google
+host-suffix, kaggleusercontent.com, google
 host-suffix, deps.dev, google
 host-suffix, deps.info, google
 host-suffix, opensourceinsight.dev, google

@@ -3573,6 +3573,7 @@ host, alt8-mtalk.google.com, category-companies
 host, mtalk.google.com, category-companies
 host-suffix, kaggle.com, category-companies
 host-suffix, kaggle.io, category-companies
+host-suffix, kaggleusercontent.com, category-companies
 host-suffix, deps.dev, category-companies
 host-suffix, deps.info, category-companies
 host-suffix, opensourceinsight.dev, category-companies

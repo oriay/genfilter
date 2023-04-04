@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,chemequations.com
+DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,overleaf.com
 DOMAIN-SUFFIX,auroraoss.com
@@ -4995,6 +4997,7 @@ DOMAIN-SUFFIX,emblstatic.net
 DOMAIN-SUFFIX,freecodecamp.org
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,khanacademy.org
 DOMAIN-SUFFIX,kastatic.org
 DOMAIN-SUFFIX,knovel.com
@@ -18967,6 +18970,7 @@ DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,kaggle.com
 DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,deps.dev
 DOMAIN-SUFFIX,deps.info
 DOMAIN-SUFFIX,opensourceinsight.dev

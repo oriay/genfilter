@@ -1,3 +1,5 @@
+host-suffix, chemequations.com, geolocation-!cn
+host-suffix, biliplus.com, geolocation-!cn
 host-suffix, cloudlatex.io, geolocation-!cn
 host-suffix, overleaf.com, geolocation-!cn
 host-suffix, auroraoss.com, geolocation-!cn
@@ -4995,6 +4997,7 @@ host-suffix, emblstatic.net, geolocation-!cn
 host-suffix, freecodecamp.org, geolocation-!cn
 host-suffix, kaggle.com, geolocation-!cn
 host-suffix, kaggle.io, geolocation-!cn
+host-suffix, kaggleusercontent.com, geolocation-!cn
 host-suffix, khanacademy.org, geolocation-!cn
 host-suffix, kastatic.org, geolocation-!cn
 host-suffix, knovel.com, geolocation-!cn
@@ -18967,6 +18970,7 @@ host, alt8-mtalk.google.com, geolocation-!cn
 host, mtalk.google.com, geolocation-!cn
 host-suffix, kaggle.com, geolocation-!cn
 host-suffix, kaggle.io, geolocation-!cn
+host-suffix, kaggleusercontent.com, geolocation-!cn
 host-suffix, deps.dev, geolocation-!cn
 host-suffix, deps.info, geolocation-!cn
 host-suffix, opensourceinsight.dev, geolocation-!cn
