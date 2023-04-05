@@ -2424,6 +2424,11 @@ host-suffix, pkuh6.cn, geolocation-cn
 host-suffix, puh3.net.cn, geolocation-cn
 host, hospital.pku.edu.cn, geolocation-cn
 host, ss.bjmu.edu.cn, geolocation-cn
+host-suffix, cnmstl.net, geolocation-cn
+host-suffix, fofa.so, geolocation-cn
+host-suffix, t00ls.cc, geolocation-cn
+host-suffix, t00ls.net, geolocation-cn
+host-suffix, tools.team, geolocation-cn
 host-suffix, 115.com, geolocation-cn
 host-suffix, 115cdn.com, geolocation-cn
 host-suffix, 115cdn.net, geolocation-cn

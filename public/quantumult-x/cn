@@ -2439,6 +2439,11 @@ host-suffix, pkuh6.cn, cn
 host-suffix, puh3.net.cn, cn
 host, hospital.pku.edu.cn, cn
 host, ss.bjmu.edu.cn, cn
+host-suffix, cnmstl.net, cn
+host-suffix, fofa.so, cn
+host-suffix, t00ls.cc, cn
+host-suffix, t00ls.net, cn
+host-suffix, tools.team, cn
 host-suffix, 115.com, cn
 host-suffix, 115cdn.com, cn
 host-suffix, 115cdn.net, cn
