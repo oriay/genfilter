@@ -20858,6 +20858,7 @@ host-suffix, microsoftnewsforkids.org, geolocation-!cn
 host-suffix, microsoftnewskids.com, geolocation-!cn
 host-suffix, microsoftnewskids.net, geolocation-!cn
 host-suffix, microsoftnewskids.org, geolocation-!cn
+host-suffix, msn.cn, geolocation-!cn
 host-suffix, msn.com, geolocation-!cn
 host-suffix, msnewskids.com, geolocation-!cn
 host-suffix, msnewskids.net, geolocation-!cn
