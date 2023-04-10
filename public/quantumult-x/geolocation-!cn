@@ -5,6 +5,8 @@ host-suffix, overleaf.com, geolocation-!cn
 host-suffix, auroraoss.com, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
+host-suffix, api.nebula-emby.com, geolocation-!cn
+host-suffix, web.nebula-emby.com, geolocation-!cn
 host-suffix, gov, geolocation-!cn
 host-suffix, mil, geolocation-!cn
 host-suffix, edu, geolocation-!cn
@@ -46,7 +48,6 @@ host-suffix, bw, geolocation-!cn
 host-suffix, by, geolocation-!cn
 host-suffix, bz, geolocation-!cn
 host-suffix, ca, geolocation-!cn
-host-suffix, cc, geolocation-!cn
 host-suffix, cd, geolocation-!cn
 host-suffix, cf, geolocation-!cn
 host-suffix, cg, geolocation-!cn
@@ -55,7 +56,6 @@ host-suffix, ci, geolocation-!cn
 host-suffix, ck, geolocation-!cn
 host-suffix, cl, geolocation-!cn
 host-suffix, cm, geolocation-!cn
-host-suffix, co, geolocation-!cn
 host-suffix, cr, geolocation-!cn
 host-suffix, cu, geolocation-!cn
 host-suffix, cv, geolocation-!cn
@@ -146,7 +146,6 @@ host-suffix, ly, geolocation-!cn
 host-suffix, ma, geolocation-!cn
 host-suffix, mc, geolocation-!cn
 host-suffix, md, geolocation-!cn
-host-suffix, me, geolocation-!cn
 host-suffix, mf, geolocation-!cn
 host-suffix, mg, geolocation-!cn
 host-suffix, mh, geolocation-!cn
@@ -192,7 +191,6 @@ host-suffix, pr, geolocation-!cn
 host-suffix, ps, geolocation-!cn
 host-suffix, ps, geolocation-!cn
 host-suffix, pt, geolocation-!cn
-host-suffix, pw, geolocation-!cn
 host-suffix, py, geolocation-!cn
 host-suffix, qa, geolocation-!cn
 host-suffix, re, geolocation-!cn
