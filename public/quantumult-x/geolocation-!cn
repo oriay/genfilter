@@ -21072,6 +21072,11 @@ host-suffix, ai.com, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn
 host, chat.openai.com.cdn.cloudflare.net, geolocation-!cn
 host, openaiapi-site.azureedge.net, geolocation-!cn
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, geolocation-!cn
+host, openaicomproductionae4b.blob.core.windows.net, geolocation-!cn
+host, production-openaicom-storage.azureedge.net, geolocation-!cn
+host, o33249.ingest.sentry.io, geolocation-!cn
+host, openaicom.imgix.net, geolocation-!cn
 host-suffix, openweather.co.uk, geolocation-!cn
 host-suffix, openweathermap.org, geolocation-!cn
 host-suffix, oracle, geolocation-!cn
