@@ -5764,6 +5764,7 @@ host-suffix, steam.cdn.webra.ru, geolocation-!cn
 host, steambroadcast.akamaized.net, geolocation-!cn
 host, steamcdn-a.akamaihd.net, geolocation-!cn
 host, steamcommunity-a.akamaihd.net, geolocation-!cn
+host, steammobile.akamaized.net, geolocation-!cn
 host, steampipe-kr.akamaized.net, geolocation-!cn
 host, steampipe-partner.akamaized.net, geolocation-!cn
 host, steampipe.akamaized.net, geolocation-!cn
