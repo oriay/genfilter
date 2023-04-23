@@ -1137,7 +1137,10 @@ host-suffix, applecensorship.com, geolocation-!cn
 host-suffix, freebrowser.org, geolocation-!cn
 host-suffix, freewechat.com, geolocation-!cn
 host-suffix, freeweibo.com, geolocation-!cn
+host-suffix, freezhihu.org, geolocation-!cn
 host-suffix, greatfire.org, geolocation-!cn
+host-suffix, pao-pao.net, geolocation-!cn
+host-suffix, wikiunblocked.org, geolocation-!cn
 host-suffix, haveibeenpwned.com, geolocation-!cn
 host-suffix, pwnedpasswords.com, geolocation-!cn
 host-suffix, getlantern.org, geolocation-!cn
