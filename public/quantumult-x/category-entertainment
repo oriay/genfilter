@@ -916,9 +916,11 @@ host-suffix, star.connections.edge.bamgrid.com, category-entertainment
 host-suffix, star.content.edge.bamgrid.com, category-entertainment
 host-suffix, star.playback.edge.bamgrid.com, category-entertainment
 host-suffix, chobit.cc, category-entertainment
+host-suffix, ci-en.jp, category-entertainment
 host-suffix, ci-en.net, category-entertainment
 host-suffix, dlsite.com, category-entertainment
 host-suffix, dlsite.com.tw, category-entertainment
+host-suffix, dlsite.jp, category-entertainment
 host-suffix, dlsitestudio.com, category-entertainment
 host-suffix, nijiyome.jp, category-entertainment
 host-suffix, triokini.com, category-entertainment

@@ -6098,9 +6098,11 @@ host-suffix, star.connections.edge.bamgrid.com, geolocation-!cn
 host-suffix, star.content.edge.bamgrid.com, geolocation-!cn
 host-suffix, star.playback.edge.bamgrid.com, geolocation-!cn
 host-suffix, chobit.cc, geolocation-!cn
+host-suffix, ci-en.jp, geolocation-!cn
 host-suffix, ci-en.net, geolocation-!cn
 host-suffix, dlsite.com, geolocation-!cn
 host-suffix, dlsite.com.tw, geolocation-!cn
+host-suffix, dlsite.jp, geolocation-!cn
 host-suffix, dlsitestudio.com, geolocation-!cn
 host-suffix, nijiyome.jp, geolocation-!cn
 host-suffix, triokini.com, geolocation-!cn
@@ -8802,6 +8804,7 @@ host-suffix, 18exgfs.com, geolocation-!cn
 host-suffix, 18h.mm-cg.com, geolocation-!cn
 host-suffix, 18hmanga.click, geolocation-!cn
 host-suffix, 18hmanga.com, geolocation-!cn
+host-suffix, 18insta.com, geolocation-!cn
 host-suffix, 18j.tv, geolocation-!cn
 host-suffix, 18jms.com, geolocation-!cn
 host-suffix, 18novel.xyz, geolocation-!cn
@@ -14316,9 +14319,11 @@ host-suffix, c4slive.com, geolocation-!cn
 host-suffix, clips4sale.com, geolocation-!cn
 host-suffix, videos4sale.com, geolocation-!cn
 host-suffix, chobit.cc, geolocation-!cn
+host-suffix, ci-en.jp, geolocation-!cn
 host-suffix, ci-en.net, geolocation-!cn
 host-suffix, dlsite.com, geolocation-!cn
 host-suffix, dlsite.com.tw, geolocation-!cn
+host-suffix, dlsite.jp, geolocation-!cn
 host-suffix, dlsitestudio.com, geolocation-!cn
 host-suffix, nijiyome.jp, geolocation-!cn
 host-suffix, triokini.com, geolocation-!cn
@@ -22009,9 +22014,11 @@ host-suffix, avxlive.icu, geolocation-!cn
 host-suffix, xsava.xyz, geolocation-!cn
 host-suffix, zavat.pw, geolocation-!cn
 host-suffix, chobit.cc, geolocation-!cn
+host-suffix, ci-en.jp, geolocation-!cn
 host-suffix, ci-en.net, geolocation-!cn
 host-suffix, dlsite.com, geolocation-!cn
 host-suffix, dlsite.com.tw, geolocation-!cn
+host-suffix, dlsite.jp, geolocation-!cn
 host-suffix, dlsitestudio.com, geolocation-!cn
 host-suffix, nijiyome.jp, geolocation-!cn
 host-suffix, triokini.com, geolocation-!cn
