@@ -3329,8 +3329,10 @@ host-suffix, bytedns.net, geolocation-cn
 host-suffix, bytednsdoc.com, geolocation-cn
 host-suffix, bytedns1.com, geolocation-cn
 host-suffix, bytefcdn.com, geolocation-cn
+host-suffix, bytegecko.com, geolocation-cn
 host-suffix, bytegoofy.com, geolocation-cn
 host-suffix, bytegslb.com, geolocation-cn
+host-suffix, bytehwm.com, geolocation-cn
 host-suffix, byteimg.com, geolocation-cn
 host-suffix, bytelb.net, geolocation-cn
 host-suffix, byteoversea.com, geolocation-cn
@@ -3380,7 +3382,9 @@ host-suffix, bdxiguaimg.com, geolocation-cn
 host-suffix, bdxiguastatic.com, geolocation-cn
 host-suffix, baike.com, geolocation-cn
 host-suffix, feishu.cn, geolocation-cn
+host-suffix, feishu.net, geolocation-cn
 host-suffix, feishucdn.com, geolocation-cn
+host-suffix, feishupkg.com, geolocation-cn
 host-suffix, wukong.com, geolocation-cn
 host-suffix, wukongwenda.cn, geolocation-cn
 host-suffix, wukongwenda.com, geolocation-cn

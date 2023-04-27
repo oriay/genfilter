@@ -3344,8 +3344,10 @@ host-suffix, bytedns.net, cn
 host-suffix, bytednsdoc.com, cn
 host-suffix, bytedns1.com, cn
 host-suffix, bytefcdn.com, cn
+host-suffix, bytegecko.com, cn
 host-suffix, bytegoofy.com, cn
 host-suffix, bytegslb.com, cn
+host-suffix, bytehwm.com, cn
 host-suffix, byteimg.com, cn
 host-suffix, bytelb.net, cn
 host-suffix, byteoversea.com, cn
@@ -3395,7 +3397,9 @@ host-suffix, bdxiguaimg.com, cn
 host-suffix, bdxiguastatic.com, cn
 host-suffix, baike.com, cn
 host-suffix, feishu.cn, cn
+host-suffix, feishu.net, cn
 host-suffix, feishucdn.com, cn
+host-suffix, feishupkg.com, cn
 host-suffix, wukong.com, cn
 host-suffix, wukongwenda.cn, cn
 host-suffix, wukongwenda.com, cn

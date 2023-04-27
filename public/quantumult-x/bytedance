@@ -9,8 +9,10 @@ host-suffix, bytedns.net, bytedance
 host-suffix, bytednsdoc.com, bytedance
 host-suffix, bytedns1.com, bytedance
 host-suffix, bytefcdn.com, bytedance
+host-suffix, bytegecko.com, bytedance
 host-suffix, bytegoofy.com, bytedance
 host-suffix, bytegslb.com, bytedance
+host-suffix, bytehwm.com, bytedance
 host-suffix, byteimg.com, bytedance
 host-suffix, bytelb.net, bytedance
 host-suffix, byteoversea.com, bytedance
@@ -60,7 +62,9 @@ host-suffix, bdxiguaimg.com, bytedance
 host-suffix, bdxiguastatic.com, bytedance
 host-suffix, baike.com, bytedance
 host-suffix, feishu.cn, bytedance
+host-suffix, feishu.net, bytedance
 host-suffix, feishucdn.com, bytedance
+host-suffix, feishupkg.com, bytedance
 host-suffix, wukong.com, bytedance
 host-suffix, wukongwenda.cn, bytedance
 host-suffix, wukongwenda.com, bytedance
