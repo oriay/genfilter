@@ -6271,3 +6271,11 @@ host-suffix, yandex.ua, category-companies
 host-suffix, yandex.uz, category-companies
 host-suffix, yandexcloud.net, category-companies
 host-suffix, yastatic.net, category-companies
+host-suffix, anydesk.com, category-companies
+host-suffix, nomachine.com, category-companies
+host-suffix, rustdesk.com, category-companies
+host-suffix, teamviewer.cn, category-companies
+host-suffix, teamviewer.com, category-companies
+host-suffix, teamviewer.us, category-companies
+host, client-teamviewer-com.trafficmanager.net, category-companies
+host, teamviewer.com.cdn.cloudflare.net, category-companies
