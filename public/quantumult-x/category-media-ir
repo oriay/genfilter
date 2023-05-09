@@ -1,5 +1,5 @@
-host-suffix, aparat.com, category-media-ir
-host-suffix, filimo.com, category-media-ir
+host-suffix, cinematicket.org, category-media-ir
+host-suffix, filmnet.ir, category-media-ir
 host-suffix, irib.ir, category-media-ir
 host-suffix, iribtv.ir, category-media-ir
 host-suffix, irinn.ir, category-media-ir
@@ -18,3 +18,8 @@ host-suffix, telewebion.com, category-media-ir
 host-suffix, tv3.ir, category-media-ir
 host-suffix, tv5.ir, category-media-ir
 host-suffix, tv7.ir, category-media-ir
+host-suffix, aparat.com, category-media-ir
+host-suffix, aparatkids.com, category-media-ir
+host-suffix, aparatsport.com, category-media-ir
+host-suffix, filimo.com, category-media-ir
+host-suffix, filimo.school, category-media-ir
