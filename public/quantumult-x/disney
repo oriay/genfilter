@@ -136,6 +136,7 @@ host, espn.hb.omtrdc.net, disney
 host, espndotcom.tt.omtrdc.net, disney
 host-suffix, hotstar.com, disney
 host-suffix, hotstar-cdn.net, disney
+host-suffix, hotstar-labs.com, disney
 host-suffix, hotstarext.com, disney
 host-suffix, hsprepack.akamaized.net, disney
 host-suffix, marvel.com, disney

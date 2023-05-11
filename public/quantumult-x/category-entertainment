@@ -894,6 +894,7 @@ host, espn.hb.omtrdc.net, category-entertainment
 host, espndotcom.tt.omtrdc.net, category-entertainment
 host-suffix, hotstar.com, category-entertainment
 host-suffix, hotstar-cdn.net, category-entertainment
+host-suffix, hotstar-labs.com, category-entertainment
 host-suffix, hotstarext.com, category-entertainment
 host-suffix, hsprepack.akamaized.net, category-entertainment
 host-suffix, marvel.com, category-entertainment
