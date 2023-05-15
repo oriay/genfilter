@@ -5922,6 +5922,7 @@ host-suffix, callersbane.com, geolocation-!cn
 host-suffix, minecraft.net, geolocation-!cn
 host-suffix, minecraftshop.com, geolocation-!cn
 host-suffix, mojang.com, geolocation-!cn
+host-suffix, ynoproject.net, geolocation-!cn
 host-suffix, ptzwx.com, geolocation-!cn
 host-suffix, quanben-xiaoshuo.com, geolocation-!cn
 host-suffix, quanben.io, geolocation-!cn
@@ -18735,6 +18736,7 @@ host-suffix, googlestore.com, geolocation-!cn
 host-suffix, googlesverige.com, geolocation-!cn
 host-suffix, googleusercontent.com, geolocation-!cn
 host-suffix, googleventures.com, geolocation-!cn
+host-suffix, googlezip.net, geolocation-!cn
 host-suffix, googlr.com, geolocation-!cn
 host-suffix, goolge.com, geolocation-!cn
 host-suffix, gooogle.com, geolocation-!cn
