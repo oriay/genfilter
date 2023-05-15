@@ -1171,6 +1171,7 @@ host-suffix, alog.umeng.com, geolocation-cn
 host-suffix, alog.umengcloud.com, geolocation-cn
 host-suffix, w.cnzz.com, geolocation-cn
 host-suffix, z.gds.cnzz.com, geolocation-cn
+host-suffix, huangyuhui.net, geolocation-cn
 host-suffix, a2z.org.cn, geolocation-cn
 host-suffix, amazonaws.cn, geolocation-cn
 host-suffix, amazonaws.com.cn, geolocation-cn

@@ -6701,6 +6701,7 @@ host-suffix, ptt.cc, geolocation-!cn
 host-suffix, ptt2.cc, geolocation-!cn
 host-suffix, ptt3.cc, geolocation-!cn
 host-suffix, poe.com, geolocation-!cn
+host-suffix, poecdn.net, geolocation-!cn
 host-suffix, qr.ae, geolocation-!cn
 host-suffix, quora.com, geolocation-!cn
 host-suffix, quoracdn.net, geolocation-!cn
