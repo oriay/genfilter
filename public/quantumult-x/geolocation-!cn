@@ -2778,6 +2778,8 @@ host-suffix, softbanktelecom.com, geolocation-!cn
 host-suffix, softbankusa.net, geolocation-!cn
 host-suffix, softbankventuresasia.com, geolocation-!cn
 host-suffix, softbankworld.com, geolocation-!cn
+host-suffix, link.com, geolocation-!cn
+host-suffix, stripe-terminal-local-reader.net, geolocation-!cn
 host-suffix, stripe.com, geolocation-!cn
 host-suffix, stripe.network, geolocation-!cn
 host-suffix, stripecdn.com, geolocation-!cn
