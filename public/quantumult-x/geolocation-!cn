@@ -5892,6 +5892,7 @@ host-suffix, xbox, geolocation-!cn
 host-suffix, forzamotorsport.net, geolocation-!cn
 host-suffix, forzaracingchampionship.com, geolocation-!cn
 host-suffix, forzarc.com, geolocation-!cn
+host-suffix, gamepass.com, geolocation-!cn
 host-suffix, orithegame.com, geolocation-!cn
 host-suffix, renovacionxboxlive.com, geolocation-!cn
 host-suffix, tellmewhygame.com, geolocation-!cn
@@ -5912,6 +5913,7 @@ host-suffix, xboxone.co, geolocation-!cn
 host-suffix, xboxone.com, geolocation-!cn
 host-suffix, xboxone.eu, geolocation-!cn
 host-suffix, xboxplayanywhere.com, geolocation-!cn
+host-suffix, xboxservices.com, geolocation-!cn
 host-suffix, xboxstudios.com, geolocation-!cn
 host-suffix, xbx.lv, geolocation-!cn
 host-suffix, beth.games, geolocation-!cn
@@ -21039,6 +21041,7 @@ host-suffix, xbox, geolocation-!cn
 host-suffix, forzamotorsport.net, geolocation-!cn
 host-suffix, forzaracingchampionship.com, geolocation-!cn
 host-suffix, forzarc.com, geolocation-!cn
+host-suffix, gamepass.com, geolocation-!cn
 host-suffix, orithegame.com, geolocation-!cn
 host-suffix, renovacionxboxlive.com, geolocation-!cn
 host-suffix, tellmewhygame.com, geolocation-!cn
@@ -21059,6 +21062,7 @@ host-suffix, xboxone.co, geolocation-!cn
 host-suffix, xboxone.com, geolocation-!cn
 host-suffix, xboxone.eu, geolocation-!cn
 host-suffix, xboxplayanywhere.com, geolocation-!cn
+host-suffix, xboxservices.com, geolocation-!cn
 host-suffix, xboxstudios.com, geolocation-!cn
 host-suffix, xbx.lv, geolocation-!cn
 host-suffix, beth.games, geolocation-!cn

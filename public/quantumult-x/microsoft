@@ -565,6 +565,7 @@ host-suffix, xbox, microsoft
 host-suffix, forzamotorsport.net, microsoft
 host-suffix, forzaracingchampionship.com, microsoft
 host-suffix, forzarc.com, microsoft
+host-suffix, gamepass.com, microsoft
 host-suffix, orithegame.com, microsoft
 host-suffix, renovacionxboxlive.com, microsoft
 host-suffix, tellmewhygame.com, microsoft
@@ -585,6 +586,7 @@ host-suffix, xboxone.co, microsoft
 host-suffix, xboxone.com, microsoft
 host-suffix, xboxone.eu, microsoft
 host-suffix, xboxplayanywhere.com, microsoft
+host-suffix, xboxservices.com, microsoft
 host-suffix, xboxstudios.com, microsoft
 host-suffix, xbx.lv, microsoft
 host-suffix, beth.games, microsoft
