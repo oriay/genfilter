@@ -21076,6 +21076,9 @@ host-suffix, callersbane.com, geolocation-!cn
 host-suffix, minecraft.net, geolocation-!cn
 host-suffix, minecraftshop.com, geolocation-!cn
 host-suffix, mojang.com, geolocation-!cn
+host-suffix, mikrotik.com, geolocation-!cn
+host-suffix, mt.lv, geolocation-!cn
+host-suffix, routerboard.com, geolocation-!cn
 host-suffix, mindgeek.com, geolocation-!cn
 host-suffix, babes.com, geolocation-!cn
 host-suffix, men.com, geolocation-!cn
