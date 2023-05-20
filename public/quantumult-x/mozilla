@@ -11,6 +11,7 @@ host-suffix, firefox.com, mozilla
 host-suffix, firefoxusercontent.com, mozilla
 host-suffix, developer.allizom.org, mozilla
 host-suffix, developer.mozilla.org, mozilla
+host-suffix, mdn.dev, mozilla
 host-suffix, mdn.mozit.cloud, mozilla
 host, interactive-examples.mdn.mozilla.net, mozilla
 host, mdn.mozillademos.org, mozilla

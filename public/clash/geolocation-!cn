@@ -15203,6 +15203,7 @@ DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,artixlinux.org
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,badgen.net
 DOMAIN-SUFFIX,bitvise.com
@@ -21135,6 +21136,7 @@ DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
+DOMAIN-SUFFIX,mdn.dev
 DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,mdn.mozillademos.org

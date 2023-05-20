@@ -5440,6 +5440,7 @@ host-suffix, firefox.com, category-companies
 host-suffix, firefoxusercontent.com, category-companies
 host-suffix, developer.allizom.org, category-companies
 host-suffix, developer.mozilla.org, category-companies
+host-suffix, mdn.dev, category-companies
 host-suffix, mdn.mozit.cloud, category-companies
 host, interactive-examples.mdn.mozilla.net, category-companies
 host, mdn.mozillademos.org, category-companies

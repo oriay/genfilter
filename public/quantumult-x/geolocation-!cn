@@ -15203,6 +15203,7 @@ host-suffix, zoom.us, geolocation-!cn
 host-suffix, adventofcode.com, geolocation-!cn
 host-suffix, alpinelinux.org, geolocation-!cn
 host-suffix, apache.org, geolocation-!cn
+host-suffix, artixlinux.org, geolocation-!cn
 host-suffix, atom.io, geolocation-!cn
 host-suffix, badgen.net, geolocation-!cn
 host-suffix, bitvise.com, geolocation-!cn
@@ -21135,6 +21136,7 @@ host-suffix, firefox.com, geolocation-!cn
 host-suffix, firefoxusercontent.com, geolocation-!cn
 host-suffix, developer.allizom.org, geolocation-!cn
 host-suffix, developer.mozilla.org, geolocation-!cn
+host-suffix, mdn.dev, geolocation-!cn
 host-suffix, mdn.mozit.cloud, geolocation-!cn
 host, interactive-examples.mdn.mozilla.net, geolocation-!cn
 host, mdn.mozillademos.org, geolocation-!cn

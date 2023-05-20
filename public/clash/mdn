@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
+DOMAIN-SUFFIX,mdn.dev
 DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,mdn.mozillademos.org
