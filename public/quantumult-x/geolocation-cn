@@ -1,5 +1,6 @@
 host-suffix, 123pan.com, geolocation-cn
 host-suffix, funcdn.com, geolocation-cn
+host-suffix, leigod.cn, geolocation-cn
 host-suffix, wo1wan.com, geolocation-cn
 host-suffix, 52pojie.cn, geolocation-cn
 host-suffix, itsk.com, geolocation-cn
@@ -1331,6 +1332,10 @@ host-suffix, yfdts.net, geolocation-cn
 host-suffix, yfp2p.net, geolocation-cn
 host-suffix, yfscdn.net, geolocation-cn
 host-suffix, yunfancdn.com, geolocation-cn
+host-suffix, leigod.com, geolocation-cn
+host-suffix, tmjiasuqi.com, geolocation-cn
+host-suffix, uu.163.com, geolocation-cn
+host-suffix, xunyou.com, geolocation-cn
 host-suffix, abchina.com, geolocation-cn
 host-suffix, bankcomm.com, geolocation-cn
 host-suffix, bankofbeijing.com.cn, geolocation-cn
