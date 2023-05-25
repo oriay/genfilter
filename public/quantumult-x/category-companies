@@ -5443,9 +5443,10 @@ host-suffix, firefox.com, category-companies
 host-suffix, firefoxusercontent.com, category-companies
 host-suffix, developer.allizom.org, category-companies
 host-suffix, developer.mozilla.org, category-companies
+host-suffix, mdn.allizom.net, category-companies
 host-suffix, mdn.dev, category-companies
 host-suffix, mdn.mozit.cloud, category-companies
-host, interactive-examples.mdn.mozilla.net, category-companies
+host-suffix, mdn.mozilla.net, category-companies
 host, mdn.mozillademos.org, category-companies
 host-suffix, rust-lang.org, category-companies
 host-suffix, rustup.rs, category-companies
