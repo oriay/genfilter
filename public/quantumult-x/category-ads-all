@@ -374,6 +374,7 @@ host-suffix, googletagmanager.com, category-ads-all
 host-suffix, googletagservices.com, category-ads-all
 host-suffix, googletraveladservices.com, category-ads-all
 host-suffix, urchin.com, category-ads-all
+host, analytics.google.com, category-ads-all
 host-suffix, assets.growingio.com, category-ads-all
 host-suffix, mlog.hiido.com, category-ads-all
 host-suffix, ylog.hiido.com, category-ads-all

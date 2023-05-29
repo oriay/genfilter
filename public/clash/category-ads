@@ -351,6 +351,7 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,urchin.com
+DOMAIN,analytics.google.com
 DOMAIN-SUFFIX,assets.growingio.com
 DOMAIN-SUFFIX,mlog.hiido.com
 DOMAIN-SUFFIX,ylog.hiido.com
