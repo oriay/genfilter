@@ -2107,6 +2107,7 @@ host-suffix, anitama.cn, geolocation-cn
 host-suffix, anitama.net, geolocation-cn
 host-suffix, b23.tv, geolocation-cn
 host-suffix, bigfun.cn, geolocation-cn
+host-suffix, bigfunapp.cn, geolocation-cn
 host-suffix, bili22.cn, geolocation-cn
 host-suffix, bili2233.cn, geolocation-cn
 host-suffix, bili23.cn, geolocation-cn
@@ -2114,9 +2115,11 @@ host-suffix, bili33.cn, geolocation-cn
 host-suffix, biliapi.com, geolocation-cn
 host-suffix, biliapi.net, geolocation-cn
 host-suffix, bilibili.cc, geolocation-cn
+host-suffix, bilibili.cn, geolocation-cn
 host-suffix, bilibili.com, geolocation-cn
 host-suffix, bilibili.net, geolocation-cn
 host-suffix, bilibili.tv, geolocation-cn
+host-suffix, bilicomics.com, geolocation-cn
 host-suffix, bilibiligame.cn, geolocation-cn
 host-suffix, bilibiligame.co, geolocation-cn
 host-suffix, bilibiligame.net, geolocation-cn

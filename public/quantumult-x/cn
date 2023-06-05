@@ -2122,6 +2122,7 @@ host-suffix, anitama.cn, cn
 host-suffix, anitama.net, cn
 host-suffix, b23.tv, cn
 host-suffix, bigfun.cn, cn
+host-suffix, bigfunapp.cn, cn
 host-suffix, bili22.cn, cn
 host-suffix, bili2233.cn, cn
 host-suffix, bili23.cn, cn
@@ -2129,9 +2130,11 @@ host-suffix, bili33.cn, cn
 host-suffix, biliapi.com, cn
 host-suffix, biliapi.net, cn
 host-suffix, bilibili.cc, cn
+host-suffix, bilibili.cn, cn
 host-suffix, bilibili.com, cn
 host-suffix, bilibili.net, cn
 host-suffix, bilibili.tv, cn
+host-suffix, bilicomics.com, cn
 host-suffix, bilibiligame.cn, cn
 host-suffix, bilibiligame.co, cn
 host-suffix, bilibiligame.net, cn

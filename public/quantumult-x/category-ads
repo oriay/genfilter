@@ -38,6 +38,8 @@ host-suffix, static.javhd.com, category-ads
 host-suffix, tm-banners.gamingadult.com, category-ads
 host-suffix, trafficfactory.biz, category-ads
 host-suffix, tsyndicate.com, category-ads
+host-suffix, juicyads.com, category-ads
+host-suffix, jads.co, category-ads
 host-suffix, adx.36kr.com, category-ads
 host-suffix, click.ali213.net, category-ads
 host-suffix, pbmp.ali213.net, category-ads
@@ -311,6 +313,13 @@ host-suffix, pangolin.snssdk.com, category-ads
 host-suffix, pangolin-sdk-toutiao.com, category-ads
 host-suffix, pglstatp-toutiao.com, category-ads
 host-suffix, sf3-ttcdn-tos.pstatp.com, category-ads
+host-suffix, adivery.com, category-ads
+host-suffix, adivery.ir, category-ads
+host-suffix, kaprila.com, category-ads
+host-suffix, najva.com, category-ads
+host-suffix, sabavision.com, category-ads
+host-suffix, tapsell.ir, category-ads
+host-suffix, yektanet.com, category-ads
 host-suffix, x.clearbitjs.com, category-ads
 host-suffix, ad.games.dmm.com, category-ads
 host-suffix, bluekai.com, category-ads
