@@ -5273,6 +5273,12 @@ host-suffix, 2k.com, geolocation-!cn
 host-suffix, 2kcoretech.online, geolocation-!cn
 host-suffix, 2kgames.com, geolocation-!cn
 host-suffix, take2games.com, geolocation-!cn
+host-suffix, bilibiligame.cn, geolocation-!cn
+host-suffix, bilibiligame.co, geolocation-!cn
+host-suffix, bilibiligame.net, geolocation-!cn
+host-suffix, biligame.co, geolocation-!cn
+host-suffix, biligame.com, geolocation-!cn
+host-suffix, biligame.net, geolocation-!cn
 host-suffix, blizzard.cn, geolocation-!cn
 host-suffix, blizzard.com, geolocation-!cn
 host-suffix, blizzardgames.cn, geolocation-!cn
@@ -5529,6 +5535,7 @@ host, static-login.gog-statics.com, geolocation-!cn
 host, www4-static.gog-statics.com, geolocation-!cn
 host-suffix, illusion.co.jp, geolocation-!cn
 host-suffix, illusion.jp, geolocation-!cn
+host-suffix, lowiro.com, geolocation-!cn
 host-suffix, genshinimpact.com, geolocation-!cn
 host-suffix, honkaiimpact3.com, geolocation-!cn
 host-suffix, honkaistarrail.com, geolocation-!cn

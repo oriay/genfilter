@@ -5273,6 +5273,12 @@ DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kgames.com
 DOMAIN-SUFFIX,take2games.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,blizzard.cn
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgames.cn
@@ -5529,6 +5535,7 @@ DOMAIN,static-login.gog-statics.com
 DOMAIN,www4-static.gog-statics.com
 DOMAIN-SUFFIX,illusion.co.jp
 DOMAIN-SUFFIX,illusion.jp
+DOMAIN-SUFFIX,lowiro.com
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com

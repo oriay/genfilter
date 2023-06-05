@@ -2114,6 +2114,8 @@ host, apilog-web.acfun.cn, cn
 host-suffix, acplay.net, cn
 host-suffix, dandanplay.com, cn
 host-suffix, ali213.net, cn
+host-suffix, bilicomics.com, cn
+host, manga.bilibili.com, cn
 host-suffix, acg.tv, cn
 host-suffix, acgvideo.com, cn
 host-suffix, animetamashi.cn, cn
@@ -2134,10 +2136,6 @@ host-suffix, bilibili.cn, cn
 host-suffix, bilibili.com, cn
 host-suffix, bilibili.net, cn
 host-suffix, bilibili.tv, cn
-host-suffix, bilicomics.com, cn
-host-suffix, bilibiligame.cn, cn
-host-suffix, bilibiligame.co, cn
-host-suffix, bilibiligame.net, cn
 host-suffix, bilibilipay.cn, cn
 host-suffix, bilibilipay.com, cn
 host-suffix, bilicdn1.com, cn
@@ -2145,9 +2143,6 @@ host-suffix, bilicdn2.com, cn
 host-suffix, bilicdn3.com, cn
 host-suffix, bilicdn4.com, cn
 host-suffix, bilicdn5.com, cn
-host-suffix, biligame.co, cn
-host-suffix, biligame.com, cn
-host-suffix, biligame.net, cn
 host-suffix, biligo.com, cn
 host-suffix, biliintl.com, cn
 host-suffix, bilivideo.cn, cn
@@ -2161,6 +2156,12 @@ host-suffix, maoercdn.com, cn
 host-suffix, mincdn.com, cn
 host-suffix, yo9.com, cn
 host, upos-hz-mirrorakam.akamaized.net, cn
+host-suffix, bilibiligame.cn, cn
+host-suffix, bilibiligame.co, cn
+host-suffix, bilibiligame.net, cn
+host-suffix, biligame.co, cn
+host-suffix, biligame.com, cn
+host-suffix, biligame.net, cn
 host-suffix, ciweimao.com, cn
 host-suffix, hbooker.com, cn
 host-suffix, kuangxiangit.com, cn

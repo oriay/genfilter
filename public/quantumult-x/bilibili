@@ -1,3 +1,5 @@
+host-suffix, bilicomics.com, bilibili
+host, manga.bilibili.com, bilibili
 host-suffix, acg.tv, bilibili
 host-suffix, acgvideo.com, bilibili
 host-suffix, animetamashi.cn, bilibili
@@ -18,10 +20,6 @@ host-suffix, bilibili.cn, bilibili
 host-suffix, bilibili.com, bilibili
 host-suffix, bilibili.net, bilibili
 host-suffix, bilibili.tv, bilibili
-host-suffix, bilicomics.com, bilibili
-host-suffix, bilibiligame.cn, bilibili
-host-suffix, bilibiligame.co, bilibili
-host-suffix, bilibiligame.net, bilibili
 host-suffix, bilibilipay.cn, bilibili
 host-suffix, bilibilipay.com, bilibili
 host-suffix, bilicdn1.com, bilibili
@@ -29,9 +27,6 @@ host-suffix, bilicdn2.com, bilibili
 host-suffix, bilicdn3.com, bilibili
 host-suffix, bilicdn4.com, bilibili
 host-suffix, bilicdn5.com, bilibili
-host-suffix, biligame.co, bilibili
-host-suffix, biligame.com, bilibili
-host-suffix, biligame.net, bilibili
 host-suffix, biligo.com, bilibili
 host-suffix, biliintl.com, bilibili
 host-suffix, bilivideo.cn, bilibili
@@ -45,3 +40,9 @@ host-suffix, maoercdn.com, bilibili
 host-suffix, mincdn.com, bilibili
 host-suffix, yo9.com, bilibili
 host, upos-hz-mirrorakam.akamaized.net, bilibili
+host-suffix, bilibiligame.cn, bilibili
+host-suffix, bilibiligame.co, bilibili
+host-suffix, bilibiligame.net, bilibili
+host-suffix, biligame.co, bilibili
+host-suffix, biligame.com, bilibili
+host-suffix, biligame.net, bilibili

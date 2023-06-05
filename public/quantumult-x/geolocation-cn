@@ -2099,6 +2099,8 @@ host, apilog-web.acfun.cn, geolocation-cn
 host-suffix, acplay.net, geolocation-cn
 host-suffix, dandanplay.com, geolocation-cn
 host-suffix, ali213.net, geolocation-cn
+host-suffix, bilicomics.com, geolocation-cn
+host, manga.bilibili.com, geolocation-cn
 host-suffix, acg.tv, geolocation-cn
 host-suffix, acgvideo.com, geolocation-cn
 host-suffix, animetamashi.cn, geolocation-cn
@@ -2119,10 +2121,6 @@ host-suffix, bilibili.cn, geolocation-cn
 host-suffix, bilibili.com, geolocation-cn
 host-suffix, bilibili.net, geolocation-cn
 host-suffix, bilibili.tv, geolocation-cn
-host-suffix, bilicomics.com, geolocation-cn
-host-suffix, bilibiligame.cn, geolocation-cn
-host-suffix, bilibiligame.co, geolocation-cn
-host-suffix, bilibiligame.net, geolocation-cn
 host-suffix, bilibilipay.cn, geolocation-cn
 host-suffix, bilibilipay.com, geolocation-cn
 host-suffix, bilicdn1.com, geolocation-cn
@@ -2130,9 +2128,6 @@ host-suffix, bilicdn2.com, geolocation-cn
 host-suffix, bilicdn3.com, geolocation-cn
 host-suffix, bilicdn4.com, geolocation-cn
 host-suffix, bilicdn5.com, geolocation-cn
-host-suffix, biligame.co, geolocation-cn
-host-suffix, biligame.com, geolocation-cn
-host-suffix, biligame.net, geolocation-cn
 host-suffix, biligo.com, geolocation-cn
 host-suffix, biliintl.com, geolocation-cn
 host-suffix, bilivideo.cn, geolocation-cn
@@ -2146,6 +2141,12 @@ host-suffix, maoercdn.com, geolocation-cn
 host-suffix, mincdn.com, geolocation-cn
 host-suffix, yo9.com, geolocation-cn
 host, upos-hz-mirrorakam.akamaized.net, geolocation-cn
+host-suffix, bilibiligame.cn, geolocation-cn
+host-suffix, bilibiligame.co, geolocation-cn
+host-suffix, bilibiligame.net, geolocation-cn
+host-suffix, biligame.co, geolocation-cn
+host-suffix, biligame.com, geolocation-cn
+host-suffix, biligame.net, geolocation-cn
 host-suffix, ciweimao.com, geolocation-cn
 host-suffix, hbooker.com, geolocation-cn
 host-suffix, kuangxiangit.com, geolocation-cn

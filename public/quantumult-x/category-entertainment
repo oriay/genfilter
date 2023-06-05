@@ -89,6 +89,12 @@ host-suffix, 2k.com, category-entertainment
 host-suffix, 2kcoretech.online, category-entertainment
 host-suffix, 2kgames.com, category-entertainment
 host-suffix, take2games.com, category-entertainment
+host-suffix, bilibiligame.cn, category-entertainment
+host-suffix, bilibiligame.co, category-entertainment
+host-suffix, bilibiligame.net, category-entertainment
+host-suffix, biligame.co, category-entertainment
+host-suffix, biligame.com, category-entertainment
+host-suffix, biligame.net, category-entertainment
 host-suffix, blizzard.cn, category-entertainment
 host-suffix, blizzard.com, category-entertainment
 host-suffix, blizzardgames.cn, category-entertainment
@@ -345,6 +351,7 @@ host, static-login.gog-statics.com, category-entertainment
 host, www4-static.gog-statics.com, category-entertainment
 host-suffix, illusion.co.jp, category-entertainment
 host-suffix, illusion.jp, category-entertainment
+host-suffix, lowiro.com, category-entertainment
 host-suffix, genshinimpact.com, category-entertainment
 host-suffix, honkaiimpact3.com, category-entertainment
 host-suffix, honkaistarrail.com, category-entertainment

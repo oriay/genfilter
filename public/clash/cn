@@ -2114,6 +2114,8 @@ DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,acplay.net
 DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,ali213.net
+DOMAIN-SUFFIX,bilicomics.com
+DOMAIN,manga.bilibili.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,animetamashi.cn
@@ -2134,10 +2136,6 @@ DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.net
 DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,bilicomics.com
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,bilibilipay.cn
 DOMAIN-SUFFIX,bilibilipay.com
 DOMAIN-SUFFIX,bilicdn1.com
@@ -2145,9 +2143,6 @@ DOMAIN-SUFFIX,bilicdn2.com
 DOMAIN-SUFFIX,bilicdn3.com
 DOMAIN-SUFFIX,bilicdn4.com
 DOMAIN-SUFFIX,bilicdn5.com
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,biligo.com
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,bilivideo.cn
@@ -2161,6 +2156,12 @@ DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,mincdn.com
 DOMAIN-SUFFIX,yo9.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,ciweimao.com
 DOMAIN-SUFFIX,hbooker.com
 DOMAIN-SUFFIX,kuangxiangit.com
