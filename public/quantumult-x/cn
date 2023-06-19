@@ -2488,6 +2488,10 @@ host, ss.bjmu.edu.cn, cn
 host-suffix, lkcoffee.com, cn
 host-suffix, luckincoffeecdn.com, cn
 host-suffix, yyds.co, cn
+host-suffix, yudou.cn, cn
+host-suffix, yushiyan.net, cn
+host-suffix, xuetangx.com, cn
+host-suffix, x-cloud.cc, cn
 host-suffix, dgjy.net, cn
 host-suffix, 91yunxiao.com, cn
 host-suffix, aiyunxiao.com, cn
@@ -2523,6 +2527,8 @@ host-suffix, yuanfudao.com, cn
 host-suffix, yuansouti.com, cn
 host-suffix, yuantiku.com, cn
 host-suffix, zhihuishu.com, cn
+host-suffix, rainclassroom.com, cn
+host-suffix, yuketang.cn, cn
 host-suffix, chinesemooc.org, cn
 host-suffix, cnmooc.org, cn
 host-suffix, icourse163.org, cn
@@ -3706,6 +3712,7 @@ host-suffix, xunfei.cn, cn
 host-suffix, ets100.com, cn
 host-suffix, zhixue.com, cn
 host-suffix, changyan.com, cn
+host-suffix, xunfeixxj.com, cn
 host-suffix, kimg.cn, cn
 host-suffix, kingsoft.com, cn
 host-suffix, ksmobile.com, cn

@@ -5650,6 +5650,7 @@ host-suffix, pokemonswordshield.com, geolocation-!cn
 host-suffix, pokemonultrasunmoon.com, geolocation-!cn
 host-suffix, pokemonvgc.com, geolocation-!cn
 host-suffix, pokemonwifi.net, geolocation-!cn
+host-suffix, pokemon-unitepgame.com, geolocation-!cn
 host-suffix, xn--mts47c3w9b1qr.cn, geolocation-!cn
 host-suffix, xn--mts47c3w9b1qr.net, geolocation-!cn
 host-suffix, splatoon2tournament.com, geolocation-!cn
@@ -7612,6 +7613,7 @@ host-suffix, epochstories.com, geolocation-!cn
 host-suffix, epochtime.com, geolocation-!cn
 host-suffix, epochtimes-bg.com, geolocation-!cn
 host-suffix, epochtimes-romania.com, geolocation-!cn
+host-suffix, epochtimes.bg, geolocation-!cn
 host-suffix, epochtimes.co.il, geolocation-!cn
 host-suffix, epochtimes.co.kr, geolocation-!cn
 host-suffix, epochtimes.co.uk, geolocation-!cn
@@ -14915,6 +14917,7 @@ host-suffix, epochstories.com, geolocation-!cn
 host-suffix, epochtime.com, geolocation-!cn
 host-suffix, epochtimes-bg.com, geolocation-!cn
 host-suffix, epochtimes-romania.com, geolocation-!cn
+host-suffix, epochtimes.bg, geolocation-!cn
 host-suffix, epochtimes.co.il, geolocation-!cn
 host-suffix, epochtimes.co.kr, geolocation-!cn
 host-suffix, epochtimes.co.uk, geolocation-!cn

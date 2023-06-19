@@ -2473,6 +2473,10 @@ DOMAIN,ss.bjmu.edu.cn
 DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,yyds.co
+DOMAIN-SUFFIX,yudou.cn
+DOMAIN-SUFFIX,yushiyan.net
+DOMAIN-SUFFIX,xuetangx.com
+DOMAIN-SUFFIX,x-cloud.cc
 DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,91yunxiao.com
 DOMAIN-SUFFIX,aiyunxiao.com
@@ -2508,6 +2512,8 @@ DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,yuansouti.com
 DOMAIN-SUFFIX,yuantiku.com
 DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,cnmooc.org
 DOMAIN-SUFFIX,icourse163.org
@@ -3691,6 +3697,7 @@ DOMAIN-SUFFIX,xunfei.cn
 DOMAIN-SUFFIX,ets100.com
 DOMAIN-SUFFIX,zhixue.com
 DOMAIN-SUFFIX,changyan.com
+DOMAIN-SUFFIX,xunfeixxj.com
 DOMAIN-SUFFIX,kimg.cn
 DOMAIN-SUFFIX,kingsoft.com
 DOMAIN-SUFFIX,ksmobile.com

@@ -2473,6 +2473,10 @@ host, ss.bjmu.edu.cn, geolocation-cn
 host-suffix, lkcoffee.com, geolocation-cn
 host-suffix, luckincoffeecdn.com, geolocation-cn
 host-suffix, yyds.co, geolocation-cn
+host-suffix, yudou.cn, geolocation-cn
+host-suffix, yushiyan.net, geolocation-cn
+host-suffix, xuetangx.com, geolocation-cn
+host-suffix, x-cloud.cc, geolocation-cn
 host-suffix, dgjy.net, geolocation-cn
 host-suffix, 91yunxiao.com, geolocation-cn
 host-suffix, aiyunxiao.com, geolocation-cn
@@ -2508,6 +2512,8 @@ host-suffix, yuanfudao.com, geolocation-cn
 host-suffix, yuansouti.com, geolocation-cn
 host-suffix, yuantiku.com, geolocation-cn
 host-suffix, zhihuishu.com, geolocation-cn
+host-suffix, rainclassroom.com, geolocation-cn
+host-suffix, yuketang.cn, geolocation-cn
 host-suffix, chinesemooc.org, geolocation-cn
 host-suffix, cnmooc.org, geolocation-cn
 host-suffix, icourse163.org, geolocation-cn
@@ -3691,6 +3697,7 @@ host-suffix, xunfei.cn, geolocation-cn
 host-suffix, ets100.com, geolocation-cn
 host-suffix, zhixue.com, geolocation-cn
 host-suffix, changyan.com, geolocation-cn
+host-suffix, xunfeixxj.com, geolocation-cn
 host-suffix, kimg.cn, geolocation-cn
 host-suffix, kingsoft.com, geolocation-cn
 host-suffix, ksmobile.com, geolocation-cn
