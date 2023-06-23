@@ -5632,6 +5632,7 @@ host-suffix, pokedex3d.com, geolocation-!cn
 host-suffix, pokemon-moon.com, geolocation-!cn
 host-suffix, pokemon-sun.com, geolocation-!cn
 host-suffix, pokemon-sunmoon.com, geolocation-!cn
+host-suffix, pokemon-unitepgame.com, geolocation-!cn
 host-suffix, pokemon.com, geolocation-!cn
 host-suffix, pokemonbank.com, geolocation-!cn
 host-suffix, pokemonblackwhite.com, geolocation-!cn
@@ -5650,7 +5651,6 @@ host-suffix, pokemonswordshield.com, geolocation-!cn
 host-suffix, pokemonultrasunmoon.com, geolocation-!cn
 host-suffix, pokemonvgc.com, geolocation-!cn
 host-suffix, pokemonwifi.net, geolocation-!cn
-host-suffix, pokemon-unitepgame.com, geolocation-!cn
 host-suffix, xn--mts47c3w9b1qr.cn, geolocation-!cn
 host-suffix, xn--mts47c3w9b1qr.net, geolocation-!cn
 host-suffix, splatoon2tournament.com, geolocation-!cn
