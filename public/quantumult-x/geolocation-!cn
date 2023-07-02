@@ -5057,6 +5057,7 @@ host-suffix, emblstatic.net, geolocation-!cn
 host-suffix, freecodecamp.org, geolocation-!cn
 host-suffix, kaggle.com, geolocation-!cn
 host-suffix, kaggle.io, geolocation-!cn
+host-suffix, kaggle.net, geolocation-!cn
 host-suffix, kaggleusercontent.com, geolocation-!cn
 host-suffix, khanacademy.org, geolocation-!cn
 host-suffix, kastatic.org, geolocation-!cn
@@ -19479,6 +19480,7 @@ host, alt8-mtalk.google.com, geolocation-!cn
 host, mtalk.google.com, geolocation-!cn
 host-suffix, kaggle.com, geolocation-!cn
 host-suffix, kaggle.io, geolocation-!cn
+host-suffix, kaggle.net, geolocation-!cn
 host-suffix, kaggleusercontent.com, geolocation-!cn
 host-suffix, deps.dev, geolocation-!cn
 host-suffix, deps.info, geolocation-!cn
