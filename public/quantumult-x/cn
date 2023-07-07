@@ -3401,6 +3401,7 @@ host-suffix, bytegoofy.com, cn
 host-suffix, bytegslb.com, cn
 host-suffix, bytehwm.com, cn
 host-suffix, byteimg.com, cn
+host-suffix, byteintl.net, cn
 host-suffix, bytelb.net, cn
 host-suffix, byteoversea.com, cn
 host-suffix, bytescm.com, cn
@@ -3493,6 +3494,8 @@ host-suffix, muscdn.com, cn
 host-suffix, musical.ly, cn
 host-suffix, tik-tokapi.com, cn
 host-suffix, tiktok.com, cn
+host-suffix, tiktokd.net, cn
+host-suffix, tiktokd.org, cn
 host-suffix, tiktokcdn.com, cn
 host-suffix, tiktokv.com, cn
 host, p16-tiktokcdn-com.akamaized.net, cn

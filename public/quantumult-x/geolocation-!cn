@@ -6382,6 +6382,8 @@ host-suffix, muscdn.com, geolocation-!cn
 host-suffix, musical.ly, geolocation-!cn
 host-suffix, tik-tokapi.com, geolocation-!cn
 host-suffix, tiktok.com, geolocation-!cn
+host-suffix, tiktokd.net, geolocation-!cn
+host-suffix, tiktokd.org, geolocation-!cn
 host-suffix, tiktokcdn.com, geolocation-!cn
 host-suffix, tiktokv.com, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn

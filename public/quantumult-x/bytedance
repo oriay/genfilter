@@ -14,6 +14,7 @@ host-suffix, bytegoofy.com, bytedance
 host-suffix, bytegslb.com, bytedance
 host-suffix, bytehwm.com, bytedance
 host-suffix, byteimg.com, bytedance
+host-suffix, byteintl.net, bytedance
 host-suffix, bytelb.net, bytedance
 host-suffix, byteoversea.com, bytedance
 host-suffix, bytescm.com, bytedance
@@ -106,6 +107,8 @@ host-suffix, muscdn.com, bytedance
 host-suffix, musical.ly, bytedance
 host-suffix, tik-tokapi.com, bytedance
 host-suffix, tiktok.com, bytedance
+host-suffix, tiktokd.net, bytedance
+host-suffix, tiktokd.org, bytedance
 host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokv.com, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance

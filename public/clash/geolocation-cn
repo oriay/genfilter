@@ -3386,6 +3386,7 @@ DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytegslb.com
 DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,byteintl.net
 DOMAIN-SUFFIX,bytelb.net
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytescm.com
@@ -3478,6 +3479,8 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
