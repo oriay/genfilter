@@ -21354,8 +21354,10 @@ host-suffix, developer.allizom.org, geolocation-!cn
 host-suffix, developer.mozilla.org, geolocation-!cn
 host-suffix, mdn.allizom.net, geolocation-!cn
 host-suffix, mdn.dev, geolocation-!cn
-host-suffix, mdn.mozit.cloud, geolocation-!cn
 host-suffix, mdn.mozilla.net, geolocation-!cn
+host-suffix, mdn.mozit.cloud, geolocation-!cn
+host-suffix, mdnplay.dev, geolocation-!cn
+host-suffix, mdnyalp.dev, geolocation-!cn
 host, mdn.mozillademos.org, geolocation-!cn
 host-suffix, rust-lang.org, geolocation-!cn
 host-suffix, rustup.rs, geolocation-!cn
