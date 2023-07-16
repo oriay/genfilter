@@ -19375,6 +19375,7 @@ host-suffix, googlesyndication.com, geolocation-!cn
 host-suffix, googletagmanager.com, geolocation-!cn
 host-suffix, googletagservices.com, geolocation-!cn
 host-suffix, googletraveladservices.com, geolocation-!cn
+host-suffix, marketingplatform.google.com, geolocation-!cn
 host-suffix, urchin.com, geolocation-!cn
 host, analytics.google.com, geolocation-!cn
 host-suffix, charlestonroadregistry.com, geolocation-!cn

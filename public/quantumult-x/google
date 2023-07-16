@@ -773,6 +773,7 @@ host-suffix, googlesyndication.com, google
 host-suffix, googletagmanager.com, google
 host-suffix, googletagservices.com, google
 host-suffix, googletraveladservices.com, google
+host-suffix, marketingplatform.google.com, google
 host-suffix, urchin.com, google
 host, analytics.google.com, google
 host-suffix, charlestonroadregistry.com, google

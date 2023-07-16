@@ -382,6 +382,7 @@ host-suffix, googlesyndication.com, category-ads-all
 host-suffix, googletagmanager.com, category-ads-all
 host-suffix, googletagservices.com, category-ads-all
 host-suffix, googletraveladservices.com, category-ads-all
+host-suffix, marketingplatform.google.com, category-ads-all
 host-suffix, urchin.com, category-ads-all
 host, analytics.google.com, category-ads-all
 host-suffix, assets.growingio.com, category-ads-all

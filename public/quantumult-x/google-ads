@@ -23,5 +23,6 @@ host-suffix, googlesyndication.com, google-ads
 host-suffix, googletagmanager.com, google-ads
 host-suffix, googletagservices.com, google-ads
 host-suffix, googletraveladservices.com, google-ads
+host-suffix, marketingplatform.google.com, google-ads
 host-suffix, urchin.com, google-ads
 host, analytics.google.com, google-ads
