@@ -4447,6 +4447,7 @@ host-suffix, ctexcel.fr, geolocation-cn
 host-suffix, ctexcel.us, geolocation-cn
 host-suffix, 10010.com, geolocation-cn
 host-suffix, 10010.com.cn, geolocation-cn
+host-suffix, 114menhu.com, geolocation-cn
 host-suffix, chinaunicom.com, geolocation-cn
 host-suffix, chinaunicom.com.cn, geolocation-cn
 host-suffix, chinaunicom.com.hk, geolocation-cn
