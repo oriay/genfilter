@@ -3471,6 +3471,7 @@ host-suffix, yho.com, geolocation-!cn
 host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
+host-suffix, yusercontent.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
 host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
@@ -21945,6 +21946,7 @@ host-suffix, yho.com, geolocation-!cn
 host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
+host-suffix, yusercontent.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
 host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
@@ -22146,6 +22148,7 @@ host-suffix, yho.com, geolocation-!cn
 host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
+host-suffix, yusercontent.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
 host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
