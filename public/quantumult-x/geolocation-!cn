@@ -7444,12 +7444,13 @@ host-suffix, asakonet.co.jp, geolocation-!cn
 host-suffix, nikkansports.com, geolocation-!cn
 host, asahishimbun.sc.omtrdc.net, geolocation-!cn
 host-suffix, bbc, geolocation-!cn
+host-suffix, bbc-reporting-api.app, geolocation-!cn
 host-suffix, bbc.co.uk, geolocation-!cn
 host-suffix, bbc.com, geolocation-!cn
 host-suffix, bbc.in, geolocation-!cn
 host-suffix, bbc.net.uk, geolocation-!cn
-host-suffix, bbci.co.uk, geolocation-!cn
 host-suffix, bbcfmt.s.llnwi.net, geolocation-!cn
+host-suffix, bbci.co.uk, geolocation-!cn
 host-suffix, bbcmedia.co.uk, geolocation-!cn
 host-suffix, bbcpersian.com, geolocation-!cn
 host-suffix, bbcverticals.com, geolocation-!cn
@@ -8427,6 +8428,7 @@ host-suffix, gu-web.net, geolocation-!cn
 host-suffix, guardianapis.com, geolocation-!cn
 host-suffix, guardianapps.co.uk, geolocation-!cn
 host-suffix, guim.co.uk, geolocation-!cn
+host-suffix, guimcode.co.uk, geolocation-!cn
 host-suffix, theguardian.com, geolocation-!cn
 host-suffix, theguardiandns.com, geolocation-!cn
 host-suffix, theinitium.com, geolocation-!cn

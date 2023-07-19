@@ -173,12 +173,13 @@ host-suffix, asakonet.co.jp, category-media
 host-suffix, nikkansports.com, category-media
 host, asahishimbun.sc.omtrdc.net, category-media
 host-suffix, bbc, category-media
+host-suffix, bbc-reporting-api.app, category-media
 host-suffix, bbc.co.uk, category-media
 host-suffix, bbc.com, category-media
 host-suffix, bbc.in, category-media
 host-suffix, bbc.net.uk, category-media
-host-suffix, bbci.co.uk, category-media
 host-suffix, bbcfmt.s.llnwi.net, category-media
+host-suffix, bbci.co.uk, category-media
 host-suffix, bbcmedia.co.uk, category-media
 host-suffix, bbcpersian.com, category-media
 host-suffix, bbcverticals.com, category-media
@@ -1156,6 +1157,7 @@ host-suffix, gu-web.net, category-media
 host-suffix, guardianapis.com, category-media
 host-suffix, guardianapps.co.uk, category-media
 host-suffix, guim.co.uk, category-media
+host-suffix, guimcode.co.uk, category-media
 host-suffix, theguardian.com, category-media
 host-suffix, theguardiandns.com, category-media
 host-suffix, theinitium.com, category-media
