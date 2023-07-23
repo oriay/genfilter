@@ -3377,6 +3377,7 @@ host-suffix, byted.org, geolocation-cn
 host-suffix, bytedance.com, geolocation-cn
 host-suffix, bytedance.net, geolocation-cn
 host-suffix, bytedanceapi.com, geolocation-cn
+host-suffix, bytedapm.com, geolocation-cn
 host-suffix, bytedns.net, geolocation-cn
 host-suffix, bytednsdoc.com, geolocation-cn
 host-suffix, bytedns1.com, geolocation-cn

@@ -4600,6 +4600,7 @@ host-suffix, walmart, geolocation-!cn
 host-suffix, wal-mart.com, geolocation-!cn
 host-suffix, wal.co, geolocation-!cn
 host-suffix, walmart-content.com, geolocation-!cn
+host-suffix, walmart.cn, geolocation-!cn
 host-suffix, walmart.com, geolocation-!cn
 host-suffix, walmart.pharmacy, geolocation-!cn
 host-suffix, walmartimages.com, geolocation-!cn
