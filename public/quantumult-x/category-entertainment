@@ -1027,6 +1027,8 @@ host-suffix, boxofficemojo.com, category-entertainment
 host-suffix, imdb.com, category-entertainment
 host-suffix, imdb.to, category-entertainment
 host-suffix, media-imdb.com, category-entertainment
+host-suffix, iyf.tv, category-entertainment
+host-suffix, dnvodcdn.me, category-entertainment
 host-suffix, kingkong.com.tw, category-entertainment
 host-suffix, kingkongapp.com, category-entertainment
 host-suffix, kfs.io, category-entertainment
@@ -1113,6 +1115,7 @@ host-suffix, olevod.com, category-entertainment
 host-suffix, olevod.io, category-entertainment
 host-suffix, olevod.tv, category-entertainment
 host-suffix, olevodtv.com, category-entertainment
+host-suffix, olemovienews.com, category-entertainment
 host-suffix, pbs.org, category-entertainment
 host-suffix, ads-pixiv.net, category-entertainment
 host-suffix, booth.pm, category-entertainment

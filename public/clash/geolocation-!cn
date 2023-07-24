@@ -6214,6 +6214,8 @@ DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,dnvodcdn.me
 DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,kingkongapp.com
 DOMAIN-SUFFIX,kfs.io
@@ -6300,6 +6302,7 @@ DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olevod.io
 DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
+DOMAIN-SUFFIX,olemovienews.com
 DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,booth.pm

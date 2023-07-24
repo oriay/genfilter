@@ -6214,6 +6214,8 @@ host-suffix, boxofficemojo.com, geolocation-!cn
 host-suffix, imdb.com, geolocation-!cn
 host-suffix, imdb.to, geolocation-!cn
 host-suffix, media-imdb.com, geolocation-!cn
+host-suffix, iyf.tv, geolocation-!cn
+host-suffix, dnvodcdn.me, geolocation-!cn
 host-suffix, kingkong.com.tw, geolocation-!cn
 host-suffix, kingkongapp.com, geolocation-!cn
 host-suffix, kfs.io, geolocation-!cn
@@ -6300,6 +6302,7 @@ host-suffix, olevod.com, geolocation-!cn
 host-suffix, olevod.io, geolocation-!cn
 host-suffix, olevod.tv, geolocation-!cn
 host-suffix, olevodtv.com, geolocation-!cn
+host-suffix, olemovienews.com, geolocation-!cn
 host-suffix, pbs.org, geolocation-!cn
 host-suffix, ads-pixiv.net, geolocation-!cn
 host-suffix, booth.pm, geolocation-!cn
