@@ -477,6 +477,7 @@ host-suffix, linkedin.cn, category-social-media-!cn
 host, e122475.dscg.akamaiedge.net, category-social-media-!cn
 host, licdn.cn.cdn20.com, category-social-media-!cn
 host, linkedin.sc.omtrdc.net, category-social-media-!cn
+host-suffix, threads.net, category-social-media-!cn
 host-suffix, ads-twitter.com, category-social-media-!cn
 host-suffix, cms-twdigitalassets.com, category-social-media-!cn
 host-suffix, periscope.tv, category-social-media-!cn
@@ -499,6 +500,7 @@ host-suffix, twttr.com, category-social-media-!cn
 host-suffix, twttr.net, category-social-media-!cn
 host-suffix, twvid.com, category-social-media-!cn
 host-suffix, vine.co, category-social-media-!cn
+host-suffix, x.com, category-social-media-!cn
 host-suffix, mvk.com, category-social-media-!cn
 host-suffix, userapi.com, category-social-media-!cn
 host-suffix, vk-cdn.me, category-social-media-!cn

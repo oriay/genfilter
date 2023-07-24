@@ -2949,9 +2949,11 @@ host-suffix, aka-ai.net, geolocation-!cn
 host-suffix, akacrypto.net, geolocation-!cn
 host-suffix, akadeem.net, geolocation-!cn
 host-suffix, akadns.com, geolocation-!cn
+host-suffix, akadns.net, geolocation-!cn
 host-suffix, akadns6.net, geolocation-!cn
 host-suffix, akaeai.com, geolocation-!cn
 host-suffix, akafms.net, geolocation-!cn
+host-suffix, akagtm.org, geolocation-!cn
 host-suffix, akahost.net, geolocation-!cn
 host-suffix, akaint.net, geolocation-!cn
 host-suffix, akam.net, geolocation-!cn
@@ -2974,6 +2976,7 @@ host-suffix, akamai-trials.com, geolocation-!cn
 host-suffix, akamai.co.kr, geolocation-!cn
 host-suffix, akamai.com, geolocation-!cn
 host-suffix, akamai.net, geolocation-!cn
+host-suffix, akamaiedge.net, geolocation-!cn
 host-suffix, akamaientrypoint.net, geolocation-!cn
 host-suffix, akamaietpcnctest.com, geolocation-!cn
 host-suffix, akamaietpcompromisedcnctest.com, geolocation-!cn
@@ -2992,6 +2995,7 @@ host-suffix, akamaitech.net, geolocation-!cn
 host-suffix, akamaitechnologies.com, geolocation-!cn
 host-suffix, akamaitechnologies.net, geolocation-!cn
 host-suffix, akamaisingapore.net, geolocation-!cn
+host-suffix, akamaistream.net, geolocation-!cn
 host-suffix, akamaized-staging.net, geolocation-!cn
 host-suffix, akamaized.net, geolocation-!cn
 host-suffix, akamaizercentral.com, geolocation-!cn
@@ -5942,6 +5946,9 @@ host-suffix, ynoproject.net, geolocation-!cn
 host-suffix, ptzwx.com, geolocation-!cn
 host-suffix, quanben-xiaoshuo.com, geolocation-!cn
 host-suffix, quanben.io, geolocation-!cn
+host-suffix, dailymotion.com, geolocation-!cn
+host-suffix, dm-event.net, geolocation-!cn
+host-suffix, dmcdn.net, geolocation-!cn
 host-suffix, dandanzan.cc, geolocation-!cn
 host-suffix, nunuyy.cc, geolocation-!cn
 host-suffix, dazn-api.com, geolocation-!cn
@@ -6663,6 +6670,7 @@ host-suffix, ibb.co, geolocation-!cn
 host-suffix, imgbb.com, geolocation-!cn
 host-suffix, simgbb.com, geolocation-!cn
 host-suffix, imgur.com, geolocation-!cn
+host-suffix, imgur.io, geolocation-!cn
 host-suffix, imgurinc.com, geolocation-!cn
 host-suffix, pixhost.to, geolocation-!cn
 host-suffix, postimages.org, geolocation-!cn
@@ -7211,6 +7219,7 @@ host-suffix, linkedin.cn, geolocation-!cn
 host, e122475.dscg.akamaiedge.net, geolocation-!cn
 host, licdn.cn.cdn20.com, geolocation-!cn
 host, linkedin.sc.omtrdc.net, geolocation-!cn
+host-suffix, threads.net, geolocation-!cn
 host-suffix, ads-twitter.com, geolocation-!cn
 host-suffix, cms-twdigitalassets.com, geolocation-!cn
 host-suffix, periscope.tv, geolocation-!cn
@@ -7233,6 +7242,7 @@ host-suffix, twttr.com, geolocation-!cn
 host-suffix, twttr.net, geolocation-!cn
 host-suffix, twvid.com, geolocation-!cn
 host-suffix, vine.co, geolocation-!cn
+host-suffix, x.com, geolocation-!cn
 host-suffix, mvk.com, geolocation-!cn
 host-suffix, userapi.com, geolocation-!cn
 host-suffix, vk-cdn.me, geolocation-!cn
@@ -9430,6 +9440,7 @@ host-suffix, avinin.com, geolocation-!cn
 host-suffix, avizoon.site, geolocation-!cn
 host-suffix, avizoone.com, geolocation-!cn
 host-suffix, avjb.com, geolocation-!cn
+host-suffix, avjoy.me, geolocation-!cn
 host-suffix, avlulu.cc, geolocation-!cn
 host-suffix, avn.com, geolocation-!cn
 host-suffix, avnana5.com, geolocation-!cn
@@ -11167,6 +11178,7 @@ host-suffix, hzmn.net, geolocation-!cn
 host-suffix, i69.com.tw, geolocation-!cn
 host-suffix, i91av.org, geolocation-!cn
 host-suffix, iafd.com, geolocation-!cn
+host-suffix, iavnight.com, geolocation-!cn
 host-suffix, ibradome.com, geolocation-!cn
 host-suffix, icegay.tv, geolocation-!cn
 host-suffix, icegaytube.tv, geolocation-!cn
@@ -14646,6 +14658,7 @@ host-suffix, yiqilai99.cn, geolocation-!cn
 host-suffix, zzycdz.com, geolocation-!cn
 host-suffix, cdnlab.live, geolocation-!cn
 host-suffix, jable.tv, geolocation-!cn
+host-suffix, mushroomtrack.com, geolocation-!cn
 host-suffix, javbus.com, geolocation-!cn
 host-suffix, javbus22.com, geolocation-!cn
 host-suffix, javcdn.cc, geolocation-!cn
@@ -20685,6 +20698,7 @@ host-suffix, oculusforbusiness.com, geolocation-!cn
 host-suffix, oculusrift.com, geolocation-!cn
 host-suffix, oculusvr.com, geolocation-!cn
 host-suffix, powersunitedvr.com, geolocation-!cn
+host-suffix, threads.net, geolocation-!cn
 host-suffix, wa.me, geolocation-!cn
 host-suffix, whatsapp-plus.info, geolocation-!cn
 host-suffix, whatsapp-plus.me, geolocation-!cn
@@ -21764,7 +21778,6 @@ host-suffix, wwtbam.com, geolocation-!cn
 host-suffix, yourfantasybeginsnow.com, geolocation-!cn
 host-suffix, spacex.com, geolocation-!cn
 host-suffix, boringcompany.com, geolocation-!cn
-host-suffix, x.com, geolocation-!cn
 host-suffix, internetdownloadmanager.com, geolocation-!cn
 host-suffix, registeridm.com, geolocation-!cn
 host-suffix, tonec.com, geolocation-!cn

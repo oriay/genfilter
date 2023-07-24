@@ -2949,9 +2949,11 @@ DOMAIN-SUFFIX,aka-ai.net
 DOMAIN-SUFFIX,akacrypto.net
 DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akadns.com
+DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akadns6.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
+DOMAIN-SUFFIX,akagtm.org
 DOMAIN-SUFFIX,akahost.net
 DOMAIN-SUFFIX,akaint.net
 DOMAIN-SUFFIX,akam.net
@@ -2974,6 +2976,7 @@ DOMAIN-SUFFIX,akamai-trials.com
 DOMAIN-SUFFIX,akamai.co.kr
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaientrypoint.net
 DOMAIN-SUFFIX,akamaietpcnctest.com
 DOMAIN-SUFFIX,akamaietpcompromisedcnctest.com
@@ -2992,6 +2995,7 @@ DOMAIN-SUFFIX,akamaitech.net
 DOMAIN-SUFFIX,akamaitechnologies.com
 DOMAIN-SUFFIX,akamaitechnologies.net
 DOMAIN-SUFFIX,akamaisingapore.net
+DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,akamaized-staging.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,akamaizercentral.com
@@ -5942,6 +5946,9 @@ DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,nunuyy.cc
 DOMAIN-SUFFIX,dazn-api.com
@@ -6663,6 +6670,7 @@ DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,imgurinc.com
 DOMAIN-SUFFIX,pixhost.to
 DOMAIN-SUFFIX,postimages.org
@@ -7211,6 +7219,7 @@ DOMAIN-SUFFIX,linkedin.cn
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,periscope.tv
@@ -7233,6 +7242,7 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-cdn.me
@@ -9430,6 +9440,7 @@ DOMAIN-SUFFIX,avinin.com
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
 DOMAIN-SUFFIX,avjb.com
+DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,avlulu.cc
 DOMAIN-SUFFIX,avn.com
 DOMAIN-SUFFIX,avnana5.com
@@ -11167,6 +11178,7 @@ DOMAIN-SUFFIX,hzmn.net
 DOMAIN-SUFFIX,i69.com.tw
 DOMAIN-SUFFIX,i91av.org
 DOMAIN-SUFFIX,iafd.com
+DOMAIN-SUFFIX,iavnight.com
 DOMAIN-SUFFIX,ibradome.com
 DOMAIN-SUFFIX,icegay.tv
 DOMAIN-SUFFIX,icegaytube.tv
@@ -14646,6 +14658,7 @@ DOMAIN-SUFFIX,yiqilai99.cn
 DOMAIN-SUFFIX,zzycdz.com
 DOMAIN-SUFFIX,cdnlab.live
 DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javbus22.com
 DOMAIN-SUFFIX,javcdn.cc
@@ -20685,6 +20698,7 @@ DOMAIN-SUFFIX,oculusforbusiness.com
 DOMAIN-SUFFIX,oculusrift.com
 DOMAIN-SUFFIX,oculusvr.com
 DOMAIN-SUFFIX,powersunitedvr.com
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me
@@ -21764,7 +21778,6 @@ DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,boringcompany.com
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
 DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,tonec.com
