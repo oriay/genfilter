@@ -3496,6 +3496,7 @@ host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
 host-suffix, wisekey.com, geolocation-!cn
 host-suffix, wisekey.com.hk, geolocation-!cn
+host-suffix, clubhouse.com, geolocation-!cn
 host-suffix, clubhouseapi.com, geolocation-!cn
 host-suffix, joinclubhouse.com, geolocation-!cn
 host-suffix, dis.gd, geolocation-!cn
@@ -5508,6 +5509,7 @@ host-suffix, eac-cdn.com, geolocation-!cn
 host-suffix, easy.ac, geolocation-!cn
 host-suffix, easyanticheat.net, geolocation-!cn
 host-suffix, epicgames.com, geolocation-!cn
+host-suffix, epicgames.dev, geolocation-!cn
 host-suffix, fortnite.com, geolocation-!cn
 host-suffix, paragon.com, geolocation-!cn
 host-suffix, playparagon.com, geolocation-!cn
@@ -8088,6 +8090,8 @@ host-suffix, manoto1.tv, geolocation-!cn
 host-suffix, manototv.com, geolocation-!cn
 host-suffix, matters.news, geolocation-!cn
 host-suffix, matters.one, geolocation-!cn
+host-suffix, matters.town, geolocation-!cn
+host-suffix, mattersprotocol.io, geolocation-!cn
 host-suffix, mediachinese.com, geolocation-!cn
 host-suffix, mysinchew.com, geolocation-!cn
 host-suffix, sinchew.com.my, geolocation-!cn
@@ -18354,6 +18358,8 @@ host-suffix, canon.ua, geolocation-!cn
 host-suffix, canon.uz, geolocation-!cn
 host-suffix, canonfoundation.org, geolocation-!cn
 host-suffix, canonproprinters.com, geolocation-!cn
+host-suffix, chegg.com, geolocation-!cn
+host-suffix, cheggcdn.com, geolocation-!cn
 host-suffix, cisco, geolocation-!cn
 host-suffix, academynetriders.com, geolocation-!cn
 host-suffix, cciernslabs.com, geolocation-!cn

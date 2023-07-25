@@ -3496,6 +3496,7 @@ DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
 DOMAIN-SUFFIX,wisekey.com.hk
+DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN-SUFFIX,dis.gd
@@ -5508,6 +5509,7 @@ DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,fortnite.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,playparagon.com
@@ -8088,6 +8090,8 @@ DOMAIN-SUFFIX,manoto1.tv
 DOMAIN-SUFFIX,manototv.com
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.one
+DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,mattersprotocol.io
 DOMAIN-SUFFIX,mediachinese.com
 DOMAIN-SUFFIX,mysinchew.com
 DOMAIN-SUFFIX,sinchew.com.my
@@ -18354,6 +18358,8 @@ DOMAIN-SUFFIX,canon.ua
 DOMAIN-SUFFIX,canon.uz
 DOMAIN-SUFFIX,canonfoundation.org
 DOMAIN-SUFFIX,canonproprinters.com
+DOMAIN-SUFFIX,chegg.com
+DOMAIN-SUFFIX,cheggcdn.com
 DOMAIN-SUFFIX,cisco
 DOMAIN-SUFFIX,academynetriders.com
 DOMAIN-SUFFIX,cciernslabs.com
