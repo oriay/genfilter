@@ -12861,7 +12861,7 @@ host-suffix, qmov.com, geolocation-!cn
 host-suffix, qmov.net, geolocation-!cn
 host-suffix, qmttqg3k.me, geolocation-!cn
 host-suffix, qombol.com, geolocation-!cn
-host-suffix, qombol.com, geolocation-!cn
+host-suffix, qooqlevideo.com, geolocation-!cn
 host-suffix, qorno.com, geolocation-!cn
 host-suffix, qporno.xxx, geolocation-!cn
 host-suffix, quickiepage.com, geolocation-!cn
@@ -16224,6 +16224,7 @@ host-suffix, amazon.com.br, geolocation-!cn
 host-suffix, amazon.com.mx, geolocation-!cn
 host-suffix, amazon.com.tr, geolocation-!cn
 host-suffix, amazon.de, geolocation-!cn
+host-suffix, amazon.dev, geolocation-!cn
 host-suffix, amazon.es, geolocation-!cn
 host-suffix, amazon.fr, geolocation-!cn
 host-suffix, amazon.in, geolocation-!cn
@@ -16320,6 +16321,7 @@ host-suffix, awsstatic.com, geolocation-!cn
 host-suffix, awsthinkbox.com, geolocation-!cn
 host-suffix, awstrack.me, geolocation-!cn
 host-suffix, cdkworkshop.com, geolocation-!cn
+host-suffix, cloudfront.com, geolocation-!cn
 host-suffix, cloudfront.net, geolocation-!cn
 host-suffix, containersonaws.com, geolocation-!cn
 host-suffix, elasticbeanstalk.com, geolocation-!cn
@@ -20145,6 +20147,10 @@ host-suffix, acpica.com, geolocation-!cn
 host-suffix, clearlinux.org, geolocation-!cn
 host-suffix, ospray.net, geolocation-!cn
 host-suffix, ospray.org, geolocation-!cn
+host-suffix, kakao.com, geolocation-!cn
+host-suffix, kakaocdn.net, geolocation-!cn
+host-suffix, kakaocorp.com, geolocation-!cn
+host-suffix, kakaotalk.jp, geolocation-!cn
 host-suffix, lg.com, geolocation-!cn
 host-suffix, lgappstv.com, geolocation-!cn
 host-suffix, lge.co.kr, geolocation-!cn
@@ -20786,10 +20792,12 @@ host-suffix, crossborderexpansion.com, geolocation-!cn
 host-suffix, docs.com, geolocation-!cn
 host-suffix, dynamics.cn, geolocation-!cn
 host-suffix, dynamics.com, geolocation-!cn
+host-suffix, edgesuite.net, geolocation-!cn
 host-suffix, efproject.net, geolocation-!cn
 host-suffix, engkoo.com, geolocation-!cn
 host-suffix, fasttrackreadysupport.com, geolocation-!cn
 host-suffix, fluidpreview.com, geolocation-!cn
+host-suffix, footprintdns.com, geolocation-!cn
 host-suffix, gameuxmasterguide.com, geolocation-!cn
 host-suffix, gears5.com, geolocation-!cn
 host-suffix, gearspop.com, geolocation-!cn
@@ -21057,6 +21065,7 @@ host-suffix, azuredns-prd.info, geolocation-!cn
 host-suffix, azuredns-prd.org, geolocation-!cn
 host-suffix, azureedge-test.net, geolocation-!cn
 host-suffix, azureedge.net, geolocation-!cn
+host-suffix, azurefd.net, geolocation-!cn
 host-suffix, azurehdinsight.cn, geolocation-!cn
 host-suffix, azureiotcentral.com, geolocation-!cn
 host-suffix, azureiotsolutions.com, geolocation-!cn
@@ -22261,6 +22270,7 @@ host-suffix, rarbgprx.org, geolocation-!cn
 host-suffix, rarbgto.org, geolocation-!cn
 host-suffix, rarbgunblock.com, geolocation-!cn
 host-suffix, rarbgunblock.org, geolocation-!cn
+host-suffix, rarbgunblocked.org, geolocation-!cn
 host-suffix, rarbgway.org, geolocation-!cn
 host-suffix, aaex.uk, geolocation-!cn
 host-suffix, amytele.com, geolocation-!cn

@@ -34,6 +34,7 @@ host-suffix, amazon.com.br, amazon
 host-suffix, amazon.com.mx, amazon
 host-suffix, amazon.com.tr, amazon
 host-suffix, amazon.de, amazon
+host-suffix, amazon.dev, amazon
 host-suffix, amazon.es, amazon
 host-suffix, amazon.fr, amazon
 host-suffix, amazon.in, amazon
@@ -130,6 +131,7 @@ host-suffix, awsstatic.com, amazon
 host-suffix, awsthinkbox.com, amazon
 host-suffix, awstrack.me, amazon
 host-suffix, cdkworkshop.com, amazon
+host-suffix, cloudfront.com, amazon
 host-suffix, cloudfront.net, amazon
 host-suffix, containersonaws.com, amazon
 host-suffix, elasticbeanstalk.com, amazon

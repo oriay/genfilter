@@ -27,6 +27,7 @@ host-suffix, awsstatic.com, aws
 host-suffix, awsthinkbox.com, aws
 host-suffix, awstrack.me, aws
 host-suffix, cdkworkshop.com, aws
+host-suffix, cloudfront.com, aws
 host-suffix, cloudfront.net, aws
 host-suffix, containersonaws.com, aws
 host-suffix, elasticbeanstalk.com, aws

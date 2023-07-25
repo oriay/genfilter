@@ -68,10 +68,12 @@ DOMAIN-SUFFIX,crossborderexpansion.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,dynamics.cn
 DOMAIN-SUFFIX,dynamics.com
+DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,fluidpreview.com
+DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,gameuxmasterguide.com
 DOMAIN-SUFFIX,gears5.com
 DOMAIN-SUFFIX,gearspop.com
@@ -339,6 +341,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azureiotsolutions.com

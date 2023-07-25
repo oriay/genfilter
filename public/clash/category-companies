@@ -309,6 +309,7 @@ DOMAIN-SUFFIX,amazon.com.br
 DOMAIN-SUFFIX,amazon.com.mx
 DOMAIN-SUFFIX,amazon.com.tr
 DOMAIN-SUFFIX,amazon.de
+DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,amazon.es
 DOMAIN-SUFFIX,amazon.fr
 DOMAIN-SUFFIX,amazon.in
@@ -405,6 +406,7 @@ DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awsthinkbox.com
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,cdkworkshop.com
+DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
@@ -4230,6 +4232,10 @@ DOMAIN-SUFFIX,acpica.com
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaocorp.com
+DOMAIN-SUFFIX,kakaotalk.jp
 DOMAIN-SUFFIX,lg.com
 DOMAIN-SUFFIX,lgappstv.com
 DOMAIN-SUFFIX,lge.co.kr
@@ -4871,10 +4877,12 @@ DOMAIN-SUFFIX,crossborderexpansion.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,dynamics.cn
 DOMAIN-SUFFIX,dynamics.com
+DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,fluidpreview.com
+DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,gameuxmasterguide.com
 DOMAIN-SUFFIX,gears5.com
 DOMAIN-SUFFIX,gearspop.com
@@ -5142,6 +5150,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azureiotsolutions.com

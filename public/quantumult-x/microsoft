@@ -68,10 +68,12 @@ host-suffix, crossborderexpansion.com, microsoft
 host-suffix, docs.com, microsoft
 host-suffix, dynamics.cn, microsoft
 host-suffix, dynamics.com, microsoft
+host-suffix, edgesuite.net, microsoft
 host-suffix, efproject.net, microsoft
 host-suffix, engkoo.com, microsoft
 host-suffix, fasttrackreadysupport.com, microsoft
 host-suffix, fluidpreview.com, microsoft
+host-suffix, footprintdns.com, microsoft
 host-suffix, gameuxmasterguide.com, microsoft
 host-suffix, gears5.com, microsoft
 host-suffix, gearspop.com, microsoft
@@ -339,6 +341,7 @@ host-suffix, azuredns-prd.info, microsoft
 host-suffix, azuredns-prd.org, microsoft
 host-suffix, azureedge-test.net, microsoft
 host-suffix, azureedge.net, microsoft
+host-suffix, azurefd.net, microsoft
 host-suffix, azurehdinsight.cn, microsoft
 host-suffix, azureiotcentral.com, microsoft
 host-suffix, azureiotsolutions.com, microsoft

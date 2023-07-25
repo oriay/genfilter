@@ -309,6 +309,7 @@ host-suffix, amazon.com.br, category-companies
 host-suffix, amazon.com.mx, category-companies
 host-suffix, amazon.com.tr, category-companies
 host-suffix, amazon.de, category-companies
+host-suffix, amazon.dev, category-companies
 host-suffix, amazon.es, category-companies
 host-suffix, amazon.fr, category-companies
 host-suffix, amazon.in, category-companies
@@ -405,6 +406,7 @@ host-suffix, awsstatic.com, category-companies
 host-suffix, awsthinkbox.com, category-companies
 host-suffix, awstrack.me, category-companies
 host-suffix, cdkworkshop.com, category-companies
+host-suffix, cloudfront.com, category-companies
 host-suffix, cloudfront.net, category-companies
 host-suffix, containersonaws.com, category-companies
 host-suffix, elasticbeanstalk.com, category-companies
@@ -4230,6 +4232,10 @@ host-suffix, acpica.com, category-companies
 host-suffix, clearlinux.org, category-companies
 host-suffix, ospray.net, category-companies
 host-suffix, ospray.org, category-companies
+host-suffix, kakao.com, category-companies
+host-suffix, kakaocdn.net, category-companies
+host-suffix, kakaocorp.com, category-companies
+host-suffix, kakaotalk.jp, category-companies
 host-suffix, lg.com, category-companies
 host-suffix, lgappstv.com, category-companies
 host-suffix, lge.co.kr, category-companies
@@ -4871,10 +4877,12 @@ host-suffix, crossborderexpansion.com, category-companies
 host-suffix, docs.com, category-companies
 host-suffix, dynamics.cn, category-companies
 host-suffix, dynamics.com, category-companies
+host-suffix, edgesuite.net, category-companies
 host-suffix, efproject.net, category-companies
 host-suffix, engkoo.com, category-companies
 host-suffix, fasttrackreadysupport.com, category-companies
 host-suffix, fluidpreview.com, category-companies
+host-suffix, footprintdns.com, category-companies
 host-suffix, gameuxmasterguide.com, category-companies
 host-suffix, gears5.com, category-companies
 host-suffix, gearspop.com, category-companies
@@ -5142,6 +5150,7 @@ host-suffix, azuredns-prd.info, category-companies
 host-suffix, azuredns-prd.org, category-companies
 host-suffix, azureedge-test.net, category-companies
 host-suffix, azureedge.net, category-companies
+host-suffix, azurefd.net, category-companies
 host-suffix, azurehdinsight.cn, category-companies
 host-suffix, azureiotcentral.com, category-companies
 host-suffix, azureiotsolutions.com, category-companies

@@ -44,6 +44,7 @@ host-suffix, azuredns-prd.info, azure
 host-suffix, azuredns-prd.org, azure
 host-suffix, azureedge-test.net, azure
 host-suffix, azureedge.net, azure
+host-suffix, azurefd.net, azure
 host-suffix, azurehdinsight.cn, azure
 host-suffix, azureiotcentral.com, azure
 host-suffix, azureiotsolutions.com, azure
