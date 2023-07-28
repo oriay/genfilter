@@ -8650,6 +8650,8 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wto.org
 DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,creativecommons.engineering
@@ -15111,6 +15113,8 @@ DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,addtoany.com
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,aptoide.com
