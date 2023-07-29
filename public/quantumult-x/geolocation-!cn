@@ -3021,6 +3021,7 @@ host-suffix, cdn77.org, geolocation-!cn
 host-suffix, argotunnel.com, geolocation-!cn
 host-suffix, cf-ipfs.com, geolocation-!cn
 host-suffix, cloudflare-dns.com, geolocation-!cn
+host-suffix, cloudflare-gateway.com, geolocation-!cn
 host-suffix, cloudflare-ipfs.com, geolocation-!cn
 host-suffix, cloudflare-quic.com, geolocation-!cn
 host-suffix, cloudflare.com, geolocation-!cn
@@ -3032,6 +3033,7 @@ host-suffix, cloudflarebolt.com, geolocation-!cn
 host-suffix, cloudflareclient.com, geolocation-!cn
 host-suffix, cloudflareinsights.com, geolocation-!cn
 host-suffix, cloudflareok.com, geolocation-!cn
+host-suffix, cloudflareportal.com, geolocation-!cn
 host-suffix, cloudflarepreview.com, geolocation-!cn
 host-suffix, cloudflareresolve.com, geolocation-!cn
 host-suffix, cloudflaressl.com, geolocation-!cn
@@ -6674,6 +6676,10 @@ host-suffix, simgbb.com, geolocation-!cn
 host-suffix, imgur.com, geolocation-!cn
 host-suffix, imgur.io, geolocation-!cn
 host-suffix, imgurinc.com, geolocation-!cn
+host-suffix, mypikpak.com, geolocation-!cn
+host-suffix, pikpak.me, geolocation-!cn
+host-suffix, pikpakdrive.com, geolocation-!cn
+host, o4504926511693824.ingest.sentry.io, geolocation-!cn
 host-suffix, pixhost.to, geolocation-!cn
 host-suffix, postimages.org, geolocation-!cn
 host-suffix, postimg.cc, geolocation-!cn

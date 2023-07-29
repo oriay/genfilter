@@ -1,6 +1,7 @@
 host-suffix, argotunnel.com, cloudflare
 host-suffix, cf-ipfs.com, cloudflare
 host-suffix, cloudflare-dns.com, cloudflare
+host-suffix, cloudflare-gateway.com, cloudflare
 host-suffix, cloudflare-ipfs.com, cloudflare
 host-suffix, cloudflare-quic.com, cloudflare
 host-suffix, cloudflare.com, cloudflare
@@ -12,6 +13,7 @@ host-suffix, cloudflarebolt.com, cloudflare
 host-suffix, cloudflareclient.com, cloudflare
 host-suffix, cloudflareinsights.com, cloudflare
 host-suffix, cloudflareok.com, cloudflare
+host-suffix, cloudflareportal.com, cloudflare
 host-suffix, cloudflarepreview.com, cloudflare
 host-suffix, cloudflareresolve.com, cloudflare
 host-suffix, cloudflaressl.com, cloudflare

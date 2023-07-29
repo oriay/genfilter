@@ -3021,6 +3021,7 @@ DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-gateway.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -3032,6 +3033,7 @@ DOMAIN-SUFFIX,cloudflarebolt.com
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,cloudflareportal.com
 DOMAIN-SUFFIX,cloudflarepreview.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflaressl.com
@@ -6674,6 +6676,10 @@ DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,imgurinc.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN-SUFFIX,pixhost.to
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
