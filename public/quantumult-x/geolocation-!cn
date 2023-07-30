@@ -3686,6 +3686,11 @@ host-suffix, localbitcoinschain.com, geolocation-!cn
 host-suffix, okex.com, geolocation-!cn
 host-suffix, okx.com, geolocation-!cn
 host-suffix, oklink.com, geolocation-!cn
+host-suffix, onekey-asset.com, geolocation-!cn
+host-suffix, onekey.so, geolocation-!cn
+host-suffix, onekeycn.com, geolocation-!cn
+host-suffix, , geolocation-!cn
+host, onekey.zendesk.com, geolocation-!cn
 host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
 host-suffix, wisekey.com, geolocation-!cn

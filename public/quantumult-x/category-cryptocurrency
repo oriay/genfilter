@@ -77,6 +77,11 @@ host-suffix, localbitcoinschain.com, category-cryptocurrency
 host-suffix, okex.com, category-cryptocurrency
 host-suffix, okx.com, category-cryptocurrency
 host-suffix, oklink.com, category-cryptocurrency
+host-suffix, onekey-asset.com, category-cryptocurrency
+host-suffix, onekey.so, category-cryptocurrency
+host-suffix, onekeycn.com, category-cryptocurrency
+host-suffix, , category-cryptocurrency
+host, onekey.zendesk.com, category-cryptocurrency
 host-suffix, wisecoin.com, category-cryptocurrency
 host-suffix, wiseid.com, category-cryptocurrency
 host-suffix, wisekey.com, category-cryptocurrency
