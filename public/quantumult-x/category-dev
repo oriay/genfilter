@@ -316,6 +316,8 @@ host-suffix, jetbrains.space, category-dev
 host-suffix, jetbrains.team, category-dev
 host-suffix, datalore.io, category-dev
 host-suffix, kotlinlang.org, category-dev
+host-suffix, grazie.ai, category-dev
+host-suffix, grazie.aws.intellij.net, category-dev
 host-suffix, jfrog.com, category-dev
 host-suffix, jfrog.org, category-dev
 host-suffix, bintray.com, category-dev
