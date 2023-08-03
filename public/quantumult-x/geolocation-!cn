@@ -4609,6 +4609,7 @@ host-suffix, target, geolocation-!cn
 host-suffix, target.com, geolocation-!cn
 host-suffix, targetimg1.com, geolocation-!cn
 host-suffix, walmart, geolocation-!cn
+host-suffix, w-mt.co, geolocation-!cn
 host-suffix, wal-mart.com, geolocation-!cn
 host-suffix, wal.co, geolocation-!cn
 host-suffix, walmart-content.com, geolocation-!cn
