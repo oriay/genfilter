@@ -21570,6 +21570,12 @@ host-suffix, viu.com, geolocation-!cn
 host, dfp6rglgjqszk.cloudfront.net, geolocation-!cn
 host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
+host-suffix, myqnapcloud.com, geolocation-!cn
+host-suffix, qlink.to, geolocation-!cn
+host-suffix, qnap.com, geolocation-!cn
+host-suffix, myqnapcloud.cn, geolocation-!cn
+host-suffix, qlinkto.cn, geolocation-!cn
+host-suffix, qnap.com.cn, geolocation-!cn
 host-suffix, airgonetworks.com, geolocation-!cn
 host-suffix, berkanawireless.com, geolocation-!cn
 host-suffix, cdmatech.com, geolocation-!cn

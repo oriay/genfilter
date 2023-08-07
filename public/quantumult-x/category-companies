@@ -5637,6 +5637,12 @@ host-suffix, viu.com, category-companies
 host, dfp6rglgjqszk.cloudfront.net, category-companies
 host, d1k2us671qcoau.cloudfront.net, category-companies
 host, d2anahhhmp1ffz.cloudfront.net, category-companies
+host-suffix, myqnapcloud.com, category-companies
+host-suffix, qlink.to, category-companies
+host-suffix, qnap.com, category-companies
+host-suffix, myqnapcloud.cn, category-companies
+host-suffix, qlinkto.cn, category-companies
+host-suffix, qnap.com.cn, category-companies
 host-suffix, airgonetworks.com, category-companies
 host-suffix, berkanawireless.com, category-companies
 host-suffix, cdmatech.com, category-companies
