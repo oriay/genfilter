@@ -18618,6 +18618,8 @@ host-suffix, digitalocean.com, geolocation-!cn
 host-suffix, digitaloceanspaces.com, geolocation-!cn
 host-suffix, do.co, geolocation-!cn
 host-suffix, nginxconfig.io, geolocation-!cn
+host-suffix, duolingo.com, geolocation-!cn
+host-suffix, duolingo.cn, geolocation-!cn
 host-suffix, clickedu.co.uk, geolocation-!cn
 host-suffix, deepfreeze.co.uk, geolocation-!cn
 host-suffix, deepfreeze.com, geolocation-!cn
