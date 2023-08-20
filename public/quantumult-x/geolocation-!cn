@@ -5334,6 +5334,7 @@ host, blz.nosdn.127.net, geolocation-!cn
 host, blzmedia-a.akamaihd.net, geolocation-!cn
 host, blznav.akamaized.net, geolocation-!cn
 host, cn.actual.battle.net, geolocation-!cn
+host-suffix, bluearchive-cn.com, geolocation-!cn
 host-suffix, curseforge.com, geolocation-!cn
 host-suffix, forgecdn.net, geolocation-!cn
 host-suffix, cygames.jp, geolocation-!cn
