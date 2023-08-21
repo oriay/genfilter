@@ -15870,6 +15870,8 @@ host-suffix, rust-lang.org, geolocation-!cn
 host-suffix, rustup.rs, geolocation-!cn
 host-suffix, crates.io, geolocation-!cn
 host-suffix, docs.rs, geolocation-!cn
+host-suffix, redhat.com, geolocation-!cn
+host-suffix, redhat.org, geolocation-!cn
 host-suffix, scala-lang.org, geolocation-!cn
 host-suffix, scala-sbt.org, geolocation-!cn
 host-suffix, askubuntu.com, geolocation-!cn

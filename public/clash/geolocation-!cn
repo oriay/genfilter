@@ -15870,6 +15870,8 @@ DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,redhat.org
 DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
 DOMAIN-SUFFIX,askubuntu.com

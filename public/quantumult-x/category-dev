@@ -432,6 +432,8 @@ host-suffix, rust-lang.org, category-dev
 host-suffix, rustup.rs, category-dev
 host-suffix, crates.io, category-dev
 host-suffix, docs.rs, category-dev
+host-suffix, redhat.com, category-dev
+host-suffix, redhat.org, category-dev
 host-suffix, scala-lang.org, category-dev
 host-suffix, scala-sbt.org, category-dev
 host-suffix, askubuntu.com, category-dev
