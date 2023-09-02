@@ -3209,6 +3209,7 @@ host-suffix, enterprisessl.com, geolocation-!cn
 host-suffix, hackerguardian.com, geolocation-!cn
 host-suffix, instantssl.com, geolocation-!cn
 host-suffix, oemssl.cn, geolocation-!cn
+host-suffix, oemssl.cn.cdn.cloudflare.net, geolocation-!cn
 host-suffix, optimumssl.com, geolocation-!cn
 host-suffix, positivessl.com, geolocation-!cn
 host-suffix, sectigo.com, geolocation-!cn
@@ -18625,6 +18626,8 @@ host-suffix, faronicslabs.com, geolocation-!cn
 host-suffix, faronicswise.co.uk, geolocation-!cn
 host-suffix, faronicswise.com, geolocation-!cn
 host, faronics.kayako.com, geolocation-!cn
+host-suffix, giffgaff.com, geolocation-!cn
+host-suffix, giffgaff.design, geolocation-!cn
 host-suffix, aorus.com, geolocation-!cn
 host-suffix, aoruszone.cn, geolocation-!cn
 host-suffix, gigabyte.cn, geolocation-!cn

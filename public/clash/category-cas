@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,hackerguardian.com
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,oemssl.cn
+DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,positivessl.com
 DOMAIN-SUFFIX,sectigo.com

@@ -119,6 +119,7 @@ host-suffix, enterprisessl.com, category-cas
 host-suffix, hackerguardian.com, category-cas
 host-suffix, instantssl.com, category-cas
 host-suffix, oemssl.cn, category-cas
+host-suffix, oemssl.cn.cdn.cloudflare.net, category-cas
 host-suffix, optimumssl.com, category-cas
 host-suffix, positivessl.com, category-cas
 host-suffix, sectigo.com, category-cas

@@ -3209,6 +3209,7 @@ DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,hackerguardian.com
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,oemssl.cn
+DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,positivessl.com
 DOMAIN-SUFFIX,sectigo.com
@@ -18625,6 +18626,8 @@ DOMAIN-SUFFIX,faronicslabs.com
 DOMAIN-SUFFIX,faronicswise.co.uk
 DOMAIN-SUFFIX,faronicswise.com
 DOMAIN,faronics.kayako.com
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,giffgaff.design
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
 DOMAIN-SUFFIX,gigabyte.cn
