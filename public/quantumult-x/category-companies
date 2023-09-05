@@ -3232,6 +3232,7 @@ host, app-measurement-cn.com, category-companies
 host, app-measurement.com, category-companies
 host, apps5.oingo.com, category-companies
 host, avail.googleflights.net, category-companies
+host, beacons-handoff.gcp.gvt2.com, category-companies
 host, beacons.gcp.gvt2.com, category-companies
 host, beacons.gvt2.com, category-companies
 host, beacons2.gvt2.com, category-companies

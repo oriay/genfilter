@@ -513,6 +513,7 @@ host, app-measurement-cn.com, google
 host, app-measurement.com, google
 host, apps5.oingo.com, google
 host, avail.googleflights.net, google
+host, beacons-handoff.gcp.gvt2.com, google
 host, beacons.gcp.gvt2.com, google
 host, beacons.gvt2.com, google
 host, beacons2.gvt2.com, google
