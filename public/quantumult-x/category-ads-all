@@ -413,12 +413,7 @@ host-suffix, msg.video.qiyi.com, category-ads-all
 host-suffix, msg2.video.qiyi.com, category-ads-all
 host-suffix, policy.video.iqiyi.com, category-ads-all
 host-suffix, yuedu.iqiyi.com, category-ads-all
-host-suffix, ads.union.jd.com, category-ads-all
-host-suffix, c-nfa.jd.com, category-ads-all
-host-suffix, cps.360buy.com, category-ads-all
-host-suffix, jzt.jd.com, category-ads-all
-host-suffix, stat.m.jd.com, category-ads-all
-host-suffix, img-x.jd.com, category-ads-all
+host-suffix, 500:, category-ads-all
 host, log-sdk.gifshow.com, category-ads-all
 host, wlog.kuaishou.com, category-ads-all
 host-suffix, ads.service.kugou.com, category-ads-all
