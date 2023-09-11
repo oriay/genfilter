@@ -3611,6 +3611,7 @@ host-suffix, whatsappbrand.com, geolocation-!cn
 host-suffix, bitbank.cc, geolocation-!cn
 host-suffix, bitcoin.org, geolocation-!cn
 host-suffix, bitfinex.com, geolocation-!cn
+host-suffix, bitget.com, geolocation-!cn
 host-suffix, bitmex.com, geolocation-!cn
 host-suffix, bitquick.co, geolocation-!cn
 host-suffix, bitstamp.net, geolocation-!cn
@@ -3618,17 +3619,24 @@ host-suffix, bittrex.com, geolocation-!cn
 host-suffix, btcbox.co.jp, geolocation-!cn
 host-suffix, cex.io, geolocation-!cn
 host-suffix, coinbase.com, geolocation-!cn
+host-suffix, coingecko.com, geolocation-!cn
 host-suffix, coinglass.com, geolocation-!cn
+host-suffix, coinmarketcap.com, geolocation-!cn
+host-suffix, crypto.com, geolocation-!cn
 host-suffix, cryptocompare.com, geolocation-!cn
 host-suffix, curve.fi, geolocation-!cn
 host-suffix, debank.com, geolocation-!cn
 host-suffix, dogecoin.com, geolocation-!cn
+host-suffix, gate.io, geolocation-!cn
 host-suffix, infura.io, geolocation-!cn
+host-suffix, mexc.com, geolocation-!cn
+host-suffix, mexcsensors.com, geolocation-!cn
 host-suffix, mytokenapi.com, geolocation-!cn
 host-suffix, kraken.com, geolocation-!cn
 host-suffix, opensea.io, geolocation-!cn
 host-suffix, paxful.com, geolocation-!cn
 host-suffix, truefi.io, geolocation-!cn
+host-suffix, unisat.io, geolocation-!cn
 host-suffix, uniswap.org, geolocation-!cn
 host-suffix, zapper.fi, geolocation-!cn
 host-suffix, asproex.com, geolocation-!cn
@@ -3661,6 +3669,8 @@ host-suffix, binancezh.sh, geolocation-!cn
 host-suffix, binancezh.top, geolocation-!cn
 host-suffix, binanceapi.com, geolocation-!cn
 host-suffix, bnbstatic.com, geolocation-!cn
+host-suffix, saasexch.com, geolocation-!cn
+host-suffix, appsflayer.com, geolocation-!cn
 host-suffix, bitflyer.com, geolocation-!cn
 host-suffix, bitflyer.jp, geolocation-!cn
 host-suffix, bisq.io, geolocation-!cn
@@ -6447,6 +6457,7 @@ host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
 host-suffix, mox.moe, geolocation-!cn
 host-suffix, vol.moe, geolocation-!cn
+host-suffix, webnovel.com, geolocation-!cn
 host-suffix, wwe.com, geolocation-!cn
 host-suffix, wwe9.com, geolocation-!cn
 host-suffix, youtube, geolocation-!cn
@@ -11568,6 +11579,7 @@ host-suffix, khotruyentranhx.com, geolocation-!cn
 host-suffix, kichikuou.com, geolocation-!cn
 host-suffix, kickporn.com, geolocation-!cn
 host-suffix, kikdirty.com, geolocation-!cn
+host-suffix, killcovid2021.com, geolocation-!cn
 host-suffix, kimchi.tv, geolocation-!cn
 host-suffix, kimogirl.cc, geolocation-!cn
 host-suffix, kimosex.com, geolocation-!cn

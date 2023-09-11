@@ -3611,6 +3611,7 @@ DOMAIN-SUFFIX,whatsappbrand.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitquick.co
 DOMAIN-SUFFIX,bitstamp.net
@@ -3618,17 +3619,24 @@ DOMAIN-SUFFIX,bittrex.com
 DOMAIN-SUFFIX,btcbox.co.jp
 DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,mytokenapi.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,truefi.io
+DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zapper.fi
 DOMAIN-SUFFIX,asproex.com
@@ -3661,6 +3669,8 @@ DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,bitflyer.com
 DOMAIN-SUFFIX,bitflyer.jp
 DOMAIN-SUFFIX,bisq.io
@@ -6447,6 +6457,7 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN-SUFFIX,mox.moe
 DOMAIN-SUFFIX,vol.moe
+DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,wwe9.com
 DOMAIN-SUFFIX,youtube
@@ -11568,6 +11579,7 @@ DOMAIN-SUFFIX,khotruyentranhx.com
 DOMAIN-SUFFIX,kichikuou.com
 DOMAIN-SUFFIX,kickporn.com
 DOMAIN-SUFFIX,kikdirty.com
+DOMAIN-SUFFIX,killcovid2021.com
 DOMAIN-SUFFIX,kimchi.tv
 DOMAIN-SUFFIX,kimogirl.cc
 DOMAIN-SUFFIX,kimosex.com
