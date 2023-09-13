@@ -15137,6 +15137,7 @@ host-suffix, bit.ly, geolocation-!cn
 host-suffix, bitly.com, geolocation-!cn
 host-suffix, bitly.is, geolocation-!cn
 host-suffix, bitwarden.com, geolocation-!cn
+host-suffix, bitwarden.eu, geolocation-!cn
 host-suffix, bigbuckbunny.org, geolocation-!cn
 host-suffix, blender.org, geolocation-!cn
 host-suffix, elephantsdream.org, geolocation-!cn
