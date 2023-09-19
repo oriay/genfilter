@@ -4465,6 +4465,7 @@ host-suffix, chinaunicom.com.cn, geolocation-cn
 host-suffix, chinaunicom.com.hk, geolocation-cn
 host-suffix, chinaunicomglobal.com, geolocation-cn
 host-suffix, mychinaunicom.com, geolocation-cn
+host-suffix, wo.cn, geolocation-cn
 host-suffix, wo.com.cn, geolocation-cn
 host-suffix, 51nod.com, geolocation-cn
 host-suffix, j-test.com, geolocation-cn

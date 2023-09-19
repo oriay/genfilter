@@ -76,6 +76,7 @@ host-suffix, x.org, category-dev
 host-suffix, xposed.info, category-dev
 host-suffix, yarnpkg.com, category-dev
 host-suffix, zsh.org, category-dev
+host-suffix, huggingface.co, category-dev
 host-suffix, anaconda.cloud, category-dev
 host-suffix, anaconda.com, category-dev
 host-suffix, anaconda.org, category-dev
@@ -204,6 +205,7 @@ host-suffix, fastlane.ci, category-dev
 host-suffix, fastlane.tools, category-dev
 host-suffix, getfedora.org, category-dev
 host-suffix, fedoraforum.org, category-dev
+host-suffix, fedorapeople.org, category-dev
 host-suffix, fedoraproject.org, category-dev
 host-suffix, fedoramagazine.org, category-dev
 host-suffix, flathub.org, category-dev
