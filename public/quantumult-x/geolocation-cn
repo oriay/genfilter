@@ -1144,6 +1144,7 @@ host-suffix, runsheng.com, geolocation-cn
 host-suffix, vzuu.com, geolocation-cn
 host-suffix, zoom3g.com, geolocation-cn
 host-suffix, zoomyou.cn, geolocation-cn
+host-suffix, ecombdapi.com, geolocation-cn
 host-suffix, 42r.cn, geolocation-cn
 host-suffix, 5566ua.com, geolocation-cn
 host-suffix, aurorapush.cn, geolocation-cn
@@ -2220,6 +2221,8 @@ host-suffix, gifshow.com, geolocation-cn
 host-suffix, ksapisrv.com, geolocation-cn
 host-suffix, kuaishou.com, geolocation-cn
 host-suffix, yximgs.com, geolocation-cn
+host-suffix, kwaizt.com, geolocation-cn
+host-suffix, kuaishouzt.com, geolocation-cn
 host, log-sdk.gifshow.com, geolocation-cn
 host, wlog.kuaishou.com, geolocation-cn
 host-suffix, kgimg.com, geolocation-cn
@@ -3371,6 +3374,9 @@ host-suffix, zzy1.quyaoya.com, geolocation-cn
 host-suffix, zuoyebang.cc, geolocation-cn
 host-suffix, zuoyebang.com, geolocation-cn
 host-suffix, zybang.com, geolocation-cn
+host-suffix, volcvod.com, geolocation-cn
+host-suffix, volces.com, geolocation-cn
+host-suffix, volceapplog.com, geolocation-cn
 host-suffix, amemv.com, geolocation-cn
 host-suffix, bytecdn.cn, geolocation-cn
 host-suffix, byted-static.com, geolocation-cn
@@ -3496,6 +3502,17 @@ host-suffix, tiktokd.org, geolocation-cn
 host-suffix, tiktokcdn.com, geolocation-cn
 host-suffix, tiktokv.com, geolocation-cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-cn
+host-suffix, bds.snssdk.com, geolocation-cn
+host-suffix, ctobsnssdk.com, geolocation-cn
+host-suffix, dig.bdurl.net, geolocation-cn
+host-suffix, extlog.snssdk.com, geolocation-cn
+host-suffix, i.snssdk.com, geolocation-cn
+host-suffix, is.snssdk.com, geolocation-cn
+host-suffix, mcs.snssdk.com, geolocation-cn
+host-suffix, pangolin.snssdk.com, geolocation-cn
+host-suffix, pangolin-sdk-toutiao.com, geolocation-cn
+host-suffix, pglstatp-toutiao.com, geolocation-cn
+host-suffix, sf3-ttcdn-tos.pstatp.com, geolocation-cn
 host-suffix, didi-food.com, geolocation-cn
 host-suffix, didiaustralia.blog, geolocation-cn
 host-suffix, didichuxing.com, geolocation-cn

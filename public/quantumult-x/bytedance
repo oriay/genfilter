@@ -1,3 +1,6 @@
+host-suffix, volcvod.com, bytedance
+host-suffix, volces.com, bytedance
+host-suffix, volceapplog.com, bytedance
 host-suffix, amemv.com, bytedance
 host-suffix, bytecdn.cn, bytedance
 host-suffix, byted-static.com, bytedance
@@ -123,3 +126,14 @@ host-suffix, tiktokd.org, bytedance
 host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokv.com, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
+host-suffix, bds.snssdk.com, bytedance
+host-suffix, ctobsnssdk.com, bytedance
+host-suffix, dig.bdurl.net, bytedance
+host-suffix, extlog.snssdk.com, bytedance
+host-suffix, i.snssdk.com, bytedance
+host-suffix, is.snssdk.com, bytedance
+host-suffix, mcs.snssdk.com, bytedance
+host-suffix, pangolin.snssdk.com, bytedance
+host-suffix, pangolin-sdk-toutiao.com, bytedance
+host-suffix, pglstatp-toutiao.com, bytedance
+host-suffix, sf3-ttcdn-tos.pstatp.com, bytedance

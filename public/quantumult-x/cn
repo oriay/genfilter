@@ -1159,6 +1159,7 @@ host-suffix, runsheng.com, cn
 host-suffix, vzuu.com, cn
 host-suffix, zoom3g.com, cn
 host-suffix, zoomyou.cn, cn
+host-suffix, ecombdapi.com, cn
 host-suffix, 42r.cn, cn
 host-suffix, 5566ua.com, cn
 host-suffix, aurorapush.cn, cn
@@ -2235,6 +2236,8 @@ host-suffix, gifshow.com, cn
 host-suffix, ksapisrv.com, cn
 host-suffix, kuaishou.com, cn
 host-suffix, yximgs.com, cn
+host-suffix, kwaizt.com, cn
+host-suffix, kuaishouzt.com, cn
 host, log-sdk.gifshow.com, cn
 host, wlog.kuaishou.com, cn
 host-suffix, kgimg.com, cn
@@ -3386,6 +3389,9 @@ host-suffix, zzy1.quyaoya.com, cn
 host-suffix, zuoyebang.cc, cn
 host-suffix, zuoyebang.com, cn
 host-suffix, zybang.com, cn
+host-suffix, volcvod.com, cn
+host-suffix, volces.com, cn
+host-suffix, volceapplog.com, cn
 host-suffix, amemv.com, cn
 host-suffix, bytecdn.cn, cn
 host-suffix, byted-static.com, cn
@@ -3511,6 +3517,17 @@ host-suffix, tiktokd.org, cn
 host-suffix, tiktokcdn.com, cn
 host-suffix, tiktokv.com, cn
 host, p16-tiktokcdn-com.akamaized.net, cn
+host-suffix, bds.snssdk.com, cn
+host-suffix, ctobsnssdk.com, cn
+host-suffix, dig.bdurl.net, cn
+host-suffix, extlog.snssdk.com, cn
+host-suffix, i.snssdk.com, cn
+host-suffix, is.snssdk.com, cn
+host-suffix, mcs.snssdk.com, cn
+host-suffix, pangolin.snssdk.com, cn
+host-suffix, pangolin-sdk-toutiao.com, cn
+host-suffix, pglstatp-toutiao.com, cn
+host-suffix, sf3-ttcdn-tos.pstatp.com, cn
 host-suffix, didi-food.com, cn
 host-suffix, didiaustralia.blog, cn
 host-suffix, didichuxing.com, cn
