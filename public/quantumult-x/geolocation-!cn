@@ -5693,7 +5693,12 @@ host-suffix, wiisportsresort.com, geolocation-!cn
 host-suffix, wiiugamepad.com, geolocation-!cn
 host-suffix, wiivc.net, geolocation-!cn
 host-suffix, xenoblade.com, geolocation-!cn
+host-suffix, nikke-de.com, geolocation-!cn
+host-suffix, nikke-en.com, geolocation-!cn
+host-suffix, nikke-fr.com, geolocation-!cn
+host-suffix, nikke-jp.com, geolocation-!cn
 host-suffix, nikke-kr.com, geolocation-!cn
+host-suffix, nikke-sea.com, geolocation-!cn
 host-suffix, op.gg, geolocation-!cn
 host, opgg-static.akamaized.net, geolocation-!cn
 host-suffix, joyjoy.net, geolocation-!cn
