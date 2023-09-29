@@ -80,7 +80,9 @@ host-suffix, globalsign.eu, category-cas
 host-suffix, globalsign.fr, category-cas
 host-suffix, globalsign.net, category-cas
 host-suffix, globalsign.nl, category-cas
+host, crl.alphassl.com, category-cas
 host, crl2.alphassl.com, category-cas
+host, global.prd.cdn.globalsign.com, category-cas
 host, ocsp.globalsign.com, category-cas
 host, ocsp2.globalsign.com, category-cas
 host, secure.globalsign.com, category-cas

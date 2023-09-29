@@ -3170,7 +3170,9 @@ host-suffix, globalsign.eu, geolocation-!cn
 host-suffix, globalsign.fr, geolocation-!cn
 host-suffix, globalsign.net, geolocation-!cn
 host-suffix, globalsign.nl, geolocation-!cn
+host, crl.alphassl.com, geolocation-!cn
 host, crl2.alphassl.com, geolocation-!cn
+host, global.prd.cdn.globalsign.com, geolocation-!cn
 host, ocsp.globalsign.com, geolocation-!cn
 host, ocsp2.globalsign.com, geolocation-!cn
 host, secure.globalsign.com, geolocation-!cn
@@ -10607,6 +10609,7 @@ host-suffix, fuli3.net, geolocation-!cn
 host-suffix, fulib711.shop, geolocation-!cn
 host-suffix, fuliba2021.com, geolocation-!cn
 host-suffix, fuliba2023.net, geolocation-!cn
+host-suffix, fulipic.gumroad.com, geolocation-!cn
 host-suffix, fullbookmm.blogspot.com, geolocation-!cn
 host-suffix, fulldesisex.com, geolocation-!cn
 host-suffix, fullfuli.com, geolocation-!cn
@@ -13087,6 +13090,7 @@ host-suffix, selectyourgame.com, geolocation-!cn
 host-suffix, selfloversworld.com, geolocation-!cn
 host-suffix, seneporno.com, geolocation-!cn
 host-suffix, seniortgp.com, geolocation-!cn
+host-suffix, senluocaituan.gumroad.com, geolocation-!cn
 host-suffix, senpaiheat.com, geolocation-!cn
 host-suffix, sensualgirls.org, geolocation-!cn
 host-suffix, sensualmothers.com, geolocation-!cn
