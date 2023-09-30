@@ -1180,6 +1180,7 @@ host-suffix, spotifyforbrands.com, category-entertainment
 host-suffix, spotifyjobs.com, category-entertainment
 host, audio-ak-spotify-com.akamaized.net, category-entertainment
 host, audio4-ak-spotify-com.akamaized.net, category-entertainment
+host, cdn-spotify-experiments.conductrics.com, category-entertainment
 host, heads-ak-spotify-com.akamaized.net, category-entertainment
 host, heads4-ak-spotify-com.akamaized.net, category-entertainment
 host, spotify.com.edgesuite.net, category-entertainment
