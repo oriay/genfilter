@@ -14669,6 +14669,8 @@ host-suffix, erolabs.com, geolocation-!cn
 host-suffix, erolabs.game, geolocation-!cn
 host-suffix, erolabs.net, geolocation-!cn
 host-suffix, erolabs.online, geolocation-!cn
+host-suffix, fans66.tw, geolocation-!cn
+host-suffix, fansking.tw, geolocation-!cn
 host-suffix, fansta.me, geolocation-!cn
 host, misa-prod.s3.ap-northeast-1.amazonaws.com, geolocation-!cn
 host-suffix, hentaivn.de, geolocation-!cn
@@ -15528,7 +15530,6 @@ host-suffix, mysql.com, geolocation-!cn
 host-suffix, nixos.org, geolocation-!cn
 host-suffix, nodesource.com, geolocation-!cn
 host-suffix, notepad-plus-plus.org, geolocation-!cn
-host-suffix, openai.com, geolocation-!cn
 host-suffix, openresty.org, geolocation-!cn
 host-suffix, openssl.org, geolocation-!cn
 host-suffix, opensuse.org, geolocation-!cn
@@ -15888,6 +15889,15 @@ host-suffix, mongodb.com, geolocation-!cn
 host-suffix, mongodb.org, geolocation-!cn
 host-suffix, nginx.com, geolocation-!cn
 host-suffix, nginx.org, geolocation-!cn
+host-suffix, openai.com, geolocation-!cn
+host-suffix, oaistatic.com, geolocation-!cn
+host, chat.openai.com.cdn.cloudflare.net, geolocation-!cn
+host, openaiapi-site.azureedge.net, geolocation-!cn
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, geolocation-!cn
+host, openaicomproductionae4b.blob.core.windows.net, geolocation-!cn
+host, production-openaicom-storage.azureedge.net, geolocation-!cn
+host, o33249.ingest.sentry.io, geolocation-!cn
+host, openaicom.imgix.net, geolocation-!cn
 host-suffix, openwrt.org, geolocation-!cn
 host-suffix, lede-project.org, geolocation-!cn
 host-suffix, osdn.net, geolocation-!cn
@@ -21571,6 +21581,7 @@ host-suffix, tegrazone.jp, geolocation-!cn
 host-suffix, tegrazone.kr, geolocation-!cn
 host, nvidia.tt.omtrdc.net, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn
+host-suffix, oaistatic.com, geolocation-!cn
 host, chat.openai.com.cdn.cloudflare.net, geolocation-!cn
 host, openaiapi-site.azureedge.net, geolocation-!cn
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, geolocation-!cn

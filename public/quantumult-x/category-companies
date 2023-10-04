@@ -5587,6 +5587,7 @@ host-suffix, tegrazone.jp, category-companies
 host-suffix, tegrazone.kr, category-companies
 host, nvidia.tt.omtrdc.net, category-companies
 host-suffix, openai.com, category-companies
+host-suffix, oaistatic.com, category-companies
 host, chat.openai.com.cdn.cloudflare.net, category-companies
 host, openaiapi-site.azureedge.net, category-companies
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-companies

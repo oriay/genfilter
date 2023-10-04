@@ -44,7 +44,6 @@ host-suffix, mysql.com, category-dev
 host-suffix, nixos.org, category-dev
 host-suffix, nodesource.com, category-dev
 host-suffix, notepad-plus-plus.org, category-dev
-host-suffix, openai.com, category-dev
 host-suffix, openresty.org, category-dev
 host-suffix, openssl.org, category-dev
 host-suffix, opensuse.org, category-dev
@@ -404,6 +403,15 @@ host-suffix, mongodb.com, category-dev
 host-suffix, mongodb.org, category-dev
 host-suffix, nginx.com, category-dev
 host-suffix, nginx.org, category-dev
+host-suffix, openai.com, category-dev
+host-suffix, oaistatic.com, category-dev
+host, chat.openai.com.cdn.cloudflare.net, category-dev
+host, openaiapi-site.azureedge.net, category-dev
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-dev
+host, openaicomproductionae4b.blob.core.windows.net, category-dev
+host, production-openaicom-storage.azureedge.net, category-dev
+host, o33249.ingest.sentry.io, category-dev
+host, openaicom.imgix.net, category-dev
 host-suffix, openwrt.org, category-dev
 host-suffix, lede-project.org, category-dev
 host-suffix, osdn.net, category-dev

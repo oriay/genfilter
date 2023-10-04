@@ -110,6 +110,8 @@ host-suffix, connectivitycheck.gstatic.com, private
 host, asusrouter.com, private
 host, router.asus.com, private
 host, www.asusrouter.com, private
+host, cp.cloudflare.com, private
+host, detectportal.firefox.com, private
 host-suffix, networkcheck.kde.org, private
 host, routerlogin.com, private
 host, www.routerlogin.com, private

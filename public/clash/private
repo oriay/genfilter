@@ -110,6 +110,8 @@ DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN,asusrouter.com
 DOMAIN,router.asus.com
 DOMAIN,www.asusrouter.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,detectportal.firefox.com
 DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN,routerlogin.com
 DOMAIN,www.routerlogin.com

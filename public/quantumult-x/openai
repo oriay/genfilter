@@ -1,4 +1,5 @@
 host-suffix, openai.com, openai
+host-suffix, oaistatic.com, openai
 host, chat.openai.com.cdn.cloudflare.net, openai
 host, openaiapi-site.azureedge.net, openai
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, openai
