@@ -1,7 +1,5 @@
 host-suffix, 4everland.io, category-ipfs
 host-suffix, c4rex.co, category-ipfs
-host-suffix, cf-ipfs.com, category-ipfs
-host-suffix, cloudflare-ipfs.com, category-ipfs
 host-suffix, crustwebsites.net, category-ipfs
 host-suffix, dweb.link, category-ipfs
 host-suffix, gateway.pinata.cloud, category-ipfs
@@ -18,3 +16,5 @@ host-suffix, ipns.co, category-ipfs
 host-suffix, jorropo.net, category-ipfs
 host-suffix, nftstorage.link, category-ipfs
 host-suffix, via0.com, category-ipfs
+host-suffix, cf-ipfs.com, category-ipfs
+host-suffix, cloudflare-ipfs.com, category-ipfs

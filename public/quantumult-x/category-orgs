@@ -1,7 +1,6 @@
 host-suffix, aomedia.org, category-orgs
 host-suffix, atypi.org, category-orgs
 host-suffix, change.org, category-orgs
-host-suffix, f-droid.org, category-orgs
 host-suffix, globalsecurity.org, category-orgs
 host-suffix, iana.org, category-orgs
 host-suffix, ietf.org, category-orgs
@@ -25,6 +24,10 @@ host-suffix, emojipedia.org, category-orgs
 host-suffix, worldemojiawards.com, category-orgs
 host-suffix, worldemojiday.com, category-orgs
 host-suffix, xn--yt8h.la, category-orgs
+host-suffix, f-dro1d.org, category-orgs
+host-suffix, f-droid.com, category-orgs
+host-suffix, f-droid.org, category-orgs
+host-suffix, fdroid.org, category-orgs
 host-suffix, ieee.org, category-orgs
 host-suffix, ieee.tv, category-orgs
 host-suffix, tryengineering.org, category-orgs
@@ -90,5 +93,6 @@ host-suffix, osm.org, category-orgs
 host-suffix, osmfoundation.org, category-orgs
 host-suffix, stateofthemap.com, category-orgs
 host-suffix, stateofthemap.org, category-orgs
+host-suffix, paskoocheh.com, category-orgs
 host-suffix, rolfoundation.org, category-orgs
 host-suffix, rolsociety.org, category-orgs

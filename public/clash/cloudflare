@@ -1,9 +1,7 @@
 DOMAIN-SUFFIX,argotunnel.com
-DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflare-gateway.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
@@ -45,3 +43,5 @@ DOMAIN-SUFFIX,cloudflareinsights-cn.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
