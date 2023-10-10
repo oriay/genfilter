@@ -5075,6 +5075,7 @@ DOMAIN-SUFFIX,ma1lib.org
 DOMAIN-SUFFIX,sg1lib.org
 DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,singlelogin.site
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zlib.life
 DOMAIN-SUFFIX,zlibcdn.com
@@ -8689,8 +8690,10 @@ DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wto.org
-DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org

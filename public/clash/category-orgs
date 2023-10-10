@@ -11,8 +11,10 @@ DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wto.org
-DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
