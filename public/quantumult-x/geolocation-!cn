@@ -4438,6 +4438,7 @@ host-suffix, nike.com.br, geolocation-!cn
 host-suffix, nike.com.hk, geolocation-!cn
 host-suffix, nike.gy, geolocation-!cn
 host-suffix, nike.hk, geolocation-!cn
+host-suffix, nike.host, geolocation-!cn
 host-suffix, nike.shop, geolocation-!cn
 host-suffix, nike.us, geolocation-!cn
 host-suffix, nike.xn--hxt814e, geolocation-!cn
@@ -12495,7 +12496,6 @@ host-suffix, pjgirls.com, geolocation-!cn
 host-suffix, planetsuzy.org, geolocation-!cn
 host-suffix, platinumlinks.org, geolocation-!cn
 host-suffix, playbar.biz, geolocation-!cn
-host-suffix, playboy.com, geolocation-!cn
 host-suffix, playboyplus.com, geolocation-!cn
 host-suffix, playforceone.com, geolocation-!cn
 host-suffix, playmeow.com, geolocation-!cn
@@ -14856,6 +14856,8 @@ host-suffix, picacn.xyz, geolocation-!cn
 host-suffix, picacomic.com, geolocation-!cn
 host-suffix, picacomic.xyz, geolocation-!cn
 host-suffix, wikawika.xyz, geolocation-!cn
+host-suffix, playboy.com, geolocation-!cn
+host-suffix, playboy.com.uk, geolocation-!cn
 host-suffix, pornpros.com, geolocation-!cn
 host-suffix, pornprosnetwork.com, geolocation-!cn
 host-suffix, shireyishunjian.com, geolocation-!cn
