@@ -132,3 +132,4 @@ host-suffix, msftncsi.com, private
 host, miwifi.com, private
 host, www.mifiwi.com, private
 host-suffix, zte.home, private
+host-suffix, ts.net, private
