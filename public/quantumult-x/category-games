@@ -413,6 +413,7 @@ host-suffix, nikke-kr.com, category-games
 host-suffix, nikke-sea.com, category-games
 host-suffix, op.gg, category-games
 host, opgg-static.akamaized.net, category-games
+host-suffix, ppy.sh, category-games
 host-suffix, joyjoy.net, category-games
 host-suffix, pandanet-igs.com, category-games
 host-suffix, pinkcore.com, category-games
