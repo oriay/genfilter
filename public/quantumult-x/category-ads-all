@@ -43,6 +43,9 @@ host-suffix, eroadvertising.com, category-ads-all
 host-suffix, exoclick.com, category-ads-all
 host-suffix, exosrv.com, category-ads-all
 host-suffix, go2.global, category-ads-all
+host-suffix, gozendata.com, category-ads-all
+host-suffix, gzads.com, category-ads-all
+host-suffix, gz-data.com, category-ads-all
 host-suffix, img-bss.csdn.net, category-ads-all
 host-suffix, imglnkc.com, category-ads-all
 host-suffix, imglnkd.com, category-ads-all
@@ -62,6 +65,7 @@ host-suffix, static.javhd.com, category-ads-all
 host-suffix, tm-banners.gamingadult.com, category-ads-all
 host-suffix, trafficfactory.biz, category-ads-all
 host-suffix, tsyndicate.com, category-ads-all
+host-suffix, wwads.cn, category-ads-all
 host-suffix, adx.36kr.com, category-ads-all
 host-suffix, click.ali213.net, category-ads-all
 host-suffix, pbmp.ali213.net, category-ads-all
