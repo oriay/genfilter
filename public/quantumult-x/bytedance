@@ -100,7 +100,12 @@ host, p3-novel.byteimg.com, bytedance
 host, p6-novel.byteimg.com, bytedance
 host, ads3-normal-hl.zijieapi.com, bytedance
 host, ads5-normal-hl.zijieapi.com, bytedance
+host, log3-applog-hl.fqnovel.com, bytedance
 host, log5-applog-hl.fqnovel.com, bytedance
+host, p3-ad-sign.byteimg.com, bytedance
+host, p6-ad-sign.byteimg.com, bytedance
+host, p9-ad-sign.byteimg.com, bytedance
+host, rtlog3-applog-hl.fqnovel.com, bytedance
 host, rtlog5-applog-hl.fqnovel.com, bytedance
 host-suffix, juejin.cn, bytedance
 host-suffix, juejin.im, bytedance

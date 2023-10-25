@@ -14,7 +14,6 @@ host-suffix, 1rx.io, category-ads-all
 host-suffix, mfadsrvr.com, category-ads-all
 host-suffix, mgid.com, category-ads-all
 host-suffix, ns1p.net, category-ads-all
-host-suffix, openx.net, category-ads-all
 host-suffix, pubmatic.com, category-ads-all
 host-suffix, snapads.com, category-ads-all
 host-suffix, spotxchange.com, category-ads-all
@@ -456,6 +455,11 @@ host-suffix, ogury.com, category-ads-all
 host-suffix, presage.io, category-ads-all
 host-suffix, ogury.co, category-ads-all
 host-suffix, onesignal.com, category-ads-all
+host-suffix, openx.net, category-ads-all
+host-suffix, openxadexchange.com, category-ads-all
+host-suffix, openxcdn.net, category-ads-all
+host-suffix, openxenterprise.com, category-ads-all
+host-suffix, openxmarket.asia, category-ads-all
 host-suffix, cdn.pocoiq.cn, category-ads-all
 host-suffix, oct.pocoiq.cn, category-ads-all
 host-suffix, ads.pubmatic.com, category-ads-all

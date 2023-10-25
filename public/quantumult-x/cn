@@ -3511,7 +3511,12 @@ host, p3-novel.byteimg.com, cn
 host, p6-novel.byteimg.com, cn
 host, ads3-normal-hl.zijieapi.com, cn
 host, ads5-normal-hl.zijieapi.com, cn
+host, log3-applog-hl.fqnovel.com, cn
 host, log5-applog-hl.fqnovel.com, cn
+host, p3-ad-sign.byteimg.com, cn
+host, p6-ad-sign.byteimg.com, cn
+host, p9-ad-sign.byteimg.com, cn
+host, rtlog3-applog-hl.fqnovel.com, cn
 host, rtlog5-applog-hl.fqnovel.com, cn
 host-suffix, juejin.cn, cn
 host-suffix, juejin.im, cn

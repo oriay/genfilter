@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,1rx.io
 DOMAIN-SUFFIX,mfadsrvr.com
 DOMAIN-SUFFIX,mgid.com
 DOMAIN-SUFFIX,ns1p.net
-DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,spotxchange.com
@@ -456,6 +455,11 @@ DOMAIN-SUFFIX,ogury.com
 DOMAIN-SUFFIX,presage.io
 DOMAIN-SUFFIX,ogury.co
 DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,openxadexchange.com
+DOMAIN-SUFFIX,openxcdn.net
+DOMAIN-SUFFIX,openxenterprise.com
+DOMAIN-SUFFIX,openxmarket.asia
 DOMAIN-SUFFIX,cdn.pocoiq.cn
 DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,ads.pubmatic.com
