@@ -506,5 +506,6 @@ host-suffix, unityads.unitychina.cn, category-dev
 host-suffix, v8.dev, category-dev
 host-suffix, v8project.org, category-dev
 host-suffix, vim.org, category-dev
-host-suffix, xda-developers.com, category-dev
 host-suffix, xda-cdn.com, category-dev
+host-suffix, xda-developers.com, category-dev
+host-suffix, xdaforums.com, category-dev

@@ -554,6 +554,8 @@ host-suffix, msnewskids.com, microsoft
 host-suffix, msnewskids.net, microsoft
 host-suffix, msnewskids.org, microsoft
 host-suffix, msnkids.com, microsoft
+host-suffix, microsoftstart.com, microsoft
+host-suffix, start.com, microsoft
 host-suffix, 1drv.com, microsoft
 host-suffix, 1drv.ms, microsoft
 host-suffix, livefilestore.com, microsoft

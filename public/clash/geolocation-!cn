@@ -1122,6 +1122,7 @@ DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
 DOMAIN-SUFFIX,tribler.org
 DOMAIN-SUFFIX,tunsafe.com
+DOMAIN-SUFFIX,turkeyblocks.org
 DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,uproxy.org
 DOMAIN-SUFFIX,vuvuzela.io
@@ -14908,6 +14909,8 @@ DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,picacgp.com
+DOMAIN-SUFFIX,picacgy.com
 DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacomic.xyz
@@ -16097,8 +16100,9 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,vim.org
-DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,porkbun.com
 DOMAIN-SUFFIX,acer-group.com
@@ -21474,6 +21478,8 @@ DOMAIN-SUFFIX,msnewskids.com
 DOMAIN-SUFFIX,msnewskids.net
 DOMAIN-SUFFIX,msnewskids.org
 DOMAIN-SUFFIX,msnkids.com
+DOMAIN-SUFFIX,microsoftstart.com
+DOMAIN-SUFFIX,start.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,livefilestore.com

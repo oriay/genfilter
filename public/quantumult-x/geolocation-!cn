@@ -1122,6 +1122,7 @@ host-suffix, stunnel.org, geolocation-!cn
 host-suffix, telex.cc, geolocation-!cn
 host-suffix, tribler.org, geolocation-!cn
 host-suffix, tunsafe.com, geolocation-!cn
+host-suffix, turkeyblocks.org, geolocation-!cn
 host-suffix, twister.net.co, geolocation-!cn
 host-suffix, uproxy.org, geolocation-!cn
 host-suffix, vuvuzela.io, geolocation-!cn
@@ -14908,6 +14909,8 @@ host-suffix, bikaa.xyz, geolocation-!cn
 host-suffix, bikac.xyz, geolocation-!cn
 host-suffix, bikaios.xyz, geolocation-!cn
 host-suffix, manhuabika.com, geolocation-!cn
+host-suffix, picacgp.com, geolocation-!cn
+host-suffix, picacgy.com, geolocation-!cn
 host-suffix, picacn.xyz, geolocation-!cn
 host-suffix, picacomic.com, geolocation-!cn
 host-suffix, picacomic.xyz, geolocation-!cn
@@ -16097,8 +16100,9 @@ host-suffix, unityads.unitychina.cn, geolocation-!cn
 host-suffix, v8.dev, geolocation-!cn
 host-suffix, v8project.org, geolocation-!cn
 host-suffix, vim.org, geolocation-!cn
-host-suffix, xda-developers.com, geolocation-!cn
 host-suffix, xda-cdn.com, geolocation-!cn
+host-suffix, xda-developers.com, geolocation-!cn
+host-suffix, xdaforums.com, geolocation-!cn
 host-suffix, auth0.com, geolocation-!cn
 host-suffix, porkbun.com, geolocation-!cn
 host-suffix, acer-group.com, geolocation-!cn
@@ -21474,6 +21478,8 @@ host-suffix, msnewskids.com, geolocation-!cn
 host-suffix, msnewskids.net, geolocation-!cn
 host-suffix, msnewskids.org, geolocation-!cn
 host-suffix, msnkids.com, geolocation-!cn
+host-suffix, microsoftstart.com, geolocation-!cn
+host-suffix, start.com, geolocation-!cn
 host-suffix, 1drv.com, geolocation-!cn
 host-suffix, 1drv.ms, geolocation-!cn
 host-suffix, livefilestore.com, geolocation-!cn
