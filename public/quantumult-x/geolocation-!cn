@@ -5358,6 +5358,7 @@ host, blizzcon-a.akamaihd.net, geolocation-!cn
 host, blzmedia-a.akamaihd.net, geolocation-!cn
 host, blznav.akamaized.net, geolocation-!cn
 host-suffix, bluearchive-cn.com, geolocation-!cn
+host-suffix, sl916.com, geolocation-!cn
 host-suffix, curseforge.com, geolocation-!cn
 host-suffix, forgecdn.net, geolocation-!cn
 host-suffix, cygames.jp, geolocation-!cn
@@ -17277,6 +17278,9 @@ host-suffix, xn--ruq8a011kt6y.xn--hxt814e, geolocation-!cn
 host, apple.com.akadns.net, geolocation-!cn
 host, courier-push-apple.com.akadns.net, geolocation-!cn
 host, push-apple.com.akadns.net, geolocation-!cn
+host, amp-api-edge-lb-cn.itunes-apple.com.akadns.net, geolocation-!cn
+host, amp-api-edge-lb.itunes-apple.com.akadns.net, geolocation-!cn
+host, amp-api-edge.apps.apple.com, geolocation-!cn
 host, amp-api-search-edge.apps.apple.com, geolocation-!cn
 host, amp-api.apps.apple.com, geolocation-!cn
 host, aod.itunes.apple.com, geolocation-!cn
@@ -17293,7 +17297,12 @@ host, fides-pol.apple.com, geolocation-!cn
 host, gspe11-2-cn-ssl.ls.apple.com, geolocation-!cn
 host, gspe12-cn-ssl.ls.apple.com, geolocation-!cn
 host, gspe85-cn-ssl.ls.apple.com, geolocation-!cn
+host, inappcheck-cn.itunes-apple.com.akadns.net, geolocation-!cn
+host, inappcheck-lb.itunes-apple.com.akadns.net, geolocation-!cn
+host, inappcheck.itunes.apple.com, geolocation-!cn
 host, init.itunes.apple.com, geolocation-!cn
+host, init.gc-lb.apple.com.akadns.net, geolocation-!cn
+host, init.gc.apple.com, geolocation-!cn
 host, iosapps.itunes.apple.com, geolocation-!cn
 host, js-cdn.music.apple.com, geolocation-!cn
 host, km.support.apple.com, geolocation-!cn
@@ -17386,6 +17395,7 @@ host, init-s01st.push.apple.com, geolocation-!cn
 host, iosapps.itunes.g.aaplimg.com, geolocation-!cn
 host, ipcdn.apple.com, geolocation-!cn
 host, iphone-ld.apple.com, geolocation-!cn
+host, iphone-ld.origin-apple.com.akadns.net, geolocation-!cn
 host, is1-ssl.mzstatic.com, geolocation-!cn
 host, is1.mzstatic.com, geolocation-!cn
 host, is2-ssl.mzstatic.com, geolocation-!cn
@@ -17408,6 +17418,7 @@ host, ocsp.apple.com, geolocation-!cn
 host, ocsp2.apple.com, geolocation-!cn
 host, oscdn.apple.com, geolocation-!cn
 host, oscdn.origin-apple.com.akadns.net, geolocation-!cn
+host, osxapps.itunes.g.aaplimg.com, geolocation-!cn
 host, pancake.apple.com, geolocation-!cn
 host, pancake.cdn-apple.com.akadns.net, geolocation-!cn
 host, prod-support.apple-support.akadns.net, geolocation-!cn
@@ -17425,6 +17436,7 @@ host, store.storeimages.cdn-apple.com, geolocation-!cn
 host, support-china.apple-support.akadns.net, geolocation-!cn
 host, support.apple.com, geolocation-!cn
 host, swallow.apple.com, geolocation-!cn
+host, swallow-apple-com.v.aaplimg.com, geolocation-!cn
 host, swcatalog-cdn.apple.com.akadns.net, geolocation-!cn
 host, swcatalog.apple.com, geolocation-!cn
 host, swcdn.apple.com, geolocation-!cn
@@ -17438,7 +17450,10 @@ host, updates-http.cdn-apple.com, geolocation-!cn
 host, updates.cdn-apple.com, geolocation-!cn
 host, valid.apple.com, geolocation-!cn
 host, valid.origin-apple.com.akadns.net, geolocation-!cn
+host, weather-data.apple.com.akadns.net, geolocation-!cn
 host, weather-data.apple.com, geolocation-!cn
+host, weather-map.apple.com, geolocation-!cn
+host, weather-map2.apple.com, geolocation-!cn
 host, www.apple.com.edgekey.net.globalredir.akadns.net, geolocation-!cn
 host, www.apple.com.edgekey.net, geolocation-!cn
 host, www.apple.com, geolocation-!cn

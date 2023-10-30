@@ -688,6 +688,9 @@ DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
 DOMAIN,apple.com.akadns.net
 DOMAIN,courier-push-apple.com.akadns.net
 DOMAIN,push-apple.com.akadns.net
+DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,aod.itunes.apple.com
@@ -704,7 +707,12 @@ DOMAIN,fides-pol.apple.com
 DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
 DOMAIN,gspe85-cn-ssl.ls.apple.com
+DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
+DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
+DOMAIN,inappcheck.itunes.apple.com
 DOMAIN,init.itunes.apple.com
+DOMAIN,init.gc-lb.apple.com.akadns.net
+DOMAIN,init.gc.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,js-cdn.music.apple.com
 DOMAIN,km.support.apple.com
@@ -797,6 +805,7 @@ DOMAIN,init-s01st.push.apple.com
 DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,iphone-ld.apple.com
+DOMAIN,iphone-ld.origin-apple.com.akadns.net
 DOMAIN,is1-ssl.mzstatic.com
 DOMAIN,is1.mzstatic.com
 DOMAIN,is2-ssl.mzstatic.com
@@ -819,6 +828,7 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
+DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,pancake.apple.com
 DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN,prod-support.apple-support.akadns.net
@@ -836,6 +846,7 @@ DOMAIN,store.storeimages.cdn-apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
 DOMAIN,swallow.apple.com
+DOMAIN,swallow-apple-com.v.aaplimg.com
 DOMAIN,swcatalog-cdn.apple.com.akadns.net
 DOMAIN,swcatalog.apple.com
 DOMAIN,swcdn.apple.com
@@ -849,7 +860,10 @@ DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates.cdn-apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
+DOMAIN,weather-data.apple.com.akadns.net
 DOMAIN,weather-data.apple.com
+DOMAIN,weather-map.apple.com
+DOMAIN,weather-map2.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com

@@ -1172,6 +1172,9 @@ host-suffix, xn--ruq8a011kt6y.xn--hxt814e, category-companies
 host, apple.com.akadns.net, category-companies
 host, courier-push-apple.com.akadns.net, category-companies
 host, push-apple.com.akadns.net, category-companies
+host, amp-api-edge-lb-cn.itunes-apple.com.akadns.net, category-companies
+host, amp-api-edge-lb.itunes-apple.com.akadns.net, category-companies
+host, amp-api-edge.apps.apple.com, category-companies
 host, amp-api-search-edge.apps.apple.com, category-companies
 host, amp-api.apps.apple.com, category-companies
 host, aod.itunes.apple.com, category-companies
@@ -1188,7 +1191,12 @@ host, fides-pol.apple.com, category-companies
 host, gspe11-2-cn-ssl.ls.apple.com, category-companies
 host, gspe12-cn-ssl.ls.apple.com, category-companies
 host, gspe85-cn-ssl.ls.apple.com, category-companies
+host, inappcheck-cn.itunes-apple.com.akadns.net, category-companies
+host, inappcheck-lb.itunes-apple.com.akadns.net, category-companies
+host, inappcheck.itunes.apple.com, category-companies
 host, init.itunes.apple.com, category-companies
+host, init.gc-lb.apple.com.akadns.net, category-companies
+host, init.gc.apple.com, category-companies
 host, iosapps.itunes.apple.com, category-companies
 host, js-cdn.music.apple.com, category-companies
 host, km.support.apple.com, category-companies
@@ -1281,6 +1289,7 @@ host, init-s01st.push.apple.com, category-companies
 host, iosapps.itunes.g.aaplimg.com, category-companies
 host, ipcdn.apple.com, category-companies
 host, iphone-ld.apple.com, category-companies
+host, iphone-ld.origin-apple.com.akadns.net, category-companies
 host, is1-ssl.mzstatic.com, category-companies
 host, is1.mzstatic.com, category-companies
 host, is2-ssl.mzstatic.com, category-companies
@@ -1303,6 +1312,7 @@ host, ocsp.apple.com, category-companies
 host, ocsp2.apple.com, category-companies
 host, oscdn.apple.com, category-companies
 host, oscdn.origin-apple.com.akadns.net, category-companies
+host, osxapps.itunes.g.aaplimg.com, category-companies
 host, pancake.apple.com, category-companies
 host, pancake.cdn-apple.com.akadns.net, category-companies
 host, prod-support.apple-support.akadns.net, category-companies
@@ -1320,6 +1330,7 @@ host, store.storeimages.cdn-apple.com, category-companies
 host, support-china.apple-support.akadns.net, category-companies
 host, support.apple.com, category-companies
 host, swallow.apple.com, category-companies
+host, swallow-apple-com.v.aaplimg.com, category-companies
 host, swcatalog-cdn.apple.com.akadns.net, category-companies
 host, swcatalog.apple.com, category-companies
 host, swcdn.apple.com, category-companies
@@ -1333,7 +1344,10 @@ host, updates-http.cdn-apple.com, category-companies
 host, updates.cdn-apple.com, category-companies
 host, valid.apple.com, category-companies
 host, valid.origin-apple.com.akadns.net, category-companies
+host, weather-data.apple.com.akadns.net, category-companies
 host, weather-data.apple.com, category-companies
+host, weather-map.apple.com, category-companies
+host, weather-map2.apple.com, category-companies
 host, www.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, www.apple.com.edgekey.net, category-companies
 host, www.apple.com, category-companies
