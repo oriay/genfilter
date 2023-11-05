@@ -96,5 +96,15 @@ host-suffix, osmfoundation.org, category-orgs
 host-suffix, stateofthemap.com, category-orgs
 host-suffix, stateofthemap.org, category-orgs
 host-suffix, paskoocheh.com, category-orgs
+host-suffix, ppy.sh, category-orgs
+host, a.ppy.sh, category-orgs
+host, assets.ppy.sh, category-orgs
+host, c.ppy.sh, category-orgs
+host, osu.ppy.sh, category-orgs
+host, m1.ppy.sh, category-orgs
+host, lazer.ppy.sh, category-orgs
+host, notify.ppy.sh, category-orgs
+host, sentry.ppy.sh, category-orgs
+host, spectator.ppy.sh, category-orgs
 host-suffix, rolfoundation.org, category-orgs
 host-suffix, rolsociety.org, category-orgs

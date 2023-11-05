@@ -491,7 +491,15 @@ host-suffix, nikke-kr.com, category-entertainment
 host-suffix, nikke-sea.com, category-entertainment
 host-suffix, op.gg, category-entertainment
 host, opgg-static.akamaized.net, category-entertainment
-host-suffix, ppy.sh, category-entertainment
+host, a.ppy.sh, category-entertainment
+host, assets.ppy.sh, category-entertainment
+host, c.ppy.sh, category-entertainment
+host, osu.ppy.sh, category-entertainment
+host, m1.ppy.sh, category-entertainment
+host, lazer.ppy.sh, category-entertainment
+host, notify.ppy.sh, category-entertainment
+host, sentry.ppy.sh, category-entertainment
+host, spectator.ppy.sh, category-entertainment
 host-suffix, joyjoy.net, category-entertainment
 host-suffix, pandanet-igs.com, category-entertainment
 host-suffix, pinkcore.com, category-entertainment

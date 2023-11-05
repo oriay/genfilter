@@ -491,7 +491,15 @@ DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nikke-sea.com
 DOMAIN-SUFFIX,op.gg
 DOMAIN,opgg-static.akamaized.net
-DOMAIN-SUFFIX,ppy.sh
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,m1.ppy.sh
+DOMAIN,lazer.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,pandanet-igs.com
 DOMAIN-SUFFIX,pinkcore.com
