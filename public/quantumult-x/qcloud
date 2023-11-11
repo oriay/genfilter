@@ -247,3 +247,4 @@ host-suffix, dnsv3.com, qcloud
 host-suffix, dnsv4.com, qcloud
 host-suffix, dnsv5.com, qcloud
 host-suffix, doh.pub, qcloud
+host-suffix, dot.pub, qcloud

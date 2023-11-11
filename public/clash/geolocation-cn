@@ -3525,10 +3525,12 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,ctobsnssdk.com
@@ -4045,6 +4047,7 @@ DOMAIN-SUFFIX,tencent.net
 DOMAIN-SUFFIX,tencent.net.cn
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,alloyteam.com
@@ -4321,6 +4324,7 @@ DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,dnsv4.com
 DOMAIN-SUFFIX,dnsv5.com
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com

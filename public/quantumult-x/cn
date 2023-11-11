@@ -3540,10 +3540,12 @@ host-suffix, muscdn.com, cn
 host-suffix, musical.ly, cn
 host-suffix, tik-tokapi.com, cn
 host-suffix, tiktok.com, cn
+host-suffix, tiktokcdn-us.com, cn
+host-suffix, tiktokcdn.com, cn
 host-suffix, tiktokd.net, cn
 host-suffix, tiktokd.org, cn
-host-suffix, tiktokcdn.com, cn
 host-suffix, tiktokv.com, cn
+host-suffix, ttwstatic.com, cn
 host, p16-tiktokcdn-com.akamaized.net, cn
 host-suffix, bds.snssdk.com, cn
 host-suffix, ctobsnssdk.com, cn
@@ -4060,6 +4062,7 @@ host-suffix, tencent.net, cn
 host-suffix, tencent.net.cn, cn
 host-suffix, tencentmusic.com, cn
 host-suffix, tenpay.com, cn
+host-suffix, tfogc.com, cn
 host-suffix, wechat.com, cn
 host-suffix, weiyun.com, cn
 host-suffix, alloyteam.com, cn
@@ -4336,6 +4339,7 @@ host-suffix, dnsv3.com, cn
 host-suffix, dnsv4.com, cn
 host-suffix, dnsv5.com, cn
 host-suffix, doh.pub, cn
+host-suffix, dot.pub, cn
 host-suffix, ad.qq.com, cn
 host-suffix, ad.qun.qq.com, cn
 host-suffix, adfilter.imtt.qq.com, cn

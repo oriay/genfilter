@@ -3525,10 +3525,12 @@ host-suffix, muscdn.com, geolocation-cn
 host-suffix, musical.ly, geolocation-cn
 host-suffix, tik-tokapi.com, geolocation-cn
 host-suffix, tiktok.com, geolocation-cn
+host-suffix, tiktokcdn-us.com, geolocation-cn
+host-suffix, tiktokcdn.com, geolocation-cn
 host-suffix, tiktokd.net, geolocation-cn
 host-suffix, tiktokd.org, geolocation-cn
-host-suffix, tiktokcdn.com, geolocation-cn
 host-suffix, tiktokv.com, geolocation-cn
+host-suffix, ttwstatic.com, geolocation-cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-cn
 host-suffix, bds.snssdk.com, geolocation-cn
 host-suffix, ctobsnssdk.com, geolocation-cn
@@ -4045,6 +4047,7 @@ host-suffix, tencent.net, geolocation-cn
 host-suffix, tencent.net.cn, geolocation-cn
 host-suffix, tencentmusic.com, geolocation-cn
 host-suffix, tenpay.com, geolocation-cn
+host-suffix, tfogc.com, geolocation-cn
 host-suffix, wechat.com, geolocation-cn
 host-suffix, weiyun.com, geolocation-cn
 host-suffix, alloyteam.com, geolocation-cn
@@ -4321,6 +4324,7 @@ host-suffix, dnsv3.com, geolocation-cn
 host-suffix, dnsv4.com, geolocation-cn
 host-suffix, dnsv5.com, geolocation-cn
 host-suffix, doh.pub, geolocation-cn
+host-suffix, dot.pub, geolocation-cn
 host-suffix, ad.qq.com, geolocation-cn
 host-suffix, ad.qun.qq.com, geolocation-cn
 host-suffix, adfilter.imtt.qq.com, geolocation-cn

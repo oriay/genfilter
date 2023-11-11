@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,tencent.net
 DOMAIN-SUFFIX,tencent.net.cn
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,alloyteam.com
@@ -304,6 +305,7 @@ DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,dnsv4.com
 DOMAIN-SUFFIX,dnsv5.com
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com

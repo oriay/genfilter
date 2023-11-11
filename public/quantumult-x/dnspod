@@ -11,3 +11,4 @@ host-suffix, dnsv3.com, dnspod
 host-suffix, dnsv4.com, dnspod
 host-suffix, dnsv5.com, dnspod
 host-suffix, doh.pub, dnspod
+host-suffix, dot.pub, dnspod

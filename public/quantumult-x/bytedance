@@ -126,10 +126,12 @@ host-suffix, muscdn.com, bytedance
 host-suffix, musical.ly, bytedance
 host-suffix, tik-tokapi.com, bytedance
 host-suffix, tiktok.com, bytedance
+host-suffix, tiktokcdn-us.com, bytedance
+host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokd.net, bytedance
 host-suffix, tiktokd.org, bytedance
-host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokv.com, bytedance
+host-suffix, ttwstatic.com, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
 host-suffix, bds.snssdk.com, bytedance
 host-suffix, ctobsnssdk.com, bytedance

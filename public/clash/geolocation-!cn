@@ -3607,6 +3607,7 @@ DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,slackcertified.com
 DOMAIN-SUFFIX,slackdemo.com
 DOMAIN-SUFFIX,slackhq.com
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,graph.org
@@ -6446,10 +6447,12 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
@@ -15298,6 +15301,9 @@ DOMAIN-SUFFIX,poi.moe
 DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playcover.workers.dev
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,rpglogs.com
+DOMAIN-SUFFIX,rpglogs.cn
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,getadblock.com

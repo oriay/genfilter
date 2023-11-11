@@ -28,6 +28,7 @@ host-suffix, tencent.net, tencent
 host-suffix, tencent.net.cn, tencent
 host-suffix, tencentmusic.com, tencent
 host-suffix, tenpay.com, tencent
+host-suffix, tfogc.com, tencent
 host-suffix, wechat.com, tencent
 host-suffix, weiyun.com, tencent
 host-suffix, alloyteam.com, tencent
@@ -304,6 +305,7 @@ host-suffix, dnsv3.com, tencent
 host-suffix, dnsv4.com, tencent
 host-suffix, dnsv5.com, tencent
 host-suffix, doh.pub, tencent
+host-suffix, dot.pub, tencent
 host-suffix, ad.qq.com, tencent
 host-suffix, ad.qun.qq.com, tencent
 host-suffix, adfilter.imtt.qq.com, tencent

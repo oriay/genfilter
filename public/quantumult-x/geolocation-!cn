@@ -3607,6 +3607,7 @@ host-suffix, slackb.com, geolocation-!cn
 host-suffix, slackcertified.com, geolocation-!cn
 host-suffix, slackdemo.com, geolocation-!cn
 host-suffix, slackhq.com, geolocation-!cn
+host-suffix, cdn-telegram.org, geolocation-!cn
 host-suffix, comments.app, geolocation-!cn
 host-suffix, contest.com, geolocation-!cn
 host-suffix, graph.org, geolocation-!cn
@@ -6446,10 +6447,12 @@ host-suffix, muscdn.com, geolocation-!cn
 host-suffix, musical.ly, geolocation-!cn
 host-suffix, tik-tokapi.com, geolocation-!cn
 host-suffix, tiktok.com, geolocation-!cn
+host-suffix, tiktokcdn-us.com, geolocation-!cn
+host-suffix, tiktokcdn.com, geolocation-!cn
 host-suffix, tiktokd.net, geolocation-!cn
 host-suffix, tiktokd.org, geolocation-!cn
-host-suffix, tiktokcdn.com, geolocation-!cn
 host-suffix, tiktokv.com, geolocation-!cn
+host-suffix, ttwstatic.com, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
 host-suffix, themoviedb.org, geolocation-!cn
 host-suffix, tmdb.org, geolocation-!cn
@@ -15298,6 +15301,9 @@ host-suffix, poi.moe, geolocation-!cn
 host-suffix, steampp.net, geolocation-!cn
 host-suffix, playcover.io, geolocation-!cn
 host-suffix, playcover.workers.dev, geolocation-!cn
+host-suffix, fflogs.com, geolocation-!cn
+host-suffix, rpglogs.com, geolocation-!cn
+host-suffix, rpglogs.cn, geolocation-!cn
 host-suffix, decrypt.day, geolocation-!cn
 host-suffix, accuweather.com, geolocation-!cn
 host-suffix, getadblock.com, geolocation-!cn

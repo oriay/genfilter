@@ -79,6 +79,7 @@ host-suffix, slackb.com, category-communication
 host-suffix, slackcertified.com, category-communication
 host-suffix, slackdemo.com, category-communication
 host-suffix, slackhq.com, category-communication
+host-suffix, cdn-telegram.org, category-communication
 host-suffix, comments.app, category-communication
 host-suffix, contest.com, category-communication
 host-suffix, graph.org, category-communication
