@@ -7344,8 +7344,6 @@ host-suffix, nftstorage.link, geolocation-!cn
 host-suffix, via0.com, geolocation-!cn
 host-suffix, cf-ipfs.com, geolocation-!cn
 host-suffix, cloudflare-ipfs.com, geolocation-!cn
-host-suffix, cnbeta.com, geolocation-!cn
-host-suffix, cnbetacdn.com, geolocation-!cn
 host-suffix, 881903.com, geolocation-!cn
 host-suffix, am730.com.hk, geolocation-!cn
 host-suffix, americasvoice.news, geolocation-!cn
