@@ -5079,6 +5079,7 @@ host-suffix, ma1lib.org, geolocation-!cn
 host-suffix, sg1lib.org, geolocation-!cn
 host-suffix, singlelogin.app, geolocation-!cn
 host-suffix, singlelogin.me, geolocation-!cn
+host-suffix, singlelogin.re, geolocation-!cn
 host-suffix, singlelogin.site, geolocation-!cn
 host-suffix, z-lib.org, geolocation-!cn
 host-suffix, zlib.life, geolocation-!cn
