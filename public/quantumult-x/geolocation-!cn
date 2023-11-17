@@ -16039,8 +16039,10 @@ host-suffix, mongodb.com, geolocation-!cn
 host-suffix, mongodb.org, geolocation-!cn
 host-suffix, nginx.com, geolocation-!cn
 host-suffix, nginx.org, geolocation-!cn
-host-suffix, openai.com, geolocation-!cn
+host-suffix, chatgpt.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
+host-suffix, oaiusercontent.com, geolocation-!cn
+host-suffix, openai.com, geolocation-!cn
 host, chat.openai.com.cdn.cloudflare.net, geolocation-!cn
 host, openaiapi-site.azureedge.net, geolocation-!cn
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, geolocation-!cn
@@ -21751,8 +21753,10 @@ host-suffix, tegrazone.com, geolocation-!cn
 host-suffix, tegrazone.jp, geolocation-!cn
 host-suffix, tegrazone.kr, geolocation-!cn
 host, nvidia.tt.omtrdc.net, geolocation-!cn
-host-suffix, openai.com, geolocation-!cn
+host-suffix, chatgpt.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
+host-suffix, oaiusercontent.com, geolocation-!cn
+host-suffix, openai.com, geolocation-!cn
 host, chat.openai.com.cdn.cloudflare.net, geolocation-!cn
 host, openaiapi-site.azureedge.net, geolocation-!cn
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, geolocation-!cn
