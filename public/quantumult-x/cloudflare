@@ -1,6 +1,7 @@
 host-suffix, argotunnel.com, cloudflare
 host-suffix, cloudflare-dns.com, cloudflare
 host-suffix, cloudflare-ech.com, cloudflare
+host-suffix, cloudflare-esni.com, cloudflare
 host-suffix, cloudflare-gateway.com, cloudflare
 host-suffix, cloudflare-quic.com, cloudflare
 host-suffix, cloudflare.com, cloudflare
@@ -22,6 +23,7 @@ host-suffix, cloudflarestream.com, cloudflare
 host-suffix, cloudflaretest.com, cloudflare
 host-suffix, cloudflarewarp.com, cloudflare
 host-suffix, every1dns.net, cloudflare
+host-suffix, isbgpsafeyet.com, cloudflare
 host-suffix, one.one.one, cloudflare
 host-suffix, pacloudflare.com, cloudflare
 host-suffix, pages.dev, cloudflare

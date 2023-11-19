@@ -3045,6 +3045,7 @@ host-suffix, cdn77.org, geolocation-!cn
 host-suffix, argotunnel.com, geolocation-!cn
 host-suffix, cloudflare-dns.com, geolocation-!cn
 host-suffix, cloudflare-ech.com, geolocation-!cn
+host-suffix, cloudflare-esni.com, geolocation-!cn
 host-suffix, cloudflare-gateway.com, geolocation-!cn
 host-suffix, cloudflare-quic.com, geolocation-!cn
 host-suffix, cloudflare.com, geolocation-!cn
@@ -3066,6 +3067,7 @@ host-suffix, cloudflarestream.com, geolocation-!cn
 host-suffix, cloudflaretest.com, geolocation-!cn
 host-suffix, cloudflarewarp.com, geolocation-!cn
 host-suffix, every1dns.net, geolocation-!cn
+host-suffix, isbgpsafeyet.com, geolocation-!cn
 host-suffix, one.one.one, geolocation-!cn
 host-suffix, pacloudflare.com, geolocation-!cn
 host-suffix, pages.dev, geolocation-!cn
@@ -21584,6 +21586,7 @@ host-suffix, minecraftshop.com, geolocation-!cn
 host-suffix, mojang.com, geolocation-!cn
 host-suffix, mikrotik.com, geolocation-!cn
 host-suffix, mt.lv, geolocation-!cn
+host-suffix, mynetname.net, geolocation-!cn
 host-suffix, routerboard.com, geolocation-!cn
 host-suffix, mindgeek.com, geolocation-!cn
 host-suffix, babes.com, geolocation-!cn
