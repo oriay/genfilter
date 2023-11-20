@@ -1046,6 +1046,8 @@ host-suffix, kktv.me, category-entertainment
 host-suffix, kktv.com.tw, category-entertainment
 host-suffix, kktv.me, category-entertainment
 host-suffix, theater-kktv.cdn.hinet.net, category-entertainment
+host-suffix, last.fm, category-entertainment
+host, lastfm.freetls.fastly.net, category-entertainment
 host-suffix, litv.tv, category-entertainment
 host-suffix, litvfreepc.akamaized.net, category-entertainment
 host-suffix, manhuagui.com, category-entertainment
