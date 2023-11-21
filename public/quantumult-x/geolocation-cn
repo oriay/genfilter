@@ -4467,6 +4467,7 @@ host-suffix, xiaomi.cn, geolocation-cn
 host-suffix, xiaomi.com, geolocation-cn
 host-suffix, xiaomi.net, geolocation-cn
 host-suffix, xiaomiyoupin.com, geolocation-cn
+host-suffix, saxyit.com, geolocation-cn
 host-suffix, sandai.net, geolocation-cn
 host-suffix, thunderurl.com, geolocation-cn
 host-suffix, xunlei.com, geolocation-cn
