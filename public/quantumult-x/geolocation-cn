@@ -2967,6 +2967,7 @@ host-suffix, alipayplus.com, geolocation-cn
 host-suffix, alipay.hk, geolocation-cn
 host-suffix, alipaymo.com, geolocation-cn
 host-suffix, alicloudccp.com, geolocation-cn
+host-suffix, alipan.com, geolocation-cn
 host-suffix, aliyundrive.com, geolocation-cn
 host-suffix, aliyundrive.net, geolocation-cn
 host-suffix, cainiao.com, geolocation-cn
@@ -3826,6 +3827,8 @@ host-suffix, analytics.163.com, geolocation-cn
 host-suffix, crash.163.com, geolocation-cn
 host-suffix, crashlytics.163.com, geolocation-cn
 host-suffix, g.163.com, geolocation-cn
+host-suffix, nubia.cn, geolocation-cn
+host-suffix, nubia.com, geolocation-cn
 host-suffix, coloros.com, geolocation-cn
 host-suffix, finzfin.com, geolocation-cn
 host-suffix, heytap.com, geolocation-cn
@@ -4052,6 +4055,7 @@ host-suffix, tencentmusic.com, geolocation-cn
 host-suffix, tenpay.com, geolocation-cn
 host-suffix, tfogc.com, geolocation-cn
 host-suffix, wechat.com, geolocation-cn
+host-suffix, wechatpay.cn, geolocation-cn
 host-suffix, weiyun.com, geolocation-cn
 host-suffix, alloyteam.com, geolocation-cn
 host-suffix, imweb.io, geolocation-cn

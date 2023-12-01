@@ -2982,6 +2982,7 @@ host-suffix, alipayplus.com, cn
 host-suffix, alipay.hk, cn
 host-suffix, alipaymo.com, cn
 host-suffix, alicloudccp.com, cn
+host-suffix, alipan.com, cn
 host-suffix, aliyundrive.com, cn
 host-suffix, aliyundrive.net, cn
 host-suffix, cainiao.com, cn
@@ -3841,6 +3842,8 @@ host-suffix, analytics.163.com, cn
 host-suffix, crash.163.com, cn
 host-suffix, crashlytics.163.com, cn
 host-suffix, g.163.com, cn
+host-suffix, nubia.cn, cn
+host-suffix, nubia.com, cn
 host-suffix, coloros.com, cn
 host-suffix, finzfin.com, cn
 host-suffix, heytap.com, cn
@@ -4067,6 +4070,7 @@ host-suffix, tencentmusic.com, cn
 host-suffix, tenpay.com, cn
 host-suffix, tfogc.com, cn
 host-suffix, wechat.com, cn
+host-suffix, wechatpay.cn, cn
 host-suffix, weiyun.com, cn
 host-suffix, alloyteam.com, cn
 host-suffix, imweb.io, cn

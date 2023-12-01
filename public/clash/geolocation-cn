@@ -2967,6 +2967,7 @@ DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,cainiao.com
@@ -3826,6 +3827,8 @@ DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crashlytics.163.com
 DOMAIN-SUFFIX,g.163.com
+DOMAIN-SUFFIX,nubia.cn
+DOMAIN-SUFFIX,nubia.com
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,finzfin.com
 DOMAIN-SUFFIX,heytap.com
@@ -4052,6 +4055,7 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,alloyteam.com
 DOMAIN-SUFFIX,imweb.io
