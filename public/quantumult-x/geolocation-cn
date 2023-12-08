@@ -4013,6 +4013,12 @@ host-suffix, didiglobal.com, geolocation-cn
 host-suffix, didimobility.co.jp, geolocation-cn
 host-suffix, didistatic.com, geolocation-cn
 host-suffix, xiaojukeji.com, geolocation-cn
+host-suffix, dji.com, geolocation-cn
+host-suffix, dji.net, geolocation-cn
+host-suffix, djicdn.com, geolocation-cn
+host-suffix, djiops.com, geolocation-cn
+host-suffix, djiservice.org, geolocation-cn
+host-suffix, skypixel.com, geolocation-cn
 host-suffix, abhouses.com, geolocation-cn
 host-suffix, agconnect.link, geolocation-cn
 host-suffix, dbank.com, geolocation-cn
