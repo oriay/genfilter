@@ -5099,6 +5099,7 @@ DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN,res.cdn.office.net
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
 DOMAIN,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN,cdn.marketplaceimages.windowsphone.com

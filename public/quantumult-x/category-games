@@ -41,6 +41,8 @@ host-suffix, worldofwarcraft.com, category-games
 host, blizzcon-a.akamaihd.net, category-games
 host, blzmedia-a.akamaihd.net, category-games
 host, blznav.akamaized.net, category-games
+host-suffix, bluearchive.jp, category-games
+host-suffix, bluearchive.nexon.com, category-games
 host-suffix, bluearchive-cn.com, category-games
 host-suffix, sl916.com, category-games
 host-suffix, curseforge.com, category-games
@@ -282,6 +284,9 @@ host-suffix, bh3.com, category-games
 host-suffix, bhsr.com, category-games
 host-suffix, themisweeps.com, category-games
 host-suffix, yuanshen.com, category-games
+host-suffix, nexon.co.jp, category-games
+host-suffix, nexon.com, category-games
+host-suffix, nexoncdn.co.kr, category-games
 host-suffix, 100classicbooks.com, category-games
 host-suffix, amiibo.com, category-games
 host-suffix, ayudanintendo.com, category-games

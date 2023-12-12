@@ -5099,6 +5099,7 @@ host-suffix, skype-edf.akadns.net, category-companies
 host-suffix, skypedata.akadns.net, category-companies
 host-suffix, dl.delivery.mp.microsoft.com, category-companies
 host-suffix, download.windowsupdate.com, category-companies
+host, res.cdn.office.net, category-companies
 host, bg.v4.a.dl.ws.microsoft.com, category-companies
 host, bg4.v4.a.dl.ws.microsoft.com, category-companies
 host, cdn.marketplaceimages.windowsphone.com, category-companies
