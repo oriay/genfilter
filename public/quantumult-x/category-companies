@@ -5102,14 +5102,17 @@ host-suffix, download.windowsupdate.com, category-companies
 host, res.cdn.office.net, category-companies
 host, bg.v4.a.dl.ws.microsoft.com, category-companies
 host, bg4.v4.a.dl.ws.microsoft.com, category-companies
+host, build.microsoft.com, category-companies
 host, cdn.marketplaceimages.windowsphone.com, category-companies
 host, cn.windowssearch.com, category-companies
 host, ctldl.windowsupdate.com, category-companies
+host, devblogs.microsoft.com, category-companies
 host, developer.microsoft.com, category-companies
 host, docs.microsoft.com, category-companies
 host, download.microsoft.com, category-companies
 host, download.visualstudio.microsoft.com, category-companies
 host, fs.microsoft.com, category-companies
+host, learn.microsoft.com, category-companies
 host, msgr.dlservice.microsoft.com, category-companies
 host, msgruser.dlservice.microsoft.com, category-companies
 host, officecdn.microsoft.com, category-companies
@@ -5118,6 +5121,7 @@ host, sdx.microsoft.com, category-companies
 host, silverlight.dlservice.microsoft.com, category-companies
 host, slupdate.dlservice.microsoft.com, category-companies
 host, storeedgefd.dsx.mp.microsoft.com, category-companies
+host, vscode.download.prss.microsoft.com, category-companies
 host, wl.dlservice.microsoft.com, category-companies
 host, wscont1.apps.microsoft.com, category-companies
 host, wscont2.apps.microsoft.com, category-companies

@@ -269,14 +269,17 @@ DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN,res.cdn.office.net
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
 DOMAIN,bg4.v4.a.dl.ws.microsoft.com
+DOMAIN,build.microsoft.com
 DOMAIN,cdn.marketplaceimages.windowsphone.com
 DOMAIN,cn.windowssearch.com
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN,devblogs.microsoft.com
 DOMAIN,developer.microsoft.com
 DOMAIN,docs.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,fs.microsoft.com
+DOMAIN,learn.microsoft.com
 DOMAIN,msgr.dlservice.microsoft.com
 DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,officecdn.microsoft.com
@@ -285,6 +288,7 @@ DOMAIN,sdx.microsoft.com
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com

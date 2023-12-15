@@ -269,14 +269,17 @@ host-suffix, download.windowsupdate.com, microsoft
 host, res.cdn.office.net, microsoft
 host, bg.v4.a.dl.ws.microsoft.com, microsoft
 host, bg4.v4.a.dl.ws.microsoft.com, microsoft
+host, build.microsoft.com, microsoft
 host, cdn.marketplaceimages.windowsphone.com, microsoft
 host, cn.windowssearch.com, microsoft
 host, ctldl.windowsupdate.com, microsoft
+host, devblogs.microsoft.com, microsoft
 host, developer.microsoft.com, microsoft
 host, docs.microsoft.com, microsoft
 host, download.microsoft.com, microsoft
 host, download.visualstudio.microsoft.com, microsoft
 host, fs.microsoft.com, microsoft
+host, learn.microsoft.com, microsoft
 host, msgr.dlservice.microsoft.com, microsoft
 host, msgruser.dlservice.microsoft.com, microsoft
 host, officecdn.microsoft.com, microsoft
@@ -285,6 +288,7 @@ host, sdx.microsoft.com, microsoft
 host, silverlight.dlservice.microsoft.com, microsoft
 host, slupdate.dlservice.microsoft.com, microsoft
 host, storeedgefd.dsx.mp.microsoft.com, microsoft
+host, vscode.download.prss.microsoft.com, microsoft
 host, wl.dlservice.microsoft.com, microsoft
 host, wscont1.apps.microsoft.com, microsoft
 host, wscont2.apps.microsoft.com, microsoft

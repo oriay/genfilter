@@ -1,6 +1,7 @@
 host-suffix, cdn-telegram.org, telegram
 host-suffix, comments.app, telegram
 host-suffix, contest.com, telegram
+host-suffix, fragment.com, telegram
 host-suffix, graph.org, telegram
 host-suffix, quiz.directory, telegram
 host-suffix, t.me, telegram

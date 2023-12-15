@@ -82,6 +82,7 @@ host-suffix, slackhq.com, category-communication
 host-suffix, cdn-telegram.org, category-communication
 host-suffix, comments.app, category-communication
 host-suffix, contest.com, category-communication
+host-suffix, fragment.com, category-communication
 host-suffix, graph.org, category-communication
 host-suffix, quiz.directory, category-communication
 host-suffix, t.me, category-communication

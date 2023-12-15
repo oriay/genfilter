@@ -13,6 +13,7 @@ host-suffix, cloudflarebolt.com, cloudflare
 host-suffix, cloudflareclient.com, cloudflare
 host-suffix, cloudflareinsights.com, cloudflare
 host-suffix, cloudflareok.com, cloudflare
+host-suffix, cloudflarepartners.com, cloudflare
 host-suffix, cloudflareportal.com, cloudflare
 host-suffix, cloudflarepreview.com, cloudflare
 host-suffix, cloudflareresolve.com, cloudflare
