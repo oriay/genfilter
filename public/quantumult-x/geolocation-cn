@@ -2443,8 +2443,10 @@ host-suffix, jiemian.com, geolocation-cn
 host-suffix, jiemian.com.cn, geolocation-cn
 host-suffix, lancdn.com, geolocation-cn
 host-suffix, landiannews.com, geolocation-cn
-host-suffix, wsoso.com, geolocation-cn
 host-suffix, landian.vip, geolocation-cn
+host-suffix, landian.xyz, geolocation-cn
+host-suffix, ourl.co, geolocation-cn
+host-suffix, wsoso.com, geolocation-cn
 host-suffix, fengcx.com, geolocation-cn
 host-suffix, ifeng.com, geolocation-cn
 host-suffix, ifengimg.com, geolocation-cn

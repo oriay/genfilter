@@ -98,8 +98,10 @@ host-suffix, jiemian.com, category-media-cn
 host-suffix, jiemian.com.cn, category-media-cn
 host-suffix, lancdn.com, category-media-cn
 host-suffix, landiannews.com, category-media-cn
-host-suffix, wsoso.com, category-media-cn
 host-suffix, landian.vip, category-media-cn
+host-suffix, landian.xyz, category-media-cn
+host-suffix, ourl.co, category-media-cn
+host-suffix, wsoso.com, category-media-cn
 host-suffix, fengcx.com, category-media-cn
 host-suffix, ifeng.com, category-media-cn
 host-suffix, ifengimg.com, category-media-cn
