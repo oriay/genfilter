@@ -2127,6 +2127,7 @@ host, apilog-web.acfun.cn, geolocation-cn
 host-suffix, acplay.net, geolocation-cn
 host-suffix, dandanplay.com, geolocation-cn
 host-suffix, ali213.net, geolocation-cn
+host-suffix, bilicomic.com, geolocation-cn
 host-suffix, bilicomics.com, geolocation-cn
 host, manga.bilibili.com, geolocation-cn
 host-suffix, acg.tv, geolocation-cn
@@ -5018,6 +5019,9 @@ host-suffix, tingbook.com, geolocation-cn
 host-suffix, webnovel.com, geolocation-cn
 host-suffix, xs8.cn, geolocation-cn
 host-suffix, xxsy.net, geolocation-cn
+host-suffix, vivo.com, geolocation-cn
+host-suffix, vivo.com.cn, geolocation-cn
+host-suffix, vivoglobal.com, geolocation-cn
 host-suffix, mi.com, geolocation-cn
 host-suffix, mi-img.com, geolocation-cn
 host-suffix, mifile.cn, geolocation-cn

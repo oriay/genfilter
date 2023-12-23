@@ -2164,6 +2164,7 @@ DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,acplay.net
 DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,ali213.net
+DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN,manga.bilibili.com
 DOMAIN-SUFFIX,acg.tv
@@ -5055,6 +5056,9 @@ DOMAIN-SUFFIX,tingbook.com
 DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,vivoglobal.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mifile.cn

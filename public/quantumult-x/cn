@@ -2164,6 +2164,7 @@ host, apilog-web.acfun.cn, cn
 host-suffix, acplay.net, cn
 host-suffix, dandanplay.com, cn
 host-suffix, ali213.net, cn
+host-suffix, bilicomic.com, cn
 host-suffix, bilicomics.com, cn
 host, manga.bilibili.com, cn
 host-suffix, acg.tv, cn
@@ -5055,6 +5056,9 @@ host-suffix, tingbook.com, cn
 host-suffix, webnovel.com, cn
 host-suffix, xs8.cn, cn
 host-suffix, xxsy.net, cn
+host-suffix, vivo.com, cn
+host-suffix, vivo.com.cn, cn
+host-suffix, vivoglobal.com, cn
 host-suffix, mi.com, cn
 host-suffix, mi-img.com, cn
 host-suffix, mifile.cn, cn
