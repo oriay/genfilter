@@ -19,6 +19,7 @@ host-suffix, myoctocat.com, github
 host-suffix, opensource.guide, github
 host-suffix, repo.new, github
 host-suffix, thegithubshop.com, github
+host-suffix, blob.core.windows.net, github
 host, github-cloud.s3.amazonaws.com, github
 host-suffix, npm.community, github
 host-suffix, npmjs.com, github

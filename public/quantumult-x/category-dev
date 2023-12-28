@@ -242,6 +242,7 @@ host-suffix, myoctocat.com, category-dev
 host-suffix, opensource.guide, category-dev
 host-suffix, repo.new, category-dev
 host-suffix, thegithubshop.com, category-dev
+host-suffix, blob.core.windows.net, category-dev
 host, github-cloud.s3.amazonaws.com, category-dev
 host-suffix, npm.community, category-dev
 host-suffix, npmjs.com, category-dev

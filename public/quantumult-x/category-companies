@@ -5300,6 +5300,7 @@ host-suffix, myoctocat.com, category-companies
 host-suffix, opensource.guide, category-companies
 host-suffix, repo.new, category-companies
 host-suffix, thegithubshop.com, category-companies
+host-suffix, blob.core.windows.net, category-companies
 host, github-cloud.s3.amazonaws.com, category-companies
 host-suffix, npm.community, category-companies
 host-suffix, npmjs.com, category-companies
