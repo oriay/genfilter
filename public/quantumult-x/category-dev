@@ -450,6 +450,8 @@ host-suffix, redhat.com, category-dev
 host-suffix, redhat.org, category-dev
 host-suffix, scala-lang.org, category-dev
 host-suffix, scala-sbt.org, category-dev
+host-suffix, sourcehut.org, category-dev
+host-suffix, sr.ht, category-dev
 host-suffix, askubuntu.com, category-dev
 host-suffix, blogoverflow.com, category-dev
 host-suffix, codeforaliving.io, category-dev
