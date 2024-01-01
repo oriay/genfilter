@@ -24,6 +24,7 @@ host-suffix, office365love.com, bing
 host-suffix, office365tw.com, bing
 host-suffix, renovacionoffice.com, bing
 host-suffix, sprinklesapp.com, bing
+host, location.microsoft.com, bing
 host-suffix, cn.bing.com, bing
 host-suffix, cn.bing.net, bing
 host-suffix, ditu.live.com, bing
