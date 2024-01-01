@@ -146,7 +146,6 @@ host-suffix, ly, geolocation-!cn
 host-suffix, ma, geolocation-!cn
 host-suffix, mc, geolocation-!cn
 host-suffix, md, geolocation-!cn
-host-suffix, me, geolocation-!cn
 host-suffix, mf, geolocation-!cn
 host-suffix, mg, geolocation-!cn
 host-suffix, mh, geolocation-!cn
@@ -15585,6 +15584,7 @@ host-suffix, jetbrains.space, geolocation-!cn
 host-suffix, jetbrains.team, geolocation-!cn
 host-suffix, datalore.io, geolocation-!cn
 host-suffix, kotlinlang.org, geolocation-!cn
+host, download.jetbrains.com, geolocation-!cn
 host-suffix, grazie.ai, geolocation-!cn
 host-suffix, grazie.aws.intellij.net, geolocation-!cn
 host-suffix, jfrog.com, geolocation-!cn

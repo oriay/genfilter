@@ -146,7 +146,6 @@ DOMAIN-SUFFIX,ly
 DOMAIN-SUFFIX,ma
 DOMAIN-SUFFIX,mc
 DOMAIN-SUFFIX,md
-DOMAIN-SUFFIX,me
 DOMAIN-SUFFIX,mf
 DOMAIN-SUFFIX,mg
 DOMAIN-SUFFIX,mh
@@ -15585,6 +15584,7 @@ DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,kotlinlang.org
+DOMAIN,download.jetbrains.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jfrog.com
