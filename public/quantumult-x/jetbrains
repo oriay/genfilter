@@ -7,4 +7,4 @@ host-suffix, jetbrains.space, jetbrains
 host-suffix, jetbrains.team, jetbrains
 host-suffix, datalore.io, jetbrains
 host-suffix, kotlinlang.org, jetbrains
-host, download.jetbrains.com, jetbrains
+host-suffix, cdn.jetbrains.com, jetbrains
