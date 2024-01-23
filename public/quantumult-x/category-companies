@@ -1352,6 +1352,7 @@ host, www.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, www.apple.com.edgekey.net, category-companies
 host, www.apple.com, category-companies
 host, xp.apple.com, category-companies
+host, testflight.apple.com, category-companies
 host-suffix, iadsdk.apple.com, category-companies
 host-suffix, iad.apple.com, category-companies
 host-suffix, qwapi.com, category-companies

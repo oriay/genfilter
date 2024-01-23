@@ -1352,6 +1352,7 @@ DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
 DOMAIN,xp.apple.com
+DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com

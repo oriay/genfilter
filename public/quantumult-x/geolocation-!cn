@@ -17593,6 +17593,7 @@ host, www.apple.com.edgekey.net.globalredir.akadns.net, geolocation-!cn
 host, www.apple.com.edgekey.net, geolocation-!cn
 host, www.apple.com, geolocation-!cn
 host, xp.apple.com, geolocation-!cn
+host, testflight.apple.com, geolocation-!cn
 host-suffix, iadsdk.apple.com, geolocation-!cn
 host-suffix, iad.apple.com, geolocation-!cn
 host-suffix, qwapi.com, geolocation-!cn
