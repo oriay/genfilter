@@ -3052,6 +3052,7 @@ DOMAIN-SUFFIX,akamqi.com
 DOMAIN-SUFFIX,akastream.com
 DOMAIN-SUFFIX,akastream.net
 DOMAIN-SUFFIX,akatns.net
+DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
@@ -3206,9 +3207,11 @@ DOMAIN-SUFFIX,certificat2.com
 DOMAIN-SUFFIX,trendmicro.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.be
 DOMAIN-SUFFIX,globalsign.ch
+DOMAIN-SUFFIX,globalsign.cn
 DOMAIN-SUFFIX,globalsign.co.uk
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.com.au
@@ -3220,13 +3223,8 @@ DOMAIN-SUFFIX,globalsign.eu
 DOMAIN-SUFFIX,globalsign.fr
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalsign.nl
-DOMAIN,crl.alphassl.com
-DOMAIN,crl2.alphassl.com
-DOMAIN,global.prd.cdn.globalsign.com
-DOMAIN,ocsp.globalsign.com
-DOMAIN,ocsp2.globalsign.com
-DOMAIN,secure.globalsign.com
-DOMAIN,secure2.alphassl.com
+DOMAIN-SUFFIX,globalsigncdn.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,godaddy
@@ -3266,6 +3264,7 @@ DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,positivessl.com
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,sectigochina.com
+DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,trust-provider.cn
 DOMAIN-SUFFIX,trust-provider.com
 DOMAIN-SUFFIX,usertrust.com
@@ -5313,6 +5312,7 @@ DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,megaphone.fm
+DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,moov.hk
 DOMAIN-SUFFIX,odysee.com
 DOMAIN-SUFFIX,omobi.cc
@@ -5652,6 +5652,7 @@ DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mihayou.com
@@ -6367,6 +6368,7 @@ DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mihayou.com
@@ -11200,6 +11202,7 @@ DOMAIN-SUFFIX,hlsp1.pw
 DOMAIN-SUFFIX,hmd.site
 DOMAIN-SUFFIX,hmfby.com
 DOMAIN-SUFFIX,hmfun.top
+DOMAIN-SUFFIX,hmovie-moe.us
 DOMAIN-SUFFIX,hnalady.com
 DOMAIN-SUFFIX,hnext.jp
 DOMAIN-SUFFIX,hnntube.com
@@ -15393,6 +15396,22 @@ DOMAIN-SUFFIX,playcover.workers.dev
 DOMAIN-SUFFIX,fflogs.com
 DOMAIN-SUFFIX,rpglogs.com
 DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,clock.isc.org
+DOMAIN-SUFFIX,ntp.fiord.ru
+DOMAIN-SUFFIX,ntp.nat.ms
+DOMAIN-SUFFIX,ntp.nic.cz
+DOMAIN-SUFFIX,ntp.nict.jp
+DOMAIN-SUFFIX,ntp.ripe.net
+DOMAIN-SUFFIX,ntp.se
+DOMAIN-SUFFIX,ntp.ufe.cz
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,time.cloudflare.com
+DOMAIN-SUFFIX,time.nrc.ca
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,getadblock.com
@@ -21134,6 +21153,7 @@ DOMAIN-SUFFIX,microsoft.uz
 DOMAIN-SUFFIX,microsoft.vn
 DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,m12.vc
+DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,applicationinsights.io
@@ -21306,7 +21326,9 @@ DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,projectmurphy.net
 DOMAIN-SUFFIX,projectsangam.com
 DOMAIN-SUFFIX,pxt.io
+DOMAIN-SUFFIX,s-dc-msedge.net
 DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,s-msedge.net
 DOMAIN-SUFFIX,s-msft.com
 DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,sfbassets.com
@@ -21510,6 +21532,7 @@ DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,bingagencyawards.com
 DOMAIN-SUFFIX,bingapis.com
@@ -22184,6 +22207,8 @@ DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
 DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,st.com
+DOMAIN-SUFFIX,stmicroelectronics.com.cn
 DOMAIN-SUFFIX,boringcompany.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
 DOMAIN-SUFFIX,registeridm.com

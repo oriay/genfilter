@@ -1,7 +1,9 @@
 DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.be
 DOMAIN-SUFFIX,globalsign.ch
+DOMAIN-SUFFIX,globalsign.cn
 DOMAIN-SUFFIX,globalsign.co.uk
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.com.au
@@ -13,10 +15,5 @@ DOMAIN-SUFFIX,globalsign.eu
 DOMAIN-SUFFIX,globalsign.fr
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalsign.nl
-DOMAIN,crl.alphassl.com
-DOMAIN,crl2.alphassl.com
-DOMAIN,global.prd.cdn.globalsign.com
-DOMAIN,ocsp.globalsign.com
-DOMAIN,ocsp2.globalsign.com
-DOMAIN,secure.globalsign.com
-DOMAIN,secure2.alphassl.com
+DOMAIN-SUFFIX,globalsigncdn.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net

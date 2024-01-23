@@ -67,9 +67,11 @@ host-suffix, certificat2.com, category-cas
 host-suffix, trendmicro.com, category-cas
 host-suffix, gandi.net, category-cas
 host-suffix, alphassl.com, category-cas
+host-suffix, easy-signing.com, category-cas
 host-suffix, globalsign-media.com, category-cas
 host-suffix, globalsign.be, category-cas
 host-suffix, globalsign.ch, category-cas
+host-suffix, globalsign.cn, category-cas
 host-suffix, globalsign.co.uk, category-cas
 host-suffix, globalsign.com, category-cas
 host-suffix, globalsign.com.au, category-cas
@@ -81,13 +83,8 @@ host-suffix, globalsign.eu, category-cas
 host-suffix, globalsign.fr, category-cas
 host-suffix, globalsign.net, category-cas
 host-suffix, globalsign.nl, category-cas
-host, crl.alphassl.com, category-cas
-host, crl2.alphassl.com, category-cas
-host, global.prd.cdn.globalsign.com, category-cas
-host, ocsp.globalsign.com, category-cas
-host, ocsp2.globalsign.com, category-cas
-host, secure.globalsign.com, category-cas
-host, secure2.alphassl.com, category-cas
+host-suffix, globalsigncdn.com, category-cas
+host, cdn.globalsigncdn.com.cdn.cloudflare.net, category-cas
 host-suffix, godaddy.com, category-cas
 host-suffix, x.co, category-cas
 host-suffix, godaddy, category-cas
@@ -127,6 +124,7 @@ host-suffix, optimumssl.com, category-cas
 host-suffix, positivessl.com, category-cas
 host-suffix, sectigo.com, category-cas
 host-suffix, sectigochina.com, category-cas
+host-suffix, sectigochina.com.cdn.cloudflare.net, category-cas
 host-suffix, trust-provider.cn, category-cas
 host-suffix, trust-provider.com, category-cas
 host-suffix, usertrust.com, category-cas

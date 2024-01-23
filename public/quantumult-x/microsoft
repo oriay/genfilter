@@ -43,6 +43,7 @@ host-suffix, microsoft.uz, microsoft
 host-suffix, microsoft.vn, microsoft
 host-suffix, femalefounderscomp.com, microsoft
 host-suffix, m12.vc, microsoft
+host-suffix, a-msedge.net, microsoft
 host-suffix, aka.ms, microsoft
 host-suffix, ankarazirvesi2018.com, microsoft
 host-suffix, applicationinsights.io, microsoft
@@ -215,7 +216,9 @@ host-suffix, powershellgallery.com, microsoft
 host-suffix, projectmurphy.net, microsoft
 host-suffix, projectsangam.com, microsoft
 host-suffix, pxt.io, microsoft
+host-suffix, s-dc-msedge.net, microsoft
 host-suffix, s-microsoft.com, microsoft
+host-suffix, s-msedge.net, microsoft
 host-suffix, s-msft.com, microsoft
 host-suffix, s-msn.com, microsoft
 host-suffix, sfbassets.com, microsoft
@@ -419,6 +422,7 @@ host-suffix, bing, microsoft
 host-suffix, bing.com, microsoft
 host-suffix, bing.com.cn, microsoft
 host-suffix, bing.net, microsoft
+host-suffix, bing123.com, microsoft
 host-suffix, bingads.com, microsoft
 host-suffix, bingagencyawards.com, microsoft
 host-suffix, bingapis.com, microsoft

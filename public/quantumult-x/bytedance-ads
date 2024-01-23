@@ -5,7 +5,16 @@ host-suffix, extlog.snssdk.com, bytedance-ads
 host-suffix, i.snssdk.com, bytedance-ads
 host-suffix, is.snssdk.com, bytedance-ads
 host-suffix, mcs.snssdk.com, bytedance-ads
-host-suffix, pangolin.snssdk.com, bytedance-ads
+host-suffix, pangolin-dsp-toutiao-b.com, bytedance-ads
+host-suffix, pangolin-dsp-toutiao.com, bytedance-ads
+host-suffix, pangolin-sdk-toutiao-b.com, bytedance-ads
 host-suffix, pangolin-sdk-toutiao.com, bytedance-ads
+host-suffix, pangolin-sdk-toutiao1.com, bytedance-ads
+host-suffix, pangolin.snssdk.com, bytedance-ads
+host-suffix, panplayable-toutiao-b.com, bytedance-ads
+host-suffix, panplayable-toutiao.com, bytedance-ads
+host-suffix, pglstatp-sdk-toutiao.com, bytedance-ads
+host-suffix, pglstatp-snssdk-toutiao.com, bytedance-ads
+host-suffix, pglstatp-toutiao-b.com, bytedance-ads
 host-suffix, pglstatp-toutiao.com, bytedance-ads
 host-suffix, sf3-ttcdn-tos.pstatp.com, bytedance-ads

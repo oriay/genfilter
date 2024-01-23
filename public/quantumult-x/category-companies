@@ -4893,6 +4893,7 @@ host-suffix, microsoft.uz, category-companies
 host-suffix, microsoft.vn, category-companies
 host-suffix, femalefounderscomp.com, category-companies
 host-suffix, m12.vc, category-companies
+host-suffix, a-msedge.net, category-companies
 host-suffix, aka.ms, category-companies
 host-suffix, ankarazirvesi2018.com, category-companies
 host-suffix, applicationinsights.io, category-companies
@@ -5065,7 +5066,9 @@ host-suffix, powershellgallery.com, category-companies
 host-suffix, projectmurphy.net, category-companies
 host-suffix, projectsangam.com, category-companies
 host-suffix, pxt.io, category-companies
+host-suffix, s-dc-msedge.net, category-companies
 host-suffix, s-microsoft.com, category-companies
+host-suffix, s-msedge.net, category-companies
 host-suffix, s-msft.com, category-companies
 host-suffix, s-msn.com, category-companies
 host-suffix, sfbassets.com, category-companies
@@ -5269,6 +5272,7 @@ host-suffix, bing, category-companies
 host-suffix, bing.com, category-companies
 host-suffix, bing.com.cn, category-companies
 host-suffix, bing.net, category-companies
+host-suffix, bing123.com, category-companies
 host-suffix, bingads.com, category-companies
 host-suffix, bingagencyawards.com, category-companies
 host-suffix, bingapis.com, category-companies
@@ -5943,6 +5947,8 @@ host-suffix, wheelpop.com, category-companies
 host-suffix, wwtbam.com, category-companies
 host-suffix, yourfantasybeginsnow.com, category-companies
 host-suffix, spacex.com, category-companies
+host-suffix, st.com, category-companies
+host-suffix, stmicroelectronics.com.cn, category-companies
 host-suffix, boringcompany.com, category-companies
 host-suffix, internetdownloadmanager.com, category-companies
 host-suffix, registeridm.com, category-companies

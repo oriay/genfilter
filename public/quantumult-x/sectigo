@@ -7,6 +7,7 @@ host-suffix, optimumssl.com, sectigo
 host-suffix, positivessl.com, sectigo
 host-suffix, sectigo.com, sectigo
 host-suffix, sectigochina.com, sectigo
+host-suffix, sectigochina.com.cdn.cloudflare.net, sectigo
 host-suffix, trust-provider.cn, sectigo
 host-suffix, trust-provider.com, sectigo
 host-suffix, usertrust.com, sectigo

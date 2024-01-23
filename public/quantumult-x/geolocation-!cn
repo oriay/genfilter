@@ -3052,6 +3052,7 @@ host-suffix, akamqi.com, geolocation-!cn
 host-suffix, akastream.com, geolocation-!cn
 host-suffix, akastream.net, geolocation-!cn
 host-suffix, akatns.net, geolocation-!cn
+host-suffix, edgekey.net, geolocation-!cn
 host-suffix, iamakamai.com, geolocation-!cn
 host-suffix, iamakamai.net, geolocation-!cn
 host-suffix, soasta-dswb.com, geolocation-!cn
@@ -3206,9 +3207,11 @@ host-suffix, certificat2.com, geolocation-!cn
 host-suffix, trendmicro.com, geolocation-!cn
 host-suffix, gandi.net, geolocation-!cn
 host-suffix, alphassl.com, geolocation-!cn
+host-suffix, easy-signing.com, geolocation-!cn
 host-suffix, globalsign-media.com, geolocation-!cn
 host-suffix, globalsign.be, geolocation-!cn
 host-suffix, globalsign.ch, geolocation-!cn
+host-suffix, globalsign.cn, geolocation-!cn
 host-suffix, globalsign.co.uk, geolocation-!cn
 host-suffix, globalsign.com, geolocation-!cn
 host-suffix, globalsign.com.au, geolocation-!cn
@@ -3220,13 +3223,8 @@ host-suffix, globalsign.eu, geolocation-!cn
 host-suffix, globalsign.fr, geolocation-!cn
 host-suffix, globalsign.net, geolocation-!cn
 host-suffix, globalsign.nl, geolocation-!cn
-host, crl.alphassl.com, geolocation-!cn
-host, crl2.alphassl.com, geolocation-!cn
-host, global.prd.cdn.globalsign.com, geolocation-!cn
-host, ocsp.globalsign.com, geolocation-!cn
-host, ocsp2.globalsign.com, geolocation-!cn
-host, secure.globalsign.com, geolocation-!cn
-host, secure2.alphassl.com, geolocation-!cn
+host-suffix, globalsigncdn.com, geolocation-!cn
+host, cdn.globalsigncdn.com.cdn.cloudflare.net, geolocation-!cn
 host-suffix, godaddy.com, geolocation-!cn
 host-suffix, x.co, geolocation-!cn
 host-suffix, godaddy, geolocation-!cn
@@ -3266,6 +3264,7 @@ host-suffix, optimumssl.com, geolocation-!cn
 host-suffix, positivessl.com, geolocation-!cn
 host-suffix, sectigo.com, geolocation-!cn
 host-suffix, sectigochina.com, geolocation-!cn
+host-suffix, sectigochina.com.cdn.cloudflare.net, geolocation-!cn
 host-suffix, trust-provider.cn, geolocation-!cn
 host-suffix, trust-provider.com, geolocation-!cn
 host-suffix, usertrust.com, geolocation-!cn
@@ -5313,6 +5312,7 @@ host-suffix, joox.com, geolocation-!cn
 host-suffix, linetv.tw, geolocation-!cn
 host-suffix, litv.tv, geolocation-!cn
 host-suffix, megaphone.fm, geolocation-!cn
+host-suffix, mikanani.me, geolocation-!cn
 host-suffix, moov.hk, geolocation-!cn
 host-suffix, odysee.com, geolocation-!cn
 host-suffix, omobi.cc, geolocation-!cn
@@ -5652,6 +5652,7 @@ host-suffix, hoyo.link, geolocation-!cn
 host-suffix, hoyolab.com, geolocation-!cn
 host-suffix, hoyoverse.com, geolocation-!cn
 host-suffix, n0vadesktop.com, geolocation-!cn
+host-suffix, mhystatic.com, geolocation-!cn
 host-suffix, mhyurl.cn, geolocation-!cn
 host-suffix, mihayo.com, geolocation-!cn
 host-suffix, mihayou.com, geolocation-!cn
@@ -6367,6 +6368,7 @@ host-suffix, hoyo.link, geolocation-!cn
 host-suffix, hoyolab.com, geolocation-!cn
 host-suffix, hoyoverse.com, geolocation-!cn
 host-suffix, n0vadesktop.com, geolocation-!cn
+host-suffix, mhystatic.com, geolocation-!cn
 host-suffix, mhyurl.cn, geolocation-!cn
 host-suffix, mihayo.com, geolocation-!cn
 host-suffix, mihayou.com, geolocation-!cn
@@ -11200,6 +11202,7 @@ host-suffix, hlsp1.pw, geolocation-!cn
 host-suffix, hmd.site, geolocation-!cn
 host-suffix, hmfby.com, geolocation-!cn
 host-suffix, hmfun.top, geolocation-!cn
+host-suffix, hmovie-moe.us, geolocation-!cn
 host-suffix, hnalady.com, geolocation-!cn
 host-suffix, hnext.jp, geolocation-!cn
 host-suffix, hnntube.com, geolocation-!cn
@@ -15393,6 +15396,22 @@ host-suffix, playcover.workers.dev, geolocation-!cn
 host-suffix, fflogs.com, geolocation-!cn
 host-suffix, rpglogs.com, geolocation-!cn
 host-suffix, rpglogs.cn, geolocation-!cn
+host-suffix, clock.isc.org, geolocation-!cn
+host-suffix, ntp.fiord.ru, geolocation-!cn
+host-suffix, ntp.nat.ms, geolocation-!cn
+host-suffix, ntp.nic.cz, geolocation-!cn
+host-suffix, ntp.nict.jp, geolocation-!cn
+host-suffix, ntp.ripe.net, geolocation-!cn
+host-suffix, ntp.se, geolocation-!cn
+host-suffix, ntp.ufe.cz, geolocation-!cn
+host-suffix, pool.ntp.org, geolocation-!cn
+host-suffix, time.cloudflare.com, geolocation-!cn
+host-suffix, time.nrc.ca, geolocation-!cn
+host-suffix, time.windows.com, geolocation-!cn
+host-suffix, cn.pool.ntp.org, geolocation-!cn
+host-suffix, ntp.neu.edu.cn, geolocation-!cn
+host-suffix, ntp.ntsc.ac.cn, geolocation-!cn
+host-suffix, ntp.org.cn, geolocation-!cn
 host-suffix, decrypt.day, geolocation-!cn
 host-suffix, accuweather.com, geolocation-!cn
 host-suffix, getadblock.com, geolocation-!cn
@@ -21134,6 +21153,7 @@ host-suffix, microsoft.uz, geolocation-!cn
 host-suffix, microsoft.vn, geolocation-!cn
 host-suffix, femalefounderscomp.com, geolocation-!cn
 host-suffix, m12.vc, geolocation-!cn
+host-suffix, a-msedge.net, geolocation-!cn
 host-suffix, aka.ms, geolocation-!cn
 host-suffix, ankarazirvesi2018.com, geolocation-!cn
 host-suffix, applicationinsights.io, geolocation-!cn
@@ -21306,7 +21326,9 @@ host-suffix, powershellgallery.com, geolocation-!cn
 host-suffix, projectmurphy.net, geolocation-!cn
 host-suffix, projectsangam.com, geolocation-!cn
 host-suffix, pxt.io, geolocation-!cn
+host-suffix, s-dc-msedge.net, geolocation-!cn
 host-suffix, s-microsoft.com, geolocation-!cn
+host-suffix, s-msedge.net, geolocation-!cn
 host-suffix, s-msft.com, geolocation-!cn
 host-suffix, s-msn.com, geolocation-!cn
 host-suffix, sfbassets.com, geolocation-!cn
@@ -21510,6 +21532,7 @@ host-suffix, bing, geolocation-!cn
 host-suffix, bing.com, geolocation-!cn
 host-suffix, bing.com.cn, geolocation-!cn
 host-suffix, bing.net, geolocation-!cn
+host-suffix, bing123.com, geolocation-!cn
 host-suffix, bingads.com, geolocation-!cn
 host-suffix, bingagencyawards.com, geolocation-!cn
 host-suffix, bingapis.com, geolocation-!cn
@@ -22184,6 +22207,8 @@ host-suffix, wheelpop.com, geolocation-!cn
 host-suffix, wwtbam.com, geolocation-!cn
 host-suffix, yourfantasybeginsnow.com, geolocation-!cn
 host-suffix, spacex.com, geolocation-!cn
+host-suffix, st.com, geolocation-!cn
+host-suffix, stmicroelectronics.com.cn, geolocation-!cn
 host-suffix, boringcompany.com, geolocation-!cn
 host-suffix, internetdownloadmanager.com, geolocation-!cn
 host-suffix, registeridm.com, geolocation-!cn

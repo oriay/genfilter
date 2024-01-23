@@ -1,0 +1,16 @@
+host-suffix, clock.isc.org, category-ntp
+host-suffix, ntp.fiord.ru, category-ntp
+host-suffix, ntp.nat.ms, category-ntp
+host-suffix, ntp.nic.cz, category-ntp
+host-suffix, ntp.nict.jp, category-ntp
+host-suffix, ntp.ripe.net, category-ntp
+host-suffix, ntp.se, category-ntp
+host-suffix, ntp.ufe.cz, category-ntp
+host-suffix, pool.ntp.org, category-ntp
+host-suffix, time.cloudflare.com, category-ntp
+host-suffix, time.nrc.ca, category-ntp
+host-suffix, time.windows.com, category-ntp
+host-suffix, cn.pool.ntp.org, category-ntp
+host-suffix, ntp.neu.edu.cn, category-ntp
+host-suffix, ntp.ntsc.ac.cn, category-ntp
+host-suffix, ntp.org.cn, category-ntp

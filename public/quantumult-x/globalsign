@@ -1,7 +1,9 @@
 host-suffix, alphassl.com, globalsign
+host-suffix, easy-signing.com, globalsign
 host-suffix, globalsign-media.com, globalsign
 host-suffix, globalsign.be, globalsign
 host-suffix, globalsign.ch, globalsign
+host-suffix, globalsign.cn, globalsign
 host-suffix, globalsign.co.uk, globalsign
 host-suffix, globalsign.com, globalsign
 host-suffix, globalsign.com.au, globalsign
@@ -13,10 +15,5 @@ host-suffix, globalsign.eu, globalsign
 host-suffix, globalsign.fr, globalsign
 host-suffix, globalsign.net, globalsign
 host-suffix, globalsign.nl, globalsign
-host, crl.alphassl.com, globalsign
-host, crl2.alphassl.com, globalsign
-host, global.prd.cdn.globalsign.com, globalsign
-host, ocsp.globalsign.com, globalsign
-host, ocsp2.globalsign.com, globalsign
-host, secure.globalsign.com, globalsign
-host, secure2.alphassl.com, globalsign
+host-suffix, globalsigncdn.com, globalsign
+host, cdn.globalsigncdn.com.cdn.cloudflare.net, globalsign
