@@ -42,6 +42,11 @@ host, ds-linear-abematv.akamaized.net, category-entertainment
 host, ds-vod-abematv.akamaized.net, category-entertainment
 host, linear-abematv.akamaized.net, category-entertainment
 host, vod-abematv.akamaized.net, category-entertainment
+host-suffix, amc.com, category-entertainment
+host-suffix, amcn.com, category-entertainment
+host-suffix, amcnetworks.com, category-entertainment
+host-suffix, amcplus.com, category-entertainment
+host-suffix, e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com, category-entertainment
 host-suffix, 9anime.cz, category-entertainment
 host-suffix, 9anime.id, category-entertainment
 host-suffix, 9anime.to, category-entertainment

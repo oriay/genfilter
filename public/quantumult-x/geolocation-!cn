@@ -5345,6 +5345,11 @@ host, ds-linear-abematv.akamaized.net, geolocation-!cn
 host, ds-vod-abematv.akamaized.net, geolocation-!cn
 host, linear-abematv.akamaized.net, geolocation-!cn
 host, vod-abematv.akamaized.net, geolocation-!cn
+host-suffix, amc.com, geolocation-!cn
+host-suffix, amcn.com, geolocation-!cn
+host-suffix, amcnetworks.com, geolocation-!cn
+host-suffix, amcplus.com, geolocation-!cn
+host-suffix, e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com, geolocation-!cn
 host-suffix, 9anime.cz, geolocation-!cn
 host-suffix, 9anime.id, geolocation-!cn
 host-suffix, 9anime.to, geolocation-!cn
@@ -21962,6 +21967,7 @@ host-suffix, viu.com, geolocation-!cn
 host, dfp6rglgjqszk.cloudfront.net, geolocation-!cn
 host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
+host-suffix, perplexity.ai, geolocation-!cn
 host-suffix, myqnapcloud.com, geolocation-!cn
 host-suffix, qlink.to, geolocation-!cn
 host-suffix, qnap.com, geolocation-!cn
