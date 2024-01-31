@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
+DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com

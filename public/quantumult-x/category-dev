@@ -406,6 +406,7 @@ host-suffix, mongodb.com, category-dev
 host-suffix, mongodb.org, category-dev
 host-suffix, nginx.com, category-dev
 host-suffix, nginx.org, category-dev
+host-suffix, nixos.org, category-dev
 host-suffix, chatgpt.com, category-dev
 host-suffix, oaistatic.com, category-dev
 host-suffix, oaiusercontent.com, category-dev

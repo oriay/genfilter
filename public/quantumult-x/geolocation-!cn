@@ -16154,6 +16154,7 @@ host-suffix, mongodb.com, geolocation-!cn
 host-suffix, mongodb.org, geolocation-!cn
 host-suffix, nginx.com, geolocation-!cn
 host-suffix, nginx.org, geolocation-!cn
+host-suffix, nixos.org, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
 host-suffix, oaiusercontent.com, geolocation-!cn
