@@ -484,7 +484,6 @@ host-suffix, lgbt, geolocation-!cn
 host-suffix, livestrong, geolocation-!cn
 host-suffix, maif, geolocation-!cn
 host-suffix, mattel, geolocation-!cn
-host-suffix, moe, geolocation-!cn
 host-suffix, persiangulf, geolocation-!cn
 host-suffix, poker, geolocation-!cn
 host-suffix, sas, geolocation-!cn
@@ -2988,6 +2987,7 @@ host-suffix, visaplus.com, geolocation-!cn
 host-suffix, visasavingsedge.ca, geolocation-!cn
 host-suffix, visasignature.co.kr, geolocation-!cn
 host-suffix, visb.org, geolocation-!cn
+host-suffix, accdn.com.cn, geolocation-!cn
 host-suffix, ak1.net, geolocation-!cn
 host-suffix, aka-ai.com, geolocation-!cn
 host-suffix, aka-ai.net, geolocation-!cn
@@ -2996,6 +2996,7 @@ host-suffix, akadeem.net, geolocation-!cn
 host-suffix, akadns.com, geolocation-!cn
 host-suffix, akadns.net, geolocation-!cn
 host-suffix, akadns6.net, geolocation-!cn
+host-suffix, akadns88.net, geolocation-!cn
 host-suffix, akaeai.com, geolocation-!cn
 host-suffix, akafms.net, geolocation-!cn
 host-suffix, akagtm.org, geolocation-!cn
@@ -3052,9 +3053,16 @@ host-suffix, akamqi.com, geolocation-!cn
 host-suffix, akastream.com, geolocation-!cn
 host-suffix, akastream.net, geolocation-!cn
 host-suffix, akatns.net, geolocation-!cn
+host-suffix, akcdn.com.cn, geolocation-!cn
+host-suffix, aptdn.net, geolocation-!cn
 host-suffix, edgekey.net, geolocation-!cn
+host-suffix, edgekey88.net, geolocation-!cn
+host-suffix, edgesuite.net, geolocation-!cn
 host-suffix, iamakamai.com, geolocation-!cn
 host-suffix, iamakamai.net, geolocation-!cn
+host-suffix, janrain.biz, geolocation-!cn
+host-suffix, janrainservices.com, geolocation-!cn
+host-suffix, skycdn.com.cn, geolocation-!cn
 host-suffix, soasta-dswb.com, geolocation-!cn
 host-suffix, srtcdn.net, geolocation-!cn
 host-suffix, awempire.com, geolocation-!cn
@@ -3530,6 +3538,7 @@ host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
 host-suffix, yusercontent.com, geolocation-!cn
+host, cdn.js7k.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
 host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
@@ -3726,6 +3735,7 @@ host-suffix, binance.net, geolocation-!cn
 host-suffix, binance.org, geolocation-!cn
 host-suffix, binance.us, geolocation-!cn
 host-suffix, binance.vision, geolocation-!cn
+host-suffix, binancecnt.com, geolocation-!cn
 host-suffix, binancezh.be, geolocation-!cn
 host-suffix, binancezh.biz, geolocation-!cn
 host-suffix, binancezh.cc, geolocation-!cn
@@ -3744,6 +3754,7 @@ host-suffix, binancezh.top, geolocation-!cn
 host-suffix, binanceapi.com, geolocation-!cn
 host-suffix, bnbstatic.com, geolocation-!cn
 host-suffix, saasexch.com, geolocation-!cn
+host-suffix, saasexch.io, geolocation-!cn
 host-suffix, appsflayer.com, geolocation-!cn
 host-suffix, bitflyer.com, geolocation-!cn
 host-suffix, bitflyer.jp, geolocation-!cn
@@ -9596,6 +9607,7 @@ host-suffix, avinin.com, geolocation-!cn
 host-suffix, avizoon.site, geolocation-!cn
 host-suffix, avizoone.com, geolocation-!cn
 host-suffix, avjb.com, geolocation-!cn
+host-suffix, avjiasu.com, geolocation-!cn
 host-suffix, avjoy.me, geolocation-!cn
 host-suffix, avjzy67.xyz, geolocation-!cn
 host-suffix, avking-mp4.sbs, geolocation-!cn
@@ -11582,6 +11594,7 @@ host-suffix, javmost.com, geolocation-!cn
 host-suffix, javmost.cx, geolocation-!cn
 host-suffix, javmost.xyz, geolocation-!cn
 host-suffix, javmuch.com, geolocation-!cn
+host-suffix, javmulu.net, geolocation-!cn
 host-suffix, javnew.net, geolocation-!cn
 host-suffix, javopen.co, geolocation-!cn
 host-suffix, javout.co, geolocation-!cn
@@ -15875,6 +15888,7 @@ host-suffix, forthebadge.com, geolocation-!cn
 host-suffix, stockagainstphotography.com, geolocation-!cn
 host-suffix, canonical.com, geolocation-!cn
 host-suffix, launchpad.net, geolocation-!cn
+host-suffix, launchpadcontent.net, geolocation-!cn
 host-suffix, launchpadlibrarian.com, geolocation-!cn
 host-suffix, launchpadlibrarian.net, geolocation-!cn
 host-suffix, launchpadlibrarian.org, geolocation-!cn
@@ -17619,6 +17633,7 @@ host, www.apple.com.edgekey.net, geolocation-!cn
 host, www.apple.com, geolocation-!cn
 host, xp.apple.com, geolocation-!cn
 host, testflight.apple.com, geolocation-!cn
+host-suffix, api-adservices.apple.com, geolocation-!cn
 host-suffix, iadsdk.apple.com, geolocation-!cn
 host-suffix, iad.apple.com, geolocation-!cn
 host-suffix, qwapi.com, geolocation-!cn
@@ -18969,6 +18984,10 @@ host-suffix, do.co, geolocation-!cn
 host-suffix, nginxconfig.io, geolocation-!cn
 host-suffix, duolingo.com, geolocation-!cn
 host-suffix, duolingo.cn, geolocation-!cn
+host-suffix, ads-api.duolingo.com, geolocation-!cn
+host-suffix, excess.duolingo.com, geolocation-!cn
+host-suffix, metrics.duolingo.com, geolocation-!cn
+host-suffix, analytics.vpc.duolingo.com, geolocation-!cn
 host-suffix, clickedu.co.uk, geolocation-!cn
 host-suffix, deepfreeze.co.uk, geolocation-!cn
 host-suffix, deepfreeze.com, geolocation-!cn
@@ -21919,16 +21938,17 @@ host, openaicom.imgix.net, geolocation-!cn
 host-suffix, openweather.co.uk, geolocation-!cn
 host-suffix, openweathermap.org, geolocation-!cn
 host-suffix, oracle, geolocation-!cn
+host-suffix, ateam-oracle.com, geolocation-!cn
+host-suffix, bronto.com, geolocation-!cn
+host-suffix, covid19-rx.org, geolocation-!cn
+host-suffix, covid19rx.org, geolocation-!cn
 host-suffix, oracle.com, geolocation-!cn
 host-suffix, oraclecloud.com, geolocation-!cn
 host-suffix, oraclefoundation.org, geolocation-!cn
 host-suffix, oracleimg.com, geolocation-!cn
 host-suffix, oracleinfinity.io, geolocation-!cn
-host-suffix, ateam-oracle.com, geolocation-!cn
-host-suffix, bronto.com, geolocation-!cn
-host-suffix, covid19-rx.org, geolocation-!cn
-host-suffix, covid19rx.org, geolocation-!cn
 host-suffix, sun.com, geolocation-!cn
+host-suffix, virtualbox.org, geolocation-!cn
 host-suffix, addthis.com, geolocation-!cn
 host-suffix, addthiscdn.com, geolocation-!cn
 host-suffix, addthisedge.com, geolocation-!cn
@@ -22405,6 +22425,7 @@ host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
 host-suffix, yusercontent.com, geolocation-!cn
+host, cdn.js7k.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
 host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn
@@ -22607,6 +22628,7 @@ host-suffix, yimg.com, geolocation-!cn
 host-suffix, yimg.jp, geolocation-!cn
 host-suffix, ymail.com, geolocation-!cn
 host-suffix, yusercontent.com, geolocation-!cn
+host, cdn.js7k.com, geolocation-!cn
 host-suffix, flickr, geolocation-!cn
 host-suffix, flic.kr, geolocation-!cn
 host-suffix, flickr.com, geolocation-!cn

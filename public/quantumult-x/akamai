@@ -1,3 +1,4 @@
+host-suffix, accdn.com.cn, akamai
 host-suffix, ak1.net, akamai
 host-suffix, aka-ai.com, akamai
 host-suffix, aka-ai.net, akamai
@@ -6,6 +7,7 @@ host-suffix, akadeem.net, akamai
 host-suffix, akadns.com, akamai
 host-suffix, akadns.net, akamai
 host-suffix, akadns6.net, akamai
+host-suffix, akadns88.net, akamai
 host-suffix, akaeai.com, akamai
 host-suffix, akafms.net, akamai
 host-suffix, akagtm.org, akamai
@@ -62,8 +64,15 @@ host-suffix, akamqi.com, akamai
 host-suffix, akastream.com, akamai
 host-suffix, akastream.net, akamai
 host-suffix, akatns.net, akamai
+host-suffix, akcdn.com.cn, akamai
+host-suffix, aptdn.net, akamai
 host-suffix, edgekey.net, akamai
+host-suffix, edgekey88.net, akamai
+host-suffix, edgesuite.net, akamai
 host-suffix, iamakamai.com, akamai
 host-suffix, iamakamai.net, akamai
+host-suffix, janrain.biz, akamai
+host-suffix, janrainservices.com, akamai
+host-suffix, skycdn.com.cn, akamai
 host-suffix, soasta-dswb.com, akamai
 host-suffix, srtcdn.net, akamai

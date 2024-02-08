@@ -1353,6 +1353,7 @@ host, www.apple.com.edgekey.net, category-companies
 host, www.apple.com, category-companies
 host, xp.apple.com, category-companies
 host, testflight.apple.com, category-companies
+host-suffix, api-adservices.apple.com, category-companies
 host-suffix, iadsdk.apple.com, category-companies
 host-suffix, iad.apple.com, category-companies
 host-suffix, qwapi.com, category-companies
@@ -2703,6 +2704,10 @@ host-suffix, do.co, category-companies
 host-suffix, nginxconfig.io, category-companies
 host-suffix, duolingo.com, category-companies
 host-suffix, duolingo.cn, category-companies
+host-suffix, ads-api.duolingo.com, category-companies
+host-suffix, excess.duolingo.com, category-companies
+host-suffix, metrics.duolingo.com, category-companies
+host-suffix, analytics.vpc.duolingo.com, category-companies
 host-suffix, clickedu.co.uk, category-companies
 host-suffix, deepfreeze.co.uk, category-companies
 host-suffix, deepfreeze.com, category-companies
@@ -5653,16 +5658,17 @@ host, openaicom.imgix.net, category-companies
 host-suffix, openweather.co.uk, category-companies
 host-suffix, openweathermap.org, category-companies
 host-suffix, oracle, category-companies
+host-suffix, ateam-oracle.com, category-companies
+host-suffix, bronto.com, category-companies
+host-suffix, covid19-rx.org, category-companies
+host-suffix, covid19rx.org, category-companies
 host-suffix, oracle.com, category-companies
 host-suffix, oraclecloud.com, category-companies
 host-suffix, oraclefoundation.org, category-companies
 host-suffix, oracleimg.com, category-companies
 host-suffix, oracleinfinity.io, category-companies
-host-suffix, ateam-oracle.com, category-companies
-host-suffix, bronto.com, category-companies
-host-suffix, covid19-rx.org, category-companies
-host-suffix, covid19rx.org, category-companies
 host-suffix, sun.com, category-companies
+host-suffix, virtualbox.org, category-companies
 host-suffix, addthis.com, category-companies
 host-suffix, addthiscdn.com, category-companies
 host-suffix, addthisedge.com, category-companies
@@ -6139,6 +6145,7 @@ host-suffix, yimg.com, category-companies
 host-suffix, yimg.jp, category-companies
 host-suffix, ymail.com, category-companies
 host-suffix, yusercontent.com, category-companies
+host, cdn.js7k.com, category-companies
 host-suffix, flickr, category-companies
 host-suffix, flic.kr, category-companies
 host-suffix, flickr.com, category-companies
@@ -6341,6 +6348,7 @@ host-suffix, yimg.com, category-companies
 host-suffix, yimg.jp, category-companies
 host-suffix, ymail.com, category-companies
 host-suffix, yusercontent.com, category-companies
+host, cdn.js7k.com, category-companies
 host-suffix, flickr, category-companies
 host-suffix, flic.kr, category-companies
 host-suffix, flickr.com, category-companies

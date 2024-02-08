@@ -869,6 +869,7 @@ host, www.apple.com.edgekey.net, apple
 host, www.apple.com, apple
 host, xp.apple.com, apple
 host, testflight.apple.com, apple
+host-suffix, api-adservices.apple.com, apple
 host-suffix, iadsdk.apple.com, apple
 host-suffix, iad.apple.com, apple
 host-suffix, qwapi.com, apple

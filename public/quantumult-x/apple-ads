@@ -1,3 +1,4 @@
+host-suffix, api-adservices.apple.com, apple-ads
 host-suffix, iadsdk.apple.com, apple-ads
 host-suffix, iad.apple.com, apple-ads
 host-suffix, qwapi.com, apple-ads

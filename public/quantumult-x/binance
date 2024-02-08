@@ -9,6 +9,7 @@ host-suffix, binance.net, binance
 host-suffix, binance.org, binance
 host-suffix, binance.us, binance
 host-suffix, binance.vision, binance
+host-suffix, binancecnt.com, binance
 host-suffix, binancezh.be, binance
 host-suffix, binancezh.biz, binance
 host-suffix, binancezh.cc, binance
@@ -27,4 +28,5 @@ host-suffix, binancezh.top, binance
 host-suffix, binanceapi.com, binance
 host-suffix, bnbstatic.com, binance
 host-suffix, saasexch.com, binance
+host-suffix, saasexch.io, binance
 host-suffix, appsflayer.com, binance

@@ -45,6 +45,8 @@ host-suffix, trafficfactory.biz, category-ads
 host-suffix, tsyndicate.com, category-ads
 host-suffix, wwads.cn, category-ads
 host-suffix, adx.36kr.com, category-ads
+host-suffix, hubcloud.com.cn, category-ads
+host-suffix, beizi.biz, category-ads
 host-suffix, click.ali213.net, category-ads
 host-suffix, pbmp.ali213.net, category-ads
 host-suffix, adq.chinaso.com, category-ads
@@ -53,6 +55,9 @@ host-suffix, toboads.com, category-ads
 host-suffix, dn-growing.qbox.me, category-ads
 host-suffix, ad.unimhk.com, category-ads
 host-suffix, das-rpt-log.ucloud.cn, category-ads
+host-suffix, telecome.cn, category-ads
+host-suffix, unioncom.cc, category-ads
+host-suffix, shuzilm.cn, category-ads
 host, apilog-web.acfun.cn, category-ads
 host-suffix, adcolony.com, category-ads
 host-suffix, adjust.com, category-ads
@@ -147,6 +152,7 @@ host-suffix, w.m.taobao.com, category-ads
 host-suffix, yiliao.hupan.com, category-ads
 host-suffix, amazon-adsystem.com, category-ads
 host-suffix, serving-sys.com, category-ads
+host-suffix, api-adservices.apple.com, category-ads
 host-suffix, iadsdk.apple.com, category-ads
 host-suffix, iad.apple.com, category-ads
 host-suffix, qwapi.com, category-ads
@@ -344,6 +350,10 @@ host-suffix, ladsp.com, category-ads
 host-suffix, microad.co.jp, category-ads
 host-suffix, microad.jp, category-ads
 host-suffix, socdm.com, category-ads
+host-suffix, ads-api.duolingo.com, category-ads
+host-suffix, excess.duolingo.com, category-ads
+host-suffix, metrics.duolingo.com, category-ads
+host-suffix, analytics.vpc.duolingo.com, category-ads
 host-suffix, emogi.com, category-ads
 host-suffix, data.flurry.com, category-ads
 host-suffix, 2mdn-cn.net, category-ads

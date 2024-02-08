@@ -1353,6 +1353,7 @@ DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
 DOMAIN,xp.apple.com
 DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
@@ -2703,6 +2704,10 @@ DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,excess.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,clickedu.co.uk
 DOMAIN-SUFFIX,deepfreeze.co.uk
 DOMAIN-SUFFIX,deepfreeze.com
@@ -5653,16 +5658,17 @@ DOMAIN,openaicom.imgix.net
 DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,oracle
+DOMAIN-SUFFIX,ateam-oracle.com
+DOMAIN-SUFFIX,bronto.com
+DOMAIN-SUFFIX,covid19-rx.org
+DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,oracleinfinity.io
-DOMAIN-SUFFIX,ateam-oracle.com
-DOMAIN-SUFFIX,bronto.com
-DOMAIN-SUFFIX,covid19-rx.org
-DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,sun.com
+DOMAIN-SUFFIX,virtualbox.org
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
@@ -6139,6 +6145,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
+DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
@@ -6341,6 +6348,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
+DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com

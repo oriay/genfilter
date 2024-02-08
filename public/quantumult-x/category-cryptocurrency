@@ -63,6 +63,7 @@ host-suffix, binance.net, category-cryptocurrency
 host-suffix, binance.org, category-cryptocurrency
 host-suffix, binance.us, category-cryptocurrency
 host-suffix, binance.vision, category-cryptocurrency
+host-suffix, binancecnt.com, category-cryptocurrency
 host-suffix, binancezh.be, category-cryptocurrency
 host-suffix, binancezh.biz, category-cryptocurrency
 host-suffix, binancezh.cc, category-cryptocurrency
@@ -81,6 +82,7 @@ host-suffix, binancezh.top, category-cryptocurrency
 host-suffix, binanceapi.com, category-cryptocurrency
 host-suffix, bnbstatic.com, category-cryptocurrency
 host-suffix, saasexch.com, category-cryptocurrency
+host-suffix, saasexch.io, category-cryptocurrency
 host-suffix, appsflayer.com, category-cryptocurrency
 host-suffix, bitflyer.com, category-cryptocurrency
 host-suffix, bitflyer.jp, category-cryptocurrency

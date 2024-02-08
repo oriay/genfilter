@@ -113,6 +113,7 @@ host, www.asusrouter.com, private
 host, cp.cloudflare.com, private
 host, detectportal.firefox.com, private
 host-suffix, networkcheck.kde.org, private
+host-suffix, location.services.mozilla.com, private
 host, routerlogin.com, private
 host, www.routerlogin.com, private
 host-suffix, hiwifi.com, private

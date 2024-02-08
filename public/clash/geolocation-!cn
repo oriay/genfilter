@@ -484,7 +484,6 @@ DOMAIN-SUFFIX,lgbt
 DOMAIN-SUFFIX,livestrong
 DOMAIN-SUFFIX,maif
 DOMAIN-SUFFIX,mattel
-DOMAIN-SUFFIX,moe
 DOMAIN-SUFFIX,persiangulf
 DOMAIN-SUFFIX,poker
 DOMAIN-SUFFIX,sas
@@ -2988,6 +2987,7 @@ DOMAIN-SUFFIX,visaplus.com
 DOMAIN-SUFFIX,visasavingsedge.ca
 DOMAIN-SUFFIX,visasignature.co.kr
 DOMAIN-SUFFIX,visb.org
+DOMAIN-SUFFIX,accdn.com.cn
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net
@@ -2996,6 +2996,7 @@ DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akadns.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akadns6.net
+DOMAIN-SUFFIX,akadns88.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
 DOMAIN-SUFFIX,akagtm.org
@@ -3052,9 +3053,16 @@ DOMAIN-SUFFIX,akamqi.com
 DOMAIN-SUFFIX,akastream.com
 DOMAIN-SUFFIX,akastream.net
 DOMAIN-SUFFIX,akatns.net
+DOMAIN-SUFFIX,akcdn.com.cn
+DOMAIN-SUFFIX,aptdn.net
 DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgekey88.net
+DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
+DOMAIN-SUFFIX,janrain.biz
+DOMAIN-SUFFIX,janrainservices.com
+DOMAIN-SUFFIX,skycdn.com.cn
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
 DOMAIN-SUFFIX,awempire.com
@@ -3530,6 +3538,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
+DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
@@ -3726,6 +3735,7 @@ DOMAIN-SUFFIX,binance.net
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,binancezh.be
 DOMAIN-SUFFIX,binancezh.biz
 DOMAIN-SUFFIX,binancezh.cc
@@ -3744,6 +3754,7 @@ DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.io
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,bitflyer.com
 DOMAIN-SUFFIX,bitflyer.jp
@@ -9596,6 +9607,7 @@ DOMAIN-SUFFIX,avinin.com
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
 DOMAIN-SUFFIX,avjb.com
+DOMAIN-SUFFIX,avjiasu.com
 DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,avjzy67.xyz
 DOMAIN-SUFFIX,avking-mp4.sbs
@@ -11582,6 +11594,7 @@ DOMAIN-SUFFIX,javmost.com
 DOMAIN-SUFFIX,javmost.cx
 DOMAIN-SUFFIX,javmost.xyz
 DOMAIN-SUFFIX,javmuch.com
+DOMAIN-SUFFIX,javmulu.net
 DOMAIN-SUFFIX,javnew.net
 DOMAIN-SUFFIX,javopen.co
 DOMAIN-SUFFIX,javout.co
@@ -15875,6 +15888,7 @@ DOMAIN-SUFFIX,forthebadge.com
 DOMAIN-SUFFIX,stockagainstphotography.com
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
 DOMAIN-SUFFIX,launchpadlibrarian.com
 DOMAIN-SUFFIX,launchpadlibrarian.net
 DOMAIN-SUFFIX,launchpadlibrarian.org
@@ -17619,6 +17633,7 @@ DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com
 DOMAIN,xp.apple.com
 DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
@@ -18969,6 +18984,10 @@ DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,excess.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,clickedu.co.uk
 DOMAIN-SUFFIX,deepfreeze.co.uk
 DOMAIN-SUFFIX,deepfreeze.com
@@ -21919,16 +21938,17 @@ DOMAIN,openaicom.imgix.net
 DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,oracle
+DOMAIN-SUFFIX,ateam-oracle.com
+DOMAIN-SUFFIX,bronto.com
+DOMAIN-SUFFIX,covid19-rx.org
+DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,oracleinfinity.io
-DOMAIN-SUFFIX,ateam-oracle.com
-DOMAIN-SUFFIX,bronto.com
-DOMAIN-SUFFIX,covid19-rx.org
-DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,sun.com
+DOMAIN-SUFFIX,virtualbox.org
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
@@ -22405,6 +22425,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
+DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
@@ -22607,6 +22628,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
+DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr.com
