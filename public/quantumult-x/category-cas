@@ -92,6 +92,7 @@ host-suffix, pki.goog, category-cas
 host, clients1.google.com, category-cas
 host, pki.google.com, category-cas
 host, crl.pki.goog, category-cas
+host, crls.pki.goog, category-cas
 host, ocsp.pki.goog, category-cas
 host, pki-goog.l.google.com, category-cas
 host-suffix, eca.hinet.net, category-cas

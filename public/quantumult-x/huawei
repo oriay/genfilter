@@ -45,6 +45,7 @@ host-suffix, owsgo.com, huawei
 host-suffix, teleows.com, huawei
 host-suffix, saasops.tech, huawei
 host-suffix, ami-alliance.org.cn, huawei
+host-suffix, b2bgo.com, huawei
 host-suffix, eduapaashwc.com, huawei
 host-suffix, hc-cdn.cn, huawei
 host-suffix, hc-cdn.com, huawei
@@ -114,13 +115,17 @@ host-suffix, myhwclouds.net, huawei
 host-suffix, pagescube.cn, huawei
 host-suffix, pagescube.com, huawei
 host-suffix, powerapp.io, huawei
+host-suffix, ae-ad-1.myhuaweicloud.com, huawei
 host-suffix, af-south-1.myhuaweicloud.com, huawei
 host-suffix, ap-southeast-1.myhuaweicloud.com, huawei
 host-suffix, ap-southeast-2.myhuaweicloud.com, huawei
 host-suffix, ap-southeast-3.myhuaweicloud.com, huawei
+host-suffix, ap-southeast-4.myhuaweicloud.com, huawei
 host-suffix, cn-east-2.myhuaweicloud.com, huawei
 host-suffix, cn-east-3.myhuaweicloud.com, huawei
+host-suffix, cn-east-5.myhuaweicloud.com, huawei
 host-suffix, cn-north-1.myhuaweicloud.com, huawei
+host-suffix, cn-north-11.myhuaweicloud.com, huawei
 host-suffix, cn-north-2.myhuaweicloud.com, huawei
 host-suffix, cn-north-3.myhuaweicloud.com, huawei
 host-suffix, cn-north-4.myhuaweicloud.com, huawei
@@ -133,11 +138,14 @@ host-suffix, cn-south-2.myhuaweicloud.com, huawei
 host-suffix, cn-south-4.myhuaweicloud.com, huawei
 host-suffix, cn-southwest-2.myhuaweicloud.com, huawei
 host-suffix, eu-west-0.myhuaweicloud.com, huawei
+host-suffix, eu-west-101.myhuaweicloud.com, huawei
 host-suffix, la-north-2.myhuaweicloud.com, huawei
 host-suffix, la-south-2.myhuaweicloud.com, huawei
+host-suffix, me-east-1.myhuaweicloud.com, huawei
 host-suffix, na-mexico-1.myhuaweicloud.com, huawei
 host-suffix, ru-northwest-2.myhuaweicloud.com, huawei
 host-suffix, sa-brazil-1.myhuaweicloud.com, huawei
+host-suffix, tr-west-1.myhuaweicloud.com, huawei
 host-suffix, cdnhwchcg02.com, huawei
 host-suffix, cdnhwcurq03.com, huawei
 host-suffix, cdnhwczba04.com, huawei
@@ -271,4 +279,3 @@ host-suffix, cza84.cn, huawei
 host-suffix, 8gcdp.cn, huawei
 host-suffix, kma1g.cn, huawei
 host-suffix, 576nt.cn, huawei
-host-suffix, b2bgo.com, huawei

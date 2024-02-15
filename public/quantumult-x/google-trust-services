@@ -2,5 +2,6 @@ host-suffix, pki.goog, google-trust-services
 host, clients1.google.com, google-trust-services
 host, pki.google.com, google-trust-services
 host, crl.pki.goog, google-trust-services
+host, crls.pki.goog, google-trust-services
 host, ocsp.pki.goog, google-trust-services
 host, pki-goog.l.google.com, google-trust-services
