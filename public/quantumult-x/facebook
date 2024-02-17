@@ -393,3 +393,14 @@ host-suffix, redkix.com, facebook
 host-suffix, workplace.com, facebook
 host-suffix, workplaceusecases.com, facebook
 host, fbcdn-a.akamaihd.net, facebook
+host-suffix, b-graph.facebook.com, facebook
+host-suffix, b-graph-fallback.facebook.com, facebook
+host-suffix, star.fallback.c10r.facebook.com, facebook
+host-suffix, star.c10r.facebook.com, facebook
+host-suffix, connect.facebook.com, facebook
+host-suffix, connect.facebook.net, facebook
+host-suffix, graph.facebook.com, facebook
+host-suffix, graph-fallback.facebook.com, facebook
+host-suffix, z-m-graph.facebook.com, facebook
+host-suffix, graph.fbpigeon.com, facebook
+host-suffix, mqtt-mini.facebook.com, facebook

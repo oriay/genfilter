@@ -70,3 +70,5 @@ host-suffix, online-instagram.com, instagram
 host-suffix, onlineinstagram.com, instagram
 host-suffix, web-instagram.net, instagram
 host-suffix, wwwinstagram.com, instagram
+host-suffix, graph.instagram.com, instagram
+host-suffix, graph-fallback.instagram.com, instagram

@@ -394,6 +394,17 @@ host-suffix, redkix.com, meta
 host-suffix, workplace.com, meta
 host-suffix, workplaceusecases.com, meta
 host, fbcdn-a.akamaihd.net, meta
+host-suffix, b-graph.facebook.com, meta
+host-suffix, b-graph-fallback.facebook.com, meta
+host-suffix, star.fallback.c10r.facebook.com, meta
+host-suffix, star.c10r.facebook.com, meta
+host-suffix, connect.facebook.com, meta
+host-suffix, connect.facebook.net, meta
+host-suffix, graph.facebook.com, meta
+host-suffix, graph-fallback.facebook.com, meta
+host-suffix, z-m-graph.facebook.com, meta
+host-suffix, graph.fbpigeon.com, meta
+host-suffix, mqtt-mini.facebook.com, meta
 host-suffix, accountkit.com, meta
 host-suffix, atscaleconference.com, meta
 host-suffix, botorch.org, meta
@@ -510,6 +521,8 @@ host-suffix, online-instagram.com, meta
 host-suffix, onlineinstagram.com, meta
 host-suffix, web-instagram.net, meta
 host-suffix, wwwinstagram.com, meta
+host-suffix, graph.instagram.com, meta
+host-suffix, graph-fallback.instagram.com, meta
 host-suffix, fbmessenger.com, meta
 host-suffix, m.me, meta
 host-suffix, messenger.com, meta
@@ -543,3 +556,5 @@ host-suffix, whatsapp.net, meta
 host-suffix, whatsapp.org, meta
 host-suffix, whatsapp.tv, meta
 host-suffix, whatsappbrand.com, meta
+host-suffix, graph.whatsapp.com, meta
+host-suffix, graph.whatsapp.net, meta

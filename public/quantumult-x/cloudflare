@@ -41,8 +41,12 @@ host-suffix, cftest6.cn, cloudflare
 host-suffix, cftest7.com, cloudflare
 host-suffix, cftest8.com, cloudflare
 host-suffix, cloudflare-cn.com, cloudflare
+host-suffix, cloudflareanycast.net, cloudflare
+host-suffix, cloudflarechina.cn, cloudflare
 host-suffix, cloudflarecn.net, cloudflare
+host-suffix, cloudflareglobal.net, cloudflare
 host-suffix, cloudflareinsights-cn.com, cloudflare
+host-suffix, cloudflareperf.com, cloudflare
 host-suffix, cloudflareprod.com, cloudflare
 host-suffix, cloudflarestaging.com, cloudflare
 host-suffix, cloudflarestoragegw.com, cloudflare

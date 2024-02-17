@@ -32,6 +32,9 @@ host-suffix, tfogc.com, tencent
 host-suffix, wechat.com, tencent
 host-suffix, wechatpay.cn, tencent
 host-suffix, weiyun.com, tencent
+host-suffix, wetv.vip, tencent
+host-suffix, wetvinfo.com, tencent
+host, wetv.qq.com, tencent
 host-suffix, alloyteam.com, tencent
 host-suffix, imweb.io, tencent
 host-suffix, ivweb.io, tencent

@@ -393,6 +393,17 @@ DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN,fbcdn-a.akamaihd.net
+DOMAIN-SUFFIX,b-graph.facebook.com
+DOMAIN-SUFFIX,b-graph-fallback.facebook.com
+DOMAIN-SUFFIX,star.fallback.c10r.facebook.com
+DOMAIN-SUFFIX,star.c10r.facebook.com
+DOMAIN-SUFFIX,connect.facebook.com
+DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,graph-fallback.facebook.com
+DOMAIN-SUFFIX,z-m-graph.facebook.com
+DOMAIN-SUFFIX,graph.fbpigeon.com
+DOMAIN-SUFFIX,mqtt-mini.facebook.com
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -465,6 +476,8 @@ DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net

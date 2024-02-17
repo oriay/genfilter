@@ -393,6 +393,17 @@ host-suffix, redkix.com, category-social-media-!cn
 host-suffix, workplace.com, category-social-media-!cn
 host-suffix, workplaceusecases.com, category-social-media-!cn
 host, fbcdn-a.akamaihd.net, category-social-media-!cn
+host-suffix, b-graph.facebook.com, category-social-media-!cn
+host-suffix, b-graph-fallback.facebook.com, category-social-media-!cn
+host-suffix, star.fallback.c10r.facebook.com, category-social-media-!cn
+host-suffix, star.c10r.facebook.com, category-social-media-!cn
+host-suffix, connect.facebook.com, category-social-media-!cn
+host-suffix, connect.facebook.net, category-social-media-!cn
+host-suffix, graph.facebook.com, category-social-media-!cn
+host-suffix, graph-fallback.facebook.com, category-social-media-!cn
+host-suffix, z-m-graph.facebook.com, category-social-media-!cn
+host-suffix, graph.fbpigeon.com, category-social-media-!cn
+host-suffix, mqtt-mini.facebook.com, category-social-media-!cn
 host-suffix, achat-followers-instagram.com, category-social-media-!cn
 host-suffix, acheter-followers-instagram.com, category-social-media-!cn
 host-suffix, acheterdesfollowersinstagram.com, category-social-media-!cn
@@ -465,6 +476,8 @@ host-suffix, online-instagram.com, category-social-media-!cn
 host-suffix, onlineinstagram.com, category-social-media-!cn
 host-suffix, web-instagram.net, category-social-media-!cn
 host-suffix, wwwinstagram.com, category-social-media-!cn
+host-suffix, graph.instagram.com, category-social-media-!cn
+host-suffix, graph-fallback.instagram.com, category-social-media-!cn
 host-suffix, bizographics.com, category-social-media-!cn
 host-suffix, l-0005.dc-msedge.net, category-social-media-!cn
 host-suffix, l-0005.l-msedge.net, category-social-media-!cn

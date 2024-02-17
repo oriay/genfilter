@@ -1603,8 +1603,12 @@ host-suffix, cftest6.cn, geolocation-cn
 host-suffix, cftest7.com, geolocation-cn
 host-suffix, cftest8.com, geolocation-cn
 host-suffix, cloudflare-cn.com, geolocation-cn
+host-suffix, cloudflareanycast.net, geolocation-cn
+host-suffix, cloudflarechina.cn, geolocation-cn
 host-suffix, cloudflarecn.net, geolocation-cn
+host-suffix, cloudflareglobal.net, geolocation-cn
 host-suffix, cloudflareinsights-cn.com, geolocation-cn
+host-suffix, cloudflareperf.com, geolocation-cn
 host-suffix, cloudflareprod.com, geolocation-cn
 host-suffix, cloudflarestaging.com, geolocation-cn
 host-suffix, cloudflarestoragegw.com, geolocation-cn
@@ -4666,6 +4670,9 @@ host-suffix, tfogc.com, geolocation-cn
 host-suffix, wechat.com, geolocation-cn
 host-suffix, wechatpay.cn, geolocation-cn
 host-suffix, weiyun.com, geolocation-cn
+host-suffix, wetv.vip, geolocation-cn
+host-suffix, wetvinfo.com, geolocation-cn
+host, wetv.qq.com, geolocation-cn
 host-suffix, alloyteam.com, geolocation-cn
 host-suffix, imweb.io, geolocation-cn
 host-suffix, ivweb.io, geolocation-cn

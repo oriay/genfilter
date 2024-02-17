@@ -1,0 +1,15 @@
+host-suffix, b-graph.facebook.com, meta-ads
+host-suffix, b-graph-fallback.facebook.com, meta-ads
+host-suffix, star.fallback.c10r.facebook.com, meta-ads
+host-suffix, star.c10r.facebook.com, meta-ads
+host-suffix, connect.facebook.com, meta-ads
+host-suffix, connect.facebook.net, meta-ads
+host-suffix, graph.facebook.com, meta-ads
+host-suffix, graph-fallback.facebook.com, meta-ads
+host-suffix, z-m-graph.facebook.com, meta-ads
+host-suffix, graph.fbpigeon.com, meta-ads
+host-suffix, mqtt-mini.facebook.com, meta-ads
+host-suffix, graph.instagram.com, meta-ads
+host-suffix, graph-fallback.instagram.com, meta-ads
+host-suffix, graph.whatsapp.com, meta-ads
+host-suffix, graph.whatsapp.net, meta-ads

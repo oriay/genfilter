@@ -1640,8 +1640,12 @@ DOMAIN-SUFFIX,cftest6.cn
 DOMAIN-SUFFIX,cftest7.com
 DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cloudflare-cn.com
+DOMAIN-SUFFIX,cloudflareanycast.net
+DOMAIN-SUFFIX,cloudflarechina.cn
 DOMAIN-SUFFIX,cloudflarecn.net
+DOMAIN-SUFFIX,cloudflareglobal.net
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
@@ -4703,6 +4707,9 @@ DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,alloyteam.com
 DOMAIN-SUFFIX,imweb.io
 DOMAIN-SUFFIX,ivweb.io

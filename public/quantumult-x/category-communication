@@ -109,3 +109,5 @@ host-suffix, whatsapp.net, category-communication
 host-suffix, whatsapp.org, category-communication
 host-suffix, whatsapp.tv, category-communication
 host-suffix, whatsappbrand.com, category-communication
+host-suffix, graph.whatsapp.com, category-communication
+host-suffix, graph.whatsapp.net, category-communication

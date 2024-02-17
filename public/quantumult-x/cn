@@ -1640,8 +1640,12 @@ host-suffix, cftest6.cn, cn
 host-suffix, cftest7.com, cn
 host-suffix, cftest8.com, cn
 host-suffix, cloudflare-cn.com, cn
+host-suffix, cloudflareanycast.net, cn
+host-suffix, cloudflarechina.cn, cn
 host-suffix, cloudflarecn.net, cn
+host-suffix, cloudflareglobal.net, cn
 host-suffix, cloudflareinsights-cn.com, cn
+host-suffix, cloudflareperf.com, cn
 host-suffix, cloudflareprod.com, cn
 host-suffix, cloudflarestaging.com, cn
 host-suffix, cloudflarestoragegw.com, cn
@@ -4703,6 +4707,9 @@ host-suffix, tfogc.com, cn
 host-suffix, wechat.com, cn
 host-suffix, wechatpay.cn, cn
 host-suffix, weiyun.com, cn
+host-suffix, wetv.vip, cn
+host-suffix, wetvinfo.com, cn
+host, wetv.qq.com, cn
 host-suffix, alloyteam.com, cn
 host-suffix, imweb.io, cn
 host-suffix, ivweb.io, cn

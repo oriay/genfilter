@@ -4706,6 +4706,17 @@ host-suffix, redkix.com, category-companies
 host-suffix, workplace.com, category-companies
 host-suffix, workplaceusecases.com, category-companies
 host, fbcdn-a.akamaihd.net, category-companies
+host-suffix, b-graph.facebook.com, category-companies
+host-suffix, b-graph-fallback.facebook.com, category-companies
+host-suffix, star.fallback.c10r.facebook.com, category-companies
+host-suffix, star.c10r.facebook.com, category-companies
+host-suffix, connect.facebook.com, category-companies
+host-suffix, connect.facebook.net, category-companies
+host-suffix, graph.facebook.com, category-companies
+host-suffix, graph-fallback.facebook.com, category-companies
+host-suffix, z-m-graph.facebook.com, category-companies
+host-suffix, graph.fbpigeon.com, category-companies
+host-suffix, mqtt-mini.facebook.com, category-companies
 host-suffix, accountkit.com, category-companies
 host-suffix, atscaleconference.com, category-companies
 host-suffix, botorch.org, category-companies
@@ -4822,6 +4833,8 @@ host-suffix, online-instagram.com, category-companies
 host-suffix, onlineinstagram.com, category-companies
 host-suffix, web-instagram.net, category-companies
 host-suffix, wwwinstagram.com, category-companies
+host-suffix, graph.instagram.com, category-companies
+host-suffix, graph-fallback.instagram.com, category-companies
 host-suffix, fbmessenger.com, category-companies
 host-suffix, m.me, category-companies
 host-suffix, messenger.com, category-companies
@@ -4855,6 +4868,8 @@ host-suffix, whatsapp.net, category-companies
 host-suffix, whatsapp.org, category-companies
 host-suffix, whatsapp.tv, category-companies
 host-suffix, whatsappbrand.com, category-companies
+host-suffix, graph.whatsapp.com, category-companies
+host-suffix, graph.whatsapp.net, category-companies
 host-suffix, microsoft, category-companies
 host-suffix, hotmail, category-companies
 host-suffix, office, category-companies
@@ -5284,6 +5299,7 @@ host-suffix, bingads.com, category-companies
 host-suffix, bingagencyawards.com, category-companies
 host-suffix, bingapis.com, category-companies
 host-suffix, bingapistatistics.com, category-companies
+host-suffix, bingparachute.com, category-companies
 host-suffix, bingsandbox.com, category-companies
 host-suffix, bingvisualsearch.com, category-companies
 host-suffix, bingworld.com, category-companies
