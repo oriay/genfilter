@@ -338,6 +338,9 @@ host-suffix, douyinvod.com, bytedance
 host-suffix, huoshan.com, bytedance
 host-suffix, huoshanstatic.com, bytedance
 host-suffix, huoshanzhibo.com, bytedance
+host-suffix, doubao.com, bytedance
+host-suffix, coze.cn, bytedance
+host-suffix, coze.com, bytedance
 host-suffix, ixigua.com, bytedance
 host-suffix, ixiguavideo.com, bytedance
 host-suffix, ixgvideo.com, bytedance
@@ -365,6 +368,7 @@ host-suffix, gogokid.com, bytedance
 host-suffix, pipix.com, bytedance
 host-suffix, faceu.com, bytedance
 host-suffix, ulikecam.com, bytedance
+host-suffix, rsproxy.cn, bytedance
 host-suffix, bcy.net, bytedance
 host-suffix, bcyimg.com, bytedance
 host-suffix, lf-rc1.yhgfb-cn-static.com, bytedance

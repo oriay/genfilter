@@ -3,6 +3,9 @@ host-suffix, biliplus.com, geolocation-!cn
 host-suffix, cloudlatex.io, geolocation-!cn
 host-suffix, overleaf.com, geolocation-!cn
 host-suffix, auroraoss.com, geolocation-!cn
+host-suffix, cookiepro.com, geolocation-!cn
+host-suffix, cookielaw.org, geolocation-!cn
+host-suffix, onetrust.com, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
 host-suffix, api.nebula-emby.com, geolocation-!cn
@@ -14304,6 +14307,7 @@ host-suffix, wanokokorosoh.com, geolocation-!cn
 host-suffix, apkcombo.com, geolocation-!cn
 host-suffix, apkmirror.com, geolocation-!cn
 host-suffix, apkpure.com, geolocation-!cn
+host-suffix, apkpure.net, geolocation-!cn
 host-suffix, cdnpure.com, geolocation-!cn
 host-suffix, pureapk.com, geolocation-!cn
 host-suffix, winudf.com, geolocation-!cn
@@ -15033,6 +15037,7 @@ host-suffix, jetbrains.team, geolocation-!cn
 host-suffix, datalore.io, geolocation-!cn
 host-suffix, kotlinlang.org, geolocation-!cn
 host-suffix, cdn.jetbrains.com, geolocation-!cn
+host-suffix, download-cdn.jetbrains.com.cn, geolocation-!cn
 host-suffix, grazie.ai, geolocation-!cn
 host-suffix, grazie.aws.intellij.net, geolocation-!cn
 host-suffix, jfrog.com, geolocation-!cn
@@ -15221,6 +15226,10 @@ host-suffix, nodejs.org, geolocation-!cn
 host-suffix, topcoder.com, geolocation-!cn
 host-suffix, unity.com, geolocation-!cn
 host-suffix, unity3d.com, geolocation-!cn
+host-suffix, ads.unitychina.cn, geolocation-!cn
+host-suffix, splash-ads.cdn.unity.cn, geolocation-!cn
+host-suffix, splash-ads.unitychina.cn, geolocation-!cn
+host-suffix, unityads.unity.cn, geolocation-!cn
 host-suffix, unityads.unity3d.com, geolocation-!cn
 host-suffix, unityads.unitychina.cn, geolocation-!cn
 host-suffix, v8.dev, geolocation-!cn
@@ -20983,6 +20992,7 @@ host-suffix, qctconnect.com, geolocation-!cn
 host-suffix, qprize.com, geolocation-!cn
 host-suffix, qualcomm-email.com, geolocation-!cn
 host-suffix, qualcomm.cn, geolocation-!cn
+host-suffix, qualcomm.cn.cdn.cloudflare.net, geolocation-!cn
 host-suffix, qualcomm.co.id, geolocation-!cn
 host-suffix, qualcomm.co.in, geolocation-!cn
 host-suffix, qualcomm.co.jp, geolocation-!cn

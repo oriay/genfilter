@@ -642,6 +642,10 @@ host-suffix, alog.umeng.com, category-ads-all
 host-suffix, alog.umengcloud.com, category-ads-all
 host-suffix, w.cnzz.com, category-ads-all
 host-suffix, z.gds.cnzz.com, category-ads-all
+host-suffix, ads.unitychina.cn, category-ads-all
+host-suffix, splash-ads.cdn.unity.cn, category-ads-all
+host-suffix, splash-ads.unitychina.cn, category-ads-all
+host-suffix, unityads.unity.cn, category-ads-all
 host-suffix, unityads.unity3d.com, category-ads-all
 host-suffix, unityads.unitychina.cn, category-ads-all
 host-suffix, ads.wteam.xyz, category-ads-all

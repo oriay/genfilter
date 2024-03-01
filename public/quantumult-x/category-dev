@@ -338,6 +338,7 @@ host-suffix, jetbrains.team, category-dev
 host-suffix, datalore.io, category-dev
 host-suffix, kotlinlang.org, category-dev
 host-suffix, cdn.jetbrains.com, category-dev
+host-suffix, download-cdn.jetbrains.com.cn, category-dev
 host-suffix, grazie.ai, category-dev
 host-suffix, grazie.aws.intellij.net, category-dev
 host-suffix, jfrog.com, category-dev
@@ -526,6 +527,10 @@ host-suffix, nodejs.org, category-dev
 host-suffix, topcoder.com, category-dev
 host-suffix, unity.com, category-dev
 host-suffix, unity3d.com, category-dev
+host-suffix, ads.unitychina.cn, category-dev
+host-suffix, splash-ads.cdn.unity.cn, category-dev
+host-suffix, splash-ads.unitychina.cn, category-dev
+host-suffix, unityads.unity.cn, category-dev
 host-suffix, unityads.unity3d.com, category-dev
 host-suffix, unityads.unitychina.cn, category-dev
 host-suffix, v8.dev, category-dev

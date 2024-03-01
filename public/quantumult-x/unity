@@ -1,4 +1,8 @@
 host-suffix, unity.com, unity
 host-suffix, unity3d.com, unity
+host-suffix, ads.unitychina.cn, unity
+host-suffix, splash-ads.cdn.unity.cn, unity
+host-suffix, splash-ads.unitychina.cn, unity
+host-suffix, unityads.unity.cn, unity
 host-suffix, unityads.unity3d.com, unity
 host-suffix, unityads.unitychina.cn, unity

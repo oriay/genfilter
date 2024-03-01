@@ -5752,6 +5752,7 @@ host-suffix, qctconnect.com, category-companies
 host-suffix, qprize.com, category-companies
 host-suffix, qualcomm-email.com, category-companies
 host-suffix, qualcomm.cn, category-companies
+host-suffix, qualcomm.cn.cdn.cloudflare.net, category-companies
 host-suffix, qualcomm.co.id, category-companies
 host-suffix, qualcomm.co.in, category-companies
 host-suffix, qualcomm.co.jp, category-companies

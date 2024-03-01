@@ -338,6 +338,7 @@ DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,cdn.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jfrog.com
@@ -526,6 +527,10 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,topcoder.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,ads.unitychina.cn
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
+DOMAIN-SUFFIX,splash-ads.unitychina.cn
+DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,v8.dev

@@ -17,6 +17,7 @@ host-suffix, qctconnect.com, qualcomm
 host-suffix, qprize.com, qualcomm
 host-suffix, qualcomm-email.com, qualcomm
 host-suffix, qualcomm.cn, qualcomm
+host-suffix, qualcomm.cn.cdn.cloudflare.net, qualcomm
 host-suffix, qualcomm.co.id, qualcomm
 host-suffix, qualcomm.co.in, qualcomm
 host-suffix, qualcomm.co.jp, qualcomm

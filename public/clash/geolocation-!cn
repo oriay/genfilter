@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,overleaf.com
 DOMAIN-SUFFIX,auroraoss.com
+DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,atwiki.jp
 DOMAIN-SUFFIX,touhouwiki.net
 DOMAIN-SUFFIX,api.nebula-emby.com
@@ -14304,6 +14307,7 @@ DOMAIN-SUFFIX,wanokokorosoh.com
 DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
@@ -15033,6 +15037,7 @@ DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,cdn.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jfrog.com
@@ -15221,6 +15226,10 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,topcoder.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,ads.unitychina.cn
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
+DOMAIN-SUFFIX,splash-ads.unitychina.cn
+DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,v8.dev
@@ -20983,6 +20992,7 @@ DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qprize.com
 DOMAIN-SUFFIX,qualcomm-email.com
 DOMAIN-SUFFIX,qualcomm.cn
+DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,qualcomm.co.id
 DOMAIN-SUFFIX,qualcomm.co.in
 DOMAIN-SUFFIX,qualcomm.co.jp
