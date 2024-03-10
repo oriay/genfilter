@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baidutv.baidu.com
 DOMAIN-SUFFIX,banlv.baidu.com
 DOMAIN-SUFFIX,bar.baidu.com
-DOMAIN-SUFFIX,bdimg.share.baidu.com
 DOMAIN-SUFFIX,bdplus.baidu.com
 DOMAIN-SUFFIX,btlaunch.baidu.com
 DOMAIN-SUFFIX,c.baidu.com
@@ -25,11 +24,8 @@ DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cjhq.baidu.com
 DOMAIN-SUFFIX,cleaner.baidu.com
 DOMAIN-SUFFIX,click.bes.baidu.com
-DOMAIN-SUFFIX,click.hm.baidu.com
 DOMAIN-SUFFIX,click.qianqian.com
-DOMAIN-SUFFIX,cm.baichuan.baidu.com
 DOMAIN-SUFFIX,cm.baidu.com
-DOMAIN-SUFFIX,cm.pos.baidu.com
 DOMAIN-SUFFIX,cpro.baidu.cn
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,cpro.baidustatic.com
@@ -67,7 +63,6 @@ DOMAIN-SUFFIX,f10.baidu.com
 DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com
 DOMAIN-SUFFIX,fclick.baidu.com
 DOMAIN-SUFFIX,feed.baidu.com
-DOMAIN-SUFFIX,fexclick.baidu.com
 DOMAIN-SUFFIX,g.baidu.com
 DOMAIN-SUFFIX,gimg.baidu.com
 DOMAIN-SUFFIX,guanjia.baidu.com
@@ -106,13 +101,11 @@ DOMAIN-SUFFIX,river.zhidao.baidu.com
 DOMAIN-SUFFIX,rj.baidu.com
 DOMAIN-SUFFIX,rplog.baidu.com
 DOMAIN-SUFFIX,s.baidu.com
-DOMAIN-SUFFIX,s.cpro.baidu.com
 DOMAIN-SUFFIX,sa.tuisong.baidu.com
 DOMAIN-SUFFIX,sclick.baidu.com
 DOMAIN-SUFFIX,sestat.baidu.com
 DOMAIN-SUFFIX,shadu.baidu.com
 DOMAIN-SUFFIX,share.baidu.com
-DOMAIN-SUFFIX,snippet.pos.baidu.com
 DOMAIN-SUFFIX,sobar.baidu.com
 DOMAIN-SUFFIX,sobartop.baidu.com
 DOMAIN-SUFFIX,spcode.baidu.com
@@ -144,7 +137,6 @@ DOMAIN-SUFFIX,weishi.baidu.com
 DOMAIN-SUFFIX,wenku-cms.bj.bcebos.com
 DOMAIN-SUFFIX,wisepush.video.baidu.com
 DOMAIN-SUFFIX,wm.baidu.com
-DOMAIN-SUFFIX,wn.pos.baidu.com
 DOMAIN-SUFFIX,znsv.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com

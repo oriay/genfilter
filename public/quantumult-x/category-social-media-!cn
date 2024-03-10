@@ -395,8 +395,6 @@ host-suffix, workplaceusecases.com, category-social-media-!cn
 host, fbcdn-a.akamaihd.net, category-social-media-!cn
 host-suffix, b-graph.facebook.com, category-social-media-!cn
 host-suffix, b-graph-fallback.facebook.com, category-social-media-!cn
-host-suffix, star.fallback.c10r.facebook.com, category-social-media-!cn
-host-suffix, star.c10r.facebook.com, category-social-media-!cn
 host-suffix, connect.facebook.com, category-social-media-!cn
 host-suffix, connect.facebook.net, category-social-media-!cn
 host-suffix, graph.facebook.com, category-social-media-!cn

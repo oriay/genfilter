@@ -442,7 +442,6 @@ host-suffix, ctobsnssdk.com, bytedance
 host-suffix, dig.bdurl.net, bytedance
 host-suffix, extlog.snssdk.com, bytedance
 host-suffix, i.snssdk.com, bytedance
-host-suffix, is.snssdk.com, bytedance
 host-suffix, mcs.snssdk.com, bytedance
 host-suffix, pangolin-dsp-toutiao-b.com, bytedance
 host-suffix, pangolin-dsp-toutiao.com, bytedance
@@ -591,6 +590,7 @@ host-suffix, volctrack.com, bytedance
 host-suffix, volctraffic.com, bytedance
 host-suffix, volctranscdn.com, bytedance
 host-suffix, volcvideo.com, bytedance
+host-suffix, volcvideos.com, bytedance
 host-suffix, volcvms.com, bytedance
 host-suffix, volcvod.com, bytedance
 host-suffix, volcwaf001.com, bytedance

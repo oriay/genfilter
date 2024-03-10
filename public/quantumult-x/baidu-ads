@@ -16,7 +16,6 @@ host-suffix, baidustatic.com, baidu-ads
 host-suffix, baidutv.baidu.com, baidu-ads
 host-suffix, banlv.baidu.com, baidu-ads
 host-suffix, bar.baidu.com, baidu-ads
-host-suffix, bdimg.share.baidu.com, baidu-ads
 host-suffix, bdplus.baidu.com, baidu-ads
 host-suffix, btlaunch.baidu.com, baidu-ads
 host-suffix, c.baidu.com, baidu-ads
@@ -25,11 +24,8 @@ host-suffix, cbjs.baidu.com, baidu-ads
 host-suffix, cjhq.baidu.com, baidu-ads
 host-suffix, cleaner.baidu.com, baidu-ads
 host-suffix, click.bes.baidu.com, baidu-ads
-host-suffix, click.hm.baidu.com, baidu-ads
 host-suffix, click.qianqian.com, baidu-ads
-host-suffix, cm.baichuan.baidu.com, baidu-ads
 host-suffix, cm.baidu.com, baidu-ads
-host-suffix, cm.pos.baidu.com, baidu-ads
 host-suffix, cpro.baidu.cn, baidu-ads
 host-suffix, cpro.baidu.com, baidu-ads
 host-suffix, cpro.baidustatic.com, baidu-ads
@@ -67,7 +63,6 @@ host-suffix, f10.baidu.com, baidu-ads
 host-suffix, fc-feed.cdn.bcebos.com, baidu-ads
 host-suffix, fclick.baidu.com, baidu-ads
 host-suffix, feed.baidu.com, baidu-ads
-host-suffix, fexclick.baidu.com, baidu-ads
 host-suffix, g.baidu.com, baidu-ads
 host-suffix, gimg.baidu.com, baidu-ads
 host-suffix, guanjia.baidu.com, baidu-ads
@@ -106,13 +101,11 @@ host-suffix, river.zhidao.baidu.com, baidu-ads
 host-suffix, rj.baidu.com, baidu-ads
 host-suffix, rplog.baidu.com, baidu-ads
 host-suffix, s.baidu.com, baidu-ads
-host-suffix, s.cpro.baidu.com, baidu-ads
 host-suffix, sa.tuisong.baidu.com, baidu-ads
 host-suffix, sclick.baidu.com, baidu-ads
 host-suffix, sestat.baidu.com, baidu-ads
 host-suffix, shadu.baidu.com, baidu-ads
 host-suffix, share.baidu.com, baidu-ads
-host-suffix, snippet.pos.baidu.com, baidu-ads
 host-suffix, sobar.baidu.com, baidu-ads
 host-suffix, sobartop.baidu.com, baidu-ads
 host-suffix, spcode.baidu.com, baidu-ads
@@ -144,7 +137,6 @@ host-suffix, weishi.baidu.com, baidu-ads
 host-suffix, wenku-cms.bj.bcebos.com, baidu-ads
 host-suffix, wisepush.video.baidu.com, baidu-ads
 host-suffix, wm.baidu.com, baidu-ads
-host-suffix, wn.pos.baidu.com, baidu-ads
 host-suffix, znsv.baidu.com, baidu-ads
 host-suffix, zz.bdstatic.com, baidu-ads
 host-suffix, zzy1.quyaoya.com, baidu-ads

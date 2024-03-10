@@ -1,7 +1,5 @@
 host-suffix, b-graph.facebook.com, meta-ads
 host-suffix, b-graph-fallback.facebook.com, meta-ads
-host-suffix, star.fallback.c10r.facebook.com, meta-ads
-host-suffix, star.c10r.facebook.com, meta-ads
 host-suffix, connect.facebook.com, meta-ads
 host-suffix, connect.facebook.net, meta-ads
 host-suffix, graph.facebook.com, meta-ads

@@ -1985,6 +1985,7 @@ host-suffix, doclercdn.com, geolocation-!cn
 host-suffix, cdn77.com, geolocation-!cn
 host-suffix, cdn77.org, geolocation-!cn
 host-suffix, argotunnel.com, geolocation-!cn
+host-suffix, cfl.re, geolocation-!cn
 host-suffix, cloudflare-dns.com, geolocation-!cn
 host-suffix, cloudflare-ech.com, geolocation-!cn
 host-suffix, cloudflare-esni.com, geolocation-!cn
@@ -2716,6 +2717,9 @@ host-suffix, localbitcoins.com, geolocation-!cn
 host-suffix, localbitcoinschain.com, geolocation-!cn
 host-suffix, okex.com, geolocation-!cn
 host-suffix, okx.com, geolocation-!cn
+host-suffix, okx-dns.com, geolocation-!cn
+host-suffix, okx-dns1.com, geolocation-!cn
+host-suffix, okx-dns2.com, geolocation-!cn
 host-suffix, oklink.com, geolocation-!cn
 host-suffix, onekey-asset.com, geolocation-!cn
 host-suffix, onekey.so, geolocation-!cn
@@ -5806,6 +5810,7 @@ host-suffix, poecdn.net, geolocation-!cn
 host-suffix, qr.ae, geolocation-!cn
 host-suffix, quora.com, geolocation-!cn
 host-suffix, quoracdn.net, geolocation-!cn
+host-suffix, reddit.app.link, geolocation-!cn
 host-suffix, reddit.com, geolocation-!cn
 host-suffix, redditstatic.com, geolocation-!cn
 host-suffix, redditmail.com, geolocation-!cn
@@ -6208,8 +6213,6 @@ host-suffix, workplaceusecases.com, geolocation-!cn
 host, fbcdn-a.akamaihd.net, geolocation-!cn
 host-suffix, b-graph.facebook.com, geolocation-!cn
 host-suffix, b-graph-fallback.facebook.com, geolocation-!cn
-host-suffix, star.fallback.c10r.facebook.com, geolocation-!cn
-host-suffix, star.c10r.facebook.com, geolocation-!cn
 host-suffix, connect.facebook.com, geolocation-!cn
 host-suffix, connect.facebook.net, geolocation-!cn
 host-suffix, graph.facebook.com, geolocation-!cn
@@ -6545,6 +6548,7 @@ host-suffix, bbc-reporting-api.app, geolocation-!cn
 host-suffix, bbc.co.uk, geolocation-!cn
 host-suffix, bbc.com, geolocation-!cn
 host-suffix, bbc.in, geolocation-!cn
+host-suffix, bbc.mp-pxcdn.com, geolocation-!cn
 host-suffix, bbc.net.uk, geolocation-!cn
 host-suffix, bbcfmt.s.llnwi.net, geolocation-!cn
 host-suffix, bbci.co.uk, geolocation-!cn
@@ -15139,9 +15143,11 @@ host, openaicom.imgix.net, geolocation-!cn
 host-suffix, openwrt.org, geolocation-!cn
 host-suffix, lede-project.org, geolocation-!cn
 host-suffix, osdn.net, geolocation-!cn
+host-suffix, perl.apache.org, geolocation-!cn
 host-suffix, perl.org, geolocation-!cn
 host-suffix, cpan.org, geolocation-!cn
 host-suffix, metacpan.org, geolocation-!cn
+host-suffix, modperl.pl, geolocation-!cn
 host-suffix, polymer-project.org, geolocation-!cn
 host-suffix, polymerproject.org, geolocation-!cn
 host-suffix, pycon.org, geolocation-!cn
@@ -17946,7 +17952,6 @@ host-suffix, nginxconfig.io, geolocation-!cn
 host-suffix, duolingo.com, geolocation-!cn
 host-suffix, duolingo.cn, geolocation-!cn
 host-suffix, ads-api.duolingo.com, geolocation-!cn
-host-suffix, excess.duolingo.com, geolocation-!cn
 host-suffix, metrics.duolingo.com, geolocation-!cn
 host-suffix, analytics.vpc.duolingo.com, geolocation-!cn
 host-suffix, clickedu.co.uk, geolocation-!cn
@@ -18747,7 +18752,6 @@ host-suffix, adwords.com, geolocation-!cn
 host-suffix, adwordsexpress.com, geolocation-!cn
 host-suffix, app-measurement-cn.com, geolocation-!cn
 host-suffix, app-measurement.com, geolocation-!cn
-host-suffix, clickserver.googleads.com, geolocation-!cn
 host-suffix, doubleclick-cn.net, geolocation-!cn
 host-suffix, doubleclick.cn, geolocation-!cn
 host-suffix, doubleclick.com, geolocation-!cn
@@ -19948,8 +19952,6 @@ host-suffix, workplaceusecases.com, geolocation-!cn
 host, fbcdn-a.akamaihd.net, geolocation-!cn
 host-suffix, b-graph.facebook.com, geolocation-!cn
 host-suffix, b-graph-fallback.facebook.com, geolocation-!cn
-host-suffix, star.fallback.c10r.facebook.com, geolocation-!cn
-host-suffix, star.c10r.facebook.com, geolocation-!cn
 host-suffix, connect.facebook.com, geolocation-!cn
 host-suffix, connect.facebook.net, geolocation-!cn
 host-suffix, graph.facebook.com, geolocation-!cn
@@ -20381,7 +20383,7 @@ host-suffix, skype-edf.akadns.net, geolocation-!cn
 host-suffix, skypedata.akadns.net, geolocation-!cn
 host-suffix, dl.delivery.mp.microsoft.com, geolocation-!cn
 host-suffix, download.windowsupdate.com, geolocation-!cn
-host, res.cdn.office.net, geolocation-!cn
+host, b.c2r.ts.cdn.office.net, geolocation-!cn
 host, bg.v4.a.dl.ws.microsoft.com, geolocation-!cn
 host, bg4.v4.a.dl.ws.microsoft.com, geolocation-!cn
 host, build.microsoft.com, geolocation-!cn
@@ -20393,6 +20395,7 @@ host, developer.microsoft.com, geolocation-!cn
 host, docs.microsoft.com, geolocation-!cn
 host, download.microsoft.com, geolocation-!cn
 host, download.visualstudio.microsoft.com, geolocation-!cn
+host, f.c2r.ts.cdn.office.net, geolocation-!cn
 host, fs.microsoft.com, geolocation-!cn
 host, learn.microsoft.com, geolocation-!cn
 host, msgr.dlservice.microsoft.com, geolocation-!cn
@@ -20401,10 +20404,14 @@ host, myvs.download.prss.microsoft.com, geolocation-!cn
 host, oemsoc.download.prss.microsoft.com, geolocation-!cn
 host, officecdn.microsoft.com, geolocation-!cn
 host, qh.dlservice.microsoft.com, geolocation-!cn
+host, res-1.cdn.office.net, geolocation-!cn
+host, res.cdn.office.net, geolocation-!cn
 host, sdx.microsoft.com, geolocation-!cn
+host, shell.cdn.office.net, geolocation-!cn
 host, silverlight.dlservice.microsoft.com, geolocation-!cn
 host, slupdate.dlservice.microsoft.com, geolocation-!cn
 host, software.download.prss.microsoft.com, geolocation-!cn
+host, statics.teams.cdn.office.net, geolocation-!cn
 host, storeedgefd.dsx.mp.microsoft.com, geolocation-!cn
 host, surface.downloads.prss.microsoft.com, geolocation-!cn
 host, vscode.download.prss.microsoft.com, geolocation-!cn
@@ -21215,6 +21222,9 @@ host-suffix, yourfantasybeginsnow.com, geolocation-!cn
 host-suffix, spacex.com, geolocation-!cn
 host-suffix, st.com, geolocation-!cn
 host-suffix, stmicroelectronics.com.cn, geolocation-!cn
+host-suffix, tailscale.com, geolocation-!cn
+host-suffix, tailscale.io, geolocation-!cn
+host-suffix, ts.net, geolocation-!cn
 host-suffix, boringcompany.com, geolocation-!cn
 host-suffix, internetdownloadmanager.com, geolocation-!cn
 host-suffix, registeridm.com, geolocation-!cn

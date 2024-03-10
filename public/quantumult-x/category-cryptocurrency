@@ -124,6 +124,9 @@ host-suffix, localbitcoins.com, category-cryptocurrency
 host-suffix, localbitcoinschain.com, category-cryptocurrency
 host-suffix, okex.com, category-cryptocurrency
 host-suffix, okx.com, category-cryptocurrency
+host-suffix, okx-dns.com, category-cryptocurrency
+host-suffix, okx-dns1.com, category-cryptocurrency
+host-suffix, okx-dns2.com, category-cryptocurrency
 host-suffix, oklink.com, category-cryptocurrency
 host-suffix, onekey-asset.com, category-cryptocurrency
 host-suffix, onekey.so, category-cryptocurrency

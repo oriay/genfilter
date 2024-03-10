@@ -1,4 +1,5 @@
 host-suffix, argotunnel.com, cloudflare
+host-suffix, cfl.re, cloudflare
 host-suffix, cloudflare-dns.com, cloudflare
 host-suffix, cloudflare-ech.com, cloudflare
 host-suffix, cloudflare-esni.com, cloudflare

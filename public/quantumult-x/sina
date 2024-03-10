@@ -35,11 +35,8 @@ host-suffix, appsupdate.sinaapp.com, sina
 host-suffix, atm.sina.com, sina
 host-suffix, beacon.sina.com.cn, sina
 host-suffix, biz.weibo.com, sina
-host-suffix, c.biz.weibo.com, sina
-host-suffix, c.wcpt.biz.weibo.com, sina
 host-suffix, click.uve.mobile.sina.cn, sina
 host-suffix, click.uve.weibo.com, sina
-host-suffix, cm.dmp.sina.cn, sina
 host-suffix, contentrecommend-out.mobile.sina.cn, sina
 host-suffix, count.video.sina.com.cn, sina
 host-suffix, counter.sina.com.cn, sina
@@ -54,17 +51,11 @@ host-suffix, game.weibo.cn, sina
 host-suffix, game.weibo.com, sina
 host-suffix, gw5.push.mcp.weibo.cn, sina
 host-suffix, gw6.push.mcp.weibo.cn, sina
-host-suffix, img.adbox.sina.com.cn, sina
-host-suffix, img.amp.ad.sina.com.cn, sina
 host-suffix, int.dpool.sina.com.cn, sina
 host-suffix, interest.mix.sina.com.cn, sina
-host-suffix, log.interest.mix.sina.com.cn, sina
 host-suffix, log.mix.sina.com.cn, sina
 host-suffix, log.sina.cn, sina
-host-suffix, m.beacon.sina.com.cn, sina
-host-suffix, m.game.weibo.cn, sina
 host-suffix, mg.games.sina.com.cn, sina
-host-suffix, motu.p4p.sina.com.cn, sina
 host-suffix, newspush.sinajs.cn, sina
 host-suffix, oascentral.sina.com, sina
 host-suffix, oascentral.sina.com.hk, sina
@@ -74,10 +65,8 @@ host-suffix, pay.mobile.sina.cn, sina
 host-suffix, pfp.sina.com.cn, sina
 host-suffix, pfpip.sina.com, sina
 host-suffix, promote.biz.weibo.cn, sina
-host-suffix, r.dmp.sina.cn, sina
 host-suffix, rm.sina.com.cn, sina
 host-suffix, rs.sinajs.cn, sina
-host-suffix, s.alitui.weibo.com, sina
 host-suffix, s.img.mix.sina.com.cn, sina
 host-suffix, sapi.sina.cn, sina
 host-suffix, sax.sina.cn, sina
@@ -101,5 +90,4 @@ host-suffix, wbclick.mobile.sina.cn, sina
 host-suffix, wbpctips.mobile.sina.cn, sina
 host-suffix, widget.weibo.com, sina
 host-suffix, woocall.sina.com.cn, sina
-host-suffix, zc.biz.weibo.com, sina
 host-suffix, zymo.mps.weibo.com, sina

@@ -269,7 +269,7 @@ host-suffix, skype-edf.akadns.net, microsoft
 host-suffix, skypedata.akadns.net, microsoft
 host-suffix, dl.delivery.mp.microsoft.com, microsoft
 host-suffix, download.windowsupdate.com, microsoft
-host, res.cdn.office.net, microsoft
+host, b.c2r.ts.cdn.office.net, microsoft
 host, bg.v4.a.dl.ws.microsoft.com, microsoft
 host, bg4.v4.a.dl.ws.microsoft.com, microsoft
 host, build.microsoft.com, microsoft
@@ -281,6 +281,7 @@ host, developer.microsoft.com, microsoft
 host, docs.microsoft.com, microsoft
 host, download.microsoft.com, microsoft
 host, download.visualstudio.microsoft.com, microsoft
+host, f.c2r.ts.cdn.office.net, microsoft
 host, fs.microsoft.com, microsoft
 host, learn.microsoft.com, microsoft
 host, msgr.dlservice.microsoft.com, microsoft
@@ -289,10 +290,14 @@ host, myvs.download.prss.microsoft.com, microsoft
 host, oemsoc.download.prss.microsoft.com, microsoft
 host, officecdn.microsoft.com, microsoft
 host, qh.dlservice.microsoft.com, microsoft
+host, res-1.cdn.office.net, microsoft
+host, res.cdn.office.net, microsoft
 host, sdx.microsoft.com, microsoft
+host, shell.cdn.office.net, microsoft
 host, silverlight.dlservice.microsoft.com, microsoft
 host, slupdate.dlservice.microsoft.com, microsoft
 host, software.download.prss.microsoft.com, microsoft
+host, statics.teams.cdn.office.net, microsoft
 host, storeedgefd.dsx.mp.microsoft.com, microsoft
 host, surface.downloads.prss.microsoft.com, microsoft
 host, vscode.download.prss.microsoft.com, microsoft

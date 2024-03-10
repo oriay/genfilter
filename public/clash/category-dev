@@ -440,9 +440,11 @@ DOMAIN,openaicom.imgix.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,lede-project.org
 DOMAIN-SUFFIX,osdn.net
+DOMAIN-SUFFIX,perl.apache.org
 DOMAIN-SUFFIX,perl.org
 DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,modperl.pl
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,pycon.org

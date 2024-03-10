@@ -395,8 +395,6 @@ DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,b-graph.facebook.com
 DOMAIN-SUFFIX,b-graph-fallback.facebook.com
-DOMAIN-SUFFIX,star.fallback.c10r.facebook.com
-DOMAIN-SUFFIX,star.c10r.facebook.com
 DOMAIN-SUFFIX,connect.facebook.com
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,graph.facebook.com

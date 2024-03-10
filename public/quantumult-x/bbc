@@ -3,6 +3,7 @@ host-suffix, bbc-reporting-api.app, bbc
 host-suffix, bbc.co.uk, bbc
 host-suffix, bbc.com, bbc
 host-suffix, bbc.in, bbc
+host-suffix, bbc.mp-pxcdn.com, bbc
 host-suffix, bbc.net.uk, bbc
 host-suffix, bbcfmt.s.llnwi.net, bbc
 host-suffix, bbci.co.uk, bbc

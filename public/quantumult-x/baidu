@@ -57,7 +57,6 @@ host-suffix, baidustatic.com, baidu
 host-suffix, baidutv.baidu.com, baidu
 host-suffix, banlv.baidu.com, baidu
 host-suffix, bar.baidu.com, baidu
-host-suffix, bdimg.share.baidu.com, baidu
 host-suffix, bdplus.baidu.com, baidu
 host-suffix, btlaunch.baidu.com, baidu
 host-suffix, c.baidu.com, baidu
@@ -66,11 +65,8 @@ host-suffix, cbjs.baidu.com, baidu
 host-suffix, cjhq.baidu.com, baidu
 host-suffix, cleaner.baidu.com, baidu
 host-suffix, click.bes.baidu.com, baidu
-host-suffix, click.hm.baidu.com, baidu
 host-suffix, click.qianqian.com, baidu
-host-suffix, cm.baichuan.baidu.com, baidu
 host-suffix, cm.baidu.com, baidu
-host-suffix, cm.pos.baidu.com, baidu
 host-suffix, cpro.baidu.cn, baidu
 host-suffix, cpro.baidu.com, baidu
 host-suffix, cpro.baidustatic.com, baidu
@@ -108,7 +104,6 @@ host-suffix, f10.baidu.com, baidu
 host-suffix, fc-feed.cdn.bcebos.com, baidu
 host-suffix, fclick.baidu.com, baidu
 host-suffix, feed.baidu.com, baidu
-host-suffix, fexclick.baidu.com, baidu
 host-suffix, g.baidu.com, baidu
 host-suffix, gimg.baidu.com, baidu
 host-suffix, guanjia.baidu.com, baidu
@@ -147,13 +142,11 @@ host-suffix, river.zhidao.baidu.com, baidu
 host-suffix, rj.baidu.com, baidu
 host-suffix, rplog.baidu.com, baidu
 host-suffix, s.baidu.com, baidu
-host-suffix, s.cpro.baidu.com, baidu
 host-suffix, sa.tuisong.baidu.com, baidu
 host-suffix, sclick.baidu.com, baidu
 host-suffix, sestat.baidu.com, baidu
 host-suffix, shadu.baidu.com, baidu
 host-suffix, share.baidu.com, baidu
-host-suffix, snippet.pos.baidu.com, baidu
 host-suffix, sobar.baidu.com, baidu
 host-suffix, sobartop.baidu.com, baidu
 host-suffix, spcode.baidu.com, baidu
@@ -185,7 +178,6 @@ host-suffix, weishi.baidu.com, baidu
 host-suffix, wenku-cms.bj.bcebos.com, baidu
 host-suffix, wisepush.video.baidu.com, baidu
 host-suffix, wm.baidu.com, baidu
-host-suffix, wn.pos.baidu.com, baidu
 host-suffix, znsv.baidu.com, baidu
 host-suffix, zz.bdstatic.com, baidu
 host-suffix, zzy1.quyaoya.com, baidu

@@ -396,8 +396,6 @@ host-suffix, workplaceusecases.com, meta
 host, fbcdn-a.akamaihd.net, meta
 host-suffix, b-graph.facebook.com, meta
 host-suffix, b-graph-fallback.facebook.com, meta
-host-suffix, star.fallback.c10r.facebook.com, meta
-host-suffix, star.c10r.facebook.com, meta
 host-suffix, connect.facebook.com, meta
 host-suffix, connect.facebook.net, meta
 host-suffix, graph.facebook.com, meta

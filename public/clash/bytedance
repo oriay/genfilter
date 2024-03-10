@@ -442,7 +442,6 @@ DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
-DOMAIN-SUFFIX,is.snssdk.com
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
@@ -591,6 +590,7 @@ DOMAIN-SUFFIX,volctrack.com
 DOMAIN-SUFFIX,volctraffic.com
 DOMAIN-SUFFIX,volctranscdn.com
 DOMAIN-SUFFIX,volcvideo.com
+DOMAIN-SUFFIX,volcvideos.com
 DOMAIN-SUFFIX,volcvms.com
 DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,volcwaf001.com

@@ -1,3 +1,6 @@
 host-suffix, okex.com, okx
 host-suffix, okx.com, okx
+host-suffix, okx-dns.com, okx
+host-suffix, okx-dns1.com, okx
+host-suffix, okx-dns2.com, okx
 host-suffix, oklink.com, okx

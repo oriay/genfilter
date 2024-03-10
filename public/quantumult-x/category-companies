@@ -2706,7 +2706,6 @@ host-suffix, nginxconfig.io, category-companies
 host-suffix, duolingo.com, category-companies
 host-suffix, duolingo.cn, category-companies
 host-suffix, ads-api.duolingo.com, category-companies
-host-suffix, excess.duolingo.com, category-companies
 host-suffix, metrics.duolingo.com, category-companies
 host-suffix, analytics.vpc.duolingo.com, category-companies
 host-suffix, clickedu.co.uk, category-companies
@@ -3507,7 +3506,6 @@ host-suffix, adwords.com, category-companies
 host-suffix, adwordsexpress.com, category-companies
 host-suffix, app-measurement-cn.com, category-companies
 host-suffix, app-measurement.com, category-companies
-host-suffix, clickserver.googleads.com, category-companies
 host-suffix, doubleclick-cn.net, category-companies
 host-suffix, doubleclick.cn, category-companies
 host-suffix, doubleclick.com, category-companies
@@ -4708,8 +4706,6 @@ host-suffix, workplaceusecases.com, category-companies
 host, fbcdn-a.akamaihd.net, category-companies
 host-suffix, b-graph.facebook.com, category-companies
 host-suffix, b-graph-fallback.facebook.com, category-companies
-host-suffix, star.fallback.c10r.facebook.com, category-companies
-host-suffix, star.c10r.facebook.com, category-companies
 host-suffix, connect.facebook.com, category-companies
 host-suffix, connect.facebook.net, category-companies
 host-suffix, graph.facebook.com, category-companies
@@ -5141,7 +5137,7 @@ host-suffix, skype-edf.akadns.net, category-companies
 host-suffix, skypedata.akadns.net, category-companies
 host-suffix, dl.delivery.mp.microsoft.com, category-companies
 host-suffix, download.windowsupdate.com, category-companies
-host, res.cdn.office.net, category-companies
+host, b.c2r.ts.cdn.office.net, category-companies
 host, bg.v4.a.dl.ws.microsoft.com, category-companies
 host, bg4.v4.a.dl.ws.microsoft.com, category-companies
 host, build.microsoft.com, category-companies
@@ -5153,6 +5149,7 @@ host, developer.microsoft.com, category-companies
 host, docs.microsoft.com, category-companies
 host, download.microsoft.com, category-companies
 host, download.visualstudio.microsoft.com, category-companies
+host, f.c2r.ts.cdn.office.net, category-companies
 host, fs.microsoft.com, category-companies
 host, learn.microsoft.com, category-companies
 host, msgr.dlservice.microsoft.com, category-companies
@@ -5161,10 +5158,14 @@ host, myvs.download.prss.microsoft.com, category-companies
 host, oemsoc.download.prss.microsoft.com, category-companies
 host, officecdn.microsoft.com, category-companies
 host, qh.dlservice.microsoft.com, category-companies
+host, res-1.cdn.office.net, category-companies
+host, res.cdn.office.net, category-companies
 host, sdx.microsoft.com, category-companies
+host, shell.cdn.office.net, category-companies
 host, silverlight.dlservice.microsoft.com, category-companies
 host, slupdate.dlservice.microsoft.com, category-companies
 host, software.download.prss.microsoft.com, category-companies
+host, statics.teams.cdn.office.net, category-companies
 host, storeedgefd.dsx.mp.microsoft.com, category-companies
 host, surface.downloads.prss.microsoft.com, category-companies
 host, vscode.download.prss.microsoft.com, category-companies
@@ -5975,6 +5976,9 @@ host-suffix, yourfantasybeginsnow.com, category-companies
 host-suffix, spacex.com, category-companies
 host-suffix, st.com, category-companies
 host-suffix, stmicroelectronics.com.cn, category-companies
+host-suffix, tailscale.com, category-companies
+host-suffix, tailscale.io, category-companies
+host-suffix, ts.net, category-companies
 host-suffix, boringcompany.com, category-companies
 host-suffix, internetdownloadmanager.com, category-companies
 host-suffix, registeridm.com, category-companies

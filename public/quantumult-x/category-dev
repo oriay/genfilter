@@ -440,9 +440,11 @@ host, openaicom.imgix.net, category-dev
 host-suffix, openwrt.org, category-dev
 host-suffix, lede-project.org, category-dev
 host-suffix, osdn.net, category-dev
+host-suffix, perl.apache.org, category-dev
 host-suffix, perl.org, category-dev
 host-suffix, cpan.org, category-dev
 host-suffix, metacpan.org, category-dev
+host-suffix, modperl.pl, category-dev
 host-suffix, polymer-project.org, category-dev
 host-suffix, polymerproject.org, category-dev
 host-suffix, pycon.org, category-dev

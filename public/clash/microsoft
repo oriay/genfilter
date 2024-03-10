@@ -269,7 +269,7 @@ DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
-DOMAIN,res.cdn.office.net
+DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
 DOMAIN,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN,build.microsoft.com
@@ -281,6 +281,7 @@ DOMAIN,developer.microsoft.com
 DOMAIN,docs.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,fs.microsoft.com
 DOMAIN,learn.microsoft.com
 DOMAIN,msgr.dlservice.microsoft.com
@@ -289,10 +290,14 @@ DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
 DOMAIN,qh.dlservice.microsoft.com
+DOMAIN,res-1.cdn.office.net
+DOMAIN,res.cdn.office.net
 DOMAIN,sdx.microsoft.com
+DOMAIN,shell.cdn.office.net
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
+DOMAIN,statics.teams.cdn.office.net
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,vscode.download.prss.microsoft.com
