@@ -435,6 +435,8 @@ host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokd.net, bytedance
 host-suffix, tiktokd.org, bytedance
 host-suffix, tiktokv.com, bytedance
+host-suffix, tiktokv.us, bytedance
+host-suffix, tiktokw.us, bytedance
 host-suffix, ttwstatic.com, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
 host-suffix, bds.snssdk.com, bytedance

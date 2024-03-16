@@ -1,10 +1,16 @@
 host-suffix, a.alimama.cn, alibaba-ads
 host-suffix, acjs.aliyun.com, alibaba-ads
+host-suffix, adash-c.m.taobao.com, alibaba-ads
+host-suffix, adash-c.ut.taobao.com, alibaba-ads
+host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, alibaba-ads
 host-suffix, adash.m.taobao.com, alibaba-ads
+host-suffix, adash.man.aliyuncs.com, alibaba-ads
 host-suffix, adashbc.m.taobao.com, alibaba-ads
 host-suffix, adashbc.ut.taobao.com, alibaba-ads
-host-suffix, adash-c.ut.taobao.com, alibaba-ads
 host-suffix, adashx.m.taobao.com, alibaba-ads
+host-suffix, adashx.ut.amap.com, alibaba-ads
+host-suffix, adashx.ut.ele.me, alibaba-ads
+host-suffix, adashx.ut.youku.com, alibaba-ads
 host-suffix, adashx4ae.ut.taobao.com, alibaba-ads
 host-suffix, adashx4yt.m.taobao.com, alibaba-ads
 host-suffix, adashxgc.ut.taobao.com, alibaba-ads
@@ -20,6 +26,7 @@ host-suffix, api.waptest.taobao.com, alibaba-ads
 host-suffix, apoll.m.taobao.com, alibaba-ads
 host-suffix, atanx.alicdn.com, alibaba-ads
 host-suffix, atanx2.alicdn.com, alibaba-ads
+host-suffix, c-adash.m.taobao.com, alibaba-ads
 host-suffix, cdn0.mobmore.com, alibaba-ads
 host-suffix, click.aliyun.com, alibaba-ads
 host-suffix, click.mz.simba.taobao.com, alibaba-ads
@@ -38,6 +45,10 @@ host-suffix, gtms01.alicdn.com, alibaba-ads
 host-suffix, gtms02.alicdn.com, alibaba-ads
 host-suffix, gtms03.alicdn.com, alibaba-ads
 host-suffix, gtms04.alicdn.com, alibaba-ads
+host-suffix, h-adashx.ut.ele.me, alibaba-ads
+host-suffix, h-adashx.ut.taobao.com, alibaba-ads
+host-suffix, h-adashx.ut.youku.com, alibaba-ads
+host-suffix, h-adashx4yt.ut.taobao.com, alibaba-ads
 host-suffix, hydra.alibaba.com, alibaba-ads
 host-suffix, hz.pre.tbusergw.taobao.net, alibaba-ads
 host-suffix, hz.tbusergw.taobao.net, alibaba-ads
@@ -47,6 +58,7 @@ host-suffix, intl.wapa.taobao.com, alibaba-ads
 host-suffix, intl.waptest.taobao.com, alibaba-ads
 host-suffix, jxlog.istreamsche.com, alibaba-ads
 host-suffix, log.umtrack.com, alibaba-ads
+host-suffix, m-adash.m.taobao.com, alibaba-ads
 host-suffix, m.intl.taobao.com, alibaba-ads
 host-suffix, m.simba.taobao.com, alibaba-ads
 host-suffix, match.p4p.1688.com, alibaba-ads
@@ -78,5 +90,9 @@ host-suffix, tongji.linezing.com, alibaba-ads
 host-suffix, tvupgrade.yunos.com, alibaba-ads
 host-suffix, tyh.taobao.com, alibaba-ads
 host-suffix, userimg.qunar.com, alibaba-ads
+host-suffix, v6-adashx.ut.amap.com, alibaba-ads
+host-suffix, v6-adashx.ut.cainiao.com, alibaba-ads
+host-suffix, v6-adashx.ut.ele.me, alibaba-ads
+host-suffix, v6-adashx.ut.taobao.com, alibaba-ads
 host-suffix, w.m.taobao.com, alibaba-ads
 host-suffix, yiliao.hupan.com, alibaba-ads

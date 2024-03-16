@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,a.market.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.mi.com
 DOMAIN-SUFFIX,ad.xiaomi.com
@@ -7,9 +8,8 @@ DOMAIN-SUFFIX,adv.sec.intl.miui.com
 DOMAIN-SUFFIX,adv.sec.miui.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,mistat.xiaomi.com
+DOMAIN-SUFFIX,sentry.d.mi.com
+DOMAIN-SUFFIX,sentry.d.xiaomi.net
 DOMAIN-SUFFIX,tjqonline.cn
+DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN-SUFFIX,ad.hpplay.cn
-DOMAIN-SUFFIX,adeng.hpplay.cn
-DOMAIN-SUFFIX,kuyun.com
-DOMAIN-SUFFIX,umeng.com

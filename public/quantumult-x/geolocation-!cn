@@ -5466,6 +5466,8 @@ host-suffix, tiktokcdn.com, geolocation-!cn
 host-suffix, tiktokd.net, geolocation-!cn
 host-suffix, tiktokd.org, geolocation-!cn
 host-suffix, tiktokv.com, geolocation-!cn
+host-suffix, tiktokv.us, geolocation-!cn
+host-suffix, tiktokw.us, geolocation-!cn
 host-suffix, ttwstatic.com, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
 host-suffix, themoviedb.org, geolocation-!cn
@@ -5816,6 +5818,7 @@ host-suffix, redditstatic.com, geolocation-!cn
 host-suffix, redditmail.com, geolocation-!cn
 host-suffix, redditmedia.com, geolocation-!cn
 host-suffix, redd.it, geolocation-!cn
+host-suffix, yamibo.com, geolocation-!cn
 host-suffix, aboutfacebook.com, geolocation-!cn
 host-suffix, accessfacebookfromschool.com, geolocation-!cn
 host-suffix, acebooik.com, geolocation-!cn
@@ -14567,6 +14570,8 @@ host-suffix, pise.pw, geolocation-!cn
 host-suffix, pros.ee, geolocation-!cn
 host-suffix, pse.is, geolocation-!cn
 host-suffix, ping.pe, geolocation-!cn
+host-suffix, ping.sx, geolocation-!cn
+host, public-us-pingsx.api.clonoth.com, geolocation-!cn
 host-suffix, playcover.io, geolocation-!cn
 host-suffix, playcover.workers.dev, geolocation-!cn
 host-suffix, pm.me, geolocation-!cn
