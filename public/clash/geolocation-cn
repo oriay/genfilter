@@ -1165,6 +1165,7 @@ DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,huaban.com
 DOMAIN-SUFFIX,dancf.com
 DOMAIN-SUFFIX,kujiale.com
+DOMAIN-SUFFIX,wss.zone
 DOMAIN-SUFFIX,42r.cn
 DOMAIN-SUFFIX,5566ua.com
 DOMAIN-SUFFIX,aurorapush.cn
@@ -2302,6 +2303,7 @@ DOMAIN-SUFFIX,pplive.cn
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,qingting.fm
+DOMAIN-SUFFIX,qtfm.cn
 DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,61.com
 DOMAIN-SUFFIX,taomee.com
@@ -4522,8 +4524,6 @@ DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crashlytics.163.com
 DOMAIN-SUFFIX,g.163.com
-DOMAIN-SUFFIX,nubia.cn
-DOMAIN-SUFFIX,nubia.com
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,finzfin.com
 DOMAIN-SUFFIX,heytap.com
@@ -5187,6 +5187,15 @@ DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,nubia.cn
+DOMAIN-SUFFIX,nubia.com
+DOMAIN-SUFFIX,redmagic.com
+DOMAIN-SUFFIX,zte.com.cn
+DOMAIN-SUFFIX,ztemall.com
+DOMAIN-SUFFIX,ztems.com
+DOMAIN,bbs.ztedevices.com
+DOMAIN,www.ztedevices.com
+DOMAIN,ztedevices.com
 DOMAIN-SUFFIX,10099.com.cn
 DOMAIN-SUFFIX,chn.cn
 DOMAIN-SUFFIX,ahitv.com
@@ -5274,6 +5283,16 @@ DOMAIN-SUFFIX,wenmingban.com
 DOMAIN-SUFFIX,zhiyuanhe.cn
 DOMAIN-SUFFIX,zhiyuanyun.com.cn
 DOMAIN-SUFFIX,zyhe.com.cn
+DOMAIN-SUFFIX,aitcfw.com
+DOMAIN-SUFFIX,aizgtc.com
+DOMAIN-SUFFIX,hangzhouyq.cn
+DOMAIN-SUFFIX,hangzhouyq.com
+DOMAIN-SUFFIX,zgxytc.com
+DOMAIN-SUFFIX,zgzsa.com
+DOMAIN-SUFFIX,zhonshian.cn
+DOMAIN-SUFFIX,zhonshian.com
+DOMAIN-SUFFIX,zhonshian.com.cn
+DOMAIN-SUFFIX,zjzsa.com
 DOMAIN-SUFFIX,fspcdn.com
 DOMAIN-SUFFIX,fun.tv
 DOMAIN-SUFFIX,funshion.com
@@ -5287,4 +5306,5 @@ DOMAIN-SUFFIX,feidee.net
 DOMAIN-SUFFIX,ssjlicai.com
 DOMAIN-SUFFIX,sui.com
 DOMAIN-SUFFIX,narwal.com
+DOMAIN-SUFFIX,narwaltech.com
 DOMAIN-SUFFIX,roborock.com

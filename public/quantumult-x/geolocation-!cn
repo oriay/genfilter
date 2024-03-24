@@ -8268,7 +8268,6 @@ host-suffix, aflamporn.com, geolocation-!cn
 host-suffix, aflamsex.net, geolocation-!cn
 host-suffix, aflamsexhd.com, geolocation-!cn
 host-suffix, afriboyz.com, geolocation-!cn
-host-suffix, aga-expo.com, geolocation-!cn
 host-suffix, agag.tw, geolocation-!cn
 host-suffix, agzy1.com, geolocation-!cn
 host-suffix, ah-me.com, geolocation-!cn
@@ -13837,6 +13836,9 @@ host-suffix, fans66.tw, geolocation-!cn
 host-suffix, fansking.tw, geolocation-!cn
 host-suffix, fansta.me, geolocation-!cn
 host, misa-prod.s3.ap-northeast-1.amazonaws.com, geolocation-!cn
+host-suffix, 2023aga.oen.tw, geolocation-!cn
+host-suffix, aga-expo.com, geolocation-!cn
+host-suffix, cosfans-tw.com, geolocation-!cn
 host-suffix, hentaivn.de, geolocation-!cn
 host-suffix, hentaivn.la, geolocation-!cn
 host-suffix, hentaivn.net, geolocation-!cn
