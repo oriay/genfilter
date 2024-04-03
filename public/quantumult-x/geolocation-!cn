@@ -6751,6 +6751,7 @@ host-suffix, dajiyuan.eu, geolocation-!cn
 host-suffix, edninfo.com, geolocation-!cn
 host-suffix, epoch.cloud, geolocation-!cn
 host-suffix, epoch.org.il, geolocation-!cn
+host-suffix, epochbase.com, geolocation-!cn
 host-suffix, epochbuy.com, geolocation-!cn
 host-suffix, epochcar.com, geolocation-!cn
 host-suffix, epochhk.com, geolocation-!cn
@@ -14231,6 +14232,7 @@ host-suffix, dajiyuan.eu, geolocation-!cn
 host-suffix, edninfo.com, geolocation-!cn
 host-suffix, epoch.cloud, geolocation-!cn
 host-suffix, epoch.org.il, geolocation-!cn
+host-suffix, epochbase.com, geolocation-!cn
 host-suffix, epochbuy.com, geolocation-!cn
 host-suffix, epochcar.com, geolocation-!cn
 host-suffix, epochhk.com, geolocation-!cn
@@ -20245,6 +20247,7 @@ host-suffix, cortanaskills.com, geolocation-!cn
 host-suffix, crmdynint-gcc.com, geolocation-!cn
 host-suffix, crmdynint.com, geolocation-!cn
 host-suffix, crossborderexpansion.com, geolocation-!cn
+host-suffix, dcg.microsoft.com, geolocation-!cn
 host-suffix, docs.com, geolocation-!cn
 host-suffix, dynamics.cn, geolocation-!cn
 host-suffix, dynamics.com, geolocation-!cn
