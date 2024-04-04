@@ -26,6 +26,7 @@ host-suffix, klpbbs.com, geolocation-cn
 host-suffix, mcbbs.net, geolocation-cn
 host-suffix, uiwow.com, geolocation-cn
 host-suffix, right.com.cn, geolocation-cn
+host-suffix, pcbeta.com, geolocation-cn
 host-suffix, fofa.info, geolocation-cn
 host-suffix, infinitynewtab.com, geolocation-cn
 host-suffix, inftab.com, geolocation-cn
@@ -55,6 +56,7 @@ host-suffix, myypark.com, geolocation-cn
 host-suffix, mihuashi.com, geolocation-cn
 host-suffix, tower.im, geolocation-cn
 host-suffix, udesk.cn, geolocation-cn
+host-suffix, xedge.cc, geolocation-cn
 host-suffix, ezpro.pro, geolocation-cn
 host-suffix, jikipedia.com, geolocation-cn
 host-suffix, qiuwen.wiki, geolocation-cn
@@ -787,7 +789,6 @@ host-suffix, p5w.net, geolocation-cn
 host-suffix, paipaibang.com, geolocation-cn
 host-suffix, paopaoche.net, geolocation-cn
 host-suffix, pc6.com, geolocation-cn
-host-suffix, pcbeta.com, geolocation-cn
 host-suffix, pchome.net, geolocation-cn
 host-suffix, pcpop.com, geolocation-cn
 host-suffix, peccn.com, geolocation-cn
@@ -1166,6 +1167,7 @@ host-suffix, huaban.com, geolocation-cn
 host-suffix, dancf.com, geolocation-cn
 host-suffix, kujiale.com, geolocation-cn
 host-suffix, wss.zone, geolocation-cn
+host-suffix, hisensehitachi.com, geolocation-cn
 host-suffix, 42r.cn, geolocation-cn
 host-suffix, 5566ua.com, geolocation-cn
 host-suffix, aurorapush.cn, geolocation-cn
@@ -5293,6 +5295,11 @@ host-suffix, zhonshian.cn, geolocation-cn
 host-suffix, zhonshian.com, geolocation-cn
 host-suffix, zhonshian.com.cn, geolocation-cn
 host-suffix, zjzsa.com, geolocation-cn
+host-suffix, diiing.cn, geolocation-cn
+host-suffix, dingdachuxing.com, geolocation-cn
+host-suffix, dingdatech.com, geolocation-cn
+host-suffix, jintdev.com, geolocation-cn
+host-suffix, xiangbababus.com, geolocation-cn
 host-suffix, fspcdn.com, geolocation-cn
 host-suffix, fun.tv, geolocation-cn
 host-suffix, funshion.com, geolocation-cn

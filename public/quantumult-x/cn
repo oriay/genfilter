@@ -63,6 +63,7 @@ host-suffix, klpbbs.com, cn
 host-suffix, mcbbs.net, cn
 host-suffix, uiwow.com, cn
 host-suffix, right.com.cn, cn
+host-suffix, pcbeta.com, cn
 host-suffix, fofa.info, cn
 host-suffix, infinitynewtab.com, cn
 host-suffix, inftab.com, cn
@@ -92,6 +93,7 @@ host-suffix, myypark.com, cn
 host-suffix, mihuashi.com, cn
 host-suffix, tower.im, cn
 host-suffix, udesk.cn, cn
+host-suffix, xedge.cc, cn
 host-suffix, ezpro.pro, cn
 host-suffix, jikipedia.com, cn
 host-suffix, qiuwen.wiki, cn
@@ -824,7 +826,6 @@ host-suffix, p5w.net, cn
 host-suffix, paipaibang.com, cn
 host-suffix, paopaoche.net, cn
 host-suffix, pc6.com, cn
-host-suffix, pcbeta.com, cn
 host-suffix, pchome.net, cn
 host-suffix, pcpop.com, cn
 host-suffix, peccn.com, cn
@@ -1203,6 +1204,7 @@ host-suffix, huaban.com, cn
 host-suffix, dancf.com, cn
 host-suffix, kujiale.com, cn
 host-suffix, wss.zone, cn
+host-suffix, hisensehitachi.com, cn
 host-suffix, 42r.cn, cn
 host-suffix, 5566ua.com, cn
 host-suffix, aurorapush.cn, cn
@@ -5330,6 +5332,11 @@ host-suffix, zhonshian.cn, cn
 host-suffix, zhonshian.com, cn
 host-suffix, zhonshian.com.cn, cn
 host-suffix, zjzsa.com, cn
+host-suffix, diiing.cn, cn
+host-suffix, dingdachuxing.com, cn
+host-suffix, dingdatech.com, cn
+host-suffix, jintdev.com, cn
+host-suffix, xiangbababus.com, cn
 host-suffix, fspcdn.com, cn
 host-suffix, fun.tv, cn
 host-suffix, funshion.com, cn
