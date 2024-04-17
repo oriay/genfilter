@@ -394,15 +394,6 @@ host-suffix, redkix.com, meta
 host-suffix, workplace.com, meta
 host-suffix, workplaceusecases.com, meta
 host, fbcdn-a.akamaihd.net, meta
-host-suffix, b-graph.facebook.com, meta
-host-suffix, b-graph-fallback.facebook.com, meta
-host-suffix, connect.facebook.com, meta
-host-suffix, connect.facebook.net, meta
-host-suffix, graph.facebook.com, meta
-host-suffix, graph-fallback.facebook.com, meta
-host-suffix, z-m-graph.facebook.com, meta
-host-suffix, graph.fbpigeon.com, meta
-host-suffix, mqtt-mini.facebook.com, meta
 host-suffix, accountkit.com, meta
 host-suffix, atscaleconference.com, meta
 host-suffix, botorch.org, meta

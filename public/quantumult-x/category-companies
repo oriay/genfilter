@@ -4761,15 +4761,6 @@ host-suffix, redkix.com, category-companies
 host-suffix, workplace.com, category-companies
 host-suffix, workplaceusecases.com, category-companies
 host, fbcdn-a.akamaihd.net, category-companies
-host-suffix, b-graph.facebook.com, category-companies
-host-suffix, b-graph-fallback.facebook.com, category-companies
-host-suffix, connect.facebook.com, category-companies
-host-suffix, connect.facebook.net, category-companies
-host-suffix, graph.facebook.com, category-companies
-host-suffix, graph-fallback.facebook.com, category-companies
-host-suffix, z-m-graph.facebook.com, category-companies
-host-suffix, graph.fbpigeon.com, category-companies
-host-suffix, mqtt-mini.facebook.com, category-companies
 host-suffix, accountkit.com, category-companies
 host-suffix, atscaleconference.com, category-companies
 host-suffix, botorch.org, category-companies
