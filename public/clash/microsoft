@@ -455,6 +455,7 @@ DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN,location.microsoft.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com

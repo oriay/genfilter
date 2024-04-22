@@ -423,8 +423,91 @@ host, p6-juejin.byteimg.com, bytedance
 host, p7-juejin.byteimg.com, bytedance
 host, p8-juejin.byteimg.com, bytedance
 host, p9-juejin.byteimg.com, bytedance
-host-suffix, larksuite.com, bytedance
-host-suffix, larksuitecdn.com, bytedance
+host-suffix, anycross.com	#京ICP备16045432号-56, bytedance
+host-suffix, baseopendev.com	#京ICP备16045432号-79, bytedance
+host-suffix, blmpb.com	#京ICP备16045432号-76, bytedance
+host-suffix, bytecloud.com	#京ICP备16045432号-23, bytedance
+host-suffix, bytedancehermestest.com	#京ICP备16045432号-77, bytedance
+host-suffix, byteoc.com	#京ICP备16045432号-41, bytedance
+host-suffix, bytewebservice.com	#京ICP备16045432号-42, bytedance
+host-suffix, bytexns.cn	#京ICP备16045432号-20, bytedance
+host-suffix, bytexns.com	#京ICP备16045432号-21, bytedance
+host-suffix, bytexns.net	#京ICP备16045432号-22, bytedance
+host-suffix, bytexopen.com	#京ICP备16045432号-43, bytedance
+host-suffix, bytexservice.com	#京ICP备16045432号-44, bytedance
+host-suffix, falconsending.com	#京ICP备16045432号-78, bytedance
+host-suffix, feishu.cn	#京ICP备16045432号-4, bytedance
+host-suffix, fei-shu.cn	#京ICP备16045432号-9, bytedance
+host-suffix, feishu.net	#京ICP备16045432号-71, bytedance
+host-suffix, feishu-3rd-party-services.com	#京ICP备16045432号-47, bytedance
+host-suffix, feishuapp.cn	#京ICP备16045432号-58, bytedance
+host-suffix, feishuapp.com	#京ICP备16045432号-68, bytedance
+host-suffix, feishuapp-cdn.net	#京ICP备16045432号-67, bytedance
+host-suffix, feishu-boe.net	#京ICP备16045432号-74, bytedance
+host-suffix, feishucdn.com	#京ICP备16045432号-46, bytedance
+host-suffix, feishu-customer.cn	#京ICP备16045432号-75, bytedance
+host-suffix, feishudoc.cn	#京ICP备16045432号-36, bytedance
+host-suffix, feishudoc.com	#京ICP备16045432号-40, bytedance
+host-suffix, feishuhuiyi.cn	#京ICP备16045432号-26, bytedance
+host-suffix, feishuhuiyi.com	#京ICP备16045432号-27, bytedance
+host-suffix, feishuimg.com	#京ICP备16045432号-65, bytedance
+host-suffix, feishuimg-boe.com	#京ICP备16045432号-59, bytedance
+host-suffix, feishuimg-pre.com	#京ICP备16045432号-60, bytedance
+host-suffix, feishukacdn.com	#京ICP备16045432号-53, bytedance
+host-suffix, feishumeetings.cn	#京ICP备16045432号-28, bytedance
+host-suffix, feishumeetings.com	#京ICP备16045432号-29, bytedance
+host-suffix, feishuoffice.cn	#京ICP备16045432号-37, bytedance
+host-suffix, feishuoffice.com	#京ICP备16045432号-39, bytedance
+host-suffix, feishuopenplatformrecord.com	#京ICP备16045432号-146, bytedance
+host-suffix, feishupkg.com	#京ICP备16045432号-66, bytedance
+host-suffix, feishu-pre.cn	#京ICP备16045432号-13, bytedance
+host-suffix, feishu-pre.net	#京ICP备16045432号-72, bytedance
+host-suffix, feishu-psc.cn	#京ICP备16045432号-73, bytedance
+host-suffix, feishu-staging.cn	#京ICP备16045432号-8, bytedance
+host-suffix, feishustatus.cn	#京ICP备16045432号-7, bytedance
+host-suffix, feishuvc.cn	#京ICP备16045432号-34, bytedance
+host-suffix, feishuvc.com	#京ICP备16045432号-25, bytedance
+host-suffix, getfeishu.cn	#京ICP备16045432号-12, bytedance
+host-suffix, getfeishu.com	#京ICP备16045432号-6, bytedance
+host-suffix, getsays.cn	#京ICP备16045432号-48, bytedance
+host-suffix, getsays.com	#京ICP备16045432号-49, bytedance
+host-suffix, lackvc.cn	#京ICP备16045432号-30, bytedance
+host-suffix, lark.cn	#京ICP备16045432号-11, bytedance
+host-suffix, larkcloud.com	#京ICP备16045432号-16, bytedance
+host-suffix, larkcloud.net	#京ICP备16045432号-18, bytedance
+host-suffix, larkfn.com	#京ICP备16045432号-19, bytedance
+host-suffix, larkmeetings.cn	#京ICP备16045432号-24, bytedance
+host-suffix, larkmeetings.com	#京ICP备16045432号-35, bytedance
+host-suffix, larkoffice.com	#京ICP备16045432号-38, bytedance
+host-suffix, larkofficeapp.com	#京ICP备16045432号-143, bytedance
+host-suffix, larkofficeapp-boe.com	#京ICP备16045432号-144, bytedance
+host-suffix, larkofficeapp-pre.com	#京ICP备16045432号-145, bytedance
+host-suffix, larkofficeboe.com	#京ICP备16045432号-137, bytedance
+host-suffix, larkofficecdn.com	#京ICP备16045432号-140, bytedance
+host-suffix, larkofficeimg.com	#京ICP备16045432号-139, bytedance
+host-suffix, larkofficepkg.com	#京ICP备16045432号-138, bytedance
+host-suffix, larkofficepre.com	#京ICP备16045432号-142, bytedance
+host-suffix, lark-passport-qa-sg.net	#京ICP备16045432号-69, bytedance
+host-suffix, larkrooms.cn	#京ICP备16045432号-33, bytedance
+host-suffix, larkrooms.com	#京ICP备16045432号-32, bytedance
+host-suffix, larksuite.com	#京ICP备16045432号-3, bytedance
+host-suffix, larksuitecdn.com	#京ICP备16045432号-45, bytedance
+host-suffix, larksuiteimg.com	#京ICP备16045432号-61, bytedance
+host-suffix, larksuiteimg-boe.com	#京ICP备16045432号-62, bytedance
+host-suffix, larksuiteimg-pre.com	#京ICP备16045432号-63, bytedance
+host-suffix, larksuite-pre.com	#京ICP备16045432号-64, bytedance
+host-suffix, larkvc.com	#京ICP备16045432号-31, bytedance
+host-suffix, meegobeta.com	#京ICP备16045432号-162, bytedance
+host-suffix, oceancloudapi.com	#京ICP备16045432号-70, bytedance
+host-suffix, okr.cn	#京ICP备16045432号-52, bytedance
+host-suffix, okr.com	#京ICP备16045432号-51, bytedance
+host-suffix, okr.com.cn	#京ICP备16045432号-50, bytedance
+host-suffix, securityfeishu.cn	#京ICP备16045432号-55, bytedance
+host-suffix, securityfs.cn	#京ICP备16045432号-54, bytedance
+host-suffix, statusfeishu.cn	#京ICP备16045432号-10, bytedance
+host-suffix, statuslarkoffice.com	#京ICP备16045432号-141, bytedance
+host-suffix, thelarkcloud.com	#京ICP备16045432号-17, bytedance
+host-suffix, vscenevideo.com	#京ICP备16045432号-1, bytedance
 host-suffix, byteoversea.com, bytedance
 host-suffix, muscdn.com, bytedance
 host-suffix, musical.ly, bytedance

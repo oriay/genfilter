@@ -4323,6 +4323,7 @@ DOMAIN-SUFFIX,wbdnbo.net
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
 DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,modrinth.com
@@ -6668,6 +6669,9 @@ DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
 DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,nbcudigitaladops.com
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnbeta.com.tw
+DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,cnn.it
@@ -20631,6 +20635,7 @@ DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN,location.microsoft.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com

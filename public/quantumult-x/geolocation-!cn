@@ -4323,6 +4323,7 @@ host-suffix, wbdnbo.net, geolocation-!cn
 host-suffix, catchplay.com, geolocation-!cn
 host-suffix, tra-ww000-cp.akamaized.net, geolocation-!cn
 host-suffix, fanatical.com, geolocation-!cn
+host-suffix, fitgirl-repacks.site, geolocation-!cn
 host-suffix, humblebundle.com, geolocation-!cn
 host-suffix, loverslab.com, geolocation-!cn
 host-suffix, modrinth.com, geolocation-!cn
@@ -6668,6 +6669,9 @@ host-suffix, cnbc.com, geolocation-!cn
 host-suffix, cnbcfm.com, geolocation-!cn
 host-suffix, nbcuni.com, geolocation-!cn
 host-suffix, nbcudigitaladops.com, geolocation-!cn
+host-suffix, cnbeta.com, geolocation-!cn
+host-suffix, cnbeta.com.tw, geolocation-!cn
+host-suffix, cnbetacdn.com, geolocation-!cn
 host-suffix, cnn.com, geolocation-!cn
 host-suffix, cnn.io, geolocation-!cn
 host-suffix, cnn.it, geolocation-!cn
@@ -20631,6 +20635,7 @@ host-suffix, sprinklesapp.com, geolocation-!cn
 host, location.microsoft.com, geolocation-!cn
 host-suffix, cn.bing.com, geolocation-!cn
 host-suffix, cn.bing.net, geolocation-!cn
+host-suffix, cn.mm.bing.net, geolocation-!cn
 host-suffix, ditu.live.com, geolocation-!cn
 host, bj1.api.bing.com, geolocation-!cn
 host, emoi-cncdn.bing.com, geolocation-!cn

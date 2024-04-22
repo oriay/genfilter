@@ -300,6 +300,9 @@ host-suffix, cnbc.com, category-media
 host-suffix, cnbcfm.com, category-media
 host-suffix, nbcuni.com, category-media
 host-suffix, nbcudigitaladops.com, category-media
+host-suffix, cnbeta.com, category-media
+host-suffix, cnbeta.com.tw, category-media
+host-suffix, cnbetacdn.com, category-media
 host-suffix, cnn.com, category-media
 host-suffix, cnn.io, category-media
 host-suffix, cnn.it, category-media
