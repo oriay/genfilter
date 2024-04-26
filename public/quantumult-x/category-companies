@@ -4072,6 +4072,14 @@ host-suffix, ibm.net, category-companies
 host-suffix, ibm.us, category-companies
 host-suffix, s-bluemix.net, category-companies
 host-suffix, s81c.com, category-companies
+host-suffix, consul.io, category-companies
+host-suffix, hashicorp.com, category-companies
+host-suffix, nomadproject.io, category-companies
+host-suffix, packer.io, category-companies
+host-suffix, terraform.io, category-companies
+host-suffix, vagrantcloud.com, category-companies
+host-suffix, vagrantup.com, category-companies
+host-suffix, vaultproject.io, category-companies
 host-suffix, inshot.cc, category-companies
 host-suffix, inshot.com, category-companies
 host-suffix, inshotapp.com, category-companies

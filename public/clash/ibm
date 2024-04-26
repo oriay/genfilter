@@ -10,3 +10,11 @@ DOMAIN-SUFFIX,ibm.net
 DOMAIN-SUFFIX,ibm.us
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s81c.com
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io

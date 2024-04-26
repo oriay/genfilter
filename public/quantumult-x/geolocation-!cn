@@ -19336,6 +19336,14 @@ host-suffix, ibm.net, geolocation-!cn
 host-suffix, ibm.us, geolocation-!cn
 host-suffix, s-bluemix.net, geolocation-!cn
 host-suffix, s81c.com, geolocation-!cn
+host-suffix, consul.io, geolocation-!cn
+host-suffix, hashicorp.com, geolocation-!cn
+host-suffix, nomadproject.io, geolocation-!cn
+host-suffix, packer.io, geolocation-!cn
+host-suffix, terraform.io, geolocation-!cn
+host-suffix, vagrantcloud.com, geolocation-!cn
+host-suffix, vagrantup.com, geolocation-!cn
+host-suffix, vaultproject.io, geolocation-!cn
 host-suffix, inshot.cc, geolocation-!cn
 host-suffix, inshot.com, geolocation-!cn
 host-suffix, inshotapp.com, geolocation-!cn

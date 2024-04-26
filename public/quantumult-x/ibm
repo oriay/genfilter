@@ -10,3 +10,11 @@ host-suffix, ibm.net, ibm
 host-suffix, ibm.us, ibm
 host-suffix, s-bluemix.net, ibm
 host-suffix, s81c.com, ibm
+host-suffix, consul.io, ibm
+host-suffix, hashicorp.com, ibm
+host-suffix, nomadproject.io, ibm
+host-suffix, packer.io, ibm
+host-suffix, terraform.io, ibm
+host-suffix, vagrantcloud.com, ibm
+host-suffix, vagrantup.com, ibm
+host-suffix, vaultproject.io, ibm
