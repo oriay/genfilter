@@ -2981,6 +2981,13 @@ host-suffix, tipdim.org, cn
 host-suffix, openkylin.top, cn
 host-suffix, ubuntukylin.com, cn
 host-suffix, xueyuanjun.com, cn
+host-suffix, asktug.com, cn
+host-suffix, pingcap.cn, cn
+host-suffix, pingcap.com, cn
+host-suffix, tidb.ai, cn
+host-suffix, tidb.net, cn
+host-suffix, tidbcloud.com, cn
+host-suffix, tikv.org, cn
 host-suffix, alibaba, cn
 host-suffix, alipay, cn
 host-suffix, taobao, cn

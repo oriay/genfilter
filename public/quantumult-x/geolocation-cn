@@ -2945,6 +2945,13 @@ host-suffix, tipdim.org, geolocation-cn
 host-suffix, openkylin.top, geolocation-cn
 host-suffix, ubuntukylin.com, geolocation-cn
 host-suffix, xueyuanjun.com, geolocation-cn
+host-suffix, asktug.com, geolocation-cn
+host-suffix, pingcap.cn, geolocation-cn
+host-suffix, pingcap.com, geolocation-cn
+host-suffix, tidb.ai, geolocation-cn
+host-suffix, tidb.net, geolocation-cn
+host-suffix, tidbcloud.com, geolocation-cn
+host-suffix, tikv.org, geolocation-cn
 host-suffix, alibaba, geolocation-cn
 host-suffix, alipay, geolocation-cn
 host-suffix, taobao, geolocation-cn

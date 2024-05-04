@@ -70,3 +70,10 @@ host-suffix, tipdim.org, category-dev-cn
 host-suffix, openkylin.top, category-dev-cn
 host-suffix, ubuntukylin.com, category-dev-cn
 host-suffix, xueyuanjun.com, category-dev-cn
+host-suffix, asktug.com, category-dev-cn
+host-suffix, pingcap.cn, category-dev-cn
+host-suffix, pingcap.com, category-dev-cn
+host-suffix, tidb.ai, category-dev-cn
+host-suffix, tidb.net, category-dev-cn
+host-suffix, tidbcloud.com, category-dev-cn
+host-suffix, tikv.org, category-dev-cn
