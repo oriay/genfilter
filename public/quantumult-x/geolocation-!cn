@@ -18550,6 +18550,17 @@ host-suffix, digitalocean.com, geolocation-!cn
 host-suffix, digitaloceanspaces.com, geolocation-!cn
 host-suffix, do.co, geolocation-!cn
 host-suffix, nginxconfig.io, geolocation-!cn
+host-suffix, drweb.by, geolocation-!cn
+host-suffix, drweb.cn, geolocation-!cn
+host-suffix, drweb.co.jp, geolocation-!cn
+host-suffix, drweb.com, geolocation-!cn
+host-suffix, drweb.fr, geolocation-!cn
+host-suffix, drweb.kz, geolocation-!cn
+host-suffix, drweb.uz, geolocation-!cn
+host-suffix, drweb-av.de, geolocation-!cn
+host-suffix, drweb-av.es, geolocation-!cn
+host-suffix, drweb-av.it, geolocation-!cn
+host-suffix, drweb-av.pl, geolocation-!cn
 host-suffix, duolingo.com, geolocation-!cn
 host-suffix, duolingo.cn, geolocation-!cn
 host-suffix, ads-api.duolingo.com, geolocation-!cn
