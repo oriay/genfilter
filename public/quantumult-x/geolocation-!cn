@@ -45,6 +45,7 @@ host-suffix, onionshare.org, geolocation-!cn
 host-suffix, ooni.org, geolocation-!cn
 host-suffix, openvpn.net, geolocation-!cn
 host-suffix, privacytools.io, geolocation-!cn
+host-suffix, psiphon.ca, geolocation-!cn
 host-suffix, psiphon3.com, geolocation-!cn
 host-suffix, sagernet.org, geolocation-!cn
 host-suffix, shadowsocks.org, geolocation-!cn
@@ -6722,6 +6723,7 @@ host-suffix, fawanghuihui.org, geolocation-!cn
 host-suffix, fayuanbooks.com, geolocation-!cn
 host-suffix, fgmtv.org, geolocation-!cn
 host-suffix, ganjing.com, geolocation-!cn
+host-suffix, ganjing.world, geolocation-!cn
 host-suffix, ganjingworld.com, geolocation-!cn
 host-suffix, guangming.org, geolocation-!cn
 host-suffix, mhradio.org, geolocation-!cn
@@ -14217,6 +14219,7 @@ host-suffix, fawanghuihui.org, geolocation-!cn
 host-suffix, fayuanbooks.com, geolocation-!cn
 host-suffix, fgmtv.org, geolocation-!cn
 host-suffix, ganjing.com, geolocation-!cn
+host-suffix, ganjing.world, geolocation-!cn
 host-suffix, ganjingworld.com, geolocation-!cn
 host-suffix, guangming.org, geolocation-!cn
 host-suffix, mhradio.org, geolocation-!cn
@@ -14953,6 +14956,7 @@ host-suffix, flathub.org, geolocation-!cn
 host-suffix, flatpak.org, geolocation-!cn
 host-suffix, flutter.dev, geolocation-!cn
 host-suffix, flutterapp.com, geolocation-!cn
+host-suffix, pub.dev, geolocation-!cn
 host-suffix, fontawesome.com, geolocation-!cn
 host-suffix, fortawesome.com, geolocation-!cn
 host-suffix, fury.blog, geolocation-!cn
@@ -19375,6 +19379,7 @@ host, firebaseperusertopics-pa.googleapis.com, geolocation-!cn
 host, firebaseremoteconfig.googleapis.com, geolocation-!cn
 host-suffix, flutter.dev, geolocation-!cn
 host-suffix, flutterapp.com, geolocation-!cn
+host-suffix, pub.dev, geolocation-!cn
 host-suffix, go-lang.com, geolocation-!cn
 host-suffix, go-lang.net, geolocation-!cn
 host-suffix, go-lang.org, geolocation-!cn

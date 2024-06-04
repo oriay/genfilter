@@ -4107,6 +4107,7 @@ host, firebaseperusertopics-pa.googleapis.com, category-companies
 host, firebaseremoteconfig.googleapis.com, category-companies
 host-suffix, flutter.dev, category-companies
 host-suffix, flutterapp.com, category-companies
+host-suffix, pub.dev, category-companies
 host-suffix, go-lang.com, category-companies
 host-suffix, go-lang.net, category-companies
 host-suffix, go-lang.org, category-companies

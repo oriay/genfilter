@@ -229,6 +229,7 @@ host-suffix, flathub.org, category-dev
 host-suffix, flatpak.org, category-dev
 host-suffix, flutter.dev, category-dev
 host-suffix, flutterapp.com, category-dev
+host-suffix, pub.dev, category-dev
 host-suffix, fontawesome.com, category-dev
 host-suffix, fortawesome.com, category-dev
 host-suffix, fury.blog, category-dev

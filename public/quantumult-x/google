@@ -774,6 +774,7 @@ host, firebaseperusertopics-pa.googleapis.com, google
 host, firebaseremoteconfig.googleapis.com, google
 host-suffix, flutter.dev, google
 host-suffix, flutterapp.com, google
+host-suffix, pub.dev, google
 host-suffix, go-lang.com, google
 host-suffix, go-lang.net, google
 host-suffix, go-lang.org, google

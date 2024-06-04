@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,privacytools.io
+DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,shadowsocks.org
@@ -6722,6 +6723,7 @@ DOMAIN-SUFFIX,fawanghuihui.org
 DOMAIN-SUFFIX,fayuanbooks.com
 DOMAIN-SUFFIX,fgmtv.org
 DOMAIN-SUFFIX,ganjing.com
+DOMAIN-SUFFIX,ganjing.world
 DOMAIN-SUFFIX,ganjingworld.com
 DOMAIN-SUFFIX,guangming.org
 DOMAIN-SUFFIX,mhradio.org
@@ -14217,6 +14219,7 @@ DOMAIN-SUFFIX,fawanghuihui.org
 DOMAIN-SUFFIX,fayuanbooks.com
 DOMAIN-SUFFIX,fgmtv.org
 DOMAIN-SUFFIX,ganjing.com
+DOMAIN-SUFFIX,ganjing.world
 DOMAIN-SUFFIX,ganjingworld.com
 DOMAIN-SUFFIX,guangming.org
 DOMAIN-SUFFIX,mhradio.org
@@ -14953,6 +14956,7 @@ DOMAIN-SUFFIX,flathub.org
 DOMAIN-SUFFIX,flatpak.org
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,fury.blog
@@ -19375,6 +19379,7 @@ DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,go-lang.com
 DOMAIN-SUFFIX,go-lang.net
 DOMAIN-SUFFIX,go-lang.org
