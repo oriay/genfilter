@@ -5352,6 +5352,7 @@ host-suffix, nflximg.net, geolocation-!cn
 host-suffix, nflxsearch.net, geolocation-!cn
 host-suffix, nflxso.net, geolocation-!cn
 host-suffix, nflxvideo.net, geolocation-!cn
+host-suffix, netflixdnstest0.com, geolocation-!cn
 host-suffix, netflixdnstest1.com, geolocation-!cn
 host-suffix, netflixdnstest2.com, geolocation-!cn
 host-suffix, netflixdnstest3.com, geolocation-!cn
