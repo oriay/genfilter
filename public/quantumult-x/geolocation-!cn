@@ -5824,6 +5824,9 @@ host-suffix, redditmail.com, geolocation-!cn
 host-suffix, redditmedia.com, geolocation-!cn
 host-suffix, redd.it, geolocation-!cn
 host-suffix, yamibo.com, geolocation-!cn
+host-suffix, bsky.app, geolocation-!cn
+host-suffix, bsky.network, geolocation-!cn
+host-suffix, bsky.social, geolocation-!cn
 host-suffix, aboutfacebook.com, geolocation-!cn
 host-suffix, accessfacebookfromschool.com, geolocation-!cn
 host-suffix, acebooik.com, geolocation-!cn
