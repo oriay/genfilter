@@ -1,9 +1,2 @@
-host-suffix, b-graph.facebook.com, facebook-ads
-host-suffix, b-graph-fallback.facebook.com, facebook-ads
-host-suffix, connect.facebook.com, facebook-ads
-host-suffix, connect.facebook.net, facebook-ads
-host-suffix, graph.facebook.com, facebook-ads
-host-suffix, graph-fallback.facebook.com, facebook-ads
-host-suffix, z-m-graph.facebook.com, facebook-ads
-host-suffix, graph.fbpigeon.com, facebook-ads
-host-suffix, mqtt-mini.facebook.com, facebook-ads
+host-suffix, analytics.facebook.com, facebook-ads
+host-suffix, pixel.facebook.com, facebook-ads

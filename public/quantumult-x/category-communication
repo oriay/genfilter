@@ -33,6 +33,8 @@ host-suffix, intercom.com, category-communication
 host-suffix, intercom.io, category-communication
 host-suffix, intercomassets.com, category-communication
 host-suffix, intercomcdn.com, category-communication
+host-suffix, keybase.io, category-communication
+host-suffix, keybaseapi.com, category-communication
 host-suffix, gcld-line.com, category-communication
 host-suffix, lin.ee, category-communication
 host-suffix, line-apps-beta.com, category-communication

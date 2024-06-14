@@ -1,12 +1,5 @@
-DOMAIN-SUFFIX,b-graph.facebook.com
-DOMAIN-SUFFIX,b-graph-fallback.facebook.com
-DOMAIN-SUFFIX,connect.facebook.com
-DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,graph-fallback.facebook.com
-DOMAIN-SUFFIX,z-m-graph.facebook.com
-DOMAIN-SUFFIX,graph.fbpigeon.com
-DOMAIN-SUFFIX,mqtt-mini.facebook.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.whatsapp.com

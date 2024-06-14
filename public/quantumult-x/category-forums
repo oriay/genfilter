@@ -53,10 +53,13 @@ host-suffix, poecdn.net, category-forums
 host-suffix, qr.ae, category-forums
 host-suffix, quora.com, category-forums
 host-suffix, quoracdn.net, category-forums
+host-suffix, redd.it, category-forums
 host-suffix, reddit.app.link, category-forums
 host-suffix, reddit.com, category-forums
-host-suffix, redditstatic.com, category-forums
+host-suffix, reddithelp.com, category-forums
 host-suffix, redditmail.com, category-forums
 host-suffix, redditmedia.com, category-forums
+host-suffix, redditstatic.com, category-forums
 host-suffix, redd.it, category-forums
+host, reddit.map.fastly.net, category-forums
 host-suffix, yamibo.com, category-forums

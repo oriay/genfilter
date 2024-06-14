@@ -53,10 +53,13 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.app.link
 DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddithelp.com
 DOMAIN-SUFFIX,redditmail.com
 DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redd.it
+DOMAIN,reddit.map.fastly.net
 DOMAIN-SUFFIX,yamibo.com

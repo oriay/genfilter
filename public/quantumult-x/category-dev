@@ -432,7 +432,7 @@ host-suffix, chatgpt.com, category-dev
 host-suffix, oaistatic.com, category-dev
 host-suffix, oaiusercontent.com, category-dev
 host-suffix, openai.com, category-dev
-host, chat.openai.com.cdn.cloudflare.net, category-dev
+host-suffix, openai.com.cdn.cloudflare.net, category-dev
 host, openaiapi-site.azureedge.net, category-dev
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-dev
 host, openaicomproductionae4b.blob.core.windows.net, category-dev
