@@ -1,4 +1,3 @@
-host-suffix, ^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$, category-ntp
 host-suffix, clock.isc.org, category-ntp
 host-suffix, ntp.fiord.ru, category-ntp
 host-suffix, ntp.nat.ms, category-ntp
