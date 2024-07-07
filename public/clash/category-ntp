@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.cloudflare.com
 DOMAIN-SUFFIX,time.nrc.ca
 DOMAIN-SUFFIX,time.windows.com
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn

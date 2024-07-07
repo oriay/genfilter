@@ -56,10 +56,13 @@ host-suffix, quoracdn.net, category-forums
 host-suffix, redd.it, category-forums
 host-suffix, reddit.app.link, category-forums
 host-suffix, reddit.com, category-forums
+host-suffix, redditblog.com, category-forums
 host-suffix, reddithelp.com, category-forums
+host-suffix, redditinc.com, category-forums
 host-suffix, redditmail.com, category-forums
 host-suffix, redditmedia.com, category-forums
+host-suffix, redditspace.com, category-forums
 host-suffix, redditstatic.com, category-forums
-host-suffix, redd.it, category-forums
+host-suffix, redditstatus.com, category-forums
 host, reddit.map.fastly.net, category-forums
 host-suffix, yamibo.com, category-forums

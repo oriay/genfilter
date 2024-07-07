@@ -5,6 +5,7 @@ host-suffix, apollo.auto, baidu
 host-suffix, baidu.cn, baidu
 host-suffix, baidu.com, baidu
 host-suffix, baidu.com.cn, baidu
+host-suffix, baiduapp.com, baidu
 host-suffix, baidubce.com, baidu
 host-suffix, baiducontent.com, baidu
 host-suffix, baidupcs.com, baidu
@@ -39,6 +40,18 @@ host-suffix, tieba.com, baidu
 host-suffix, tiebaimg.com, baidu
 host-suffix, xianfae.com, baidu
 host-suffix, xiaodutv.com, baidu
+host-suffix, duxiaoman-int.com, baidu
+host-suffix, duxiaoman.com, baidu
+host-suffix, duxiaomanfintech.com, baidu
+host-suffix, duxiaomantech.com, baidu
+host-suffix, dxm-cdn.com, baidu
+host-suffix, dxm-int.com, baidu
+host-suffix, dxmlcf.com, baidu
+host-suffix, dxmlcfintech.com, baidu
+host-suffix, dxmpay.com, baidu
+host-suffix, dxmstatic.com, baidu
+host-suffix, dxmyqh.com, baidu
+host-suffix, paydxm.com, baidu
 host-suffix, a.baidu.com, baidu
 host-suffix, ad.duapps.com, baidu
 host-suffix, ad.player.baidu.com, baidu

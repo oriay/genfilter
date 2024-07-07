@@ -871,7 +871,6 @@ host-suffix, qunar.com, cn
 host-suffix, qunarzz.com, cn
 host-suffix, qunjielong.com, cn
 host-suffix, qyer.com, cn
-host-suffix, rfchost.com, cn
 host-suffix, rockyenglish.com, cn
 host-suffix, rong360.com, cn
 host-suffix, rtbasia.com, cn
@@ -2344,6 +2343,7 @@ host-suffix, bh3.com, cn
 host-suffix, bhsr.com, cn
 host-suffix, themisweeps.com, cn
 host-suffix, yuanshen.com, cn
+host-suffix, juequling.com, cn
 host-suffix, muwai.com, cn
 host-suffix, pplive.cn, cn
 host-suffix, pplive.com, cn
@@ -2811,6 +2811,8 @@ host-suffix, yuque.com, cn
 host-suffix, doc88.com, cn
 host-suffix, docin.com, cn
 host-suffix, douding.cn, cn
+host, time.izatcloud.net, cn
+host, time.xtracloud.net, cn
 host-suffix, cn.pool.ntp.org, cn
 host-suffix, ntp.neu.edu.cn, cn
 host-suffix, ntp.ntsc.ac.cn, cn
@@ -3333,7 +3335,9 @@ host-suffix, teambition.com, cn
 host-suffix, teambition.net, cn
 host-suffix, teambitionapis.com, cn
 host-suffix, uc.cn, cn
+host-suffix, uc123.com, cn
 host-suffix, ucweb.com, cn
+host-suffix, uczzd.cn, cn
 host-suffix, mobmore.com, cn
 host-suffix, umeng.com, cn
 host-suffix, umengcloud.com, cn
@@ -3363,6 +3367,7 @@ host-suffix, apollo.auto, cn
 host-suffix, baidu.cn, cn
 host-suffix, baidu.com, cn
 host-suffix, baidu.com.cn, cn
+host-suffix, baiduapp.com, cn
 host-suffix, baidubce.com, cn
 host-suffix, baiducontent.com, cn
 host-suffix, baidupcs.com, cn
@@ -3397,6 +3402,18 @@ host-suffix, tieba.com, cn
 host-suffix, tiebaimg.com, cn
 host-suffix, xianfae.com, cn
 host-suffix, xiaodutv.com, cn
+host-suffix, duxiaoman-int.com, cn
+host-suffix, duxiaoman.com, cn
+host-suffix, duxiaomanfintech.com, cn
+host-suffix, duxiaomantech.com, cn
+host-suffix, dxm-cdn.com, cn
+host-suffix, dxm-int.com, cn
+host-suffix, dxmlcf.com, cn
+host-suffix, dxmlcfintech.com, cn
+host-suffix, dxmpay.com, cn
+host-suffix, dxmstatic.com, cn
+host-suffix, dxmyqh.com, cn
+host-suffix, paydxm.com, cn
 host-suffix, a.baidu.com, cn
 host-suffix, ad.duapps.com, cn
 host-suffix, ad.player.baidu.com, cn
@@ -4586,6 +4603,8 @@ host-suffix, xoyo.com, cn
 host-suffix, testplus.cn, cn
 host-suffix, wps.cn, cn
 host-suffix, wps.com, cn
+host-suffix, wpscdn.cn, cn
+host-suffix, wpscdn.com, cn
 host-suffix, kscord.com, cn
 host-suffix, 51dzt.com, cn
 host-suffix, iciba.com, cn
@@ -4894,6 +4913,7 @@ host-suffix, yuweikuijianzhan.com, cn
 host-suffix, qq.xn--fiqs8s, cn
 host-suffix, xn--r70as2s.xn--fiqs8s, cn
 host-suffix, apcdns.net, cn
+host-suffix, cdn-go.cn, cn
 host-suffix, foxmail.com, cn
 host-suffix, foxmail.com.cn, cn
 host-suffix, gtimg.cn, cn
@@ -4922,11 +4942,14 @@ host-suffix, tencent.net.cn, cn
 host-suffix, tencentmusic.com, cn
 host-suffix, tenpay.com, cn
 host-suffix, tfogc.com, cn
+host-suffix, tlivepush.com, cn
+host-suffix, txlivecdn.com, cn
 host-suffix, wechat.com, cn
 host-suffix, wechatpay.cn, cn
 host-suffix, weiyun.com, cn
 host-suffix, wetv.vip, cn
 host-suffix, wetvinfo.com, cn
+host-suffix, wxlivecdn.com, cn
 host, wetv.qq.com, cn
 host-suffix, alloyteam.com, cn
 host-suffix, imweb.io, cn
@@ -5232,7 +5255,10 @@ host-suffix, ugdtimg.com, cn
 host-suffix, openmidas.com, cn
 host-suffix, qq.design, cn
 host-suffix, qqgamedesign.com, cn
+host-suffix, tencent-cloud.cn, cn
+host-suffix, tencent-cloud.com, cn
 host-suffix, tencent.design, cn
+host-suffix, tencentcloud.com, cn
 host-suffix, tjstats.com, cn
 host-suffix, wegamedeveloper.com, cn
 host-suffix, weixinbridge.com, cn
@@ -5343,6 +5369,7 @@ host-suffix, vivoglobal.com, cn
 host-suffix, mi-img.com, cn
 host-suffix, mi.com, cn
 host-suffix, mifile.cn, cn
+host-suffix, mijia.tech, cn
 host-suffix, miui.com, cn
 host-suffix, miwifi.com, cn
 host-suffix, xiaomi.cn, cn
@@ -5350,6 +5377,7 @@ host-suffix, xiaomi.com, cn
 host-suffix, xiaomi.net, cn
 host-suffix, xiaomiev.com, cn
 host-suffix, xiaomimobile.com, cn
+host-suffix, xiaomixiaoai.com, cn
 host-suffix, xiaomiyoupin.com, cn
 host-suffix, saxyit.com, cn
 host-suffix, a.market.xiaomi.com, cn
@@ -5414,6 +5442,7 @@ host-suffix, chinatelecom-h.com, cn
 host-suffix, chinatelecom.com.cn, cn
 host-suffix, chinatelecomglobal.com, cn
 host-suffix, chntel.com, cn
+host-suffix, chinatelecomhk.com, cn
 host-suffix, ctexcel.ca, cn
 host-suffix, ctexcel.com, cn
 host-suffix, ctexcel.com.hk, cn
@@ -5430,6 +5459,7 @@ host-suffix, mychinaunicom.com, cn
 host-suffix, wo.cn, cn
 host-suffix, wo.com.cn, cn
 host-suffix, wo116114.com, cn
+host-suffix, cuniq.com, cn
 host-suffix, 51nod.com, cn
 host-suffix, j-test.com, cn
 host-suffix, nattest-china.com, cn

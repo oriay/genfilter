@@ -3600,6 +3600,7 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,devsitetest.how
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,digitalassetlinks.org
+DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,episodic.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,fflick.com
@@ -3754,6 +3755,8 @@ DOMAIN-SUFFIX,saynow.com
 DOMAIN-SUFFIX,schemer.com
 DOMAIN-SUFFIX,screenwisetrends.com
 DOMAIN-SUFFIX,screenwisetrendspanel.com
+DOMAIN-SUFFIX,sheets.new
+DOMAIN-SUFFIX,slides.new
 DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,solveforx.com
 DOMAIN-SUFFIX,stadia.dev
@@ -3797,6 +3800,7 @@ DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,weltweitwachsen.de
 DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,whats.new
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,womenwill.com
@@ -6486,6 +6490,7 @@ DOMAIN-SUFFIX,uplinq.com
 DOMAIN-SUFFIX,wipower.com
 DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,xtracloud.cn
+DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,brewmp.com
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN-SUFFIX,qwant.com

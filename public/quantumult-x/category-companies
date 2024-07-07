@@ -3600,6 +3600,7 @@ host-suffix, deepmind.com, category-companies
 host-suffix, devsitetest.how, category-companies
 host-suffix, dialogflow.com, category-companies
 host-suffix, digitalassetlinks.org, category-companies
+host-suffix, docs.new, category-companies
 host-suffix, episodic.com, category-companies
 host-suffix, feedburner.com, category-companies
 host-suffix, fflick.com, category-companies
@@ -3754,6 +3755,8 @@ host-suffix, saynow.com, category-companies
 host-suffix, schemer.com, category-companies
 host-suffix, screenwisetrends.com, category-companies
 host-suffix, screenwisetrendspanel.com, category-companies
+host-suffix, sheets.new, category-companies
+host-suffix, slides.new, category-companies
 host-suffix, snapseed.com, category-companies
 host-suffix, solveforx.com, category-companies
 host-suffix, stadia.dev, category-companies
@@ -3797,6 +3800,7 @@ host-suffix, webpkgcache.com, category-companies
 host-suffix, webrtc.org, category-companies
 host-suffix, weltweitwachsen.de, category-companies
 host-suffix, whatbrowser.org, category-companies
+host-suffix, whats.new, category-companies
 host-suffix, widevine.com, category-companies
 host-suffix, withgoogle.com, category-companies
 host-suffix, womenwill.com, category-companies
@@ -6486,6 +6490,7 @@ host-suffix, uplinq.com, category-companies
 host-suffix, wipower.com, category-companies
 host-suffix, wirelessreach.com, category-companies
 host-suffix, xtracloud.cn, category-companies
+host-suffix, xtracloud.net, category-companies
 host-suffix, brewmp.com, category-companies
 host, qualcomm.sc.omtrdc.net, category-companies
 host-suffix, qwant.com, category-companies

@@ -503,7 +503,10 @@ host-suffix, strikinglycdn.com, category-dev
 host-suffix, openmidas.com, category-dev
 host-suffix, qq.design, category-dev
 host-suffix, qqgamedesign.com, category-dev
+host-suffix, tencent-cloud.cn, category-dev
+host-suffix, tencent-cloud.com, category-dev
 host-suffix, tencent.design, category-dev
+host-suffix, tencentcloud.com, category-dev
 host-suffix, tjstats.com, category-dev
 host-suffix, wegamedeveloper.com, category-dev
 host-suffix, weixinbridge.com, category-dev

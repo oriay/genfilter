@@ -4129,6 +4129,7 @@ host-suffix, knovel.com, geolocation-!cn
 host-suffix, laracasts.com, geolocation-!cn
 host-suffix, libgen.life, geolocation-!cn
 host-suffix, libgen.fun, geolocation-!cn
+host-suffix, library.lol, geolocation-!cn
 host-suffix, gen.lib.rus.ec, geolocation-!cn
 host-suffix, libgen.is, geolocation-!cn
 host-suffix, libgen.me, geolocation-!cn
@@ -4626,6 +4627,7 @@ host-suffix, bh3.com, geolocation-!cn
 host-suffix, bhsr.com, geolocation-!cn
 host-suffix, themisweeps.com, geolocation-!cn
 host-suffix, yuanshen.com, geolocation-!cn
+host-suffix, juequling.com, geolocation-!cn
 host-suffix, nexon.co.jp, geolocation-!cn
 host-suffix, nexon.com, geolocation-!cn
 host-suffix, nexon.io, geolocation-!cn
@@ -5343,6 +5345,7 @@ host-suffix, bh3.com, geolocation-!cn
 host-suffix, bhsr.com, geolocation-!cn
 host-suffix, themisweeps.com, geolocation-!cn
 host-suffix, yuanshen.com, geolocation-!cn
+host-suffix, juequling.com, geolocation-!cn
 host-suffix, biggggg.com, geolocation-!cn
 host-suffix, mudvod.tv, geolocation-!cn
 host-suffix, nbys.tv, geolocation-!cn
@@ -5835,11 +5838,14 @@ host-suffix, quoracdn.net, geolocation-!cn
 host-suffix, redd.it, geolocation-!cn
 host-suffix, reddit.app.link, geolocation-!cn
 host-suffix, reddit.com, geolocation-!cn
+host-suffix, redditblog.com, geolocation-!cn
 host-suffix, reddithelp.com, geolocation-!cn
+host-suffix, redditinc.com, geolocation-!cn
 host-suffix, redditmail.com, geolocation-!cn
 host-suffix, redditmedia.com, geolocation-!cn
+host-suffix, redditspace.com, geolocation-!cn
 host-suffix, redditstatic.com, geolocation-!cn
-host-suffix, redd.it, geolocation-!cn
+host-suffix, redditstatus.com, geolocation-!cn
 host, reddit.map.fastly.net, geolocation-!cn
 host-suffix, yamibo.com, geolocation-!cn
 host-suffix, bsky.app, geolocation-!cn
@@ -9488,12 +9494,14 @@ host-suffix, fap666.com, geolocation-!cn
 host-suffix, fapality.com, geolocation-!cn
 host-suffix, fapcat.com, geolocation-!cn
 host-suffix, fapdude.com, geolocation-!cn
+host-suffix, fapello.com, geolocation-!cn
 host-suffix, faperoni.com, geolocation-!cn
 host-suffix, fapforfun.net, geolocation-!cn
 host-suffix, faphdporn.com, geolocation-!cn
 host-suffix, faphouse.com, geolocation-!cn
 host-suffix, fapmovz.com, geolocation-!cn
 host-suffix, fapnado.com, geolocation-!cn
+host-suffix, fapomania.com, geolocation-!cn
 host-suffix, fapopedia.net, geolocation-!cn
 host-suffix, fappcelebs.com, geolocation-!cn
 host-suffix, fappeningbook.com, geolocation-!cn
@@ -10813,6 +10821,7 @@ host-suffix, lbfmaddiction.com, geolocation-!cn
 host-suffix, lbtube.com, geolocation-!cn
 host-suffix, lcgirls.com, geolocation-!cn
 host-suffix, leakedmeat.com, geolocation-!cn
+host-suffix, leakedzone.com, geolocation-!cn
 host-suffix, leaksmodels.com, geolocation-!cn
 host-suffix, leakxxx.com, geolocation-!cn
 host-suffix, leliao1.com, geolocation-!cn
@@ -11422,6 +11431,7 @@ host-suffix, nudistsexvideos.com, geolocation-!cn
 host-suffix, nudistvoyeurbeach.com, geolocation-!cn
 host-suffix, nudity911.com, geolocation-!cn
 host-suffix, nudography.com, geolocation-!cn
+host-suffix, nudostar.tv, geolocation-!cn
 host-suffix, nuespournous.com, geolocation-!cn
 host-suffix, nuita.net, geolocation-!cn
 host-suffix, nukemanga.com, geolocation-!cn
@@ -14411,6 +14421,8 @@ host-suffix, pool.ntp.org, geolocation-!cn
 host-suffix, time.cloudflare.com, geolocation-!cn
 host-suffix, time.nrc.ca, geolocation-!cn
 host-suffix, time.windows.com, geolocation-!cn
+host, time.izatcloud.net, geolocation-!cn
+host, time.xtracloud.net, geolocation-!cn
 host-suffix, cn.pool.ntp.org, geolocation-!cn
 host-suffix, ntp.neu.edu.cn, geolocation-!cn
 host-suffix, ntp.ntsc.ac.cn, geolocation-!cn
@@ -15279,7 +15291,10 @@ host-suffix, strikinglycdn.com, geolocation-!cn
 host-suffix, openmidas.com, geolocation-!cn
 host-suffix, qq.design, geolocation-!cn
 host-suffix, qqgamedesign.com, geolocation-!cn
+host-suffix, tencent-cloud.cn, geolocation-!cn
+host-suffix, tencent-cloud.com, geolocation-!cn
 host-suffix, tencent.design, geolocation-!cn
+host-suffix, tencentcloud.com, geolocation-!cn
 host-suffix, tjstats.com, geolocation-!cn
 host-suffix, wegamedeveloper.com, geolocation-!cn
 host-suffix, weixinbridge.com, geolocation-!cn
@@ -18921,6 +18936,7 @@ host-suffix, deepmind.com, geolocation-!cn
 host-suffix, devsitetest.how, geolocation-!cn
 host-suffix, dialogflow.com, geolocation-!cn
 host-suffix, digitalassetlinks.org, geolocation-!cn
+host-suffix, docs.new, geolocation-!cn
 host-suffix, episodic.com, geolocation-!cn
 host-suffix, feedburner.com, geolocation-!cn
 host-suffix, fflick.com, geolocation-!cn
@@ -19075,6 +19091,8 @@ host-suffix, saynow.com, geolocation-!cn
 host-suffix, schemer.com, geolocation-!cn
 host-suffix, screenwisetrends.com, geolocation-!cn
 host-suffix, screenwisetrendspanel.com, geolocation-!cn
+host-suffix, sheets.new, geolocation-!cn
+host-suffix, slides.new, geolocation-!cn
 host-suffix, snapseed.com, geolocation-!cn
 host-suffix, solveforx.com, geolocation-!cn
 host-suffix, stadia.dev, geolocation-!cn
@@ -19118,6 +19136,7 @@ host-suffix, webpkgcache.com, geolocation-!cn
 host-suffix, webrtc.org, geolocation-!cn
 host-suffix, weltweitwachsen.de, geolocation-!cn
 host-suffix, whatbrowser.org, geolocation-!cn
+host-suffix, whats.new, geolocation-!cn
 host-suffix, widevine.com, geolocation-!cn
 host-suffix, withgoogle.com, geolocation-!cn
 host-suffix, womenwill.com, geolocation-!cn
@@ -21807,6 +21826,7 @@ host-suffix, uplinq.com, geolocation-!cn
 host-suffix, wipower.com, geolocation-!cn
 host-suffix, wirelessreach.com, geolocation-!cn
 host-suffix, xtracloud.cn, geolocation-!cn
+host-suffix, xtracloud.net, geolocation-!cn
 host-suffix, brewmp.com, geolocation-!cn
 host, qualcomm.sc.omtrdc.net, geolocation-!cn
 host-suffix, qwant.com, geolocation-!cn

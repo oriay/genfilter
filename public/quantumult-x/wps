@@ -1,5 +1,7 @@
 host-suffix, wps.cn, wps
 host-suffix, wps.com, wps
+host-suffix, wpscdn.cn, wps
+host-suffix, wpscdn.com, wps
 host-suffix, kscord.com, wps
 host-suffix, 51dzt.com, wps
 host-suffix, iciba.com, wps

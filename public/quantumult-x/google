@@ -267,6 +267,7 @@ host-suffix, deepmind.com, google
 host-suffix, devsitetest.how, google
 host-suffix, dialogflow.com, google
 host-suffix, digitalassetlinks.org, google
+host-suffix, docs.new, google
 host-suffix, episodic.com, google
 host-suffix, feedburner.com, google
 host-suffix, fflick.com, google
@@ -421,6 +422,8 @@ host-suffix, saynow.com, google
 host-suffix, schemer.com, google
 host-suffix, screenwisetrends.com, google
 host-suffix, screenwisetrendspanel.com, google
+host-suffix, sheets.new, google
+host-suffix, slides.new, google
 host-suffix, snapseed.com, google
 host-suffix, solveforx.com, google
 host-suffix, stadia.dev, google
@@ -464,6 +467,7 @@ host-suffix, webpkgcache.com, google
 host-suffix, webrtc.org, google
 host-suffix, weltweitwachsen.de, google
 host-suffix, whatbrowser.org, google
+host-suffix, whats.new, google
 host-suffix, widevine.com, google
 host-suffix, withgoogle.com, google
 host-suffix, womenwill.com, google
