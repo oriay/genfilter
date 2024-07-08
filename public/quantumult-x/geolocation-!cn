@@ -18509,6 +18509,11 @@ host-suffix, collabora.co.uk, geolocation-!cn
 host-suffix, collabora.com, geolocation-!cn
 host-suffix, collabora.org, geolocation-!cn
 host-suffix, collaboraoffice.com, geolocation-!cn
+host-suffix, corel.com, geolocation-!cn
+host-suffix, corel.net, geolocation-!cn
+host-suffix, coreldraw.app, geolocation-!cn
+host-suffix, coreldraw.com, geolocation-!cn
+host-suffix, corelstore.com, geolocation-!cn
 host-suffix, dell, geolocation-!cn
 host-suffix, dell-brand.com, geolocation-!cn
 host-suffix, dell.com, geolocation-!cn
@@ -21894,6 +21899,13 @@ host-suffix, samsungeshop.com.cn, geolocation-!cn
 host-suffix, samsunggalaxyfriends.com, geolocation-!cn
 host-suffix, samsungknox.com, geolocation-!cn
 host-suffix, samsungqbe.com, geolocation-!cn
+host-suffix, skyperfectjsat.space, geolocation-!cn
+host-suffix, sptvbroadcast.com, geolocation-!cn
+host-suffix, spcc-sp.com, geolocation-!cn
+host-suffix, skyperfectv.co.jp, geolocation-!cn
+host-suffix, hominis.media, geolocation-!cn
+host-suffix, jsati.com, geolocation-!cn
+host-suffix, jsatmobile.com, geolocation-!cn
 host-suffix, barkadahansasmartone.com, geolocation-!cn
 host-suffix, healthreach.hk, geolocation-!cn
 host-suffix, hkcircleapp.com, geolocation-!cn
