@@ -4335,6 +4335,7 @@ host-suffix, catchplay.com, geolocation-!cn
 host-suffix, tra-ww000-cp.akamaized.net, geolocation-!cn
 host-suffix, dodi-repacks.download, geolocation-!cn
 host-suffix, dodi-repacks.site, geolocation-!cn
+host-suffix, fabricmc.net, geolocation-!cn
 host-suffix, fanatical.com, geolocation-!cn
 host-suffix, fitgirl-repacks.site, geolocation-!cn
 host-suffix, game-repack.site, geolocation-!cn
@@ -4345,7 +4346,9 @@ host-suffix, modrinth.com, geolocation-!cn
 host-suffix, nexusmods.com, geolocation-!cn
 host-suffix, papermc.io, geolocation-!cn
 host-suffix, planetminecraft.com, geolocation-!cn
+host-suffix, prismlauncher.org, geolocation-!cn
 host-suffix, protondb.com, geolocation-!cn
+host-suffix, quiltmc.org, geolocation-!cn
 host-suffix, speedrun.com, geolocation-!cn
 host-suffix, steamdb.info, geolocation-!cn
 host-suffix, 2k.com, geolocation-!cn
