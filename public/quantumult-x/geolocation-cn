@@ -4664,6 +4664,7 @@ host-suffix, analytics.163.com, geolocation-cn
 host-suffix, crash.163.com, geolocation-cn
 host-suffix, crashlytics.163.com, geolocation-cn
 host-suffix, g.163.com, geolocation-cn
+host-suffix, allawntech.com, geolocation-cn
 host-suffix, coloros.com, geolocation-cn
 host-suffix, finzfin.com, geolocation-cn
 host-suffix, heytap.com, geolocation-cn

@@ -5249,6 +5249,7 @@ host-suffix, hbogoasia.tw, geolocation-!cn
 host-suffix, hbomax.com, geolocation-!cn
 host-suffix, hbomaxcdn.com, geolocation-!cn
 host-suffix, hbonow.com, geolocation-!cn
+host-suffix, max.com, geolocation-!cn
 host-suffix, maxgo.com, geolocation-!cn
 host-suffix, hbo.com.c.footprint.net, geolocation-!cn
 host-suffix, hbo.com.edgesuite.net, geolocation-!cn
