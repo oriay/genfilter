@@ -2269,6 +2269,8 @@ host-suffix, swiftui.cn, category-companies
 host-suffix, swiftui.com.cn, category-companies
 host-suffix, asus.com, category-companies
 host-suffix, asus.com.cn, category-companies
+host-suffix, asuscloud.com, category-companies
+host-suffix, asuswebstorage.com, category-companies
 host-suffix, atlassian.com, category-companies
 host-suffix, atlassian.net, category-companies
 host-suffix, bitbucket.io, category-companies
