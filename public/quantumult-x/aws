@@ -3,8 +3,12 @@ host-suffix, acmvalidations.com, aws
 host-suffix, acmvalidationsaws.com, aws
 host-suffix, aesworkshops.com, aws
 host-suffix, amazonaws-china.com, aws
+host-suffix, amazonaws.biz, aws
 host-suffix, amazonaws.co.uk, aws
 host-suffix, amazonaws.com, aws
+host-suffix, amazonaws.info, aws
+host-suffix, amazonaws.net, aws
+host-suffix, amazonaws.org, aws
 host-suffix, amazonaws.tv, aws
 host-suffix, amazonses.com, aws
 host-suffix, amazonworkdocs.com, aws

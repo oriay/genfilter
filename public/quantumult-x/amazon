@@ -107,8 +107,12 @@ host-suffix, acmvalidations.com, amazon
 host-suffix, acmvalidationsaws.com, amazon
 host-suffix, aesworkshops.com, amazon
 host-suffix, amazonaws-china.com, amazon
+host-suffix, amazonaws.biz, amazon
 host-suffix, amazonaws.co.uk, amazon
 host-suffix, amazonaws.com, amazon
+host-suffix, amazonaws.info, amazon
+host-suffix, amazonaws.net, amazon
+host-suffix, amazonaws.org, amazon
 host-suffix, amazonaws.tv, amazon
 host-suffix, amazonses.com, amazon
 host-suffix, amazonworkdocs.com, amazon

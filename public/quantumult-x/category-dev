@@ -10,7 +10,6 @@ host-suffix, centos.org, category-dev
 host-suffix, chocolatey.org, category-dev
 host-suffix, clojure.org, category-dev
 host-suffix, cnpmjs.org, category-dev
-host-suffix, codeberg.org, category-dev
 host-suffix, cygwin.com, category-dev
 host-suffix, cython.org, category-dev
 host-suffix, deno.land, category-dev
@@ -146,6 +145,8 @@ host-suffix, mcr.microsoft.com, category-dev
 host-suffix, quay.io, category-dev
 host-suffix, registry.gitlab.com, category-dev
 host-suffix, registry.k8s.io, category-dev
+host-suffix, codeberg.org, category-dev
+host-suffix, codeberg.page, category-dev
 host-suffix, dart.dev, category-dev
 host-suffix, dartlang.org, category-dev
 host-suffix, dartpad.dev, category-dev

@@ -4727,6 +4727,7 @@ host-suffix, oneplus.net, geolocation-cn
 host-suffix, opstatics.com, geolocation-cn
 host-suffix, oneplusbbs.com, geolocation-cn
 host-suffix, h2os.com, geolocation-cn
+host, community.oneplus.com, geolocation-cn
 host-suffix, 360.cn, geolocation-cn
 host-suffix, 360.com, geolocation-cn
 host-suffix, 360.net, geolocation-cn
@@ -5487,6 +5488,10 @@ host-suffix, qyyjt.cn, geolocation-cn
 host-suffix, jindidata.com, geolocation-cn
 host-suffix, tianyancha.com, geolocation-cn
 host-suffix, x315.com, geolocation-cn
+host-suffix, ehaier.com, geolocation-cn
+host-suffix, haier.com, geolocation-cn
+host-suffix, haier.net, geolocation-cn
+host-suffix, haiersmarthomes.com, geolocation-cn
 host-suffix, , geolocation-cn
 host-suffix, bjyouth.gov.cn, geolocation-cn
 host-suffix, bjyouth.net, geolocation-cn
@@ -5540,6 +5545,11 @@ host-suffix, learnywhere.cn, geolocation-cn
 host-suffix, learnywhere.com.cn, geolocation-cn
 host-suffix, qlisten.cn, geolocation-cn
 host-suffix, qtyy.cn, geolocation-cn
+host-suffix, i2oo.cn, geolocation-cn
+host-suffix, laoban100.com, geolocation-cn
+host-suffix, shengyi.ai, geolocation-cn
+host-suffix, shengyizhuanjia.com, geolocation-cn
+host-suffix, yuanbei.biz, geolocation-cn
 host-suffix, fspcdn.com, geolocation-cn
 host-suffix, fun.tv, geolocation-cn
 host-suffix, funshion.com, geolocation-cn

@@ -4763,6 +4763,7 @@ host-suffix, oneplus.net, cn
 host-suffix, opstatics.com, cn
 host-suffix, oneplusbbs.com, cn
 host-suffix, h2os.com, cn
+host, community.oneplus.com, cn
 host-suffix, 360.cn, cn
 host-suffix, 360.com, cn
 host-suffix, 360.net, cn
@@ -5523,6 +5524,10 @@ host-suffix, qyyjt.cn, cn
 host-suffix, jindidata.com, cn
 host-suffix, tianyancha.com, cn
 host-suffix, x315.com, cn
+host-suffix, ehaier.com, cn
+host-suffix, haier.com, cn
+host-suffix, haier.net, cn
+host-suffix, haiersmarthomes.com, cn
 host-suffix, , cn
 host-suffix, bjyouth.gov.cn, cn
 host-suffix, bjyouth.net, cn
@@ -5576,6 +5581,11 @@ host-suffix, learnywhere.cn, cn
 host-suffix, learnywhere.com.cn, cn
 host-suffix, qlisten.cn, cn
 host-suffix, qtyy.cn, cn
+host-suffix, i2oo.cn, cn
+host-suffix, laoban100.com, cn
+host-suffix, shengyi.ai, cn
+host-suffix, shengyizhuanjia.com, cn
+host-suffix, yuanbei.biz, cn
 host-suffix, fspcdn.com, cn
 host-suffix, fun.tv, cn
 host-suffix, funshion.com, cn

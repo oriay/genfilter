@@ -272,6 +272,7 @@ host-suffix, episodic.com, google
 host-suffix, feedburner.com, google
 host-suffix, fflick.com, google
 host-suffix, financeleadsonline.com, google
+host-suffix, fitbit.com, google
 host-suffix, foofle.com, google
 host-suffix, froogle.com, google
 host-suffix, fuchsia.dev, google
@@ -569,8 +570,6 @@ host, goto.google.com, google
 host, gstatic-cn.com, google
 host, gstaticadssl.l.google.com, google
 host, gtm.oasisfeng.com, google
-host, gvt1-cn.com, google
-host, gvt2-cn.com, google
 host, imasdk.googleapis.com, google
 host, monitoring.qatp1.net, google
 host, monitoring.qcpp1.net, google
@@ -677,6 +676,8 @@ host, uberproxy-with-cn.l.google.com, google
 host, uberproxy-with-cn4.l.google.com, google
 host, uberproxy-with-cn6.l.google.com, google
 host, qiao-cn.com, google
+host-suffix, gvt1-cn.com, google
+host-suffix, gvt2-cn.com, google
 host-suffix, android.com, google
 host-suffix, androidify.com, google
 host-suffix, blogger.com, google

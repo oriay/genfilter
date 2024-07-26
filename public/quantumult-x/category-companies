@@ -384,8 +384,12 @@ host-suffix, acmvalidations.com, category-companies
 host-suffix, acmvalidationsaws.com, category-companies
 host-suffix, aesworkshops.com, category-companies
 host-suffix, amazonaws-china.com, category-companies
+host-suffix, amazonaws.biz, category-companies
 host-suffix, amazonaws.co.uk, category-companies
 host-suffix, amazonaws.com, category-companies
+host-suffix, amazonaws.info, category-companies
+host-suffix, amazonaws.net, category-companies
+host-suffix, amazonaws.org, category-companies
 host-suffix, amazonaws.tv, category-companies
 host-suffix, amazonses.com, category-companies
 host-suffix, amazonworkdocs.com, category-companies
@@ -3612,6 +3616,7 @@ host-suffix, episodic.com, category-companies
 host-suffix, feedburner.com, category-companies
 host-suffix, fflick.com, category-companies
 host-suffix, financeleadsonline.com, category-companies
+host-suffix, fitbit.com, category-companies
 host-suffix, foofle.com, category-companies
 host-suffix, froogle.com, category-companies
 host-suffix, fuchsia.dev, category-companies
@@ -3909,8 +3914,6 @@ host, goto.google.com, category-companies
 host, gstatic-cn.com, category-companies
 host, gstaticadssl.l.google.com, category-companies
 host, gtm.oasisfeng.com, category-companies
-host, gvt1-cn.com, category-companies
-host, gvt2-cn.com, category-companies
 host, imasdk.googleapis.com, category-companies
 host, monitoring.qatp1.net, category-companies
 host, monitoring.qcpp1.net, category-companies
@@ -4017,6 +4020,8 @@ host, uberproxy-with-cn.l.google.com, category-companies
 host, uberproxy-with-cn4.l.google.com, category-companies
 host, uberproxy-with-cn6.l.google.com, category-companies
 host, qiao-cn.com, category-companies
+host-suffix, gvt1-cn.com, category-companies
+host-suffix, gvt2-cn.com, category-companies
 host-suffix, android.com, category-companies
 host-suffix, androidify.com, category-companies
 host-suffix, blogger.com, category-companies
@@ -6595,6 +6600,11 @@ host-suffix, snapchat.com, category-companies
 host-suffix, snapkit.co, category-companies
 host, impala-media-production.s3.amazonaws.com, category-companies
 host-suffix, sony, category-companies
+host-suffix, sonynetwork.co.jp, category-companies
+host-suffix, nuro.jp, category-companies
+host-suffix, so-net.ne.jp, category-companies
+host-suffix, sony-semicon.co.jp, category-companies
+host-suffix, sony-semicon.com, category-companies
 host-suffix, ginzasonypark.jp, category-companies
 host-suffix, sony-africa.com, category-companies
 host-suffix, sony-asia.com, category-companies
@@ -6604,11 +6614,11 @@ host-suffix, sony-latin.com, category-companies
 host-suffix, sony-mea.com, category-companies
 host-suffix, sony-olympus-medical.com, category-companies
 host-suffix, sony-promotion.eu, category-companies
-host-suffix, sony-semicon.co.jp, category-companies
 host-suffix, sony.at, category-companies
 host-suffix, sony.ba, category-companies
 host-suffix, sony.be, category-companies
 host-suffix, sony.bg, category-companies
+host-suffix, sony.biz, category-companies
 host-suffix, sony.ca, category-companies
 host-suffix, sony.ch, category-companies
 host-suffix, sony.cl, category-companies
@@ -6685,6 +6695,7 @@ host-suffix, sonyprotechnosupport.co.jp, category-companies
 host-suffix, sonystoragemedia.co.jp, category-companies
 host-suffix, sonytc.co.jp, category-companies
 host-suffix, sovec.net, category-companies
+host-suffix, so-net.net.tw, category-companies
 host-suffix, playstation, category-companies
 host-suffix, playstation.com, category-companies
 host-suffix, playstation.net, category-companies

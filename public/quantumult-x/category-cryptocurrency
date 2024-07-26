@@ -143,3 +143,5 @@ host-suffix, zb.app, category-cryptocurrency
 host-suffix, zb.com, category-cryptocurrency
 host-suffix, zb.io, category-cryptocurrency
 host-suffix, zb.live, category-cryptocurrency
+host-suffix, kucoin.com, category-cryptocurrency
+host-suffix, kucoin.plus, category-cryptocurrency

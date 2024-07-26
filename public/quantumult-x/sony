@@ -1,4 +1,9 @@
 host-suffix, sony, sony
+host-suffix, sonynetwork.co.jp, sony
+host-suffix, nuro.jp, sony
+host-suffix, so-net.ne.jp, sony
+host-suffix, sony-semicon.co.jp, sony
+host-suffix, sony-semicon.com, sony
 host-suffix, ginzasonypark.jp, sony
 host-suffix, sony-africa.com, sony
 host-suffix, sony-asia.com, sony
@@ -8,11 +13,11 @@ host-suffix, sony-latin.com, sony
 host-suffix, sony-mea.com, sony
 host-suffix, sony-olympus-medical.com, sony
 host-suffix, sony-promotion.eu, sony
-host-suffix, sony-semicon.co.jp, sony
 host-suffix, sony.at, sony
 host-suffix, sony.ba, sony
 host-suffix, sony.be, sony
 host-suffix, sony.bg, sony
+host-suffix, sony.biz, sony
 host-suffix, sony.ca, sony
 host-suffix, sony.ch, sony
 host-suffix, sony.cl, sony
@@ -89,6 +94,7 @@ host-suffix, sonyprotechnosupport.co.jp, sony
 host-suffix, sonystoragemedia.co.jp, sony
 host-suffix, sonytc.co.jp, sony
 host-suffix, sovec.net, sony
+host-suffix, so-net.net.tw, sony
 host-suffix, playstation, sony
 host-suffix, playstation.com, sony
 host-suffix, playstation.net, sony
