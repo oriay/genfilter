@@ -20,7 +20,6 @@ host-suffix, hsbc.com.au, hsbc
 host-suffix, hsbc.com.bd, hsbc
 host-suffix, hsbc.com.bh, hsbc
 host-suffix, hsbc.com.br, hsbc
-host-suffix, hsbc.com.cn, hsbc
 host-suffix, hsbc.com.eg, hsbc
 host-suffix, hsbc.com.hk, hsbc
 host-suffix, hsbc.com.mo, hsbc
@@ -43,3 +42,6 @@ host-suffix, hsbc.ca, hsbc
 host-suffix, hsbc.co.jp, hsbc
 host-suffix, hsbc.fr, hsbc
 host-suffix, hsbctrinkaus.de, hsbc
+host-suffix, hsbc.com.cn, hsbc
+host-suffix, hsbcqh.com.cn, hsbc
+host-suffix, hsbcinsurance.com.cn, hsbc

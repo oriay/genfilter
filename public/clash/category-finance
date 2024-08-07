@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,hsbc.com.au
 DOMAIN-SUFFIX,hsbc.com.bd
 DOMAIN-SUFFIX,hsbc.com.bh
 DOMAIN-SUFFIX,hsbc.com.br
-DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbc.com.eg
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbc.com.mo
@@ -46,6 +45,9 @@ DOMAIN-SUFFIX,hsbc.ca
 DOMAIN-SUFFIX,hsbc.co.jp
 DOMAIN-SUFFIX,hsbc.fr
 DOMAIN-SUFFIX,hsbctrinkaus.de
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
 DOMAIN-SUFFIX,fsmone.com
 DOMAIN-SUFFIX,fsmone.com.hk
 DOMAIN-SUFFIX,fsmone.com.my

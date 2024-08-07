@@ -990,7 +990,9 @@ host, scc.ott.hinet.net, category-entertainment
 host, static-hamivideo.cdn.hinet.net, category-entertainment
 host, tvcastlive-hamivideo.cdn.hinet.net, category-entertainment
 host, weblive-hamivideo.cdn.hinet.net, category-entertainment
+host-suffix, brightline.tv, category-entertainment
 host-suffix, cinemax.com, category-entertainment
+host-suffix, discomax.com, category-entertainment
 host-suffix, forthethrone.com, category-entertainment
 host-suffix, hbo.com, category-entertainment
 host-suffix, hboasia.com, category-entertainment

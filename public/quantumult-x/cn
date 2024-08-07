@@ -122,6 +122,10 @@ host-suffix, chugou360.com, cn
 host-suffix, ycrx360.com, cn
 host-suffix, jikeiot.cloud, cn
 host-suffix, zyh365.com, cn
+host-suffix, cma.gov.cn, cn
+host-suffix, cma.cn, cn
+host-suffix, nmc.cn, cn
+host-suffix, cnr.cn, cn
 host-suffix, cyol.com, cn
 host-suffix, webterren.com, cn
 host-suffix, zzdtec.com, cn
@@ -880,6 +884,7 @@ host-suffix, rzrc114.com, cn
 host-suffix, saibo.com, cn
 host-suffix, sanguosha.com, cn
 host-suffix, sanwen.net, cn
+host-suffix, sast.fun, cn
 host-suffix, scdng.com, cn
 host-suffix, scoregg.com, cn
 host-suffix, sczsxx.com, cn
@@ -918,6 +923,7 @@ host-suffix, simei8.com, cn
 host-suffix, simuwang.com, cn
 host-suffix, sinesafe.com, cn
 host-suffix, sjwyx.com, cn
+host-suffix, skimit.net, cn
 host-suffix, skycn.com, cn
 host-suffix, sllssrq.com, cn
 host-suffix, snimay.com, cn
@@ -1205,6 +1211,15 @@ host-suffix, kujiale.com, cn
 host-suffix, wss.zone, cn
 host-suffix, hisensehitachi.com, cn
 host-suffix, moseeker.com, cn
+host-suffix, jsw118.com, cn
+host-suffix, sxcxldjy.com, cn
+host-suffix, shanxijianzhuzizhi.com, cn
+host-suffix, jztvnews.com, cn
+host-suffix, vhengdata.com, cn
+host-suffix, nanyuenews.com, cn
+host-suffix, educoder.net, cn
+host-suffix, tokcoder.com, cn
+host-suffix, trustie.net, cn
 host-suffix, 42r.cn, cn
 host-suffix, 5566ua.com, cn
 host-suffix, aurorapush.cn, cn
@@ -1249,7 +1264,6 @@ host-suffix, cgbchina.com.cn, cn
 host-suffix, cib.com.cn, cn
 host-suffix, citibank.com.cn, cn
 host-suffix, cmbc.com.cn, cn
-host-suffix, hsbc.com.cn, cn
 host-suffix, hxb.com.cn, cn
 host-suffix, njcb.com.cn, cn
 host-suffix, psbc.com, cn
@@ -1332,6 +1346,9 @@ host-suffix, cmf.ltd, cn
 host-suffix, cmfchina.com, cn
 host-suffix, cmfunds.cn, cn
 host-suffix, test-cignacmb.com, cn
+host-suffix, hsbc.com.cn, cn
+host-suffix, hsbcqh.com.cn, cn
+host-suffix, hsbcinsurance.com.cn, cn
 host-suffix, icbc, cn
 host-suffix, 95588.com, cn
 host-suffix, 95588.com.cn, cn
@@ -1611,6 +1628,11 @@ host-suffix, taikanglife.com, cn
 host-suffix, taikangzhijia.com, cn
 host-suffix, tkhealthcare.com, cn
 host-suffix, huangyuhui.net, cn
+host-suffix, 114blog.com, cn
+host-suffix, mryys.com, cn
+host-suffix, mryys.cn, cn
+host-suffix, 4thworkshop.com, cn
+host-suffix, 4thworkshop.cn, cn
 host-suffix, 3songshu.com, cn
 host-suffix, haidilao.com, cn
 host-suffix, 517lppz.com, cn
@@ -2114,7 +2136,9 @@ host-suffix, pinduoduo.com, cn
 host-suffix, pinduoduo.net, cn
 host-suffix, yangkeduo.com, cn
 host-suffix, smzdm.com, cn
+host-suffix, smzdmimg.com, cn
 host-suffix, zdmimg.com, cn
+host-suffix, zhidemai.com, cn
 host-suffix, cnsuning.com, cn
 host-suffix, suning.com, cn
 host-suffix, suningcloud.com, cn
@@ -2310,11 +2334,13 @@ host-suffix, ku6img.com, cn
 host-suffix, kkmh.com, cn
 host-suffix, kuaikanmanhua.com, cn
 host-suffix, gifshow.com, cn
+host-suffix, inkwai.com, cn
 host-suffix, ksapisrv.com, cn
 host-suffix, kuaishou.com, cn
-host-suffix, yximgs.com, cn
 host-suffix, kwaizt.com, cn
 host-suffix, kuaishouzt.com, cn
+host-suffix, kwimgs.com, cn
+host-suffix, yximgs.com, cn
 host, log-sdk.gifshow.com, cn
 host, wlog.kuaishou.com, cn
 host-suffix, kgimg.com, cn
@@ -2624,6 +2650,7 @@ host-suffix, pkuh6.cn, cn
 host-suffix, puh3.net.cn, cn
 host, hospital.pku.edu.cn, cn
 host, ss.bjmu.edu.cn, cn
+host-suffix, yctdyy.com, cn
 host-suffix, lkcoffee.com, cn
 host-suffix, luckincoffeecdn.com, cn
 host-suffix, yyds.co, cn
@@ -2871,6 +2898,10 @@ host-suffix, nowcoder.com, cn
 host-suffix, nowcoder.org, cn
 host-suffix, polyv.net, cn
 host-suffix, videocc.net, cn
+host-suffix, hecdn.net, cn
+host-suffix, heweather.net, cn
+host-suffix, qweather.com, cn
+host-suffix, qweather.net, cn
 host-suffix, renren.com, cn
 host-suffix, renren-inc.com, cn
 host-suffix, tendcloud.com, cn
@@ -4646,6 +4677,7 @@ host-suffix, 51dzt.com, cn
 host-suffix, iciba.com, cn
 host-suffix, docer.com, cn
 host-suffix, kdocs.cn, cn
+host-suffix, wpsmail.net, cn
 host-suffix, papocket.com, cn
 host-suffix, wpspdf.cn, cn
 host-suffix, lenovo.net, cn

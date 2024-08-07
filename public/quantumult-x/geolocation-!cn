@@ -1303,7 +1303,6 @@ host-suffix, hsbc.com.au, geolocation-!cn
 host-suffix, hsbc.com.bd, geolocation-!cn
 host-suffix, hsbc.com.bh, geolocation-!cn
 host-suffix, hsbc.com.br, geolocation-!cn
-host-suffix, hsbc.com.cn, geolocation-!cn
 host-suffix, hsbc.com.eg, geolocation-!cn
 host-suffix, hsbc.com.hk, geolocation-!cn
 host-suffix, hsbc.com.mo, geolocation-!cn
@@ -1326,6 +1325,9 @@ host-suffix, hsbc.ca, geolocation-!cn
 host-suffix, hsbc.co.jp, geolocation-!cn
 host-suffix, hsbc.fr, geolocation-!cn
 host-suffix, hsbctrinkaus.de, geolocation-!cn
+host-suffix, hsbc.com.cn, geolocation-!cn
+host-suffix, hsbcqh.com.cn, geolocation-!cn
+host-suffix, hsbcinsurance.com.cn, geolocation-!cn
 host-suffix, fsmone.com, geolocation-!cn
 host-suffix, fsmone.com.hk, geolocation-!cn
 host-suffix, fsmone.com.my, geolocation-!cn
@@ -3798,6 +3800,7 @@ host-suffix, cios.org, geolocation-!cn
 host-suffix, cmu.edu, geolocation-!cn
 host-suffix, cochranelibrary.com, geolocation-!cn
 host-suffix, computingreviews.com, geolocation-!cn
+host-suffix, csrankings.org, geolocation-!cn
 host-suffix, degruyter.com, geolocation-!cn
 host-suffix, dentalhypotheses.com, geolocation-!cn
 host-suffix, ebsco.com, geolocation-!cn
@@ -5321,7 +5324,9 @@ host, scc.ott.hinet.net, geolocation-!cn
 host, static-hamivideo.cdn.hinet.net, geolocation-!cn
 host, tvcastlive-hamivideo.cdn.hinet.net, geolocation-!cn
 host, weblive-hamivideo.cdn.hinet.net, geolocation-!cn
+host-suffix, brightline.tv, geolocation-!cn
 host-suffix, cinemax.com, geolocation-!cn
+host-suffix, discomax.com, geolocation-!cn
 host-suffix, forthethrone.com, geolocation-!cn
 host-suffix, hbo.com, geolocation-!cn
 host-suffix, hboasia.com, geolocation-!cn
@@ -5894,6 +5899,9 @@ host-suffix, 6park.com, geolocation-!cn
 host-suffix, 6parkbbs.com, geolocation-!cn
 host-suffix, 6parknews.com, geolocation-!cn
 host-suffix, cool18.com, geolocation-!cn
+host-suffix, popo8.com, geolocation-!cn
+host-suffix, parkvv.com, geolocation-!cn
+host-suffix, xwbo.com, geolocation-!cn
 host-suffix, ck101.com, geolocation-!cn
 host-suffix, ckcdn.com, geolocation-!cn
 host-suffix, ckck.fun, geolocation-!cn
@@ -6590,6 +6598,9 @@ host-suffix, 6park.com, geolocation-!cn
 host-suffix, 6parkbbs.com, geolocation-!cn
 host-suffix, 6parknews.com, geolocation-!cn
 host-suffix, cool18.com, geolocation-!cn
+host-suffix, popo8.com, geolocation-!cn
+host-suffix, parkvv.com, geolocation-!cn
+host-suffix, xwbo.com, geolocation-!cn
 host-suffix, 9cdn.net, geolocation-!cn
 host-suffix, 9nation.com.au, geolocation-!cn
 host-suffix, 9news.com.au, geolocation-!cn
@@ -8083,7 +8094,6 @@ host-suffix, 21hub.com, geolocation-!cn
 host-suffix, 21naturals.com, geolocation-!cn
 host-suffix, 21vv.cc, geolocation-!cn
 host-suffix, 2371tom.com, geolocation-!cn
-host-suffix, 249dw7.cn, geolocation-!cn
 host-suffix, 24hjav.com, geolocation-!cn
 host-suffix, 24porn.com, geolocation-!cn
 host-suffix, 24porn.pro, geolocation-!cn
@@ -9641,7 +9651,6 @@ host-suffix, fetishshrine.com, geolocation-!cn
 host-suffix, fetlife.com, geolocation-!cn
 host-suffix, fffucked.com, geolocation-!cn
 host-suffix, fgirl.ch, geolocation-!cn
-host-suffix, fi11.cn, geolocation-!cn
 host-suffix, fi11.com, geolocation-!cn
 host-suffix, fi11av1.com, geolocation-!cn
 host-suffix, fi11tv1.com, geolocation-!cn
@@ -13559,7 +13568,6 @@ host-suffix, xvirtual.com, geolocation-!cn
 host-suffix, xvxx.stream, geolocation-!cn
 host-suffix, xvxxtube.com, geolocation-!cn
 host-suffix, xx-map.com, geolocation-!cn
-host-suffix, xx159.com.cn, geolocation-!cn
 host-suffix, xx9.app, geolocation-!cn
 host-suffix, xxbook.cc, geolocation-!cn
 host-suffix, xxbrits.com, geolocation-!cn
@@ -13795,7 +13803,6 @@ host-suffix, yy55.tv, geolocation-!cn
 host-suffix, yy7y.com, geolocation-!cn
 host-suffix, yy8y.com, geolocation-!cn
 host-suffix, yyfb.cyou, geolocation-!cn
-host-suffix, yyyzgdl.cn, geolocation-!cn
 host-suffix, yzld188.top, geolocation-!cn
 host-suffix, z00.world, geolocation-!cn
 host-suffix, z676869.com, geolocation-!cn
@@ -18404,6 +18411,7 @@ host-suffix, bwh8.net, geolocation-!cn
 host-suffix, bwh81.net, geolocation-!cn
 host-suffix, bwh88.net, geolocation-!cn
 host-suffix, bwh89.net, geolocation-!cn
+host-suffix, bwhstatus.com, geolocation-!cn
 host-suffix, blurams.com, geolocation-!cn
 host-suffix, canon, geolocation-!cn
 host-suffix, c-ij.com, geolocation-!cn

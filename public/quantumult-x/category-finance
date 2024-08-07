@@ -23,7 +23,6 @@ host-suffix, hsbc.com.au, category-finance
 host-suffix, hsbc.com.bd, category-finance
 host-suffix, hsbc.com.bh, category-finance
 host-suffix, hsbc.com.br, category-finance
-host-suffix, hsbc.com.cn, category-finance
 host-suffix, hsbc.com.eg, category-finance
 host-suffix, hsbc.com.hk, category-finance
 host-suffix, hsbc.com.mo, category-finance
@@ -46,6 +45,9 @@ host-suffix, hsbc.ca, category-finance
 host-suffix, hsbc.co.jp, category-finance
 host-suffix, hsbc.fr, category-finance
 host-suffix, hsbctrinkaus.de, category-finance
+host-suffix, hsbc.com.cn, category-finance
+host-suffix, hsbcqh.com.cn, category-finance
+host-suffix, hsbcinsurance.com.cn, category-finance
 host-suffix, fsmone.com, category-finance
 host-suffix, fsmone.com.hk, category-finance
 host-suffix, fsmone.com.my, category-finance
