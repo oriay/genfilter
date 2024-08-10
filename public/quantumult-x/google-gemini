@@ -1,0 +1,5 @@
+host-suffix, gemini.google.com, google-gemini
+host-suffix, ai.google.dev, google-gemini
+host-suffix, aistudio.google.com, google-gemini
+host-suffix, generativelanguage.googleapis.com, google-gemini
+host-suffix, alkalimakersuite-pa.clients6.google.com, google-gemini

@@ -831,6 +831,11 @@ host-suffix, googlevads-cn.com, google
 host-suffix, marketingplatform.google.com, google
 host-suffix, urchin.com, google
 host, analytics.google.com, google
+host-suffix, gemini.google.com, google
+host-suffix, ai.google.dev, google
+host-suffix, aistudio.google.com, google
+host-suffix, generativelanguage.googleapis.com, google
+host-suffix, alkalimakersuite-pa.clients6.google.com, google
 host-suffix, charlestonroadregistry.com, google
 host-suffix, crr.com, google
 host-suffix, registry.google, google

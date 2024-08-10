@@ -4176,6 +4176,11 @@ host-suffix, googlevads-cn.com, category-companies
 host-suffix, marketingplatform.google.com, category-companies
 host-suffix, urchin.com, category-companies
 host, analytics.google.com, category-companies
+host-suffix, gemini.google.com, category-companies
+host-suffix, ai.google.dev, category-companies
+host-suffix, aistudio.google.com, category-companies
+host-suffix, generativelanguage.googleapis.com, category-companies
+host-suffix, alkalimakersuite-pa.clients6.google.com, category-companies
 host-suffix, charlestonroadregistry.com, category-companies
 host-suffix, crr.com, category-companies
 host-suffix, registry.google, category-companies
