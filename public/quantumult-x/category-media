@@ -1,7 +1,6 @@
 host-suffix, 881903.com, category-media
 host-suffix, am730.com.hk, category-media
 host-suffix, americasvoice.news, category-media
-host-suffix, appleinsider.com, category-media
 host-suffix, axios.com, category-media
 host-suffix, bbgwatch.com, category-media
 host-suffix, bnext.com.tw, category-media
@@ -40,7 +39,6 @@ host-suffix, landofhope.tv, category-media
 host-suffix, limedia.tw, category-media
 host-suffix, localpresshk.com, category-media
 host-suffix, ltsports.com.tw, category-media
-host-suffix, macrumors.com, category-media
 host-suffix, mdnkids.com, category-media
 host-suffix, mirrormedia.com.tw, category-media
 host-suffix, mirrormedia.mg, category-media
@@ -65,12 +63,10 @@ host-suffix, rtings.com, category-media
 host-suffix, shuziyimin.org, category-media
 host-suffix, singpao.com.hk, category-media
 host-suffix, sinoinsider.com, category-media
-host-suffix, slashdot.org, category-media
 host-suffix, socrec.org, category-media
 host-suffix, storm.mg, category-media
 host-suffix, taipeitimes.com, category-media
 host-suffix, taiwannews.com.tw, category-media
-host-suffix, technews.tw, category-media
 host-suffix, theaffairs.com, category-media
 host-suffix, theatlantic.com, category-media
 host-suffix, thegatewaypundit.com, category-media
@@ -116,13 +112,6 @@ host-suffix, ninemediaroom.com.au, category-media
 host-suffix, ninemsn.com.au, category-media
 host-suffix, static9.net.au, category-media
 host-suffix, yourtv.com.au, category-media
-host-suffix, 9to5google.com, category-media
-host-suffix, 9to5mac.com, category-media
-host-suffix, 9to5terminal.com, category-media
-host-suffix, 9to5toys.com, category-media
-host-suffix, dronedj.com, category-media
-host-suffix, electrek.co, category-media
-host-suffix, spaceexplored.com, category-media
 host-suffix, afp.com, category-media
 host-suffix, afpforum.com, category-media
 host-suffix, ajplus.net, category-media
@@ -1209,9 +1198,6 @@ host-suffix, theguardian.com, category-media
 host-suffix, theguardiandns.com, category-media
 host-suffix, theinitium.com, category-media
 host-suffix, init.shop, category-media
-host-suffix, thetype.cloud, category-media
-host-suffix, thetype.com, category-media
-host-suffix, typeisbeautiful.com, category-media
 host-suffix, aranzadi.es, category-media
 host-suffix, corepublishingsolutions.com, category-media
 host-suffix, elite.com, category-media
@@ -1349,8 +1335,6 @@ host-suffix, loveparents.org, category-media
 host-suffix, superstation.com.tw, category-media
 host-suffix, watchout.tw, category-media
 host-suffix, waa.tw, category-media
-host-suffix, startupschool.org, category-media
-host-suffix, ycombinator.com, category-media
 host-suffix, chuokoron.jp, category-media
 host-suffix, fujinkoron.jp, category-media
 host-suffix, hochi.news, category-media
@@ -1390,3 +1374,28 @@ host-suffix, zeebiz.com, category-media
 host-suffix, zeeentertainment.com, category-media
 host-suffix, zeenews.com, category-media
 host, zeenews-fonts.s3.amazonaws.com, category-media
+host-suffix, androidauthority.com, category-media
+host-suffix, androidpolice.com, category-media
+host-suffix, appleinsider.com, category-media
+host-suffix, digitaltrends.com, category-media
+host-suffix, engadget.com, category-media
+host-suffix, macrumors.com, category-media
+host-suffix, slashdot.org, category-media
+host-suffix, technews.tw, category-media
+host-suffix, techradar.com, category-media
+host-suffix, theverge.com, category-media
+host-suffix, tomsguide.com, category-media
+host-suffix, zdnet.com, category-media
+host-suffix, zdnet.redvideo.io, category-media
+host-suffix, 9to5google.com, category-media
+host-suffix, 9to5mac.com, category-media
+host-suffix, 9to5terminal.com, category-media
+host-suffix, 9to5toys.com, category-media
+host-suffix, dronedj.com, category-media
+host-suffix, electrek.co, category-media
+host-suffix, spaceexplored.com, category-media
+host-suffix, thetype.cloud, category-media
+host-suffix, thetype.com, category-media
+host-suffix, typeisbeautiful.com, category-media
+host-suffix, startupschool.org, category-media
+host-suffix, ycombinator.com, category-media

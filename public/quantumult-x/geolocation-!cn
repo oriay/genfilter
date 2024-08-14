@@ -6500,7 +6500,6 @@ host-suffix, cloudflare-ipfs.com, geolocation-!cn
 host-suffix, 881903.com, geolocation-!cn
 host-suffix, am730.com.hk, geolocation-!cn
 host-suffix, americasvoice.news, geolocation-!cn
-host-suffix, appleinsider.com, geolocation-!cn
 host-suffix, axios.com, geolocation-!cn
 host-suffix, bbgwatch.com, geolocation-!cn
 host-suffix, bnext.com.tw, geolocation-!cn
@@ -6539,7 +6538,6 @@ host-suffix, landofhope.tv, geolocation-!cn
 host-suffix, limedia.tw, geolocation-!cn
 host-suffix, localpresshk.com, geolocation-!cn
 host-suffix, ltsports.com.tw, geolocation-!cn
-host-suffix, macrumors.com, geolocation-!cn
 host-suffix, mdnkids.com, geolocation-!cn
 host-suffix, mirrormedia.com.tw, geolocation-!cn
 host-suffix, mirrormedia.mg, geolocation-!cn
@@ -6564,12 +6562,10 @@ host-suffix, rtings.com, geolocation-!cn
 host-suffix, shuziyimin.org, geolocation-!cn
 host-suffix, singpao.com.hk, geolocation-!cn
 host-suffix, sinoinsider.com, geolocation-!cn
-host-suffix, slashdot.org, geolocation-!cn
 host-suffix, socrec.org, geolocation-!cn
 host-suffix, storm.mg, geolocation-!cn
 host-suffix, taipeitimes.com, geolocation-!cn
 host-suffix, taiwannews.com.tw, geolocation-!cn
-host-suffix, technews.tw, geolocation-!cn
 host-suffix, theaffairs.com, geolocation-!cn
 host-suffix, theatlantic.com, geolocation-!cn
 host-suffix, thegatewaypundit.com, geolocation-!cn
@@ -6615,13 +6611,6 @@ host-suffix, ninemediaroom.com.au, geolocation-!cn
 host-suffix, ninemsn.com.au, geolocation-!cn
 host-suffix, static9.net.au, geolocation-!cn
 host-suffix, yourtv.com.au, geolocation-!cn
-host-suffix, 9to5google.com, geolocation-!cn
-host-suffix, 9to5mac.com, geolocation-!cn
-host-suffix, 9to5terminal.com, geolocation-!cn
-host-suffix, 9to5toys.com, geolocation-!cn
-host-suffix, dronedj.com, geolocation-!cn
-host-suffix, electrek.co, geolocation-!cn
-host-suffix, spaceexplored.com, geolocation-!cn
 host-suffix, afp.com, geolocation-!cn
 host-suffix, afpforum.com, geolocation-!cn
 host-suffix, ajplus.net, geolocation-!cn
@@ -7708,9 +7697,6 @@ host-suffix, theguardian.com, geolocation-!cn
 host-suffix, theguardiandns.com, geolocation-!cn
 host-suffix, theinitium.com, geolocation-!cn
 host-suffix, init.shop, geolocation-!cn
-host-suffix, thetype.cloud, geolocation-!cn
-host-suffix, thetype.com, geolocation-!cn
-host-suffix, typeisbeautiful.com, geolocation-!cn
 host-suffix, aranzadi.es, geolocation-!cn
 host-suffix, corepublishingsolutions.com, geolocation-!cn
 host-suffix, elite.com, geolocation-!cn
@@ -7848,8 +7834,6 @@ host-suffix, loveparents.org, geolocation-!cn
 host-suffix, superstation.com.tw, geolocation-!cn
 host-suffix, watchout.tw, geolocation-!cn
 host-suffix, waa.tw, geolocation-!cn
-host-suffix, startupschool.org, geolocation-!cn
-host-suffix, ycombinator.com, geolocation-!cn
 host-suffix, chuokoron.jp, geolocation-!cn
 host-suffix, fujinkoron.jp, geolocation-!cn
 host-suffix, hochi.news, geolocation-!cn
@@ -7889,6 +7873,31 @@ host-suffix, zeebiz.com, geolocation-!cn
 host-suffix, zeeentertainment.com, geolocation-!cn
 host-suffix, zeenews.com, geolocation-!cn
 host, zeenews-fonts.s3.amazonaws.com, geolocation-!cn
+host-suffix, androidauthority.com, geolocation-!cn
+host-suffix, androidpolice.com, geolocation-!cn
+host-suffix, appleinsider.com, geolocation-!cn
+host-suffix, digitaltrends.com, geolocation-!cn
+host-suffix, engadget.com, geolocation-!cn
+host-suffix, macrumors.com, geolocation-!cn
+host-suffix, slashdot.org, geolocation-!cn
+host-suffix, technews.tw, geolocation-!cn
+host-suffix, techradar.com, geolocation-!cn
+host-suffix, theverge.com, geolocation-!cn
+host-suffix, tomsguide.com, geolocation-!cn
+host-suffix, zdnet.com, geolocation-!cn
+host-suffix, zdnet.redvideo.io, geolocation-!cn
+host-suffix, 9to5google.com, geolocation-!cn
+host-suffix, 9to5mac.com, geolocation-!cn
+host-suffix, 9to5terminal.com, geolocation-!cn
+host-suffix, 9to5toys.com, geolocation-!cn
+host-suffix, dronedj.com, geolocation-!cn
+host-suffix, electrek.co, geolocation-!cn
+host-suffix, spaceexplored.com, geolocation-!cn
+host-suffix, thetype.cloud, geolocation-!cn
+host-suffix, thetype.com, geolocation-!cn
+host-suffix, typeisbeautiful.com, geolocation-!cn
+host-suffix, startupschool.org, geolocation-!cn
+host-suffix, ycombinator.com, geolocation-!cn
 host-suffix, pugpig-dev.com, geolocation-!cn
 host-suffix, pugpig-stage.com, geolocation-!cn
 host-suffix, pugpig.com, geolocation-!cn
