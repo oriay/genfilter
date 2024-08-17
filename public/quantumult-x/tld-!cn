@@ -90,7 +90,6 @@ host-suffix, gt, tld-!cn
 host-suffix, gu, tld-!cn
 host-suffix, gw, tld-!cn
 host-suffix, gy, tld-!cn
-host-suffix, hk, tld-!cn
 host-suffix, hm, tld-!cn
 host-suffix, hn, tld-!cn
 host-suffix, hr, tld-!cn
@@ -222,7 +221,6 @@ host-suffix, tn, tld-!cn
 host-suffix, to, tld-!cn
 host-suffix, tr, tld-!cn
 host-suffix, tt, tld-!cn
-host-suffix, tv, tld-!cn
 host-suffix, tw, tld-!cn
 host-suffix, tz, tld-!cn
 host-suffix, ua, tld-!cn
@@ -285,7 +283,6 @@ host-suffix, durban, tld-!cn
 host-suffix, joburg, tld-!cn
 host-suffix, abudhabi, tld-!cn
 host-suffix, arab, tld-!cn
-host-suffix, asia, tld-!cn
 host-suffix, dubai, tld-!cn
 host-suffix, krd, tld-!cn
 host-suffix, kyoto, tld-!cn
@@ -396,13 +393,11 @@ host-suffix, zara, tld-!cn
 host-suffix, africamagic, tld-!cn
 host-suffix, agakhan, tld-!cn
 host-suffix, akdn, tld-!cn
-host-suffix, baby, tld-!cn
 host-suffix, bar, tld-!cn
 host-suffix, bharti, tld-!cn
 host-suffix, bingo, tld-!cn
 host-suffix, casa, tld-!cn
 host-suffix, casino, tld-!cn
-host-suffix, chat, tld-!cn
 host-suffix, dating, tld-!cn
 host-suffix, domains, tld-!cn
 host-suffix, extraspace, tld-!cn
@@ -415,7 +410,6 @@ host-suffix, lgbt, tld-!cn
 host-suffix, maif, tld-!cn
 host-suffix, mattel, tld-!cn
 host-suffix, moe, tld-!cn
-host-suffix, poker, tld-!cn
 host-suffix, sas, tld-!cn
 host-suffix, shell, tld-!cn
 host-suffix, shia, tld-!cn
@@ -465,7 +459,6 @@ host-suffix, xn--e1a4c, tld-!cn
 host-suffix, xn--qxa6a, tld-!cn
 host-suffix, xn--node, tld-!cn
 host-suffix, xn--qxam, tld-!cn
-host-suffix, xn--j6w193g, tld-!cn
 host-suffix, xn--4dbrk0ce, tld-!cn
 host-suffix, xn--h2brj9c, tld-!cn
 host-suffix, xn--mgbbh1a71e, tld-!cn
@@ -586,7 +579,6 @@ host-suffix, bradesco, tld-!cn
 host-suffix, capitalone, tld-!cn
 host-suffix, cba, tld-!cn
 host-suffix, cfa, tld-!cn
-host-suffix, chase, tld-!cn
 host-suffix, citadel, tld-!cn
 host-suffix, citi, tld-!cn
 host-suffix, commbank, tld-!cn
@@ -599,7 +591,6 @@ host-suffix, hsbc, tld-!cn
 host-suffix, itau, tld-!cn
 host-suffix, jcb, tld-!cn
 host-suffix, jll, tld-!cn
-host-suffix, jpmorgan, tld-!cn
 host-suffix, kfh, tld-!cn
 host-suffix, kpmg, tld-!cn
 host-suffix, lacaixa, tld-!cn
@@ -616,7 +607,6 @@ host-suffix, pramerica, tld-!cn
 host-suffix, prudential, tld-!cn
 host-suffix, pru, tld-!cn
 host-suffix, pwc, tld-!cn
-host-suffix, saxo, tld-!cn
 host-suffix, sbi, tld-!cn
 host-suffix, scb, tld-!cn
 host-suffix, softbank, tld-!cn
@@ -733,7 +723,6 @@ host-suffix, oracle, tld-!cn
 host-suffix, orange, tld-!cn
 host-suffix, ovh, tld-!cn
 host-suffix, pccw, tld-!cn
-host-suffix, quest, tld-!cn
 host-suffix, richardli, tld-!cn
 host-suffix, ricoh, tld-!cn
 host-suffix, rogers, tld-!cn
