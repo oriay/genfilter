@@ -4304,6 +4304,7 @@ host-suffix, skypixel.com, geolocation-cn
 host-suffix, abhouses.com, geolocation-cn
 host-suffix, agconnect.link, geolocation-cn
 host-suffix, dbank.com, geolocation-cn
+host-suffix, dbankcdn.cn, geolocation-cn
 host-suffix, dbankcdn.com, geolocation-cn
 host-suffix, dbankcloud.com, geolocation-cn
 host-suffix, hicloud.com, geolocation-cn
