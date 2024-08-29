@@ -263,7 +263,6 @@ DOMAIN-SUFFIX,dartsearch.net
 DOMAIN-SUFFIX,dataliberation.org
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
-DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,devsitetest.how
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,digitalassetlinks.org
@@ -831,11 +830,15 @@ DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
-DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,registry.google

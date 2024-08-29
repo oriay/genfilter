@@ -487,6 +487,9 @@ DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com
 DOMAIN-SUFFIX,radeon.com
 DOMAIN,www.amd.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple.ae
 DOMAIN-SUFFIX,apple.at
@@ -3617,7 +3620,6 @@ DOMAIN-SUFFIX,dartsearch.net
 DOMAIN-SUFFIX,dataliberation.org
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
-DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,devsitetest.how
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,digitalassetlinks.org
@@ -4185,11 +4187,15 @@ DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
-DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,crr.com
 DOMAIN-SUFFIX,registry.google
@@ -7175,6 +7181,7 @@ DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-SUFFIX,nomachine.com
 DOMAIN-SUFFIX,rustdesk.com

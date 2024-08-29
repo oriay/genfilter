@@ -487,6 +487,9 @@ host-suffix, amd.com.cn, category-companies
 host-suffix, amdfanstore.com, category-companies
 host-suffix, radeon.com, category-companies
 host, www.amd.com, category-companies
+host-suffix, anthropic.com, category-companies
+host-suffix, claude.ai, category-companies
+host, servd-anthropic-website.b-cdn.net, category-companies
 host-suffix, apple, category-companies
 host-suffix, apple.ae, category-companies
 host-suffix, apple.at, category-companies
@@ -3617,7 +3620,6 @@ host-suffix, dartsearch.net, category-companies
 host-suffix, dataliberation.org, category-companies
 host-suffix, debug.com, category-companies
 host-suffix, debugproject.com, category-companies
-host-suffix, deepmind.com, category-companies
 host-suffix, devsitetest.how, category-companies
 host-suffix, dialogflow.com, category-companies
 host-suffix, digitalassetlinks.org, category-companies
@@ -4185,11 +4187,15 @@ host-suffix, googlevads-cn.com, category-companies
 host-suffix, marketingplatform.google.com, category-companies
 host-suffix, urchin.com, category-companies
 host, analytics.google.com, category-companies
-host-suffix, gemini.google.com, category-companies
+host-suffix, deepmind.com, category-companies
+host-suffix, deepmind.google, category-companies
 host-suffix, ai.google.dev, category-companies
 host-suffix, aistudio.google.com, category-companies
+host-suffix, bard.google.com, category-companies
+host-suffix, gemini.google.com, category-companies
 host-suffix, generativelanguage.googleapis.com, category-companies
-host-suffix, alkalimakersuite-pa.clients6.google.com, category-companies
+host-suffix, makersuite.google.com, category-companies
+host, alkalimakersuite-pa.clients6.google.com, category-companies
 host-suffix, charlestonroadregistry.com, category-companies
 host-suffix, crr.com, category-companies
 host-suffix, registry.google, category-companies
@@ -7175,6 +7181,7 @@ host-suffix, yandex.ua, category-companies
 host-suffix, yandex.uz, category-companies
 host-suffix, yandexcloud.net, category-companies
 host-suffix, yastatic.net, category-companies
+host-suffix, x.ai, category-companies
 host-suffix, anydesk.com, category-companies
 host-suffix, nomachine.com, category-companies
 host-suffix, rustdesk.com, category-companies

@@ -263,7 +263,6 @@ host-suffix, dartsearch.net, google
 host-suffix, dataliberation.org, google
 host-suffix, debug.com, google
 host-suffix, debugproject.com, google
-host-suffix, deepmind.com, google
 host-suffix, devsitetest.how, google
 host-suffix, dialogflow.com, google
 host-suffix, digitalassetlinks.org, google
@@ -831,11 +830,15 @@ host-suffix, googlevads-cn.com, google
 host-suffix, marketingplatform.google.com, google
 host-suffix, urchin.com, google
 host, analytics.google.com, google
-host-suffix, gemini.google.com, google
+host-suffix, deepmind.com, google
+host-suffix, deepmind.google, google
 host-suffix, ai.google.dev, google
 host-suffix, aistudio.google.com, google
+host-suffix, bard.google.com, google
+host-suffix, gemini.google.com, google
 host-suffix, generativelanguage.googleapis.com, google
-host-suffix, alkalimakersuite-pa.clients6.google.com, google
+host-suffix, makersuite.google.com, google
+host, alkalimakersuite-pa.clients6.google.com, google
 host-suffix, charlestonroadregistry.com, google
 host-suffix, crr.com, google
 host-suffix, registry.google, google
