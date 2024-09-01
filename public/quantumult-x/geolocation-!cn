@@ -10,7 +10,10 @@ host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
 host-suffix, api.nebula-emby.com, geolocation-!cn
 host-suffix, web.nebula-emby.com, geolocation-!cn
+host-suffix, notebooklm.google, geolocation-!cn
+host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
+host-suffix, openart.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn

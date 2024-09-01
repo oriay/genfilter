@@ -1,4 +1,7 @@
+host-suffix, notebooklm.google, category-ai-chat-!cn
+host-suffix, notebooklm.google.com, category-ai-chat-!cn
 host-suffix, meta.ai, category-ai-chat-!cn
+host-suffix, openart.ai, category-ai-chat-!cn
 host-suffix, anthropic.com, category-ai-chat-!cn
 host-suffix, claude.ai, category-ai-chat-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-chat-!cn
