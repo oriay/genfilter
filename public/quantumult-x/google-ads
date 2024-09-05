@@ -38,6 +38,7 @@ host-suffix, googletagservices.com, google-ads
 host-suffix, googletraveladservices-cn.com, google-ads
 host-suffix, googletraveladservices.com, google-ads
 host-suffix, googlevads-cn.com, google-ads
+host-suffix, mail-ads.google.com, google-ads
 host-suffix, marketingplatform.google.com, google-ads
 host-suffix, urchin.com, google-ads
 host, analytics.google.com, google-ads

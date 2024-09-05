@@ -4184,6 +4184,7 @@ host-suffix, googletagservices.com, category-companies
 host-suffix, googletraveladservices-cn.com, category-companies
 host-suffix, googletraveladservices.com, category-companies
 host-suffix, googlevads-cn.com, category-companies
+host-suffix, mail-ads.google.com, category-companies
 host-suffix, marketingplatform.google.com, category-companies
 host-suffix, urchin.com, category-companies
 host, analytics.google.com, category-companies
@@ -6220,6 +6221,7 @@ host-suffix, doom.com, category-companies
 host-suffix, elderscrolls.com, category-companies
 host-suffix, callersbane.com, category-companies
 host-suffix, minecraft.net, category-companies
+host-suffix, minecraftservices.com, category-companies
 host-suffix, minecraftshop.com, category-companies
 host-suffix, mojang.com, category-companies
 host-suffix, mikrotik.com, category-companies

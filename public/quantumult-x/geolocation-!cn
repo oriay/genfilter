@@ -5159,6 +5159,7 @@ host-suffix, doom.com, geolocation-!cn
 host-suffix, elderscrolls.com, geolocation-!cn
 host-suffix, callersbane.com, geolocation-!cn
 host-suffix, minecraft.net, geolocation-!cn
+host-suffix, minecraftservices.com, geolocation-!cn
 host-suffix, minecraftshop.com, geolocation-!cn
 host-suffix, mojang.com, geolocation-!cn
 host-suffix, ynoproject.net, geolocation-!cn
@@ -19652,6 +19653,7 @@ host-suffix, googletagservices.com, geolocation-!cn
 host-suffix, googletraveladservices-cn.com, geolocation-!cn
 host-suffix, googletraveladservices.com, geolocation-!cn
 host-suffix, googlevads-cn.com, geolocation-!cn
+host-suffix, mail-ads.google.com, geolocation-!cn
 host-suffix, marketingplatform.google.com, geolocation-!cn
 host-suffix, urchin.com, geolocation-!cn
 host, analytics.google.com, geolocation-!cn
@@ -21688,6 +21690,7 @@ host-suffix, doom.com, geolocation-!cn
 host-suffix, elderscrolls.com, geolocation-!cn
 host-suffix, callersbane.com, geolocation-!cn
 host-suffix, minecraft.net, geolocation-!cn
+host-suffix, minecraftservices.com, geolocation-!cn
 host-suffix, minecraftshop.com, geolocation-!cn
 host-suffix, mojang.com, geolocation-!cn
 host-suffix, mikrotik.com, geolocation-!cn

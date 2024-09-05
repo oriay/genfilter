@@ -827,6 +827,7 @@ host-suffix, googletagservices.com, google
 host-suffix, googletraveladservices-cn.com, google
 host-suffix, googletraveladservices.com, google
 host-suffix, googlevads-cn.com, google
+host-suffix, mail-ads.google.com, google
 host-suffix, marketingplatform.google.com, google
 host-suffix, urchin.com, google
 host, analytics.google.com, google
