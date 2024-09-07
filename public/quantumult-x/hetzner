@@ -1,4 +1,6 @@
 host-suffix, hetzner.cloud, hetzner
 host-suffix, hetzner.com, hetzner
+host-suffix, hetzner.company, hetzner
 host-suffix, hetzner.de, hetzner
 host-suffix, your-server.de, hetzner
+host, sentry.hetzner.company, hetzner

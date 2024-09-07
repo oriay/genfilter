@@ -19970,8 +19970,10 @@ host-suffix, yt.be, geolocation-!cn
 host-suffix, ytimg.com, geolocation-!cn
 host-suffix, hetzner.cloud, geolocation-!cn
 host-suffix, hetzner.com, geolocation-!cn
+host-suffix, hetzner.company, geolocation-!cn
 host-suffix, hetzner.de, geolocation-!cn
 host-suffix, your-server.de, geolocation-!cn
+host, sentry.hetzner.company, geolocation-!cn
 host-suffix, cht.com.tw, geolocation-!cn
 host-suffix, chtf.org.tw, geolocation-!cn
 host-suffix, emome.net, geolocation-!cn
