@@ -3,7 +3,10 @@ host-suffix, agconnect.link, huawei
 host-suffix, dbank.com, huawei
 host-suffix, dbankcdn.cn, huawei
 host-suffix, dbankcdn.com, huawei
+host-suffix, dbankcloud.cn, huawei
 host-suffix, dbankcloud.com, huawei
+host-suffix, dbankedge.cn, huawei
+host-suffix, dbankedge.net, huawei
 host-suffix, hicloud.com, huawei
 host-suffix, hihonor.com, huawei
 host-suffix, honor.cn, huawei

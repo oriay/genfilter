@@ -6,4 +6,7 @@ host, alt5-mtalk.google.com, googlefcm
 host, alt6-mtalk.google.com, googlefcm
 host, alt7-mtalk.google.com, googlefcm
 host, alt8-mtalk.google.com, googlefcm
+host, mtalk-dev.google.com, googlefcm
+host, mtalk-staging.google.com, googlefcm
 host, mtalk.google.com, googlefcm
+host, mtalk4.google.com, googlefcm
