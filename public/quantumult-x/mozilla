@@ -8,6 +8,8 @@ host-suffix, bugzilla.org, mozilla
 host-suffix, getpocket.com, mozilla
 host-suffix, seamonkey-project.org, mozilla
 host-suffix, thunderbird.net, mozilla
+host-suffix, location.services.mozilla.com, mozilla
+host-suffix, push.services.mozilla.com, mozilla
 host-suffix, firefox.com, mozilla
 host-suffix, firefoxusercontent.com, mozilla
 host-suffix, developer.allizom.org, mozilla

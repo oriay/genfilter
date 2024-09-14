@@ -6308,6 +6308,8 @@ host-suffix, bugzilla.org, category-companies
 host-suffix, getpocket.com, category-companies
 host-suffix, seamonkey-project.org, category-companies
 host-suffix, thunderbird.net, category-companies
+host-suffix, location.services.mozilla.com, category-companies
+host-suffix, push.services.mozilla.com, category-companies
 host-suffix, firefox.com, category-companies
 host-suffix, firefoxusercontent.com, category-companies
 host-suffix, developer.allizom.org, category-companies

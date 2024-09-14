@@ -21803,6 +21803,8 @@ host-suffix, bugzilla.org, geolocation-!cn
 host-suffix, getpocket.com, geolocation-!cn
 host-suffix, seamonkey-project.org, geolocation-!cn
 host-suffix, thunderbird.net, geolocation-!cn
+host-suffix, location.services.mozilla.com, geolocation-!cn
+host-suffix, push.services.mozilla.com, geolocation-!cn
 host-suffix, firefox.com, geolocation-!cn
 host-suffix, firefoxusercontent.com, geolocation-!cn
 host-suffix, developer.allizom.org, geolocation-!cn
