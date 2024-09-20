@@ -1260,6 +1260,7 @@ host-suffix, ttwstatic.com, category-entertainment
 host, p16-tiktokcdn-com.akamaized.net, category-entertainment
 host-suffix, themoviedb.org, category-entertainment
 host-suffix, tmdb.org, category-entertainment
+host, tmdb-image-prod.b-cdn.net, category-entertainment
 host-suffix, thetvdb.com, category-entertainment
 host-suffix, dogatch.jp, category-entertainment
 host-suffix, gorin.jp, category-entertainment

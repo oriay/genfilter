@@ -12,6 +12,7 @@ host-suffix, clojure.org, category-dev
 host-suffix, cnpmjs.org, category-dev
 host-suffix, cygwin.com, category-dev
 host-suffix, cython.org, category-dev
+host-suffix, deno.com, category-dev
 host-suffix, deno.land, category-dev
 host-suffix, dev.to, category-dev
 host-suffix, elixir-lang.org, category-dev

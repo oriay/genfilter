@@ -9,3 +9,4 @@ host-suffix, speedtest.co, ookla-speedtest
 host-suffix, speedtest.net, ookla-speedtest
 host-suffix, speedtestcustom.com, ookla-speedtest
 host-suffix, webtest.net, ookla-speedtest
+host, www.speedtest.net.cdn.cloudflare.net, ookla-speedtest

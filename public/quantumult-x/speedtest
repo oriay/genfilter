@@ -9,3 +9,4 @@ host-suffix, speedtest.co, speedtest
 host-suffix, speedtest.net, speedtest
 host-suffix, speedtestcustom.com, speedtest
 host-suffix, webtest.net, speedtest
+host, www.speedtest.net.cdn.cloudflare.net, speedtest
