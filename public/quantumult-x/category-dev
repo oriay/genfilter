@@ -253,6 +253,7 @@ host-suffix, github.dev, category-dev
 host-suffix, github.io, category-dev
 host-suffix, githubapp.com, category-dev
 host-suffix, githubassets.com, category-dev
+host-suffix, githubcopilot.com, category-dev
 host-suffix, githubhackathon.com, category-dev
 host-suffix, githubnext.com, category-dev
 host-suffix, githubpreview.dev, category-dev

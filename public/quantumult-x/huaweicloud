@@ -1,3 +1,5 @@
+host-suffix, aadcloud.cn, huaweicloud
+host-suffix, aadcloud.com, huaweicloud
 host-suffix, ami-alliance.org.cn, huaweicloud
 host-suffix, b2bgo.com, huaweicloud
 host-suffix, eduapaashwc.com, huaweicloud
@@ -10,6 +12,8 @@ host-suffix, huaweicloud-dns.cn, huaweicloud
 host-suffix, huaweicloud-dns.com, huaweicloud
 host-suffix, huaweicloud-dns.net, huaweicloud
 host-suffix, huaweicloud-dns.org, huaweicloud
+host-suffix, huaweicloud-idme.cn, huaweicloud
+host-suffix, huaweicloud-idme.com, huaweicloud
 host-suffix, huaweicloud-smn.cn, huaweicloud
 host-suffix, huaweicloud-smn.com, huaweicloud
 host-suffix, huaweicloud-smn.net, huaweicloud
@@ -47,8 +51,15 @@ host-suffix, hwcloudsite.cn, huaweicloud
 host-suffix, hwcloudsite.com, huaweicloud
 host-suffix, hwcloudvis.cn, huaweicloud
 host-suffix, hwcloudvis.com, huaweicloud
+host-suffix, hweventgrid.cn, huaweicloud
+host-suffix, hweventgrid.com, huaweicloud
+host-suffix, idonguapi.cn, huaweicloud
+host-suffix, idonguapi.com, huaweicloud
 host-suffix, imc-oneaccess.cn, huaweicloud
 host-suffix, imcapptest.com, huaweicloud
+host-suffix, inanguapi.cn, huaweicloud
+host-suffix, inanguapi.com, huaweicloud
+host-suffix, ixiguapi.com, huaweicloud
 host-suffix, km6g.cn, huaweicloud
 host-suffix, km7g.cn, huaweicloud
 host-suffix, km8g.cn, huaweicloud
@@ -58,6 +69,14 @@ host-suffix, kmcb-cn-north-4.cn, huaweicloud
 host-suffix, kmop-cn-east-3.cn, huaweicloud
 host-suffix, kmop-cn-north-4.cn, huaweicloud
 host-suffix, livehwc3.cn, huaweicloud
+host-suffix, modelarts-infer.cn, huaweicloud
+host-suffix, modelarts-infer.com, huaweicloud
+host-suffix, myhuaweicloud-custom.cn, huaweicloud
+host-suffix, myhuaweicloud-custom.com, huaweicloud
+host-suffix, myhuaweicloud-koodrive.cn, huaweicloud
+host-suffix, myhuaweicloud-koodrive.com, huaweicloud
+host-suffix, myhuaweicloud-obs.cn, huaweicloud
+host-suffix, myhuaweicloud-obs.com, huaweicloud
 host-suffix, myhuaweicloud.cn, huaweicloud
 host-suffix, myhwcdn.cn, huaweicloud
 host-suffix, myhwcdn.com, huaweicloud
@@ -70,6 +89,7 @@ host-suffix, pagescube.cn, huaweicloud
 host-suffix, pagescube.com, huaweicloud
 host-suffix, powerapp.io, huaweicloud
 host-suffix, ae-ad-1.myhuaweicloud.com, huaweicloud
+host-suffix, af-north-1.myhuaweicloud.com, huaweicloud
 host-suffix, af-south-1.myhuaweicloud.com, huaweicloud
 host-suffix, ap-southeast-1.myhuaweicloud.com, huaweicloud
 host-suffix, ap-southeast-2.myhuaweicloud.com, huaweicloud
@@ -77,6 +97,7 @@ host-suffix, ap-southeast-3.myhuaweicloud.com, huaweicloud
 host-suffix, ap-southeast-4.myhuaweicloud.com, huaweicloud
 host-suffix, cn-east-2.myhuaweicloud.com, huaweicloud
 host-suffix, cn-east-3.myhuaweicloud.com, huaweicloud
+host-suffix, cn-east-4.myhuaweicloud.com, huaweicloud
 host-suffix, cn-east-5.myhuaweicloud.com, huaweicloud
 host-suffix, cn-north-1.myhuaweicloud.com, huaweicloud
 host-suffix, cn-north-11.myhuaweicloud.com, huaweicloud
@@ -96,7 +117,9 @@ host-suffix, eu-west-101.myhuaweicloud.com, huaweicloud
 host-suffix, la-north-2.myhuaweicloud.com, huaweicloud
 host-suffix, la-south-2.myhuaweicloud.com, huaweicloud
 host-suffix, me-east-1.myhuaweicloud.com, huaweicloud
+host-suffix, my-kualalumpur-1.myhuaweicloud.com, huaweicloud
 host-suffix, na-mexico-1.myhuaweicloud.com, huaweicloud
+host-suffix, ru-moscow-1.myhuaweicloud.com, huaweicloud
 host-suffix, ru-northwest-2.myhuaweicloud.com, huaweicloud
 host-suffix, sa-brazil-1.myhuaweicloud.com, huaweicloud
 host-suffix, tr-west-1.myhuaweicloud.com, huaweicloud

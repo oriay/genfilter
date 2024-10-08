@@ -20,6 +20,7 @@ host-suffix, meta.ai, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
+host-suffix, claudeusercontent.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
@@ -2184,11 +2185,13 @@ host-suffix, cloudflarestaging.com, geolocation-!cn
 host-suffix, cloudflarestoragegw.com, geolocation-!cn
 host-suffix, cf-ipfs.com, geolocation-!cn
 host-suffix, cloudflare-ipfs.com, geolocation-!cn
+host-suffix, fastly-edge.com, geolocation-!cn
+host-suffix, fastly-terrarium.com, geolocation-!cn
 host-suffix, fastly.com, geolocation-!cn
+host-suffix, fastly.io, geolocation-!cn
 host-suffix, fastly.net, geolocation-!cn
 host-suffix, fastlylabs.com, geolocation-!cn
 host-suffix, fastlylb.net, geolocation-!cn
-host-suffix, fastly-terrarium.com, geolocation-!cn
 host-suffix, zencdn.net, geolocation-!cn
 host-suffix, imgix.com, geolocation-!cn
 host-suffix, imgix.net, geolocation-!cn
@@ -2859,6 +2862,7 @@ host-suffix, gatedata.org, geolocation-!cn
 host-suffix, gateimg.com, geolocation-!cn
 host-suffix, gateio.live, geolocation-!cn
 host-suffix, gateio.services, geolocation-!cn
+host-suffix, htx.com, geolocation-!cn
 host-suffix, hbabit.com, geolocation-!cn
 host-suffix, hbfile.net, geolocation-!cn
 host-suffix, huobi.com, geolocation-!cn
@@ -10346,6 +10350,7 @@ host-suffix, hoyo.link, geolocation-!cn
 host-suffix, hoyolab.com, geolocation-!cn
 host-suffix, hoyoverse.com, geolocation-!cn
 host-suffix, n0vadesktop.com, geolocation-!cn
+host-suffix, zenlesszonezero.com, geolocation-!cn
 host-suffix, mhystatic.com, geolocation-!cn
 host-suffix, mhyurl.cn, geolocation-!cn
 host-suffix, mihayo.com, geolocation-!cn
@@ -11069,6 +11074,7 @@ host-suffix, hoyo.link, geolocation-!cn
 host-suffix, hoyolab.com, geolocation-!cn
 host-suffix, hoyoverse.com, geolocation-!cn
 host-suffix, n0vadesktop.com, geolocation-!cn
+host-suffix, zenlesszonezero.com, geolocation-!cn
 host-suffix, mhystatic.com, geolocation-!cn
 host-suffix, mhyurl.cn, geolocation-!cn
 host-suffix, mihayo.com, geolocation-!cn
@@ -12134,6 +12140,7 @@ host-suffix, vk.com, geolocation-!cn
 host-suffix, vk.design, geolocation-!cn
 host-suffix, vk.link, geolocation-!cn
 host-suffix, vk.me, geolocation-!cn
+host-suffix, vk.ru, geolocation-!cn
 host-suffix, vkcache.com, geolocation-!cn
 host-suffix, vkgo.app, geolocation-!cn
 host-suffix, vklive.app, geolocation-!cn
@@ -20847,6 +20854,7 @@ host-suffix, github.dev, geolocation-!cn
 host-suffix, github.io, geolocation-!cn
 host-suffix, githubapp.com, geolocation-!cn
 host-suffix, githubassets.com, geolocation-!cn
+host-suffix, githubcopilot.com, geolocation-!cn
 host-suffix, githubhackathon.com, geolocation-!cn
 host-suffix, githubnext.com, geolocation-!cn
 host-suffix, githubpreview.dev, geolocation-!cn
@@ -21588,6 +21596,7 @@ host-suffix, radeon.com, geolocation-!cn
 host, www.amd.com, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
+host-suffix, claudeusercontent.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
 host-suffix, apple, geolocation-!cn
 host-suffix, apple.ae, geolocation-!cn
@@ -24940,6 +24949,7 @@ host-suffix, xn--gogl-0nd52e.com, geolocation-!cn
 host-suffix, xn--gogl-1nd42e.com, geolocation-!cn
 host-suffix, xplr.co, geolocation-!cn
 host-suffix, zukunftswerkstatt.de, geolocation-!cn
+host, google-ohttp-relay-safebrowsing.fastly-edge.com, geolocation-!cn
 host, www.recaptcha.net, geolocation-!cn
 host, 265.com, geolocation-!cn
 host, 2mdn-cn.net, geolocation-!cn
@@ -26944,6 +26954,7 @@ host-suffix, sfx.ms, geolocation-!cn
 host-suffix, sharepoint.cn, geolocation-!cn
 host-suffix, sharepoint.com, geolocation-!cn
 host-suffix, sharepointonline.com, geolocation-!cn
+host-suffix, signalr.net, geolocation-!cn
 host-suffix, skype.com, geolocation-!cn
 host-suffix, skype.net, geolocation-!cn
 host-suffix, skypeassets.com, geolocation-!cn
@@ -27186,6 +27197,7 @@ host-suffix, github.dev, geolocation-!cn
 host-suffix, github.io, geolocation-!cn
 host-suffix, githubapp.com, geolocation-!cn
 host-suffix, githubassets.com, geolocation-!cn
+host-suffix, githubcopilot.com, geolocation-!cn
 host-suffix, githubhackathon.com, geolocation-!cn
 host-suffix, githubnext.com, geolocation-!cn
 host-suffix, githubpreview.dev, geolocation-!cn
@@ -27881,6 +27893,19 @@ host-suffix, tonec.com, geolocation-!cn
 host-suffix, uber-assets.com, geolocation-!cn
 host-suffix, uber.com, geolocation-!cn
 host-suffix, ubereats.com, geolocation-!cn
+host-suffix, amplifi.com, geolocation-!cn
+host-suffix, amplifi.com.cn, geolocation-!cn
+host-suffix, frontrow.com.cn, geolocation-!cn
+host-suffix, frontrow.com, geolocation-!cn
+host-suffix, ubncloud.com, geolocation-!cn
+host-suffix, ubnt.com, geolocation-!cn
+host-suffix, ubnt.com.cn, geolocation-!cn
+host-suffix, ui.com, geolocation-!cn
+host-suffix, ui.com.cn, geolocation-!cn
+host-suffix, uisp.com, geolocation-!cn
+host-suffix, uum.com.cn, geolocation-!cn
+host-suffix, uwn.com, geolocation-!cn
+host-suffix, wifiman.com, geolocation-!cn
 host-suffix, oath.cloud, geolocation-!cn
 host-suffix, oath.com, geolocation-!cn
 host-suffix, ouroath.com, geolocation-!cn

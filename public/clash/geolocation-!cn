@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
@@ -2184,11 +2185,13 @@ DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
-DOMAIN-SUFFIX,fastly-terrarium.com
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
@@ -2859,6 +2862,7 @@ DOMAIN-SUFFIX,gatedata.org
 DOMAIN-SUFFIX,gateimg.com
 DOMAIN-SUFFIX,gateio.live
 DOMAIN-SUFFIX,gateio.services
+DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,huobi.com
@@ -10346,6 +10350,7 @@ DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -11069,6 +11074,7 @@ DOMAIN-SUFFIX,hoyo.link
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -12134,6 +12140,7 @@ DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
 DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vk.ru
 DOMAIN-SUFFIX,vkcache.com
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
@@ -20847,6 +20854,7 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
@@ -21588,6 +21596,7 @@ DOMAIN-SUFFIX,radeon.com
 DOMAIN,www.amd.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple.ae
@@ -24940,6 +24949,7 @@ DOMAIN-SUFFIX,xn--gogl-0nd52e.com
 DOMAIN-SUFFIX,xn--gogl-1nd42e.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
+DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,www.recaptcha.net
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -26944,6 +26954,7 @@ DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
@@ -27186,6 +27197,7 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
@@ -27881,6 +27893,19 @@ DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,uber-assets.com
 DOMAIN-SUFFIX,uber.com
 DOMAIN-SUFFIX,ubereats.com
+DOMAIN-SUFFIX,amplifi.com
+DOMAIN-SUFFIX,amplifi.com.cn
+DOMAIN-SUFFIX,frontrow.com.cn
+DOMAIN-SUFFIX,frontrow.com
+DOMAIN-SUFFIX,ubncloud.com
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ubnt.com.cn
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ui.com.cn
+DOMAIN-SUFFIX,uisp.com
+DOMAIN-SUFFIX,uum.com.cn
+DOMAIN-SUFFIX,uwn.com
+DOMAIN-SUFFIX,wifiman.com
 DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,ouroath.com

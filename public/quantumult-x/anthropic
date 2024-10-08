@@ -1,3 +1,4 @@
 host-suffix, anthropic.com, anthropic
 host-suffix, claude.ai, anthropic
+host-suffix, claudeusercontent.com, anthropic
 host, servd-anthropic-website.b-cdn.net, anthropic

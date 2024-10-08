@@ -4342,6 +4342,8 @@ host-suffix, mindspore.cn, geolocation-cn
 host-suffix, owsgo.com, geolocation-cn
 host-suffix, teleows.com, geolocation-cn
 host-suffix, saasops.tech, geolocation-cn
+host-suffix, aadcloud.cn, geolocation-cn
+host-suffix, aadcloud.com, geolocation-cn
 host-suffix, ami-alliance.org.cn, geolocation-cn
 host-suffix, b2bgo.com, geolocation-cn
 host-suffix, eduapaashwc.com, geolocation-cn
@@ -4354,6 +4356,8 @@ host-suffix, huaweicloud-dns.cn, geolocation-cn
 host-suffix, huaweicloud-dns.com, geolocation-cn
 host-suffix, huaweicloud-dns.net, geolocation-cn
 host-suffix, huaweicloud-dns.org, geolocation-cn
+host-suffix, huaweicloud-idme.cn, geolocation-cn
+host-suffix, huaweicloud-idme.com, geolocation-cn
 host-suffix, huaweicloud-smn.cn, geolocation-cn
 host-suffix, huaweicloud-smn.com, geolocation-cn
 host-suffix, huaweicloud-smn.net, geolocation-cn
@@ -4391,8 +4395,15 @@ host-suffix, hwcloudsite.cn, geolocation-cn
 host-suffix, hwcloudsite.com, geolocation-cn
 host-suffix, hwcloudvis.cn, geolocation-cn
 host-suffix, hwcloudvis.com, geolocation-cn
+host-suffix, hweventgrid.cn, geolocation-cn
+host-suffix, hweventgrid.com, geolocation-cn
+host-suffix, idonguapi.cn, geolocation-cn
+host-suffix, idonguapi.com, geolocation-cn
 host-suffix, imc-oneaccess.cn, geolocation-cn
 host-suffix, imcapptest.com, geolocation-cn
+host-suffix, inanguapi.cn, geolocation-cn
+host-suffix, inanguapi.com, geolocation-cn
+host-suffix, ixiguapi.com, geolocation-cn
 host-suffix, km6g.cn, geolocation-cn
 host-suffix, km7g.cn, geolocation-cn
 host-suffix, km8g.cn, geolocation-cn
@@ -4402,6 +4413,14 @@ host-suffix, kmcb-cn-north-4.cn, geolocation-cn
 host-suffix, kmop-cn-east-3.cn, geolocation-cn
 host-suffix, kmop-cn-north-4.cn, geolocation-cn
 host-suffix, livehwc3.cn, geolocation-cn
+host-suffix, modelarts-infer.cn, geolocation-cn
+host-suffix, modelarts-infer.com, geolocation-cn
+host-suffix, myhuaweicloud-custom.cn, geolocation-cn
+host-suffix, myhuaweicloud-custom.com, geolocation-cn
+host-suffix, myhuaweicloud-koodrive.cn, geolocation-cn
+host-suffix, myhuaweicloud-koodrive.com, geolocation-cn
+host-suffix, myhuaweicloud-obs.cn, geolocation-cn
+host-suffix, myhuaweicloud-obs.com, geolocation-cn
 host-suffix, myhuaweicloud.cn, geolocation-cn
 host-suffix, myhwcdn.cn, geolocation-cn
 host-suffix, myhwcdn.com, geolocation-cn
@@ -4414,6 +4433,7 @@ host-suffix, pagescube.cn, geolocation-cn
 host-suffix, pagescube.com, geolocation-cn
 host-suffix, powerapp.io, geolocation-cn
 host-suffix, ae-ad-1.myhuaweicloud.com, geolocation-cn
+host-suffix, af-north-1.myhuaweicloud.com, geolocation-cn
 host-suffix, af-south-1.myhuaweicloud.com, geolocation-cn
 host-suffix, ap-southeast-1.myhuaweicloud.com, geolocation-cn
 host-suffix, ap-southeast-2.myhuaweicloud.com, geolocation-cn
@@ -4421,6 +4441,7 @@ host-suffix, ap-southeast-3.myhuaweicloud.com, geolocation-cn
 host-suffix, ap-southeast-4.myhuaweicloud.com, geolocation-cn
 host-suffix, cn-east-2.myhuaweicloud.com, geolocation-cn
 host-suffix, cn-east-3.myhuaweicloud.com, geolocation-cn
+host-suffix, cn-east-4.myhuaweicloud.com, geolocation-cn
 host-suffix, cn-east-5.myhuaweicloud.com, geolocation-cn
 host-suffix, cn-north-1.myhuaweicloud.com, geolocation-cn
 host-suffix, cn-north-11.myhuaweicloud.com, geolocation-cn
@@ -4440,7 +4461,9 @@ host-suffix, eu-west-101.myhuaweicloud.com, geolocation-cn
 host-suffix, la-north-2.myhuaweicloud.com, geolocation-cn
 host-suffix, la-south-2.myhuaweicloud.com, geolocation-cn
 host-suffix, me-east-1.myhuaweicloud.com, geolocation-cn
+host-suffix, my-kualalumpur-1.myhuaweicloud.com, geolocation-cn
 host-suffix, na-mexico-1.myhuaweicloud.com, geolocation-cn
+host-suffix, ru-moscow-1.myhuaweicloud.com, geolocation-cn
 host-suffix, ru-northwest-2.myhuaweicloud.com, geolocation-cn
 host-suffix, sa-brazil-1.myhuaweicloud.com, geolocation-cn
 host-suffix, tr-west-1.myhuaweicloud.com, geolocation-cn

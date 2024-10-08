@@ -489,6 +489,7 @@ host-suffix, radeon.com, category-companies
 host, www.amd.com, category-companies
 host-suffix, anthropic.com, category-companies
 host-suffix, claude.ai, category-companies
+host-suffix, claudeusercontent.com, category-companies
 host, servd-anthropic-website.b-cdn.net, category-companies
 host-suffix, apple, category-companies
 host-suffix, apple.ae, category-companies
@@ -3841,6 +3842,7 @@ host-suffix, xn--gogl-0nd52e.com, category-companies
 host-suffix, xn--gogl-1nd42e.com, category-companies
 host-suffix, xplr.co, category-companies
 host-suffix, zukunftswerkstatt.de, category-companies
+host, google-ohttp-relay-safebrowsing.fastly-edge.com, category-companies
 host, www.recaptcha.net, category-companies
 host, 265.com, category-companies
 host, 2mdn-cn.net, category-companies
@@ -5845,6 +5847,7 @@ host-suffix, sfx.ms, category-companies
 host-suffix, sharepoint.cn, category-companies
 host-suffix, sharepoint.com, category-companies
 host-suffix, sharepointonline.com, category-companies
+host-suffix, signalr.net, category-companies
 host-suffix, skype.com, category-companies
 host-suffix, skype.net, category-companies
 host-suffix, skypeassets.com, category-companies
@@ -6087,6 +6090,7 @@ host-suffix, github.dev, category-companies
 host-suffix, github.io, category-companies
 host-suffix, githubapp.com, category-companies
 host-suffix, githubassets.com, category-companies
+host-suffix, githubcopilot.com, category-companies
 host-suffix, githubhackathon.com, category-companies
 host-suffix, githubnext.com, category-companies
 host-suffix, githubpreview.dev, category-companies
@@ -6782,6 +6786,19 @@ host-suffix, tonec.com, category-companies
 host-suffix, uber-assets.com, category-companies
 host-suffix, uber.com, category-companies
 host-suffix, ubereats.com, category-companies
+host-suffix, amplifi.com, category-companies
+host-suffix, amplifi.com.cn, category-companies
+host-suffix, frontrow.com.cn, category-companies
+host-suffix, frontrow.com, category-companies
+host-suffix, ubncloud.com, category-companies
+host-suffix, ubnt.com, category-companies
+host-suffix, ubnt.com.cn, category-companies
+host-suffix, ui.com, category-companies
+host-suffix, ui.com.cn, category-companies
+host-suffix, uisp.com, category-companies
+host-suffix, uum.com.cn, category-companies
+host-suffix, uwn.com, category-companies
+host-suffix, wifiman.com, category-companies
 host-suffix, oath.cloud, category-companies
 host-suffix, oath.com, category-companies
 host-suffix, ouroath.com, category-companies

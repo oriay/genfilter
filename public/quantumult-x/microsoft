@@ -228,6 +228,7 @@ host-suffix, sfx.ms, microsoft
 host-suffix, sharepoint.cn, microsoft
 host-suffix, sharepoint.com, microsoft
 host-suffix, sharepointonline.com, microsoft
+host-suffix, signalr.net, microsoft
 host-suffix, skype.com, microsoft
 host-suffix, skype.net, microsoft
 host-suffix, skypeassets.com, microsoft
@@ -470,6 +471,7 @@ host-suffix, github.dev, microsoft
 host-suffix, github.io, microsoft
 host-suffix, githubapp.com, microsoft
 host-suffix, githubassets.com, microsoft
+host-suffix, githubcopilot.com, microsoft
 host-suffix, githubhackathon.com, microsoft
 host-suffix, githubnext.com, microsoft
 host-suffix, githubpreview.dev, microsoft
