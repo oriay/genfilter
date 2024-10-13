@@ -4522,10 +4522,15 @@ host-suffix, youtubekids.com, category-companies
 host-suffix, youtubemobilesupport.com, category-companies
 host-suffix, yt.be, category-companies
 host-suffix, ytimg.com, category-companies
+host-suffix, first-ns.de, category-companies
 host-suffix, hetzner.cloud, category-companies
 host-suffix, hetzner.com, category-companies
 host-suffix, hetzner.company, category-companies
 host-suffix, hetzner.de, category-companies
+host-suffix, htznr.li, category-companies
+host-suffix, second-ns.com, category-companies
+host-suffix, second-ns.de, category-companies
+host-suffix, your-objectstorage.com, category-companies
 host-suffix, your-server.de, category-companies
 host, sentry.hetzner.company, category-companies
 host-suffix, cht.com.tw, category-companies

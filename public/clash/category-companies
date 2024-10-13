@@ -4522,10 +4522,15 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hetzner.company
 DOMAIN-SUFFIX,hetzner.de
+DOMAIN-SUFFIX,htznr.li
+DOMAIN-SUFFIX,second-ns.com
+DOMAIN-SUFFIX,second-ns.de
+DOMAIN-SUFFIX,your-objectstorage.com
 DOMAIN-SUFFIX,your-server.de
 DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,cht.com.tw
