@@ -24,4 +24,5 @@ host-suffix, bigbeans.solutions, discord
 host-suffix, watchanimeattheoffice.com, discord
 host-suffix, discordapp.io, discord
 host-suffix, discordcdn.com, discord
+host, discord-attachments-uploads-prd.storage.googleapis.com, discord
 host, hammerandchisel.ssl.zendesk.com, discord

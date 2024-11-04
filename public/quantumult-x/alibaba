@@ -10,6 +10,7 @@ host-suffix, aliapp.org, alibaba
 host-suffix, alibaba-inc.com, alibaba
 host-suffix, alibaba.com, alibaba
 host-suffix, alibabacapital.com, alibaba
+host-suffix, alibabachengdun.com, alibaba
 host-suffix, alibabacorp.com, alibaba
 host-suffix, alibabadoctor.com, alibaba
 host-suffix, alibabafuturehotel.com, alibaba
@@ -18,6 +19,7 @@ host-suffix, alibabaplanet.com, alibaba
 host-suffix, alibabaued.com, alibaba
 host-suffix, alibabausercontent.com, alibaba
 host-suffix, alifanyi.com, alibaba
+host-suffix, aligames.com, alibaba
 host-suffix, alihealth.com.cn, alibaba
 host-suffix, alihealth.hk, alibaba
 host-suffix, aliimg.com, alibaba
@@ -30,6 +32,7 @@ host-suffix, alipay.cn, alibaba
 host-suffix, alipay.com, alibaba
 host-suffix, alipay.com.cn, alibaba
 host-suffix, alipaydns.com, alibaba
+host-suffix, alipaylog.com, alibaba
 host-suffix, alipayobjects.com, alibaba
 host-suffix, aliplus.com, alibaba
 host-suffix, aliresearch.com, alibaba
@@ -265,6 +268,7 @@ host-suffix, aliyun-inc.com, alibaba
 host-suffix, aliyun-iot-share.com, alibaba
 host-suffix, aliyun.com, alibaba
 host-suffix, aliyuncdn.com, alibaba
+host-suffix, aliyunfile.com, alibaba
 host-suffix, cdngslb.com, alibaba
 host-suffix, hichina.com, alibaba
 host-suffix, ica-alliance.org, alibaba

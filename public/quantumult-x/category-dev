@@ -323,6 +323,7 @@ host-suffix, download-cdn.jetbrains.com.cn, category-dev
 host-suffix, jb.gg, category-dev
 host-suffix, grazie.ai, category-dev
 host-suffix, grazie.aws.intellij.net, category-dev
+host-suffix, jetbrains.ai, category-dev
 host-suffix, jfrog.com, category-dev
 host-suffix, jfrog.org, category-dev
 host-suffix, bintray.com, category-dev

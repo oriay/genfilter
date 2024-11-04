@@ -27,6 +27,7 @@ host-suffix, bigbeans.solutions, category-communication
 host-suffix, watchanimeattheoffice.com, category-communication
 host-suffix, discordapp.io, category-communication
 host-suffix, discordcdn.com, category-communication
+host, discord-attachments-uploads-prd.storage.googleapis.com, category-communication
 host, hammerandchisel.ssl.zendesk.com, category-communication
 host-suffix, freenode.net, category-communication
 host-suffix, intercom.com, category-communication

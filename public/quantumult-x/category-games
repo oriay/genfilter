@@ -516,6 +516,7 @@ host, media-rockstargames-com.akamaized.net, category-games
 host, videos-rockstargames-com.akamaized.net, category-games
 host-suffix, playartifact.com, category-games
 host-suffix, s.team, category-games
+host-suffix, steam.tv, category-games
 host-suffix, steam-api.com, category-games
 host-suffix, steam-chat.com, category-games
 host-suffix, steamcommunity.com, category-games

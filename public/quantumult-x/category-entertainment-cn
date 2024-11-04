@@ -3,6 +3,7 @@ host-suffix, steampp.net, category-entertainment-cn
 host-suffix, lsplayer.com, category-entertainment-cn
 host-suffix, yeshen.com, category-entertainment-cn
 host-suffix, ledu.com, category-entertainment-cn
+host-suffix, pearvideo.com, category-entertainment-cn
 host-suffix, wo1wan.com, category-entertainment-cn
 host-suffix, 3dmgame.com, category-entertainment-cn
 host-suffix, 3304399.com, category-entertainment-cn
@@ -142,6 +143,19 @@ host-suffix, gamersky.com, category-entertainment-cn
 host-suffix, gcores.com, category-entertainment-cn
 host-suffix, gitv.cn, category-entertainment-cn
 host-suffix, gitv.tv, category-entertainment-cn
+host-suffix, hifuntv.com, category-entertainment-cn
+host-suffix, hitv.com, category-entertainment-cn
+host-suffix, hnbntv.com, category-entertainment-cn
+host-suffix, hunaniptv.com, category-entertainment-cn
+host-suffix, hunantv.com, category-entertainment-cn
+host-suffix, imgo.tv, category-entertainment-cn
+host-suffix, mgtv.com, category-entertainment-cn
+host-suffix, click.hunantv.com, category-entertainment-cn
+host-suffix, da.hunantv.com, category-entertainment-cn
+host-suffix, da.mgtv.com, category-entertainment-cn
+host-suffix, log.hunantv.com, category-entertainment-cn
+host-suffix, log.v2.hunantv.com, category-entertainment-cn
+host-suffix, res.hunantv.com, category-entertainment-cn
 host-suffix, huya.com, category-entertainment-cn
 host-suffix, msstatic.com, category-entertainment-cn
 host-suffix, 71.am, category-entertainment-cn
@@ -189,6 +203,9 @@ host, log-sdk.gifshow.com, category-entertainment-cn
 host, wlog.kuaishou.com, category-entertainment-cn
 host-suffix, kgimg.com, category-entertainment-cn
 host-suffix, kugou.com, category-entertainment-cn
+host-suffix, koowo.cn, category-entertainment-cn
+host-suffix, koowo.com, category-entertainment-cn
+host-suffix, kuwo.cn, category-entertainment-cn
 host-suffix, le.com, category-entertainment-cn
 host-suffix, lecloud.com, category-entertainment-cn
 host-suffix, lemall.com, category-entertainment-cn

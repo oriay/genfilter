@@ -608,6 +608,7 @@ host, media-rockstargames-com.akamaized.net, category-entertainment
 host, videos-rockstargames-com.akamaized.net, category-entertainment
 host-suffix, playartifact.com, category-entertainment
 host-suffix, s.team, category-entertainment
+host-suffix, steam.tv, category-entertainment
 host-suffix, steam-api.com, category-entertainment
 host-suffix, steam-chat.com, category-entertainment
 host-suffix, steamcommunity.com, category-entertainment

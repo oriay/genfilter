@@ -6448,6 +6448,7 @@ DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN,nvidia.tt.omtrdc.net
+DOMAIN,cn.download.nvidia.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -6781,6 +6782,13 @@ DOMAIN-SUFFIX,spaceship.com
 DOMAIN-SUFFIX,spacemail.com
 DOMAIN-SUFFIX,st.com
 DOMAIN-SUFFIX,stmicroelectronics.com.cn
+DOMAIN-SUFFIX,gofile.me
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-SUFFIX,synologyupdate.com
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ts.net

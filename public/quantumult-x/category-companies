@@ -6448,6 +6448,7 @@ host-suffix, tegrazone.com, category-companies
 host-suffix, tegrazone.jp, category-companies
 host-suffix, tegrazone.kr, category-companies
 host, nvidia.tt.omtrdc.net, category-companies
+host, cn.download.nvidia.com, category-companies
 host-suffix, ai.com, category-companies
 host-suffix, chatgpt.com, category-companies
 host-suffix, oaistatic.com, category-companies
@@ -6781,6 +6782,13 @@ host-suffix, spaceship.com, category-companies
 host-suffix, spacemail.com, category-companies
 host-suffix, st.com, category-companies
 host-suffix, stmicroelectronics.com.cn, category-companies
+host-suffix, gofile.me, category-companies
+host-suffix, quickconnect.to, category-companies
+host-suffix, synology.com, category-companies
+host-suffix, synologydownload.com, category-companies
+host-suffix, synologyupdate.com, category-companies
+host-suffix, quickconnect.cn, category-companies
+host-suffix, synology.cn, category-companies
 host-suffix, tailscale.com, category-companies
 host-suffix, tailscale.io, category-companies
 host-suffix, ts.net, category-companies

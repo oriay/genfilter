@@ -59,3 +59,4 @@ host-suffix, tegrazone.com, nvidia
 host-suffix, tegrazone.jp, nvidia
 host-suffix, tegrazone.kr, nvidia
 host, nvidia.tt.omtrdc.net, nvidia
+host, cn.download.nvidia.com, nvidia
