@@ -88,6 +88,10 @@ host-suffix, cups.org, category-dev
 host-suffix, developer.apple.com, category-dev
 host-suffix, devimages-cdn.apple.com, category-dev
 host-suffix, devstreaming-cdn.apple.com, category-dev
+host-suffix, developerservices2.apple.com, category-dev
+host-suffix, timestamp.apple.com, category-dev
+host, notary-submissions-prod.s3-accelerate.amazonaws.com, category-dev
+host, notary-submissions-prod.s3.us-west-2.amazonaws.com, category-dev
 host-suffix, foundationdb.org, category-dev
 host-suffix, macosforge.org, category-dev
 host-suffix, macruby.com, category-dev

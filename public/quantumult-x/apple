@@ -913,6 +913,10 @@ host-suffix, cups.org, apple
 host-suffix, developer.apple.com, apple
 host-suffix, devimages-cdn.apple.com, apple
 host-suffix, devstreaming-cdn.apple.com, apple
+host-suffix, developerservices2.apple.com, apple
+host-suffix, timestamp.apple.com, apple
+host, notary-submissions-prod.s3-accelerate.amazonaws.com, apple
+host, notary-submissions-prod.s3.us-west-2.amazonaws.com, apple
 host-suffix, foundationdb.org, apple
 host-suffix, macosforge.org, apple
 host-suffix, macruby.com, apple

@@ -1406,6 +1406,10 @@ host-suffix, cups.org, category-companies
 host-suffix, developer.apple.com, category-companies
 host-suffix, devimages-cdn.apple.com, category-companies
 host-suffix, devstreaming-cdn.apple.com, category-companies
+host-suffix, developerservices2.apple.com, category-companies
+host-suffix, timestamp.apple.com, category-companies
+host, notary-submissions-prod.s3-accelerate.amazonaws.com, category-companies
+host, notary-submissions-prod.s3.us-west-2.amazonaws.com, category-companies
 host-suffix, foundationdb.org, category-companies
 host-suffix, macosforge.org, category-companies
 host-suffix, macruby.com, category-companies

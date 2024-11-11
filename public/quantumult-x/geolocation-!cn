@@ -20733,6 +20733,10 @@ host-suffix, cups.org, geolocation-!cn
 host-suffix, developer.apple.com, geolocation-!cn
 host-suffix, devimages-cdn.apple.com, geolocation-!cn
 host-suffix, devstreaming-cdn.apple.com, geolocation-!cn
+host-suffix, developerservices2.apple.com, geolocation-!cn
+host-suffix, timestamp.apple.com, geolocation-!cn
+host, notary-submissions-prod.s3-accelerate.amazonaws.com, geolocation-!cn
+host, notary-submissions-prod.s3.us-west-2.amazonaws.com, geolocation-!cn
 host-suffix, foundationdb.org, geolocation-!cn
 host-suffix, macosforge.org, geolocation-!cn
 host-suffix, macruby.com, geolocation-!cn
@@ -22558,6 +22562,10 @@ host-suffix, cups.org, geolocation-!cn
 host-suffix, developer.apple.com, geolocation-!cn
 host-suffix, devimages-cdn.apple.com, geolocation-!cn
 host-suffix, devstreaming-cdn.apple.com, geolocation-!cn
+host-suffix, developerservices2.apple.com, geolocation-!cn
+host-suffix, timestamp.apple.com, geolocation-!cn
+host, notary-submissions-prod.s3-accelerate.amazonaws.com, geolocation-!cn
+host, notary-submissions-prod.s3.us-west-2.amazonaws.com, geolocation-!cn
 host-suffix, foundationdb.org, geolocation-!cn
 host-suffix, macosforge.org, geolocation-!cn
 host-suffix, macruby.com, geolocation-!cn
