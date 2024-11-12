@@ -37,6 +37,7 @@ host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, ai.com, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
+host-suffix, chat.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
 host-suffix, oaiusercontent.com, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn
@@ -23342,6 +23343,7 @@ host-suffix, applemx-icloud.com, geolocation-!cn
 host-suffix, icloud-apple.cn, geolocation-!cn
 host-suffix, icloud-content.com, geolocation-!cn
 host-suffix, icloud-isupport.com, geolocation-!cn
+host-suffix, icloud-sandbox.com, geolocation-!cn
 host-suffix, icloud.ch, geolocation-!cn
 host-suffix, icloud.com, geolocation-!cn
 host-suffix, icloud.com.cn, geolocation-!cn
@@ -27611,6 +27613,7 @@ host, nvidia.tt.omtrdc.net, geolocation-!cn
 host, cn.download.nvidia.com, geolocation-!cn
 host-suffix, ai.com, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
+host-suffix, chat.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
 host-suffix, oaiusercontent.com, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn

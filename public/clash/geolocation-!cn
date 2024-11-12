@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -23342,6 +23343,7 @@ DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
+DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
@@ -27611,6 +27613,7 @@ DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,cn.download.nvidia.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com

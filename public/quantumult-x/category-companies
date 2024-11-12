@@ -2186,6 +2186,7 @@ host-suffix, applemx-icloud.com, category-companies
 host-suffix, icloud-apple.cn, category-companies
 host-suffix, icloud-content.com, category-companies
 host-suffix, icloud-isupport.com, category-companies
+host-suffix, icloud-sandbox.com, category-companies
 host-suffix, icloud.ch, category-companies
 host-suffix, icloud.com, category-companies
 host-suffix, icloud.com.cn, category-companies
@@ -6455,6 +6456,7 @@ host, nvidia.tt.omtrdc.net, category-companies
 host, cn.download.nvidia.com, category-companies
 host-suffix, ai.com, category-companies
 host-suffix, chatgpt.com, category-companies
+host-suffix, chat.com, category-companies
 host-suffix, oaistatic.com, category-companies
 host-suffix, oaiusercontent.com, category-companies
 host-suffix, openai.com, category-companies
