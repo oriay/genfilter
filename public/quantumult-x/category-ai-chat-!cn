@@ -29,6 +29,7 @@ host-suffix, chat.com, category-ai-chat-!cn
 host-suffix, oaistatic.com, category-ai-chat-!cn
 host-suffix, oaiusercontent.com, category-ai-chat-!cn
 host-suffix, openai.com, category-ai-chat-!cn
+host-suffix, sora.com, category-ai-chat-!cn
 host-suffix, openai.com.cdn.cloudflare.net, category-ai-chat-!cn
 host, openaiapi-site.azureedge.net, category-ai-chat-!cn
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-ai-chat-!cn
