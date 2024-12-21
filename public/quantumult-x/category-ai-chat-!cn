@@ -37,7 +37,15 @@ host, openaicomproductionae4b.blob.core.windows.net, category-ai-chat-!cn
 host, production-openaicom-storage.azureedge.net, category-ai-chat-!cn
 host, o33249.ingest.sentry.io, category-ai-chat-!cn
 host, openaicom.imgix.net, category-ai-chat-!cn
+host, browser-intake-datadoghq.com, category-ai-chat-!cn
+host-suffix, chatgpt.livekit.cloud, category-ai-chat-!cn
+host-suffix, host.livekit.cloud, category-ai-chat-!cn
+host-suffix, turn.livekit.cloud, category-ai-chat-!cn
 host-suffix, perplexity.ai, category-ai-chat-!cn
 host-suffix, poe.com, category-ai-chat-!cn
 host-suffix, poecdn.net, category-ai-chat-!cn
 host-suffix, x.ai, category-ai-chat-!cn
+host-suffix, cursor-cdn.com, category-ai-chat-!cn
+host-suffix, cursor.com, category-ai-chat-!cn
+host-suffix, cursor.sh, category-ai-chat-!cn
+host-suffix, cursorapi.com, category-ai-chat-!cn

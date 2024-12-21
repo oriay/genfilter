@@ -1,5 +1,9 @@
 host-suffix, 97973.com, sina
+host-suffix, hk.weibo.com, sina
+host-suffix, my.weibo.com, sina
+host-suffix, overseas.weibo.com, sina
 host-suffix, picself.cn, sina
+host-suffix, sg.weibo.com, sina
 host-suffix, sina.cn, sina
 host-suffix, sina.com, sina
 host-suffix, sina.com.cn, sina
@@ -11,6 +15,9 @@ host-suffix, sinaimg.com, sina
 host-suffix, sinajs.cn, sina
 host-suffix, sinajs.com, sina
 host-suffix, t.cn, sina
+host-suffix, th.weibo.com, sina
+host-suffix, tw.weibo.com, sina
+host-suffix, us.weibo.com, sina
 host-suffix, videoself.cn, sina
 host-suffix, wbimg.com, sina
 host-suffix, wbimg.cn, sina

@@ -11,6 +11,7 @@ host-suffix, 163qiyukf.com, netease
 host-suffix, 163yun.com, netease
 host-suffix, 166.com, netease
 host-suffix, 166.net, netease
+host-suffix, 188.com, netease
 host-suffix, haowu.link, netease
 host-suffix, icourse163.org, netease
 host-suffix, kaola.com, netease
@@ -24,7 +25,15 @@ host-suffix, ydstatic.com, netease
 host-suffix, yeah.net, netease
 host-suffix, youdao.com, netease
 host-suffix, zhuanzfx.com, netease
+host-suffix, a.youdao.com, netease
+host-suffix, admusicpic.music.126.net, netease
+host-suffix, ads.music.126.net, netease
 host-suffix, analytics.163.com, netease
 host-suffix, crash.163.com, netease
 host-suffix, crashlytics.163.com, netease
 host-suffix, g.163.com, netease
+host-suffix, iadmat.nosdn.127.net, netease
+host-suffix, iadmatapk.nosdn.127.net, netease
+host-suffix, iadmusicmat.music.126.net, netease
+host-suffix, iadmusicmatvideo.music.126.net, netease
+host-suffix, sentry.music.163.com, netease

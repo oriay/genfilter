@@ -12,3 +12,7 @@ host, openaicomproductionae4b.blob.core.windows.net, openai
 host, production-openaicom-storage.azureedge.net, openai
 host, o33249.ingest.sentry.io, openai
 host, openaicom.imgix.net, openai
+host, browser-intake-datadoghq.com, openai
+host-suffix, chatgpt.livekit.cloud, openai
+host-suffix, host.livekit.cloud, openai
+host-suffix, turn.livekit.cloud, openai

@@ -1,7 +1,7 @@
 host-suffix, qq.xn--fiqs8s, tencent
 host-suffix, xn--r70as2s.xn--fiqs8s, tencent
+host-suffix, acimg.cn, tencent
 host-suffix, apcdns.net, tencent
-host-suffix, cdn-go.cn, tencent
 host-suffix, foxmail.com, tencent
 host-suffix, foxmail.com.cn, tencent
 host-suffix, gtimg.cn, tencent
@@ -30,8 +30,6 @@ host-suffix, tencent.net.cn, tencent
 host-suffix, tencentmusic.com, tencent
 host-suffix, tenpay.com, tencent
 host-suffix, tfogc.com, tencent
-host-suffix, tlivepush.com, tencent
-host-suffix, txlivecdn.com, tencent
 host-suffix, wechat.com, tencent
 host-suffix, wechatpay.cn, tencent
 host-suffix, weiyun.com, tencent
@@ -235,12 +233,15 @@ host-suffix, tidaas.com, tencent
 host-suffix, timatrix.com.cn, tencent
 host-suffix, timmerse.com, tencent
 host-suffix, tlivecdn.com, tencent
+host-suffix, tlivepush.com, tencent
+host-suffix, tlivesource.com, tencent
 host-suffix, tourismshow.cn, tencent
 host-suffix, tourismuser.cn, tencent
 host-suffix, tsparkling.com, tencent
 host-suffix, tx-exhibition.com, tencent
 host-suffix, txbyod.com, tencent
 host-suffix, txidc.wang, tencent
+host-suffix, txlivecdn.com, tencent
 host-suffix, txtyxg.com, tencent
 host-suffix, txyscdn.com, tencent
 host-suffix, txyscdn.net, tencent

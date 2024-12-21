@@ -1178,6 +1178,7 @@ host-suffix, pcmarket.com.hk, category-media
 host-suffix, sky, category-media
 host-suffix, sky.com, category-media
 host-suffix, skyassets.com, category-media
+host-suffix, skymansion.net, category-media
 host-suffix, skyoceanrescue.com, category-media
 host-suffix, skyoceanrescue.de, category-media
 host-suffix, skyoceanrescue.it, category-media
@@ -1186,6 +1187,7 @@ host-suffix, skysports.fr, category-media
 host-suffix, skysports.ie, category-media
 host-suffix, skysportsonline.com, category-media
 host-suffix, skysportsracing.com, category-media
+host-suffix, cn-cdn1.skymansion.net, category-media
 host-suffix, theguardian, category-media
 host-suffix, dev-guardianapis.com, category-media
 host-suffix, dev-theguardian.com, category-media

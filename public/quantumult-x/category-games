@@ -237,6 +237,7 @@ host-suffix, easy.ac, category-games
 host-suffix, easyanticheat.net, category-games
 host-suffix, epicgames.com, category-games
 host-suffix, epicgames.dev, category-games
+host-suffix, epicgamescdn.com, category-games
 host-suffix, fortnite.com, category-games
 host-suffix, paragon.com, category-games
 host-suffix, playparagon.com, category-games
@@ -514,6 +515,8 @@ host-suffix, rsg.sc, category-games
 host, gamedownloads-rockstargames-com.akamaized.net, category-games
 host, media-rockstargames-com.akamaized.net, category-games
 host, videos-rockstargames-com.akamaized.net, category-games
+host-suffix, snk-corp.co.jp, category-games
+host-suffix, snkplaymore.info, category-games
 host-suffix, playartifact.com, category-games
 host-suffix, s.team, category-games
 host-suffix, steam.tv, category-games
@@ -564,6 +567,9 @@ host-suffix, steamstatic.com.8686c.com, category-games
 host, xz.pphimalayanrt.com, category-games
 host-suffix, steamchina.com, category-games
 host-suffix, steamunlocked.net, category-games
+host-suffix, supercell.com, category-games
+host-suffix, supercell.net, category-games
+host-suffix, supercell.helpshift.com, category-games
 host-suffix, battlecare.net, category-games
 host-suffix, gameitop.com, category-games
 host-suffix, gameloop.com, category-games

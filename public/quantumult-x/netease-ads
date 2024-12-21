@@ -1,4 +1,12 @@
+host-suffix, a.youdao.com, netease-ads
+host-suffix, admusicpic.music.126.net, netease-ads
+host-suffix, ads.music.126.net, netease-ads
 host-suffix, analytics.163.com, netease-ads
 host-suffix, crash.163.com, netease-ads
 host-suffix, crashlytics.163.com, netease-ads
 host-suffix, g.163.com, netease-ads
+host-suffix, iadmat.nosdn.127.net, netease-ads
+host-suffix, iadmatapk.nosdn.127.net, netease-ads
+host-suffix, iadmusicmat.music.126.net, netease-ads
+host-suffix, iadmusicmatvideo.music.126.net, netease-ads
+host-suffix, sentry.music.163.com, netease-ads

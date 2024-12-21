@@ -329,6 +329,7 @@ host-suffix, easy.ac, category-entertainment
 host-suffix, easyanticheat.net, category-entertainment
 host-suffix, epicgames.com, category-entertainment
 host-suffix, epicgames.dev, category-entertainment
+host-suffix, epicgamescdn.com, category-entertainment
 host-suffix, fortnite.com, category-entertainment
 host-suffix, paragon.com, category-entertainment
 host-suffix, playparagon.com, category-entertainment
@@ -606,6 +607,8 @@ host-suffix, rsg.sc, category-entertainment
 host, gamedownloads-rockstargames-com.akamaized.net, category-entertainment
 host, media-rockstargames-com.akamaized.net, category-entertainment
 host, videos-rockstargames-com.akamaized.net, category-entertainment
+host-suffix, snk-corp.co.jp, category-entertainment
+host-suffix, snkplaymore.info, category-entertainment
 host-suffix, playartifact.com, category-entertainment
 host-suffix, s.team, category-entertainment
 host-suffix, steam.tv, category-entertainment
@@ -656,6 +659,9 @@ host-suffix, steamstatic.com.8686c.com, category-entertainment
 host, xz.pphimalayanrt.com, category-entertainment
 host-suffix, steamchina.com, category-entertainment
 host-suffix, steamunlocked.net, category-entertainment
+host-suffix, supercell.com, category-entertainment
+host-suffix, supercell.net, category-entertainment
+host-suffix, supercell.helpshift.com, category-entertainment
 host-suffix, battlecare.net, category-entertainment
 host-suffix, gameitop.com, category-entertainment
 host-suffix, gameloop.com, category-entertainment
@@ -1252,13 +1258,17 @@ host-suffix, muscdn.com, category-entertainment
 host-suffix, musical.ly, category-entertainment
 host-suffix, tik-tokapi.com, category-entertainment
 host-suffix, tiktok.com, category-entertainment
+host-suffix, tiktokcdn-eu.com, category-entertainment
 host-suffix, tiktokcdn-us.com, category-entertainment
 host-suffix, tiktokcdn.com, category-entertainment
 host-suffix, tiktokd.net, category-entertainment
 host-suffix, tiktokd.org, category-entertainment
 host-suffix, tiktokv.com, category-entertainment
+host-suffix, tiktokv.eu, category-entertainment
 host-suffix, tiktokv.us, category-entertainment
+host-suffix, tiktokw.eu, category-entertainment
 host-suffix, tiktokw.us, category-entertainment
+host-suffix, ttlivecdn.com, category-entertainment
 host-suffix, ttwstatic.com, category-entertainment
 host, p16-tiktokcdn-com.akamaized.net, category-entertainment
 host-suffix, themoviedb.org, category-entertainment

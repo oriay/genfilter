@@ -80,6 +80,7 @@ host-suffix, das-rpt-log.ucloud.cn, category-ads-all
 host-suffix, telecome.cn, category-ads-all
 host-suffix, unioncom.cc, category-ads-all
 host-suffix, shuzilm.cn, category-ads-all
+host-suffix, zxid-api.mobileservice.cn, category-ads-all
 host, apilog-web.acfun.cn, category-ads-all
 host-suffix, adcolony.com, category-ads-all
 host-suffix, adjust.com, category-ads-all
@@ -351,6 +352,7 @@ host-suffix, znsv.baidu.com, category-ads-all
 host-suffix, zz.bdstatic.com, category-ads-all
 host-suffix, zzy1.quyaoya.com, category-ads-all
 host-suffix, bds.snssdk.com, category-ads-all
+host-suffix, byteadverts.com, category-ads-all
 host-suffix, ctobsnssdk.com, category-ads-all
 host-suffix, dig.bdurl.net, category-ads-all
 host-suffix, extlog.snssdk.com, category-ads-all
@@ -471,6 +473,11 @@ host-suffix, cps.360buy.com, category-ads-all
 host-suffix, jzt.jd.com, category-ads-all
 host-suffix, stat.m.jd.com, category-ads-all
 host-suffix, img-x.jd.com, category-ads-all
+host-suffix, adbkwai.com, category-ads-all
+host-suffix, adkwai.com, category-ads-all
+host-suffix, adukwai.com, category-ads-all
+host-suffix, e.kuaishou.cn, category-ads-all
+host-suffix, e.kuaishou.com, category-ads-all
 host, log-sdk.gifshow.com, category-ads-all
 host, wlog.kuaishou.com, category-ads-all
 host-suffix, ads.service.kugou.com, category-ads-all
@@ -493,10 +500,18 @@ host-suffix, static.app.m.letv.com, category-ads-all
 host-suffix, decide.mixpanel.com, category-ads-all
 host-suffix, mopub.com, category-ads-all
 host-suffix, evt.mxplay.com, category-ads-all
+host-suffix, a.youdao.com, category-ads-all
+host-suffix, admusicpic.music.126.net, category-ads-all
+host-suffix, ads.music.126.net, category-ads-all
 host-suffix, analytics.163.com, category-ads-all
 host-suffix, crash.163.com, category-ads-all
 host-suffix, crashlytics.163.com, category-ads-all
 host-suffix, g.163.com, category-ads-all
+host-suffix, iadmat.nosdn.127.net, category-ads-all
+host-suffix, iadmatapk.nosdn.127.net, category-ads-all
+host-suffix, iadmusicmat.music.126.net, category-ads-all
+host-suffix, iadmusicmatvideo.music.126.net, category-ads-all
+host-suffix, sentry.music.163.com, category-ads-all
 host-suffix, js-agent.newrelic.com, category-ads-all
 host-suffix, ogury.com, category-ads-all
 host-suffix, presage.io, category-ads-all
@@ -597,6 +612,7 @@ host-suffix, adv-sv-show.focus.cn, category-ads-all
 host-suffix, aty.sohu.com, category-ads-all
 host-suffix, data.vod.itc.cn, category-ads-all
 host-suffix, epro.sogou.com, category-ads-all
+host-suffix, fpb.sohu.com, category-ads-all
 host-suffix, go.sohu.com, category-ads-all
 host-suffix, golden1.sogou.com, category-ads-all
 host-suffix, imp.optaim.com, category-ads-all
@@ -604,6 +620,8 @@ host-suffix, inte.sogou.com, category-ads-all
 host-suffix, inte.sogoucdn.com, category-ads-all
 host-suffix, lu.sogoucdn.com, category-ads-all
 host-suffix, pv.sohu.com, category-ads-all
+host-suffix, qpb.sohu.com, category-ads-all
+host-suffix, qpb1.sohu.com, category-ads-all
 host-suffix, theta.sogoucdn.com, category-ads-all
 host-suffix, track.sohu.com, category-ads-all
 host-suffix, uranus.sogou.com, category-ads-all
