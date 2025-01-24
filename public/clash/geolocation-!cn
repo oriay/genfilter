@@ -2857,6 +2857,14 @@ DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,byapis.com
 DOMAIN-SUFFIX,bycbe.com
 DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,coinone.co.kr
@@ -2908,6 +2916,11 @@ DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,axbdoll.com.tw
 DOMAIN-SUFFIX,i69.com.tw
 DOMAIN-SUFFIX,pornhubapparel.com
@@ -11228,6 +11241,7 @@ DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotify.link
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com

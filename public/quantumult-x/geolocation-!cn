@@ -2857,6 +2857,14 @@ host-suffix, bytick.com, geolocation-!cn
 host-suffix, byapis.com, geolocation-!cn
 host-suffix, bycbe.com, geolocation-!cn
 host-suffix, bymj.io, geolocation-!cn
+host-suffix, byabcde.com, geolocation-!cn
+host-suffix, byapps.net, geolocation-!cn
+host-suffix, byd3c3.com, geolocation-!cn
+host-suffix, bybit.biz, geolocation-!cn
+host-suffix, bybdc6.com, geolocation-!cn
+host-suffix, bybit-global.com, geolocation-!cn
+host-suffix, bybit.cloud, geolocation-!cn
+host-suffix, bybitglobal.com, geolocation-!cn
 host, bybit-exchange.github.io, geolocation-!cn
 host, bybit.ada.support, geolocation-!cn
 host-suffix, coinone.co.kr, geolocation-!cn
@@ -2908,6 +2916,11 @@ host-suffix, zb.io, geolocation-!cn
 host-suffix, zb.live, geolocation-!cn
 host-suffix, kucoin.com, geolocation-!cn
 host-suffix, kucoin.plus, geolocation-!cn
+host-suffix, redotpay.com, geolocation-!cn
+host-suffix, redotpay.zendesk.com, geolocation-!cn
+host-suffix, pod-15-sunco-ws.zendesk.com, geolocation-!cn
+host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, geolocation-!cn
+host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, geolocation-!cn
 host-suffix, axbdoll.com.tw, geolocation-!cn
 host-suffix, i69.com.tw, geolocation-!cn
 host-suffix, pornhubapparel.com, geolocation-!cn
@@ -11228,6 +11241,7 @@ host-suffix, spotifycharts.com, geolocation-!cn
 host-suffix, spotifycodes.com, geolocation-!cn
 host-suffix, spotifyforbrands.com, geolocation-!cn
 host-suffix, spotifyjobs.com, geolocation-!cn
+host-suffix, spotify.link, geolocation-!cn
 host, audio-ak-spotify-com.akamaized.net, geolocation-!cn
 host, audio4-ak-spotify-com.akamaized.net, geolocation-!cn
 host, cdn-spotify-experiments.conductrics.com, geolocation-!cn

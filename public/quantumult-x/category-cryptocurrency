@@ -95,6 +95,14 @@ host-suffix, bytick.com, category-cryptocurrency
 host-suffix, byapis.com, category-cryptocurrency
 host-suffix, bycbe.com, category-cryptocurrency
 host-suffix, bymj.io, category-cryptocurrency
+host-suffix, byabcde.com, category-cryptocurrency
+host-suffix, byapps.net, category-cryptocurrency
+host-suffix, byd3c3.com, category-cryptocurrency
+host-suffix, bybit.biz, category-cryptocurrency
+host-suffix, bybdc6.com, category-cryptocurrency
+host-suffix, bybit-global.com, category-cryptocurrency
+host-suffix, bybit.cloud, category-cryptocurrency
+host-suffix, bybitglobal.com, category-cryptocurrency
 host, bybit-exchange.github.io, category-cryptocurrency
 host, bybit.ada.support, category-cryptocurrency
 host-suffix, coinone.co.kr, category-cryptocurrency
@@ -146,3 +154,8 @@ host-suffix, zb.io, category-cryptocurrency
 host-suffix, zb.live, category-cryptocurrency
 host-suffix, kucoin.com, category-cryptocurrency
 host-suffix, kucoin.plus, category-cryptocurrency
+host-suffix, redotpay.com, category-cryptocurrency
+host-suffix, redotpay.zendesk.com, category-cryptocurrency
+host-suffix, pod-15-sunco-ws.zendesk.com, category-cryptocurrency
+host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, category-cryptocurrency
+host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, category-cryptocurrency
