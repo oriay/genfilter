@@ -11269,12 +11269,15 @@ host-suffix, tiktokcdn-us.com, geolocation-!cn
 host-suffix, tiktokcdn.com, geolocation-!cn
 host-suffix, tiktokd.net, geolocation-!cn
 host-suffix, tiktokd.org, geolocation-!cn
+host-suffix, tiktokeu-cdn.com, geolocation-!cn
+host-suffix, tiktokrow-cdn.com, geolocation-!cn
 host-suffix, tiktokv.com, geolocation-!cn
 host-suffix, tiktokv.eu, geolocation-!cn
 host-suffix, tiktokv.us, geolocation-!cn
 host-suffix, tiktokw.eu, geolocation-!cn
 host-suffix, tiktokw.us, geolocation-!cn
 host-suffix, ttlivecdn.com, geolocation-!cn
+host-suffix, ttoverseaus.net, geolocation-!cn
 host-suffix, ttwstatic.com, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
 host-suffix, themoviedb.org, geolocation-!cn

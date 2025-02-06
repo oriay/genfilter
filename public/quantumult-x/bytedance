@@ -521,12 +521,15 @@ host-suffix, tiktokcdn-us.com, bytedance
 host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokd.net, bytedance
 host-suffix, tiktokd.org, bytedance
+host-suffix, tiktokeu-cdn.com, bytedance
+host-suffix, tiktokrow-cdn.com, bytedance
 host-suffix, tiktokv.com, bytedance
 host-suffix, tiktokv.eu, bytedance
 host-suffix, tiktokv.us, bytedance
 host-suffix, tiktokw.eu, bytedance
 host-suffix, tiktokw.us, bytedance
 host-suffix, ttlivecdn.com, bytedance
+host-suffix, ttoverseaus.net, bytedance
 host-suffix, ttwstatic.com, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
 host-suffix, bds.snssdk.com, bytedance
