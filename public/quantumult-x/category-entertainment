@@ -86,6 +86,9 @@ host, gamer2-cds.cdn.hinet.net, category-entertainment
 host, gamer-cds.cdn.hinet.net, category-entertainment
 host-suffix, bandcamp.com, category-entertainment
 host-suffix, bcbits.com, category-entertainment
+host-suffix, bangumi.tv, category-entertainment
+host-suffix, bgm.tv, category-entertainment
+host-suffix, chii.in, category-entertainment
 host-suffix, boomerang.com, category-entertainment
 host-suffix, wbdnbo.net, category-entertainment
 host-suffix, catchplay.com, category-entertainment
