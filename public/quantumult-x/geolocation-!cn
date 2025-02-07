@@ -6,6 +6,7 @@ host-suffix, auroraoss.com, geolocation-!cn
 host-suffix, cookiepro.com, geolocation-!cn
 host-suffix, cookielaw.org, geolocation-!cn
 host-suffix, onetrust.com, geolocation-!cn
+host-suffix, greasyfork.org, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
 host-suffix, api.nebula-emby.com, geolocation-!cn
