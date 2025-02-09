@@ -37,7 +37,6 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
-host-suffix, ai.com, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
 host-suffix, chat.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
@@ -27735,7 +27734,6 @@ host-suffix, tegrazone.jp, geolocation-!cn
 host-suffix, tegrazone.kr, geolocation-!cn
 host, nvidia.tt.omtrdc.net, geolocation-!cn
 host, cn.download.nvidia.com, geolocation-!cn
-host-suffix, ai.com, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
 host-suffix, chat.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn

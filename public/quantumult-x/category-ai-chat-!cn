@@ -24,7 +24,6 @@ host-suffix, aistudio.google.com, category-ai-chat-!cn
 host-suffix, bard.google.com, category-ai-chat-!cn
 host-suffix, gemini.google.com, category-ai-chat-!cn
 host-suffix, groq.com, category-ai-chat-!cn
-host-suffix, ai.com, category-ai-chat-!cn
 host-suffix, chatgpt.com, category-ai-chat-!cn
 host-suffix, chat.com, category-ai-chat-!cn
 host-suffix, oaistatic.com, category-ai-chat-!cn
