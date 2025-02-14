@@ -2799,7 +2799,6 @@ DOMAIN-SUFFIX,metalpha.finance
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,mytokenapi.com
-DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,osl.com
 DOMAIN-SUFFIX,paxful.com
@@ -2892,6 +2891,8 @@ DOMAIN-SUFFIX,huobi.sc
 DOMAIN-SUFFIX,huobiasia.vip
 DOMAIN-SUFFIX,huobigroup.com
 DOMAIN-SUFFIX,huobitoken.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,okex.com
@@ -20323,6 +20324,9 @@ DOMAIN-SUFFIX,playcover.workers.dev
 DOMAIN-SUFFIX,fflogs.com
 DOMAIN-SUFFIX,rpglogs.com
 DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,thetrackernetwork.com
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,unlocktool.net
 DOMAIN-SUFFIX,borneo.world

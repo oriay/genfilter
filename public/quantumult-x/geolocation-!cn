@@ -2799,7 +2799,6 @@ host-suffix, metalpha.finance, geolocation-!cn
 host-suffix, mexc.com, geolocation-!cn
 host-suffix, mexcsensors.com, geolocation-!cn
 host-suffix, mytokenapi.com, geolocation-!cn
-host-suffix, kraken.com, geolocation-!cn
 host-suffix, opensea.io, geolocation-!cn
 host-suffix, osl.com, geolocation-!cn
 host-suffix, paxful.com, geolocation-!cn
@@ -2892,6 +2891,8 @@ host-suffix, huobi.sc, geolocation-!cn
 host-suffix, huobiasia.vip, geolocation-!cn
 host-suffix, huobigroup.com, geolocation-!cn
 host-suffix, huobitoken.com, geolocation-!cn
+host-suffix, kraken.com, geolocation-!cn
+host-suffix, kraken.onl, geolocation-!cn
 host-suffix, localbitcoins.com, geolocation-!cn
 host-suffix, localbitcoinschain.com, geolocation-!cn
 host-suffix, okex.com, geolocation-!cn
@@ -20323,6 +20324,9 @@ host-suffix, playcover.workers.dev, geolocation-!cn
 host-suffix, fflogs.com, geolocation-!cn
 host-suffix, rpglogs.com, geolocation-!cn
 host-suffix, rpglogs.cn, geolocation-!cn
+host-suffix, thetrackernetwork.com, geolocation-!cn
+host-suffix, tracker.gg, geolocation-!cn
+host-suffix, tracker.network, geolocation-!cn
 host-suffix, androidfilehost.com, geolocation-!cn
 host-suffix, unlocktool.net, geolocation-!cn
 host-suffix, borneo.world, geolocation-!cn

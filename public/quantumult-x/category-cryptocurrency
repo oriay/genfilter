@@ -36,7 +36,6 @@ host-suffix, metalpha.finance, category-cryptocurrency
 host-suffix, mexc.com, category-cryptocurrency
 host-suffix, mexcsensors.com, category-cryptocurrency
 host-suffix, mytokenapi.com, category-cryptocurrency
-host-suffix, kraken.com, category-cryptocurrency
 host-suffix, opensea.io, category-cryptocurrency
 host-suffix, osl.com, category-cryptocurrency
 host-suffix, paxful.com, category-cryptocurrency
@@ -129,6 +128,8 @@ host-suffix, huobi.sc, category-cryptocurrency
 host-suffix, huobiasia.vip, category-cryptocurrency
 host-suffix, huobigroup.com, category-cryptocurrency
 host-suffix, huobitoken.com, category-cryptocurrency
+host-suffix, kraken.com, category-cryptocurrency
+host-suffix, kraken.onl, category-cryptocurrency
 host-suffix, localbitcoins.com, category-cryptocurrency
 host-suffix, localbitcoinschain.com, category-cryptocurrency
 host-suffix, okex.com, category-cryptocurrency
