@@ -12197,6 +12197,7 @@ host-suffix, twitpic.com, geolocation-!cn
 host-suffix, twitter.biz, geolocation-!cn
 host-suffix, twitter.com, geolocation-!cn
 host-suffix, twitter.jp, geolocation-!cn
+host-suffix, twitter.map.fastly.net, geolocation-!cn
 host-suffix, twittercommunity.com, geolocation-!cn
 host-suffix, twitterflightschool.com, geolocation-!cn
 host-suffix, twitterinc.com, geolocation-!cn
@@ -20383,6 +20384,7 @@ host-suffix, ntp1.wakwak.com, geolocation-!cn
 host-suffix, ntp2.wakwak.com, geolocation-!cn
 host-suffix, decrypt.day, geolocation-!cn
 host-suffix, accuweather.com, geolocation-!cn
+host-suffix, adblockcdn.com, geolocation-!cn
 host-suffix, getadblock.com, geolocation-!cn
 host-suffix, adblockplus.org, geolocation-!cn
 host-suffix, addthis.com, geolocation-!cn
@@ -25798,6 +25800,8 @@ host-suffix, second-ns.com, geolocation-!cn
 host-suffix, second-ns.de, geolocation-!cn
 host-suffix, your-objectstorage.com, geolocation-!cn
 host-suffix, your-server.de, geolocation-!cn
+host-suffix, your-storagebox.de, geolocation-!cn
+host-suffix, your-storageshare.de, geolocation-!cn
 host, sentry.hetzner.company, geolocation-!cn
 host-suffix, cht.com.tw, geolocation-!cn
 host-suffix, chtf.org.tw, geolocation-!cn

@@ -12197,6 +12197,7 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twitter.map.fastly.net
 DOMAIN-SUFFIX,twittercommunity.com
 DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twitterinc.com
@@ -20383,6 +20384,7 @@ DOMAIN-SUFFIX,ntp1.wakwak.com
 DOMAIN-SUFFIX,ntp2.wakwak.com
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,adblockcdn.com
 DOMAIN-SUFFIX,getadblock.com
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,addthis.com
@@ -25798,6 +25800,8 @@ DOMAIN-SUFFIX,second-ns.com
 DOMAIN-SUFFIX,second-ns.de
 DOMAIN-SUFFIX,your-objectstorage.com
 DOMAIN-SUFFIX,your-server.de
+DOMAIN-SUFFIX,your-storagebox.de
+DOMAIN-SUFFIX,your-storageshare.de
 DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,cht.com.tw
 DOMAIN-SUFFIX,chtf.org.tw

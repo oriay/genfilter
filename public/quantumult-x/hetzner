@@ -8,4 +8,6 @@ host-suffix, second-ns.com, hetzner
 host-suffix, second-ns.de, hetzner
 host-suffix, your-objectstorage.com, hetzner
 host-suffix, your-server.de, hetzner
+host-suffix, your-storagebox.de, hetzner
+host-suffix, your-storageshare.de, hetzner
 host, sentry.hetzner.company, hetzner
