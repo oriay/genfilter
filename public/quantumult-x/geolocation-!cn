@@ -27622,6 +27622,11 @@ host-suffix, crates.io, geolocation-!cn
 host-suffix, docs.rs, geolocation-!cn
 host-suffix, musixmatch.com, geolocation-!cn
 host-suffix, mxmcdn.net, geolocation-!cn
+host-suffix, mxlogin.com, geolocation-!cn
+host-suffix, mxroute.com, geolocation-!cn
+host-suffix, mxroutedocs.com, geolocation-!cn
+host-suffix, mxroutehelp.com, geolocation-!cn
+host-suffix, mxrouting.net, geolocation-!cn
 host-suffix, naver.com, geolocation-!cn
 host-suffix, naver.me, geolocation-!cn
 host-suffix, naver.net, geolocation-!cn

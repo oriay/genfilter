@@ -6363,6 +6363,11 @@ host-suffix, crates.io, category-companies
 host-suffix, docs.rs, category-companies
 host-suffix, musixmatch.com, category-companies
 host-suffix, mxmcdn.net, category-companies
+host-suffix, mxlogin.com, category-companies
+host-suffix, mxroute.com, category-companies
+host-suffix, mxroutedocs.com, category-companies
+host-suffix, mxroutehelp.com, category-companies
+host-suffix, mxrouting.net, category-companies
 host-suffix, naver.com, category-companies
 host-suffix, naver.me, category-companies
 host-suffix, naver.net, category-companies
