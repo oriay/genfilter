@@ -1180,10 +1180,12 @@ host-suffix, pbs.org, category-entertainment
 host-suffix, ads-pixiv.net, category-entertainment
 host-suffix, booth.pm, category-entertainment
 host-suffix, fanbox.cc, category-entertainment
+host-suffix, pixiv.co.jp, category-entertainment
+host-suffix, pixiv.help, category-entertainment
+host-suffix, pixiv.me, category-entertainment
 host-suffix, pixiv.net, category-entertainment
 host-suffix, pixiv.org, category-entertainment
-host-suffix, pixiv.co.jp, category-entertainment
-host-suffix, pixiv.me, category-entertainment
+host-suffix, pixiv-recommend.net, category-entertainment
 host-suffix, pximg.net, category-entertainment
 host-suffix, pluto.tv, category-entertainment
 host-suffix, plutotv.net, category-entertainment

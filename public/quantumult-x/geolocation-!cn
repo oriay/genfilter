@@ -57,6 +57,7 @@ host-suffix, turn.livekit.cloud, geolocation-!cn
 host-suffix, perplexity.ai, geolocation-!cn
 host-suffix, poe.com, geolocation-!cn
 host-suffix, poecdn.net, geolocation-!cn
+host-suffix, grok.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
 host-suffix, cursor-cdn.com, geolocation-!cn
 host-suffix, cursor.com, geolocation-!cn
@@ -2704,7 +2705,9 @@ host-suffix, lineshoppingseller.com, geolocation-!cn
 host-suffix, linetv.tw, geolocation-!cn
 host-suffix, nhncorp.jp, geolocation-!cn
 host-suffix, arewereadyyet.com, geolocation-!cn
+host-suffix, cinny.in, geolocation-!cn
 host-suffix, element.io, geolocation-!cn
+host-suffix, fluffychat.im, geolocation-!cn
 host-suffix, matrix.org, geolocation-!cn
 host-suffix, matrix.to, geolocation-!cn
 host-suffix, modular.im, geolocation-!cn
@@ -2895,6 +2898,8 @@ host-suffix, kraken.com, geolocation-!cn
 host-suffix, kraken.onl, geolocation-!cn
 host-suffix, localbitcoins.com, geolocation-!cn
 host-suffix, localbitcoinschain.com, geolocation-!cn
+host-suffix, nexo.com, geolocation-!cn
+host-suffix, nexo.io, geolocation-!cn
 host-suffix, okex.com, geolocation-!cn
 host-suffix, okx.com, geolocation-!cn
 host-suffix, okx-dns.com, geolocation-!cn
@@ -11183,10 +11188,12 @@ host-suffix, pbs.org, geolocation-!cn
 host-suffix, ads-pixiv.net, geolocation-!cn
 host-suffix, booth.pm, geolocation-!cn
 host-suffix, fanbox.cc, geolocation-!cn
+host-suffix, pixiv.co.jp, geolocation-!cn
+host-suffix, pixiv.help, geolocation-!cn
+host-suffix, pixiv.me, geolocation-!cn
 host-suffix, pixiv.net, geolocation-!cn
 host-suffix, pixiv.org, geolocation-!cn
-host-suffix, pixiv.co.jp, geolocation-!cn
-host-suffix, pixiv.me, geolocation-!cn
+host-suffix, pixiv-recommend.net, geolocation-!cn
 host-suffix, pximg.net, geolocation-!cn
 host-suffix, pluto.tv, geolocation-!cn
 host-suffix, plutotv.net, geolocation-!cn
@@ -24584,6 +24591,7 @@ host-suffix, drweb.co.jp, geolocation-!cn
 host-suffix, drweb.com, geolocation-!cn
 host-suffix, drweb.fr, geolocation-!cn
 host-suffix, drweb.kz, geolocation-!cn
+host-suffix, drweb.ru, geolocation-!cn
 host-suffix, drweb.uz, geolocation-!cn
 host-suffix, drweb-av.de, geolocation-!cn
 host-suffix, drweb-av.es, geolocation-!cn
@@ -28547,6 +28555,7 @@ host-suffix, yandex.ua, geolocation-!cn
 host-suffix, yandex.uz, geolocation-!cn
 host-suffix, yandexcloud.net, geolocation-!cn
 host-suffix, yastatic.net, geolocation-!cn
+host-suffix, grok.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
 host-suffix, anydesk.com, geolocation-!cn
 host-suffix, nomachine.com, geolocation-!cn

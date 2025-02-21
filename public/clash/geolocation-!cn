@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
@@ -2704,7 +2705,9 @@ DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,arewereadyyet.com
+DOMAIN-SUFFIX,cinny.in
 DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,fluffychat.im
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,matrix.to
 DOMAIN-SUFFIX,modular.im
@@ -2895,6 +2898,8 @@ DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx-dns.com
@@ -11183,10 +11188,12 @@ DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,pixiv.co.jp
+DOMAIN-SUFFIX,pixiv.help
+DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
-DOMAIN-SUFFIX,pixiv.co.jp
-DOMAIN-SUFFIX,pixiv.me
+DOMAIN-SUFFIX,pixiv-recommend.net
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
@@ -24584,6 +24591,7 @@ DOMAIN-SUFFIX,drweb.co.jp
 DOMAIN-SUFFIX,drweb.com
 DOMAIN-SUFFIX,drweb.fr
 DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.ru
 DOMAIN-SUFFIX,drweb.uz
 DOMAIN-SUFFIX,drweb-av.de
 DOMAIN-SUFFIX,drweb-av.es
@@ -28547,6 +28555,7 @@ DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anydesk.com
 DOMAIN-SUFFIX,nomachine.com
