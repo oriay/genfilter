@@ -56,6 +56,7 @@ host-suffix, bluehatil.com, microsoft
 host-suffix, boswp.com, microsoft
 host-suffix, brazilpartneruniversity.com, microsoft
 host-suffix, breakdown.me, microsoft
+host-suffix, c-msedge.net, microsoft
 host-suffix, centralvalidation.com, microsoft
 host-suffix, ch9.ms, microsoft
 host-suffix, charticulator.com, microsoft
@@ -89,18 +90,19 @@ host-suffix, hotmail.eu, microsoft
 host-suffix, hotmail.net, microsoft
 host-suffix, hotmail.org, microsoft
 host-suffix, hummingbird.ms, microsoft
-host-suffix, ie8.co, microsoft
-host-suffix, ie9.com, microsoft
 host-suffix, ie10.com, microsoft
 host-suffix, ie11.com, microsoft
-host-suffix, internetexplorer.co, microsoft
-host-suffix, internetexplorer.com, microsoft
+host-suffix, ie8.co, microsoft
+host-suffix, ie9.com, microsoft
 host-suffix, imaginecup.pl, microsoft
 host-suffix, ingads.com, microsoft
+host-suffix, internetexplorer.co, microsoft
+host-suffix, internetexplorer.com, microsoft
 host-suffix, intunewiki.com, microsoft
 host-suffix, iotinactionevents.com, microsoft
 host-suffix, kidgrid.tv, microsoft
 host-suffix, kumo.com, microsoft
+host-suffix, l-msedge.net, microsoft
 host-suffix, latampartneruniversity.com, microsoft
 host-suffix, live.com, microsoft
 host-suffix, live.com.au, microsoft
@@ -113,6 +115,7 @@ host-suffix, managedmeetingrooms.com, microsoft
 host-suffix, meetfasttrack.com, microsoft
 host-suffix, meetyourdevices.com, microsoft
 host-suffix, mepn.com, microsoft
+host-suffix, microsoftedgeinsider.com, microsoft
 host-suffix, microsoft-falcon.io, microsoft
 host-suffix, microsoft-int.com, microsoft
 host-suffix, microsoft-ppe.com, microsoft
@@ -149,6 +152,7 @@ host-suffix, microsoftpartnercommunity.com, microsoft
 host-suffix, microsoftready.com, microsoft
 host-suffix, microsoftsiteselection.com, microsoft
 host-suffix, microsoftstore.com, microsoft
+host-suffix, microsoftstore.com.cn, microsoft
 host-suffix, microsoftstore.com.hk, microsoft
 host-suffix, microsoftstream.com, microsoft
 host-suffix, microsoftteams.com, microsoft
@@ -173,7 +177,9 @@ host-suffix, msft.net, microsoft
 host-suffix, msftauth.cn, microsoft
 host-suffix, msftauth.net, microsoft
 host-suffix, msftauthimages.cn, microsoft
+host-suffix, msftconnecttest.com, microsoft
 host-suffix, msfteducation.ca, microsoft
+host-suffix, msftncsi.com, microsoft
 host-suffix, msftnet.org, microsoft
 host-suffix, msgamesresearch.com, microsoft
 host-suffix, msocdn.com, microsoft
@@ -182,6 +188,7 @@ host-suffix, msra.cn, microsoft
 host-suffix, msturing.org, microsoft
 host-suffix, msudalosti.com, microsoft
 host-suffix, mymicrosoft.com, microsoft
+host-suffix, nelreports.net, microsoft
 host-suffix, nextechafrica.net, microsoft
 host-suffix, nxta.org, microsoft
 host-suffix, o365cn.com, microsoft
@@ -194,6 +201,7 @@ host-suffix, office.net, microsoft
 host-suffix, office365-net.cn, microsoft
 host-suffix, office365.cn, microsoft
 host-suffix, office365.com, microsoft
+host-suffix, officeplus.cn, microsoft
 host-suffix, officewebapps.cn, microsoft
 host-suffix, onenote.com, microsoft
 host-suffix, onenote.net, microsoft
@@ -233,6 +241,7 @@ host-suffix, skype.com, microsoft
 host-suffix, skype.net, microsoft
 host-suffix, skypeassets.com, microsoft
 host-suffix, skypeassets.net, microsoft
+host-suffix, spo-msedge.net, microsoft
 host-suffix, staffhub.ms, microsoft
 host-suffix, successwithteams.com, microsoft
 host-suffix, surface.com, microsoft
@@ -240,6 +249,7 @@ host-suffix, svc.ms, microsoft
 host-suffix, sway-cdn.com, microsoft
 host-suffix, sway.com, microsoft
 host-suffix, sysinternals.com, microsoft
+host-suffix, t-msedge.net, microsoft
 host-suffix, tailwindtraders.com, microsoft
 host-suffix, techhub.ms, microsoft
 host-suffix, tfsallin.net, microsoft
@@ -266,7 +276,6 @@ host-suffix, windowsupdate.com, microsoft
 host-suffix, winhec.com, microsoft
 host-suffix, winhec.net, microsoft
 host-suffix, yammer.com, microsoft
-host-suffix, edge-skype-com.s-0001.s-msedge.net, microsoft
 host-suffix, skype-edf.akadns.net, microsoft
 host-suffix, skypedata.akadns.net, microsoft
 host-suffix, dl.delivery.mp.microsoft.com, microsoft
@@ -439,6 +448,7 @@ host-suffix, bingsandbox.com, microsoft
 host-suffix, bingvisualsearch.com, microsoft
 host-suffix, bingworld.com, microsoft
 host-suffix, bluehatnights.com, microsoft
+host-suffix, copilot.microsoft.com, microsoft
 host-suffix, dictate.ms, microsoft
 host-suffix, flipwithsurface.com, microsoft
 host-suffix, masalladeloslimites.com, microsoft

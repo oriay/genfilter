@@ -86,6 +86,14 @@ host-suffix, photonicssociety.org, category-orgs
 host-suffix, signalprocessingsociety.org, category-orgs
 host-suffix, technologyandsociety.org, category-orgs
 host-suffix, vtsociety.org, category-orgs
+host-suffix, acousticbrainz.org, category-orgs
+host-suffix, bookbrainz.org, category-orgs
+host-suffix, coverartarchive.org, category-orgs
+host-suffix, critiquebrainz.org, category-orgs
+host-suffix, listenbrainz.org, category-orgs
+host-suffix, messybrainz.org, category-orgs
+host-suffix, metabrainz.org, category-orgs
+host-suffix, musicbrainz.org, category-orgs
 host-suffix, nist.gov, category-orgs
 host-suffix, time.gov, category-orgs
 host-suffix, openmaps.org, category-orgs

@@ -273,6 +273,8 @@ DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gitlab.net
@@ -465,8 +467,13 @@ DOMAIN-SUFFIX,stackoverflow.blog
 DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stackoverflow.email
+DOMAIN-SUFFIX,stackoverflow.help
+DOMAIN-SUFFIX,stackoverflow.net
 DOMAIN-SUFFIX,stackoverflowbusiness.com
 DOMAIN-SUFFIX,stackoverflowcareers.com
+DOMAIN-SUFFIX,stackoverflowjobs.com
+DOMAIN-SUFFIX,stackoverflowsolutions.com
+DOMAIN-SUFFIX,stackoverflowteams.com
 DOMAIN-SUFFIX,stacksnippets.net
 DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,tex-talk.net
@@ -509,3 +516,4 @@ DOMAIN-SUFFIX,vim.org
 DOMAIN-SUFFIX,xda-cdn.com
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com

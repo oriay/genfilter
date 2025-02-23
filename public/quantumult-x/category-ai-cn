@@ -17,3 +17,6 @@ host-suffix, hunyuan.tencent.com, category-ai-cn
 host-suffix, baichuan-ai.com, category-ai-cn
 host-suffix, botvip.cn, category-ai-cn
 host-suffix, liblib.art, category-ai-cn
+host-suffix, cueme.cn, category-ai-cn
+host, cueme-api.quark.cn, category-ai-cn
+host-suffix, deepseek.com, category-ai-cn

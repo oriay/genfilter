@@ -246,6 +246,9 @@ host-suffix, shadowcomplex.com, category-games
 host-suffix, spyjinx.com, category-games
 host-suffix, unrealengine.com, category-games
 host-suffix, unrealtournament.com, category-games
+host-suffix, tarkov.com, category-games
+host-suffix, eft-store.com, category-games
+host-suffix, escapefromtarkov.com, category-games
 host, avatargarenanow-a.akamaihd.net, category-games
 host, cdngarenanow-a.akamaihd.net, category-games
 host, dlgarenanow-a.akamaihd.net, category-games
@@ -566,6 +569,7 @@ host-suffix, steampowered.com.8686c.com, category-games
 host-suffix, steamstatic.com.8686c.com, category-games
 host, xz.pphimalayanrt.com, category-games
 host-suffix, steamchina.com, category-games
+host-suffix, gstore.val.manlaxy.com, category-games
 host-suffix, steamunlocked.net, category-games
 host-suffix, supercell.com, category-games
 host-suffix, supercell.net, category-games

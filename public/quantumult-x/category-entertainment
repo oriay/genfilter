@@ -341,6 +341,9 @@ host-suffix, shadowcomplex.com, category-entertainment
 host-suffix, spyjinx.com, category-entertainment
 host-suffix, unrealengine.com, category-entertainment
 host-suffix, unrealtournament.com, category-entertainment
+host-suffix, tarkov.com, category-entertainment
+host-suffix, eft-store.com, category-entertainment
+host-suffix, escapefromtarkov.com, category-entertainment
 host, avatargarenanow-a.akamaihd.net, category-entertainment
 host, cdngarenanow-a.akamaihd.net, category-entertainment
 host, dlgarenanow-a.akamaihd.net, category-entertainment
@@ -661,6 +664,7 @@ host-suffix, steampowered.com.8686c.com, category-entertainment
 host-suffix, steamstatic.com.8686c.com, category-entertainment
 host, xz.pphimalayanrt.com, category-entertainment
 host-suffix, steamchina.com, category-entertainment
+host-suffix, gstore.val.manlaxy.com, category-entertainment
 host-suffix, steamunlocked.net, category-entertainment
 host-suffix, supercell.com, category-entertainment
 host-suffix, supercell.net, category-entertainment
@@ -1186,6 +1190,7 @@ host-suffix, pixiv.me, category-entertainment
 host-suffix, pixiv.net, category-entertainment
 host-suffix, pixiv.org, category-entertainment
 host-suffix, pixiv-recommend.net, category-entertainment
+host-suffix, pixivision.net, category-entertainment
 host-suffix, pximg.net, category-entertainment
 host-suffix, pluto.tv, category-entertainment
 host-suffix, plutotv.net, category-entertainment

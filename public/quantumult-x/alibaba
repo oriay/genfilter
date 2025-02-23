@@ -27,6 +27,7 @@ host-suffix, alikmd.com, alibaba
 host-suffix, alimama.com, alibaba
 host-suffix, alimebot.com, alibaba
 host-suffix, alimei.com, alibaba
+host-suffix, alimmdn.com, alibaba
 host-suffix, alios.cn, alibaba
 host-suffix, alipay.cn, alibaba
 host-suffix, alipay.com, alibaba
@@ -133,11 +134,13 @@ host-suffix, taobizhong.com, alibaba
 host-suffix, taopiaopiao.com, alibaba
 host-suffix, tb.cn, alibaba
 host-suffix, tbcache.com, alibaba
+host-suffix, tbcdn.cn, alibaba
 host-suffix, tburl.in, alibaba
 host-suffix, tmall.com, alibaba
 host-suffix, tmall.ru, alibaba
 host-suffix, tmalltv.com, alibaba
 host-suffix, tmjl.ai, alibaba
+host-suffix, cueme.cn, alibaba
 host-suffix, quark.cn, alibaba
 host-suffix, alitrip.com, alibaba
 host-suffix, feizhu.cn, alibaba

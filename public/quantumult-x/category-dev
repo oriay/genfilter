@@ -273,6 +273,8 @@ host, github-cloud.s3.amazonaws.com, category-dev
 host-suffix, npm.community, category-dev
 host-suffix, npmjs.com, category-dev
 host-suffix, npmjs.org, category-dev
+host-suffix, github1s.com, category-dev
+host-suffix, sourcegraph.com, category-dev
 host-suffix, gitlab.com, category-dev
 host-suffix, gitlab.io, category-dev
 host-suffix, gitlab.net, category-dev
@@ -465,8 +467,13 @@ host-suffix, stackoverflow.blog, category-dev
 host-suffix, stackoverflow.co, category-dev
 host-suffix, stackoverflow.com, category-dev
 host-suffix, stackoverflow.email, category-dev
+host-suffix, stackoverflow.help, category-dev
+host-suffix, stackoverflow.net, category-dev
 host-suffix, stackoverflowbusiness.com, category-dev
 host-suffix, stackoverflowcareers.com, category-dev
+host-suffix, stackoverflowjobs.com, category-dev
+host-suffix, stackoverflowsolutions.com, category-dev
+host-suffix, stackoverflowteams.com, category-dev
 host-suffix, stacksnippets.net, category-dev
 host-suffix, superuser.com, category-dev
 host-suffix, tex-talk.net, category-dev
@@ -509,3 +516,4 @@ host-suffix, vim.org, category-dev
 host-suffix, xda-cdn.com, category-dev
 host-suffix, xda-developers.com, category-dev
 host-suffix, xdaforums.com, category-dev
+host-suffix, xdaimages.com, category-dev

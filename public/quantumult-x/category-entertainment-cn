@@ -67,6 +67,13 @@ host, apilog-web.acfun.cn, category-entertainment-cn
 host-suffix, acplay.net, category-entertainment-cn
 host-suffix, dandanplay.com, category-entertainment-cn
 host-suffix, ali213.net, category-entertainment-cn
+host-suffix, bbtv.cn, category-entertainment-cn
+host-suffix, bestv.com.cn, category-entertainment-cn
+host-suffix, bestvcdn.cn, category-entertainment-cn
+host-suffix, bestvcdn.com, category-entertainment-cn
+host-suffix, bestvcdn.com.cn, category-entertainment-cn
+host-suffix, bestvcdn.net, category-entertainment-cn
+host-suffix, smgbb.cn, category-entertainment-cn
 host-suffix, bilicomic.com, category-entertainment-cn
 host-suffix, bilicomics.com, category-entertainment-cn
 host, manga.bilibili.com, category-entertainment-cn
@@ -330,6 +337,12 @@ host-suffix, u17.com, category-entertainment-cn
 host-suffix, u17i.com, category-entertainment-cn
 host-suffix, u17t.com, category-entertainment-cn
 host-suffix, vgtime.com, category-entertainment-cn
+host-suffix, aichongzoo.cn, category-entertainment-cn
+host-suffix, hzdtv.tv, category-entertainment-cn
+host-suffix, hzman.net, category-entertainment-cn
+host-suffix, wasu.cn, category-entertainment-cn
+host-suffix, wasu.tv, category-entertainment-cn
+host-suffix, wasumedia.cn, category-entertainment-cn
 host-suffix, ro.com, category-entertainment-cn
 host-suffix, xd.cn, category-entertainment-cn
 host-suffix, xd.com, category-entertainment-cn

@@ -4,6 +4,8 @@ host-suffix, connectivitycheck.gstatic.com, connectivity-check
 host-suffix, cp.cloudflare.com, connectivity-check
 host-suffix, network-test.debian.org, connectivity-check
 host-suffix, detectportal.firefox.com, connectivity-check
+host, connectivitycheck.platform.hihonorcloud.com, connectivity-check
+host, connectivitycheck.platform.hicloud.com, connectivity-check
 host-suffix, networkcheck.kde.org, connectivity-check
 host, connect.rom.miui.com, connectivity-check
 host-suffix, msftconnecttest.com, connectivity-check

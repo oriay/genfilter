@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,trafficfactory.biz
 DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-SUFFIX,wwads.cn
 DOMAIN-SUFFIX,adx.36kr.com
+DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,hubcloud.com.cn
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,click.ali213.net
@@ -57,8 +58,11 @@ DOMAIN-SUFFIX,ad.unimhk.com
 DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
 DOMAIN-SUFFIX,telecome.cn
 DOMAIN-SUFFIX,unioncom.cc
+DOMAIN-SUFFIX,yfanads.cn
+DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,zxid-api.mobileservice.cn
+DOMAIN-SUFFIX,zxid-m.mobileservice.cn
 DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adjust.com

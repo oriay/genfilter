@@ -5,9 +5,12 @@ host-suffix, adguard.io, adguard
 host-suffix, adguard.org, adguard
 host-suffix, adtidy.net, adguard
 host-suffix, adtidy.org, adguard
+host-suffix, agrd.eu, adguard
 host-suffix, agrd.io, adguard
 host-suffix, adguard-dns.com, adguard
 host-suffix, adguard-dns.io, adguard
+host-suffix, adguard-mail.com, adguard
+host-suffix, mask.me, adguard
 host-suffix, adguardvpn.com, adguard
 host-suffix, adguard-vpn.com, adguard
 host-suffix, adguard-vpn.online, adguard

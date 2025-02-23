@@ -45,6 +45,7 @@ host-suffix, trafficfactory.biz, category-ads
 host-suffix, tsyndicate.com, category-ads
 host-suffix, wwads.cn, category-ads
 host-suffix, adx.36kr.com, category-ads
+host-suffix, ad.12306.cn, category-ads
 host-suffix, hubcloud.com.cn, category-ads
 host-suffix, beizi.biz, category-ads
 host-suffix, click.ali213.net, category-ads
@@ -57,8 +58,11 @@ host-suffix, ad.unimhk.com, category-ads
 host-suffix, das-rpt-log.ucloud.cn, category-ads
 host-suffix, telecome.cn, category-ads
 host-suffix, unioncom.cc, category-ads
+host-suffix, yfanads.cn, category-ads
+host-suffix, yfanads.com, category-ads
 host-suffix, shuzilm.cn, category-ads
 host-suffix, zxid-api.mobileservice.cn, category-ads
+host-suffix, zxid-m.mobileservice.cn, category-ads
 host, apilog-web.acfun.cn, category-ads
 host-suffix, adcolony.com, category-ads
 host-suffix, adjust.com, category-ads
