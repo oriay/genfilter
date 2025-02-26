@@ -36,6 +36,10 @@ host-suffix, cloudfront.net, aws
 host-suffix, containersonaws.com, aws
 host-suffix, elasticbeanstalk.com, aws
 host-suffix, thinkboxsoftware.com, aws
+host-suffix, amzndns.co.uk, aws
+host-suffix, amzndns.com, aws
+host-suffix, amzndns.net, aws
+host-suffix, amzndns.org, aws
 host-suffix, a2z.org.cn, aws
 host-suffix, amazonaws.cn, aws
 host-suffix, amazonaws.com.cn, aws
@@ -57,3 +61,7 @@ host-suffix, nwcddns.cn, aws
 host-suffix, nwcdinfosec.cn, aws
 host-suffix, route53.cn, aws
 host-suffix, sagemaker.com.cn, aws
+host-suffix, amzndns-cn.biz, aws
+host-suffix, amzndns-cn.cn, aws
+host-suffix, amzndns-cn.com, aws
+host-suffix, amzndns-cn.net, aws

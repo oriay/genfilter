@@ -140,6 +140,10 @@ host-suffix, cloudfront.net, amazon
 host-suffix, containersonaws.com, amazon
 host-suffix, elasticbeanstalk.com, amazon
 host-suffix, thinkboxsoftware.com, amazon
+host-suffix, amzndns.co.uk, amazon
+host-suffix, amzndns.com, amazon
+host-suffix, amzndns.net, amazon
+host-suffix, amzndns.org, amazon
 host-suffix, a2z.org.cn, amazon
 host-suffix, amazonaws.cn, amazon
 host-suffix, amazonaws.com.cn, amazon
@@ -161,6 +165,10 @@ host-suffix, nwcddns.cn, amazon
 host-suffix, nwcdinfosec.cn, amazon
 host-suffix, route53.cn, amazon
 host-suffix, sagemaker.com.cn, amazon
+host-suffix, amzndns-cn.biz, amazon
+host-suffix, amzndns-cn.cn, amazon
+host-suffix, amzndns-cn.com, amazon
+host-suffix, amzndns-cn.net, amazon
 host-suffix, imdb, amazon
 host-suffix, boxofficemojo.com, amazon
 host-suffix, imdb.com, amazon

@@ -72,6 +72,16 @@ host-suffix, hubcloud.com.cn, category-ads-all
 host-suffix, beizi.biz, category-ads-all
 host-suffix, click.ali213.net, category-ads-all
 host-suffix, pbmp.ali213.net, category-ads-all
+host, pinggai0.caixin.com, category-ads-all
+host, pinggai1.caixin.com, category-ads-all
+host, pinggai2.caixin.com, category-ads-all
+host, pinggai3.caixin.com, category-ads-all
+host, pinggai4.caixin.com, category-ads-all
+host, pinggai5.caixin.com, category-ads-all
+host, pinggai6.caixin.com, category-ads-all
+host, pinggai7.caixin.com, category-ads-all
+host, pinggai8.caixin.com, category-ads-all
+host, pinggai9.caixin.com, category-ads-all
 host-suffix, adq.chinaso.com, category-ads-all
 host-suffix, stat.chinaso.com, category-ads-all
 host-suffix, toboads.com, category-ads-all
