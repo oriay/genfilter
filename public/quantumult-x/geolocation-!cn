@@ -12983,6 +12983,8 @@ host-suffix, wofl.tv, geolocation-!cn
 host-suffix, woflthenewsstation.com, geolocation-!cn
 host-suffix, wogx.com, geolocation-!cn
 host, foxnewsplayer-a.akamaihd.net, geolocation-!cn
+host-suffix, tubi.io, geolocation-!cn
+host-suffix, tubitv.com, geolocation-!cn
 host-suffix, agendaweek.com, geolocation-!cn
 host-suffix, excedo.com, geolocation-!cn
 host-suffix, exec-appointments.com, geolocation-!cn
@@ -27914,6 +27916,7 @@ host-suffix, customercontrolpanel.de, geolocation-!cn
 host-suffix, dnsserver1.de, geolocation-!cn
 host-suffix, dnsserver2.de, geolocation-!cn
 host-suffix, luckysrv.de, geolocation-!cn
+host-suffix, netcup.cafe, geolocation-!cn
 host-suffix, netcup.com, geolocation-!cn
 host-suffix, netcup.de, geolocation-!cn
 host-suffix, netcup.eu, geolocation-!cn

@@ -699,6 +699,8 @@ host-suffix, wofl.tv, category-media
 host-suffix, woflthenewsstation.com, category-media
 host-suffix, wogx.com, category-media
 host, foxnewsplayer-a.akamaihd.net, category-media
+host-suffix, tubi.io, category-media
+host-suffix, tubitv.com, category-media
 host-suffix, agendaweek.com, category-media
 host-suffix, excedo.com, category-media
 host-suffix, exec-appointments.com, category-media
