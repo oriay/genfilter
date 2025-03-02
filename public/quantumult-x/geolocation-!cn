@@ -2787,6 +2787,7 @@ host-suffix, coinmap.org, geolocation-!cn
 host-suffix, coinmarketcap.com, geolocation-!cn
 host-suffix, crypto.com, geolocation-!cn
 host-suffix, cryptocompare.com, geolocation-!cn
+host-suffix, cryptomus.com, geolocation-!cn
 host-suffix, curve.fi, geolocation-!cn
 host-suffix, cyberx.com, geolocation-!cn
 host-suffix, debank.com, geolocation-!cn
@@ -10674,6 +10675,7 @@ host, xz.pphimalayanrt.com, geolocation-!cn
 host-suffix, steamchina.com, geolocation-!cn
 host-suffix, gstore.val.manlaxy.com, geolocation-!cn
 host-suffix, steamunlocked.net, geolocation-!cn
+host-suffix, brawlstarsgame.com, geolocation-!cn
 host-suffix, supercell.com, geolocation-!cn
 host-suffix, supercell.net, geolocation-!cn
 host-suffix, supercell.helpshift.com, geolocation-!cn
