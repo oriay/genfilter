@@ -27257,6 +27257,7 @@ host-suffix, microsoftonline-p.net.cn, geolocation-!cn
 host-suffix, microsoftonline.cn, geolocation-!cn
 host-suffix, microsoftonline.com, geolocation-!cn
 host-suffix, microsoftpartnercommunity.com, geolocation-!cn
+host-suffix, microsoftpersonalcontent.com, geolocation-!cn
 host-suffix, microsoftready.com, geolocation-!cn
 host-suffix, microsoftsiteselection.com, geolocation-!cn
 host-suffix, microsoftstore.com, geolocation-!cn
