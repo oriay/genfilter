@@ -1226,6 +1226,8 @@ host-suffix, rwkv.cn, cn
 host-suffix, rwkv.com, cn
 host-suffix, tongyi.aliyun.com, cn
 host-suffix, qianwen.aliyun.com, cn
+host-suffix, qwen.ai, cn
+host-suffix, qwenlm.ai, cn
 host-suffix, yiyan.baidu.com, cn
 host-suffix, tiangong.cn, cn
 host-suffix, doubao.com, cn

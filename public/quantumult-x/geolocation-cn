@@ -1190,6 +1190,8 @@ host-suffix, rwkv.cn, geolocation-cn
 host-suffix, rwkv.com, geolocation-cn
 host-suffix, tongyi.aliyun.com, geolocation-cn
 host-suffix, qianwen.aliyun.com, geolocation-cn
+host-suffix, qwen.ai, geolocation-cn
+host-suffix, qwenlm.ai, geolocation-cn
 host-suffix, yiyan.baidu.com, geolocation-cn
 host-suffix, tiangong.cn, geolocation-cn
 host-suffix, doubao.com, geolocation-cn
