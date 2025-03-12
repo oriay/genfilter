@@ -55,6 +55,8 @@ host-suffix, chatgpt.livekit.cloud, geolocation-!cn
 host-suffix, host.livekit.cloud, geolocation-!cn
 host-suffix, turn.livekit.cloud, geolocation-!cn
 host-suffix, perplexity.ai, geolocation-!cn
+host-suffix, pplx.ai, geolocation-!cn
+host, pplx-res.cloudinary.com, geolocation-!cn
 host-suffix, poe.com, geolocation-!cn
 host-suffix, poecdn.net, geolocation-!cn
 host-suffix, grok.com, geolocation-!cn
@@ -28081,6 +28083,8 @@ host, dfp6rglgjqszk.cloudfront.net, geolocation-!cn
 host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
 host-suffix, perplexity.ai, geolocation-!cn
+host-suffix, pplx.ai, geolocation-!cn
+host, pplx-res.cloudinary.com, geolocation-!cn
 host-suffix, myqnapcloud.com, geolocation-!cn
 host-suffix, qlink.to, geolocation-!cn
 host-suffix, qnap.com, geolocation-!cn
