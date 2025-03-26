@@ -93,6 +93,10 @@ host-suffix, unioncom.cc, category-ads-all
 host-suffix, yfanads.cn, category-ads-all
 host-suffix, yfanads.com, category-ads-all
 host-suffix, shuzilm.cn, category-ads-all
+host-suffix, china-caa.org, category-ads-all
+host-suffix, cnaa123.com, category-ads-all
+host-suffix, chinaciaf.org, category-ads-all
+host-suffix, iabchina.cn, category-ads-all
 host-suffix, zxid-api.mobileservice.cn, category-ads-all
 host-suffix, zxid-m.mobileservice.cn, category-ads-all
 host, apilog-web.acfun.cn, category-ads-all

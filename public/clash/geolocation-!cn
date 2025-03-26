@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -37,6 +38,8 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -10379,8 +10382,12 @@ DOMAIN,menu-static.gog-statics.com
 DOMAIN,productcard.gog-statics.com
 DOMAIN,static-login.gog-statics.com
 DOMAIN,www4-static.gog-statics.com
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,illusion.co.jp
 DOMAIN-SUFFIX,illusion.jp
+DOMAIN-SUFFIX,itch.io
+DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,lowiro.com
@@ -13723,6 +13730,7 @@ DOMAIN-SUFFIX,smpte.org
 DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
+DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.org
@@ -20971,7 +20979,6 @@ DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xposed.info
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,zsh.org
-DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
@@ -21540,6 +21547,7 @@ DOMAIN-SUFFIX,compresspdf.new
 DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,scene7.com
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
 DOMAIN,3dns-3.adobe.com
@@ -24638,6 +24646,8 @@ DOMAIN-SUFFIX,tail-f.com
 DOMAIN-SUFFIX,tailf.com
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
+DOMAIN-SUFFIX,umbrella.com
+DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,webex.ca
 DOMAIN-SUFFIX,webex.co.in
 DOMAIN-SUFFIX,webex.co.it
@@ -25317,6 +25327,7 @@ DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
 DOMAIN,www.recaptcha.net
+DOMAIN,safebrowsing-cache.google.com
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -27518,6 +27529,7 @@ DOMAIN-SUFFIX,b2clogin.cn
 DOMAIN-SUFFIX,b3itech.cn
 DOMAIN-SUFFIX,blueaggrestore.com
 DOMAIN-SUFFIX,bluecloudprod.com
+DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,cegid-cloud.cn
 DOMAIN-SUFFIX,chinacloud-mobile.cn
 DOMAIN-SUFFIX,chinacloudapi.cn
@@ -27934,10 +27946,15 @@ DOMAIN-SUFFIX,linemyshop.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,bestsrv.de
 DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,dnsserver1.de
 DOMAIN-SUFFIX,dnsserver2.de
+DOMAIN-SUFFIX,goodsrv.de
+DOMAIN-SUFFIX,happysrv.de
+DOMAIN-SUFFIX,hotsrv.de
 DOMAIN-SUFFIX,luckysrv.de
+DOMAIN-SUFFIX,megasrv.de
 DOMAIN-SUFFIX,netcup.cafe
 DOMAIN-SUFFIX,netcup.com
 DOMAIN-SUFFIX,netcup.de
@@ -27946,8 +27963,12 @@ DOMAIN-SUFFIX,netcup.net
 DOMAIN-SUFFIX,netcup-news.de
 DOMAIN-SUFFIX,netcup-sonderangebote.de
 DOMAIN-SUFFIX,netcup-wiki.de
+DOMAIN-SUFFIX,nicesrv.de
+DOMAIN-SUFFIX,powersrv.de
+DOMAIN-SUFFIX,quicksrv.de
 DOMAIN-SUFFIX,servercontrolpanel.de
 DOMAIN-SUFFIX,supersrv.de
+DOMAIN-SUFFIX,ultrasrv.de
 DOMAIN-SUFFIX,yourvserver.net
 DOMAIN-SUFFIX,neuralink.com
 DOMAIN-SUFFIX,geforce.cn

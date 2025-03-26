@@ -486,6 +486,7 @@ host-suffix, xplr.co, google
 host-suffix, zukunftswerkstatt.de, google
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, google
 host, www.recaptcha.net, google
+host, safebrowsing-cache.google.com, google
 host, 265.com, google
 host, 2mdn-cn.net, google
 host, 2mdn.net, google

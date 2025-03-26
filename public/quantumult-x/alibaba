@@ -107,9 +107,6 @@ host-suffix, alicloudccp.com, alibaba
 host-suffix, alipan.com, alibaba
 host-suffix, aliyundrive.com, alibaba
 host-suffix, aliyundrive.net, alibaba
-host-suffix, cainiao.com, alibaba
-host-suffix, cainiao.com.cn, alibaba
-host-suffix, cainiao-inc.com, alibaba
 host-suffix, freshhema.com, alibaba
 host-suffix, hemamax.com, alibaba
 host-suffix, hemaos.com, alibaba
@@ -324,6 +321,11 @@ host-suffix, oss-eu-west-1.aliyuncs.com, alibaba
 host-suffix, oss-me-east-1.aliyuncs.com, alibaba
 host-suffix, oss-us-east-1.aliyuncs.com, alibaba
 host-suffix, oss-us-west-1.aliyuncs.com, alibaba
+host-suffix, cainiao-inc.com, alibaba
+host-suffix, cainiao.com, alibaba
+host-suffix, cainiao.com.cn, alibaba
+host-suffix, cainiaoyizhan.com, alibaba
+host-suffix, guoguo-app.com, alibaba
 host-suffix, ddurl.to, alibaba
 host-suffix, dingding.xin, alibaba
 host-suffix, dingtalk.cn, alibaba

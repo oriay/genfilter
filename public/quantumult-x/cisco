@@ -100,6 +100,8 @@ host-suffix, tail-f.com, cisco
 host-suffix, tailf.com, cisco
 host, cisco.evergage.com, cisco
 host, ciscolivehls-i.akamaihd.net, cisco
+host-suffix, umbrella.com, cisco
+host-suffix, opendns.com, cisco
 host-suffix, webex.ca, cisco
 host-suffix, webex.co.in, cisco
 host-suffix, webex.co.it, cisco

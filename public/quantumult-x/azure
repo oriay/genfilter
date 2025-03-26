@@ -64,6 +64,7 @@ host-suffix, b2clogin.cn, azure
 host-suffix, b3itech.cn, azure
 host-suffix, blueaggrestore.com, azure
 host-suffix, bluecloudprod.com, azure
+host-suffix, botframework.com, azure
 host-suffix, cegid-cloud.cn, azure
 host-suffix, chinacloud-mobile.cn, azure
 host-suffix, chinacloudapi.cn, azure

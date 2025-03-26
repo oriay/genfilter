@@ -273,8 +273,12 @@ host, menu-static.gog-statics.com, category-games
 host, productcard.gog-statics.com, category-games
 host, static-login.gog-statics.com, category-games
 host, www4-static.gog-statics.com, category-games
+host, gog-cdn-fastly.gog.com, category-games
+host, gog-cdn.akamaized.net, category-games
 host-suffix, illusion.co.jp, category-games
 host-suffix, illusion.jp, category-games
+host-suffix, itch.io, category-games
+host-suffix, itch.zone, category-games
 host-suffix, kurogames.com, category-games
 host-suffix, aki-game.com, category-games
 host-suffix, lowiro.com, category-games

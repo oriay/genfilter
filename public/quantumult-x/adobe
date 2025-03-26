@@ -119,6 +119,7 @@ host-suffix, compresspdf.new, adobe
 host-suffix, pdf.new, adobe
 host-suffix, sign.new, adobe
 host-suffix, scene7.com, adobe
+host-suffix, adobestats.io, adobe
 host, 3dns-1.adobe.com, adobe
 host, 3dns-2.adobe.com, adobe
 host, 3dns-3.adobe.com, adobe

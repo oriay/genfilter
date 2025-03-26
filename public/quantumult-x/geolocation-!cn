@@ -19,6 +19,7 @@ host-suffix, dify.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
+host-suffix, openrouter.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
@@ -37,6 +38,8 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
+host-suffix, hf.co, geolocation-!cn
+host-suffix, huggingface.co, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
 host-suffix, chat.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
@@ -10379,8 +10382,12 @@ host, menu-static.gog-statics.com, geolocation-!cn
 host, productcard.gog-statics.com, geolocation-!cn
 host, static-login.gog-statics.com, geolocation-!cn
 host, www4-static.gog-statics.com, geolocation-!cn
+host, gog-cdn-fastly.gog.com, geolocation-!cn
+host, gog-cdn.akamaized.net, geolocation-!cn
 host-suffix, illusion.co.jp, geolocation-!cn
 host-suffix, illusion.jp, geolocation-!cn
+host-suffix, itch.io, geolocation-!cn
+host-suffix, itch.zone, geolocation-!cn
 host-suffix, kurogames.com, geolocation-!cn
 host-suffix, aki-game.com, geolocation-!cn
 host-suffix, lowiro.com, geolocation-!cn
@@ -13723,6 +13730,7 @@ host-suffix, smpte.org, geolocation-!cn
 host-suffix, un.org, geolocation-!cn
 host-suffix, w3.org, geolocation-!cn
 host-suffix, who.int, geolocation-!cn
+host-suffix, wi-fi.org, geolocation-!cn
 host-suffix, wto.org, geolocation-!cn
 host-suffix, archive-it.org, geolocation-!cn
 host-suffix, archive.org, geolocation-!cn
@@ -20971,7 +20979,6 @@ host-suffix, x.org, geolocation-!cn
 host-suffix, xposed.info, geolocation-!cn
 host-suffix, yarnpkg.com, geolocation-!cn
 host-suffix, zsh.org, geolocation-!cn
-host-suffix, huggingface.co, geolocation-!cn
 host-suffix, anaconda.cloud, geolocation-!cn
 host-suffix, anaconda.com, geolocation-!cn
 host-suffix, anaconda.org, geolocation-!cn
@@ -21540,6 +21547,7 @@ host-suffix, compresspdf.new, geolocation-!cn
 host-suffix, pdf.new, geolocation-!cn
 host-suffix, sign.new, geolocation-!cn
 host-suffix, scene7.com, geolocation-!cn
+host-suffix, adobestats.io, geolocation-!cn
 host, 3dns-1.adobe.com, geolocation-!cn
 host, 3dns-2.adobe.com, geolocation-!cn
 host, 3dns-3.adobe.com, geolocation-!cn
@@ -24638,6 +24646,8 @@ host-suffix, tail-f.com, geolocation-!cn
 host-suffix, tailf.com, geolocation-!cn
 host, cisco.evergage.com, geolocation-!cn
 host, ciscolivehls-i.akamaihd.net, geolocation-!cn
+host-suffix, umbrella.com, geolocation-!cn
+host-suffix, opendns.com, geolocation-!cn
 host-suffix, webex.ca, geolocation-!cn
 host-suffix, webex.co.in, geolocation-!cn
 host-suffix, webex.co.it, geolocation-!cn
@@ -25317,6 +25327,7 @@ host-suffix, xplr.co, geolocation-!cn
 host-suffix, zukunftswerkstatt.de, geolocation-!cn
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, geolocation-!cn
 host, www.recaptcha.net, geolocation-!cn
+host, safebrowsing-cache.google.com, geolocation-!cn
 host, 265.com, geolocation-!cn
 host, 2mdn-cn.net, geolocation-!cn
 host, 2mdn.net, geolocation-!cn
@@ -27518,6 +27529,7 @@ host-suffix, b2clogin.cn, geolocation-!cn
 host-suffix, b3itech.cn, geolocation-!cn
 host-suffix, blueaggrestore.com, geolocation-!cn
 host-suffix, bluecloudprod.com, geolocation-!cn
+host-suffix, botframework.com, geolocation-!cn
 host-suffix, cegid-cloud.cn, geolocation-!cn
 host-suffix, chinacloud-mobile.cn, geolocation-!cn
 host-suffix, chinacloudapi.cn, geolocation-!cn
@@ -27934,10 +27946,15 @@ host-suffix, linemyshop.com, geolocation-!cn
 host-suffix, lineshoppingseller.com, geolocation-!cn
 host-suffix, linetv.tw, geolocation-!cn
 host-suffix, nhncorp.jp, geolocation-!cn
+host-suffix, bestsrv.de, geolocation-!cn
 host-suffix, customercontrolpanel.de, geolocation-!cn
 host-suffix, dnsserver1.de, geolocation-!cn
 host-suffix, dnsserver2.de, geolocation-!cn
+host-suffix, goodsrv.de, geolocation-!cn
+host-suffix, happysrv.de, geolocation-!cn
+host-suffix, hotsrv.de, geolocation-!cn
 host-suffix, luckysrv.de, geolocation-!cn
+host-suffix, megasrv.de, geolocation-!cn
 host-suffix, netcup.cafe, geolocation-!cn
 host-suffix, netcup.com, geolocation-!cn
 host-suffix, netcup.de, geolocation-!cn
@@ -27946,8 +27963,12 @@ host-suffix, netcup.net, geolocation-!cn
 host-suffix, netcup-news.de, geolocation-!cn
 host-suffix, netcup-sonderangebote.de, geolocation-!cn
 host-suffix, netcup-wiki.de, geolocation-!cn
+host-suffix, nicesrv.de, geolocation-!cn
+host-suffix, powersrv.de, geolocation-!cn
+host-suffix, quicksrv.de, geolocation-!cn
 host-suffix, servercontrolpanel.de, geolocation-!cn
 host-suffix, supersrv.de, geolocation-!cn
+host-suffix, ultrasrv.de, geolocation-!cn
 host-suffix, yourvserver.net, geolocation-!cn
 host-suffix, neuralink.com, geolocation-!cn
 host-suffix, geforce.cn, geolocation-!cn

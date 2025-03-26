@@ -125,6 +125,7 @@ host-suffix, compresspdf.new, category-companies
 host-suffix, pdf.new, category-companies
 host-suffix, sign.new, category-companies
 host-suffix, scene7.com, category-companies
+host-suffix, adobestats.io, category-companies
 host, 3dns-1.adobe.com, category-companies
 host, 3dns-2.adobe.com, category-companies
 host, 3dns-3.adobe.com, category-companies
@@ -3223,6 +3224,8 @@ host-suffix, tail-f.com, category-companies
 host-suffix, tailf.com, category-companies
 host, cisco.evergage.com, category-companies
 host, ciscolivehls-i.akamaihd.net, category-companies
+host-suffix, umbrella.com, category-companies
+host-suffix, opendns.com, category-companies
 host-suffix, webex.ca, category-companies
 host-suffix, webex.co.in, category-companies
 host-suffix, webex.co.it, category-companies
@@ -3902,6 +3905,7 @@ host-suffix, xplr.co, category-companies
 host-suffix, zukunftswerkstatt.de, category-companies
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, category-companies
 host, www.recaptcha.net, category-companies
+host, safebrowsing-cache.google.com, category-companies
 host, 265.com, category-companies
 host, 2mdn-cn.net, category-companies
 host, 2mdn.net, category-companies
@@ -6103,6 +6107,7 @@ host-suffix, b2clogin.cn, category-companies
 host-suffix, b3itech.cn, category-companies
 host-suffix, blueaggrestore.com, category-companies
 host-suffix, bluecloudprod.com, category-companies
+host-suffix, botframework.com, category-companies
 host-suffix, cegid-cloud.cn, category-companies
 host-suffix, chinacloud-mobile.cn, category-companies
 host-suffix, chinacloudapi.cn, category-companies
@@ -6519,10 +6524,15 @@ host-suffix, linemyshop.com, category-companies
 host-suffix, lineshoppingseller.com, category-companies
 host-suffix, linetv.tw, category-companies
 host-suffix, nhncorp.jp, category-companies
+host-suffix, bestsrv.de, category-companies
 host-suffix, customercontrolpanel.de, category-companies
 host-suffix, dnsserver1.de, category-companies
 host-suffix, dnsserver2.de, category-companies
+host-suffix, goodsrv.de, category-companies
+host-suffix, happysrv.de, category-companies
+host-suffix, hotsrv.de, category-companies
 host-suffix, luckysrv.de, category-companies
+host-suffix, megasrv.de, category-companies
 host-suffix, netcup.cafe, category-companies
 host-suffix, netcup.com, category-companies
 host-suffix, netcup.de, category-companies
@@ -6531,8 +6541,12 @@ host-suffix, netcup.net, category-companies
 host-suffix, netcup-news.de, category-companies
 host-suffix, netcup-sonderangebote.de, category-companies
 host-suffix, netcup-wiki.de, category-companies
+host-suffix, nicesrv.de, category-companies
+host-suffix, powersrv.de, category-companies
+host-suffix, quicksrv.de, category-companies
 host-suffix, servercontrolpanel.de, category-companies
 host-suffix, supersrv.de, category-companies
+host-suffix, ultrasrv.de, category-companies
 host-suffix, yourvserver.net, category-companies
 host-suffix, neuralink.com, category-companies
 host-suffix, geforce.cn, category-companies

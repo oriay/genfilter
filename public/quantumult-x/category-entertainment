@@ -368,8 +368,12 @@ host, menu-static.gog-statics.com, category-entertainment
 host, productcard.gog-statics.com, category-entertainment
 host, static-login.gog-statics.com, category-entertainment
 host, www4-static.gog-statics.com, category-entertainment
+host, gog-cdn-fastly.gog.com, category-entertainment
+host, gog-cdn.akamaized.net, category-entertainment
 host-suffix, illusion.co.jp, category-entertainment
 host-suffix, illusion.jp, category-entertainment
+host-suffix, itch.io, category-entertainment
+host-suffix, itch.zone, category-entertainment
 host-suffix, kurogames.com, category-entertainment
 host-suffix, aki-game.com, category-entertainment
 host-suffix, lowiro.com, category-entertainment

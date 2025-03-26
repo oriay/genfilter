@@ -75,7 +75,6 @@ host-suffix, x.org, category-dev
 host-suffix, xposed.info, category-dev
 host-suffix, yarnpkg.com, category-dev
 host-suffix, zsh.org, category-dev
-host-suffix, huggingface.co, category-dev
 host-suffix, anaconda.cloud, category-dev
 host-suffix, anaconda.com, category-dev
 host-suffix, anaconda.org, category-dev
