@@ -15,3 +15,7 @@ host-suffix, aoc.cat, sectigo
 host-suffix, catcert.cat, sectigo
 host-suffix, incommon-rsa.org, sectigo
 host-suffix, netsolssl.com, sectigo
+host-suffix, comodoca.com, sectigo
+host-suffix, comodoca2.com, sectigo
+host-suffix, comodoca3.com, sectigo
+host-suffix, comodoca4.com, sectigo

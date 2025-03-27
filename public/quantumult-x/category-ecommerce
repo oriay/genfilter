@@ -856,6 +856,9 @@ host-suffix, womensnikeshox.com, category-ecommerce
 host-suffix, xn--74q035i.xn--hxt814e, category-ecommerce
 host-suffix, nordstrom.com, category-ecommerce
 host-suffix, nordstrommedia.com, category-ecommerce
+host-suffix, ozon.ru, category-ecommerce
+host-suffix, ozone.ru, category-ecommerce
+host-suffix, ozonusercontent.com, category-ecommerce
 host-suffix, ecimg.tw, category-ecommerce
 host-suffix, pchome.com.tw, category-ecommerce
 host-suffix, pchomeec.tw, category-ecommerce
@@ -903,6 +906,14 @@ host-suffix, shopee.vn, category-ecommerce
 host-suffix, shopeemobile.com, category-ecommerce
 host-suffix, shopeesz.com, category-ecommerce
 host-suffix, shp.ee, category-ecommerce
+host-suffix, myshopify.com, category-ecommerce
+host-suffix, shop.app, category-ecommerce
+host-suffix, shopify.com, category-ecommerce
+host-suffix, shopify.dev, category-ecommerce
+host-suffix, shopifycdn.com, category-ecommerce
+host-suffix, shopifycloud.com, category-ecommerce
+host-suffix, shopifystatus.com, category-ecommerce
+host-suffix, shopifysvc.com, category-ecommerce
 host-suffix, suruga-ya.com, category-ecommerce
 host-suffix, suruga-ya.jp, category-ecommerce
 host-suffix, target, category-ecommerce

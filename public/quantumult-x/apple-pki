@@ -6,3 +6,4 @@ host, ocsp-lb.apple.com.akadns.net, apple-pki
 host, ocsp.apple.com, apple-pki
 host, ocsp2-lb.apple.com.akadns.net, apple-pki
 host, ocsp2.apple.com, apple-pki
+host, valid.apple.com, apple-pki

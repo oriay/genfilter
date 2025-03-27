@@ -18,3 +18,4 @@ host-suffix, globalsign.net, globalsign
 host-suffix, globalsign.nl, globalsign
 host-suffix, globalsigncdn.com, globalsign
 host, cdn.globalsigncdn.com.cdn.cloudflare.net, globalsign
+host, crl.globalsign.net, globalsign

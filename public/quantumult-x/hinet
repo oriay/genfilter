@@ -5,3 +5,6 @@ host-suffix, hinet.net, hinet
 host-suffix, xuite.net, hinet
 host-suffix, eca.hinet.net, hinet
 host-suffix, gtlsca.nat.gov.tw, hinet
+host-suffix, pki.hinet.net, hinet
+host-suffix, publicca.hinet.net, hinet
+host-suffix, tls.hinet.net, hinet

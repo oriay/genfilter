@@ -330,6 +330,7 @@ host-suffix, 21vbc.com, microsoft
 host-suffix, 21vbluecloud.com, microsoft
 host-suffix, 21vbluecloud.net, microsoft
 host-suffix, aadrm.cn, microsoft
+host-suffix, aadrm.com, microsoft
 host-suffix, aggresmart.com, microsoft
 host-suffix, apihub-internal.cn, microsoft
 host-suffix, appserviceenvironment.cn, microsoft
@@ -408,6 +409,7 @@ host-suffix, management-azure-devices.cn, microsoft
 host-suffix, management-azure-devices.net, microsoft
 host-suffix, mcchcdn.com, microsoft
 host-suffix, mgmt-azure-api.cn, microsoft
+host-suffix, microsoftazuread-sso.com, microsoft
 host-suffix, microsoftazuresponsorships.com, microsoft
 host-suffix, microsoftazurestatus.cn, microsoft
 host-suffix, microsofteca.com, microsoft
@@ -420,6 +422,8 @@ host-suffix, msftcloudes.cn, microsoft
 host-suffix, msidentity.cn, microsoft
 host-suffix, msidlabpbmc.cn, microsoft
 host-suffix, msn.net, microsoft
+host-suffix, playfab.com, microsoft
+host-suffix, playfabapi.com, microsoft
 host-suffix, serverlesslibrary.net, microsoft
 host-suffix, trafficmanager.cn, microsoft
 host-suffix, trafficmanager.net, microsoft

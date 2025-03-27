@@ -69,6 +69,14 @@ host-suffix, gogotaku.info, category-entertainment
 host-suffix, gogo-load.com, category-entertainment
 host-suffix, gogocdn.net, category-entertainment
 host-suffix, hidive.com, category-entertainment
+host, apple-tv-plus-press.apple.com, category-entertainment
+host, hls-amt.itunes.apple.com, category-entertainment
+host, hls.itunes.apple.com, category-entertainment
+host, np-edge.itunes.apple.com, category-entertainment
+host, play-edge.itunes.apple.com, category-entertainment
+host, tv.applemusic.com, category-entertainment
+host, uts-api.itunes.apple.com, category-entertainment
+host-suffix, tv.apple.com, category-entertainment
 host-suffix, ao3.org, category-entertainment
 host-suffix, archiveofourown.org, category-entertainment
 host-suffix, archiveofourown.com, category-entertainment
