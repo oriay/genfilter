@@ -11751,7 +11751,7 @@ host-suffix, redditmedia.com, geolocation-!cn
 host-suffix, redditspace.com, geolocation-!cn
 host-suffix, redditstatic.com, geolocation-!cn
 host-suffix, redditstatus.com, geolocation-!cn
-host, reddit.map.fastly.net, geolocation-!cn
+host-suffix, reddit.map.fastly.net, geolocation-!cn
 host-suffix, maintracker.org, geolocation-!cn
 host-suffix, rutracker.cc, geolocation-!cn
 host-suffix, rutracker.cr, geolocation-!cn

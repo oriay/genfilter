@@ -9,4 +9,4 @@ host-suffix, redditmedia.com, reddit
 host-suffix, redditspace.com, reddit
 host-suffix, redditstatic.com, reddit
 host-suffix, redditstatus.com, reddit
-host, reddit.map.fastly.net, reddit
+host-suffix, reddit.map.fastly.net, reddit

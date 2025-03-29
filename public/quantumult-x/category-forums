@@ -67,7 +67,7 @@ host-suffix, redditmedia.com, category-forums
 host-suffix, redditspace.com, category-forums
 host-suffix, redditstatic.com, category-forums
 host-suffix, redditstatus.com, category-forums
-host, reddit.map.fastly.net, category-forums
+host-suffix, reddit.map.fastly.net, category-forums
 host-suffix, maintracker.org, category-forums
 host-suffix, rutracker.cc, category-forums
 host-suffix, rutracker.cr, category-forums
