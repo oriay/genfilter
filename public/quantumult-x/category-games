@@ -544,6 +544,7 @@ host-suffix, steam.apac.qtlglb.com, category-games
 host-suffix, steam.eca.qtlglb.com, category-games
 host-suffix, steam.naeu.qtlglb.com, category-games
 host-suffix, steam.ru.qtlglb.com, category-games
+host, a4e8s8k3.map2.ssl.hwcdn.net, category-games
 host, f3b7q2p3.ssl.hwcdn.net, category-games
 host-suffix, steam.cdn.on.net, category-games
 host-suffix, steam.cdn.orcon.net.nz, category-games
@@ -564,13 +565,13 @@ host-suffix, csgo.wmsj.cn, category-games
 host-suffix, dota2.wmsj.cn, category-games
 host-suffix, wmsjsteam.com, category-games
 host-suffix, dl.steam.clngaa.com, category-games
-host-suffix, dl.steam.ksyna.com, category-games
 host-suffix, st.dl.bscstorage.net, category-games
 host-suffix, st.dl.eccdnx.com, category-games
 host-suffix, st.dl.pinyuncloud.com, category-games
-host-suffix, steampipe.steamcontent.tnkjmec.com, category-games
 host-suffix, steampowered.com.8686c.com, category-games
 host-suffix, steamstatic.com.8686c.com, category-games
+host, alibaba.cdn.steampipe.steamcontent.com, category-games
+host, lv.queniujq.cn, category-games
 host, xz.pphimalayanrt.com, category-games
 host-suffix, steamchina.com, category-games
 host-suffix, gstore.val.manlaxy.com, category-games

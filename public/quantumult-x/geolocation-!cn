@@ -10700,6 +10700,7 @@ host-suffix, steam.apac.qtlglb.com, geolocation-!cn
 host-suffix, steam.eca.qtlglb.com, geolocation-!cn
 host-suffix, steam.naeu.qtlglb.com, geolocation-!cn
 host-suffix, steam.ru.qtlglb.com, geolocation-!cn
+host, a4e8s8k3.map2.ssl.hwcdn.net, geolocation-!cn
 host, f3b7q2p3.ssl.hwcdn.net, geolocation-!cn
 host-suffix, steam.cdn.on.net, geolocation-!cn
 host-suffix, steam.cdn.orcon.net.nz, geolocation-!cn
@@ -10720,13 +10721,13 @@ host-suffix, csgo.wmsj.cn, geolocation-!cn
 host-suffix, dota2.wmsj.cn, geolocation-!cn
 host-suffix, wmsjsteam.com, geolocation-!cn
 host-suffix, dl.steam.clngaa.com, geolocation-!cn
-host-suffix, dl.steam.ksyna.com, geolocation-!cn
 host-suffix, st.dl.bscstorage.net, geolocation-!cn
 host-suffix, st.dl.eccdnx.com, geolocation-!cn
 host-suffix, st.dl.pinyuncloud.com, geolocation-!cn
-host-suffix, steampipe.steamcontent.tnkjmec.com, geolocation-!cn
 host-suffix, steampowered.com.8686c.com, geolocation-!cn
 host-suffix, steamstatic.com.8686c.com, geolocation-!cn
+host, alibaba.cdn.steampipe.steamcontent.com, geolocation-!cn
+host, lv.queniujq.cn, geolocation-!cn
 host, xz.pphimalayanrt.com, geolocation-!cn
 host-suffix, steamchina.com, geolocation-!cn
 host-suffix, gstore.val.manlaxy.com, geolocation-!cn

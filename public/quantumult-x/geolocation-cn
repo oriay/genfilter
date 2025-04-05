@@ -1155,6 +1155,7 @@ host-suffix, ruseer.com, geolocation-cn
 host-suffix, bdmozon.com, geolocation-cn
 host-suffix, bdcat.top, geolocation-cn
 host-suffix, ningtingche.com, geolocation-cn
+host-suffix, immersivetranslate.com, geolocation-cn
 host-suffix, 42r.cn, geolocation-cn
 host-suffix, 5566ua.com, geolocation-cn
 host-suffix, aurorapush.cn, geolocation-cn
@@ -2305,6 +2306,7 @@ host-suffix, heavenlywind.cc, geolocation-cn
 host-suffix, steampp.net, geolocation-cn
 host-suffix, lsplayer.com, geolocation-cn
 host-suffix, yeshen.com, geolocation-cn
+host-suffix, forevernine.com, geolocation-cn
 host-suffix, ledu.com, geolocation-cn
 host-suffix, pearvideo.com, geolocation-cn
 host-suffix, wo1wan.com, geolocation-cn
@@ -2672,6 +2674,12 @@ host-suffix, uu.163.com, geolocation-cn
 host-suffix, xunyou.com, geolocation-cn
 host-suffix, bohejiasuqi.com, geolocation-cn
 host-suffix, jiasu.bohe.com, geolocation-cn
+host-suffix, golink.com, geolocation-cn
+host-suffix, golinkapi.com, geolocation-cn
+host-suffix, golinkcn.com, geolocation-cn
+host-suffix, steampp.net, geolocation-cn
+host-suffix, rmbgame.net, geolocation-cn
+host-suffix, steam302.xyz, geolocation-cn
 host-suffix, chiphell.com, geolocation-cn
 host-suffix, erji.net, geolocation-cn
 host-suffix, hacpai.com, geolocation-cn

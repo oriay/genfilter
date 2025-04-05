@@ -647,6 +647,7 @@ host-suffix, steam.apac.qtlglb.com, category-entertainment
 host-suffix, steam.eca.qtlglb.com, category-entertainment
 host-suffix, steam.naeu.qtlglb.com, category-entertainment
 host-suffix, steam.ru.qtlglb.com, category-entertainment
+host, a4e8s8k3.map2.ssl.hwcdn.net, category-entertainment
 host, f3b7q2p3.ssl.hwcdn.net, category-entertainment
 host-suffix, steam.cdn.on.net, category-entertainment
 host-suffix, steam.cdn.orcon.net.nz, category-entertainment
@@ -667,13 +668,13 @@ host-suffix, csgo.wmsj.cn, category-entertainment
 host-suffix, dota2.wmsj.cn, category-entertainment
 host-suffix, wmsjsteam.com, category-entertainment
 host-suffix, dl.steam.clngaa.com, category-entertainment
-host-suffix, dl.steam.ksyna.com, category-entertainment
 host-suffix, st.dl.bscstorage.net, category-entertainment
 host-suffix, st.dl.eccdnx.com, category-entertainment
 host-suffix, st.dl.pinyuncloud.com, category-entertainment
-host-suffix, steampipe.steamcontent.tnkjmec.com, category-entertainment
 host-suffix, steampowered.com.8686c.com, category-entertainment
 host-suffix, steamstatic.com.8686c.com, category-entertainment
+host, alibaba.cdn.steampipe.steamcontent.com, category-entertainment
+host, lv.queniujq.cn, category-entertainment
 host, xz.pphimalayanrt.com, category-entertainment
 host-suffix, steamchina.com, category-entertainment
 host-suffix, gstore.val.manlaxy.com, category-entertainment

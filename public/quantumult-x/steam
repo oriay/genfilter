@@ -18,6 +18,7 @@ host-suffix, steam.apac.qtlglb.com, steam
 host-suffix, steam.eca.qtlglb.com, steam
 host-suffix, steam.naeu.qtlglb.com, steam
 host-suffix, steam.ru.qtlglb.com, steam
+host, a4e8s8k3.map2.ssl.hwcdn.net, steam
 host, f3b7q2p3.ssl.hwcdn.net, steam
 host-suffix, steam.cdn.on.net, steam
 host-suffix, steam.cdn.orcon.net.nz, steam
@@ -38,13 +39,13 @@ host-suffix, csgo.wmsj.cn, steam
 host-suffix, dota2.wmsj.cn, steam
 host-suffix, wmsjsteam.com, steam
 host-suffix, dl.steam.clngaa.com, steam
-host-suffix, dl.steam.ksyna.com, steam
 host-suffix, st.dl.bscstorage.net, steam
 host-suffix, st.dl.eccdnx.com, steam
 host-suffix, st.dl.pinyuncloud.com, steam
-host-suffix, steampipe.steamcontent.tnkjmec.com, steam
 host-suffix, steampowered.com.8686c.com, steam
 host-suffix, steamstatic.com.8686c.com, steam
+host, alibaba.cdn.steampipe.steamcontent.com, steam
+host, lv.queniujq.cn, steam
 host, xz.pphimalayanrt.com, steam
 host-suffix, steamchina.com, steam
 host-suffix, gstore.val.manlaxy.com, steam
