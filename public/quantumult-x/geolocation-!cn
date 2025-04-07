@@ -2751,6 +2751,10 @@ host-suffix, m.me, geolocation-!cn
 host-suffix, messenger.com, geolocation-!cn
 host-suffix, nbabot.net, geolocation-!cn
 host-suffix, signal.art, geolocation-!cn
+host-suffix, signal.group, geolocation-!cn
+host-suffix, signal.link, geolocation-!cn
+host-suffix, signal.me, geolocation-!cn
+host-suffix, signal.tube, geolocation-!cn
 host-suffix, signal.org, geolocation-!cn
 host-suffix, signalusers.org, geolocation-!cn
 host-suffix, whispersystems.org, geolocation-!cn

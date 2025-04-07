@@ -5626,6 +5626,8 @@ host-suffix, wechatpay.cn, geolocation-cn
 host-suffix, weiyun.com, geolocation-cn
 host-suffix, wetv.vip, geolocation-cn
 host-suffix, wetvinfo.com, geolocation-cn
+host-suffix, wxcloudrun.com, geolocation-cn
+host-suffix, wxgateway.com, geolocation-cn
 host-suffix, wxlivecdn.com, geolocation-cn
 host, wetv.qq.com, geolocation-cn
 host-suffix, alloyteam.com, geolocation-cn

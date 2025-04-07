@@ -35,6 +35,8 @@ host-suffix, wechatpay.cn, tencent
 host-suffix, weiyun.com, tencent
 host-suffix, wetv.vip, tencent
 host-suffix, wetvinfo.com, tencent
+host-suffix, wxcloudrun.com, tencent
+host-suffix, wxgateway.com, tencent
 host-suffix, wxlivecdn.com, tencent
 host, wetv.qq.com, tencent
 host-suffix, alloyteam.com, tencent

@@ -70,6 +70,10 @@ host-suffix, m.me, category-communication
 host-suffix, messenger.com, category-communication
 host-suffix, nbabot.net, category-communication
 host-suffix, signal.art, category-communication
+host-suffix, signal.group, category-communication
+host-suffix, signal.link, category-communication
+host-suffix, signal.me, category-communication
+host-suffix, signal.tube, category-communication
 host-suffix, signal.org, category-communication
 host-suffix, signalusers.org, category-communication
 host-suffix, whispersystems.org, category-communication
