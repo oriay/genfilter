@@ -15,9 +15,11 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,anthropic.com
@@ -10391,6 +10393,10 @@ DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,3lateral.com
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,capturingreality.com
+DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,easy.ac
@@ -10398,12 +10404,20 @@ DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicgamescdn.com
+DOMAIN-SUFFIX,fab.com
 DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,hyprsense.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,playparagon.com
+DOMAIN-SUFFIX,quixel.com
+DOMAIN-SUFFIX,quixel.se
+DOMAIN-SUFFIX,radgametools.com
+DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,shadowcomplex.com
+DOMAIN-SUFFIX,sketchfab.com
 DOMAIN-SUFFIX,spyjinx.com
+DOMAIN-SUFFIX,twinmotion.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-SUFFIX,tarkov.com
@@ -20482,6 +20496,7 @@ DOMAIN-SUFFIX,easy-jtag.com
 DOMAIN-SUFFIX,z3x-team.com
 DOMAIN,time.apple.com
 DOMAIN,time.euro.apple.com
+DOMAIN,time.aws.com
 DOMAIN,time.facebook.com
 DOMAIN,time1.facebook.com
 DOMAIN,time2.facebook.com
@@ -20545,6 +20560,7 @@ DOMAIN,ntp4.aliyun.com
 DOMAIN,ntp5.aliyun.com
 DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp7.aliyun.com
+DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net
 DOMAIN,ntp.tencent.com
@@ -20594,6 +20610,7 @@ DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,addtoany.com
+DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,adguard.app
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
@@ -21288,6 +21305,7 @@ DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,jb.gg
+DOMAIN-SUFFIX,youtrack.cloud
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jetbrains.ai
@@ -21881,6 +21899,7 @@ DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,aws-iot-hackathon.com
+DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,awsautopilot.com
 DOMAIN-SUFFIX,awsautoscaling.com
 DOMAIN-SUFFIX,awsbraket.com
@@ -23773,6 +23792,7 @@ DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com

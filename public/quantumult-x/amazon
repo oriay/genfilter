@@ -119,6 +119,7 @@ host-suffix, amazonworkdocs.com, amazon
 host-suffix, amplifyapp.com, amazon
 host-suffix, amplifyframework.com, amazon
 host-suffix, aws-iot-hackathon.com, amazon
+host-suffix, aws.com, amazon
 host-suffix, awsautopilot.com, amazon
 host-suffix, awsautoscaling.com, amazon
 host-suffix, awsbraket.com, amazon

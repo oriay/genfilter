@@ -6,6 +6,7 @@ DOMAIN,ntp4.aliyun.com
 DOMAIN,ntp5.aliyun.com
 DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp7.aliyun.com
+DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net
 DOMAIN,ntp.tencent.com

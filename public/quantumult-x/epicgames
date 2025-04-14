@@ -1,3 +1,7 @@
+host-suffix, 3lateral.com, epicgames
+host-suffix, artstation.com, epicgames
+host-suffix, capturingreality.com, epicgames
+host-suffix, cubicmotion.com, epicgames
 host-suffix, battlebreakers.com, epicgames
 host-suffix, eac-cdn.com, epicgames
 host-suffix, easy.ac, epicgames
@@ -5,11 +9,19 @@ host-suffix, easyanticheat.net, epicgames
 host-suffix, epicgames.com, epicgames
 host-suffix, epicgames.dev, epicgames
 host-suffix, epicgamescdn.com, epicgames
+host-suffix, fab.com, epicgames
 host-suffix, fortnite.com, epicgames
+host-suffix, hyprsense.com, epicgames
 host-suffix, paragon.com, epicgames
 host-suffix, playparagon.com, epicgames
+host-suffix, quixel.com, epicgames
+host-suffix, quixel.se, epicgames
+host-suffix, radgametools.com, epicgames
+host-suffix, realityscan.com, epicgames
 host-suffix, roborecall.com, epicgames
 host-suffix, shadowcomplex.com, epicgames
+host-suffix, sketchfab.com, epicgames
 host-suffix, spyjinx.com, epicgames
+host-suffix, twinmotion.com, epicgames
 host-suffix, unrealengine.com, epicgames
 host-suffix, unrealtournament.com, epicgames

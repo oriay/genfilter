@@ -1,5 +1,6 @@
 DOMAIN,time.apple.com
 DOMAIN,time.euro.apple.com
+DOMAIN,time.aws.com
 DOMAIN,time.facebook.com
 DOMAIN,time1.facebook.com
 DOMAIN,time2.facebook.com
@@ -63,6 +64,7 @@ DOMAIN,ntp4.aliyun.com
 DOMAIN,ntp5.aliyun.com
 DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp7.aliyun.com
+DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net
 DOMAIN,ntp.tencent.com

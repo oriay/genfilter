@@ -15,9 +15,11 @@ host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
+host-suffix, chutes.ai, geolocation-!cn
 host-suffix, dify.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
+host-suffix, mistral.ai, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
 host-suffix, openrouter.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
@@ -10391,6 +10393,10 @@ host, cloudsync-prod.s3.amazonaws.com, geolocation-!cn
 host, origin-a.akamaihd.net, geolocation-!cn
 host, rtm.tnt-ea.com, geolocation-!cn
 host, ssl-lvlt.cdn.ea.com, geolocation-!cn
+host-suffix, 3lateral.com, geolocation-!cn
+host-suffix, artstation.com, geolocation-!cn
+host-suffix, capturingreality.com, geolocation-!cn
+host-suffix, cubicmotion.com, geolocation-!cn
 host-suffix, battlebreakers.com, geolocation-!cn
 host-suffix, eac-cdn.com, geolocation-!cn
 host-suffix, easy.ac, geolocation-!cn
@@ -10398,12 +10404,20 @@ host-suffix, easyanticheat.net, geolocation-!cn
 host-suffix, epicgames.com, geolocation-!cn
 host-suffix, epicgames.dev, geolocation-!cn
 host-suffix, epicgamescdn.com, geolocation-!cn
+host-suffix, fab.com, geolocation-!cn
 host-suffix, fortnite.com, geolocation-!cn
+host-suffix, hyprsense.com, geolocation-!cn
 host-suffix, paragon.com, geolocation-!cn
 host-suffix, playparagon.com, geolocation-!cn
+host-suffix, quixel.com, geolocation-!cn
+host-suffix, quixel.se, geolocation-!cn
+host-suffix, radgametools.com, geolocation-!cn
+host-suffix, realityscan.com, geolocation-!cn
 host-suffix, roborecall.com, geolocation-!cn
 host-suffix, shadowcomplex.com, geolocation-!cn
+host-suffix, sketchfab.com, geolocation-!cn
 host-suffix, spyjinx.com, geolocation-!cn
+host-suffix, twinmotion.com, geolocation-!cn
 host-suffix, unrealengine.com, geolocation-!cn
 host-suffix, unrealtournament.com, geolocation-!cn
 host-suffix, tarkov.com, geolocation-!cn
@@ -20482,6 +20496,7 @@ host-suffix, easy-jtag.com, geolocation-!cn
 host-suffix, z3x-team.com, geolocation-!cn
 host, time.apple.com, geolocation-!cn
 host, time.euro.apple.com, geolocation-!cn
+host, time.aws.com, geolocation-!cn
 host, time.facebook.com, geolocation-!cn
 host, time1.facebook.com, geolocation-!cn
 host, time2.facebook.com, geolocation-!cn
@@ -20545,6 +20560,7 @@ host, ntp4.aliyun.com, geolocation-!cn
 host, ntp5.aliyun.com, geolocation-!cn
 host, ntp6.aliyun.com, geolocation-!cn
 host, ntp7.aliyun.com, geolocation-!cn
+host, time.amazonaws.cn, geolocation-!cn
 host, time.izatcloud.net, geolocation-!cn
 host, time.xtracloud.net, geolocation-!cn
 host, ntp.tencent.com, geolocation-!cn
@@ -20594,6 +20610,7 @@ host-suffix, addthis.com, geolocation-!cn
 host-suffix, addthiscdn.com, geolocation-!cn
 host-suffix, addthisedge.com, geolocation-!cn
 host-suffix, addtoany.com, geolocation-!cn
+host-suffix, adguardaccount.com, geolocation-!cn
 host-suffix, adguard.app, geolocation-!cn
 host-suffix, adguard.com, geolocation-!cn
 host-suffix, adguard.info, geolocation-!cn
@@ -21288,6 +21305,7 @@ host-suffix, kotlinlang.org, geolocation-!cn
 host-suffix, cdn.jetbrains.com, geolocation-!cn
 host-suffix, download-cdn.jetbrains.com.cn, geolocation-!cn
 host-suffix, jb.gg, geolocation-!cn
+host-suffix, youtrack.cloud, geolocation-!cn
 host-suffix, grazie.ai, geolocation-!cn
 host-suffix, grazie.aws.intellij.net, geolocation-!cn
 host-suffix, jetbrains.ai, geolocation-!cn
@@ -21881,6 +21899,7 @@ host-suffix, amazonworkdocs.com, geolocation-!cn
 host-suffix, amplifyapp.com, geolocation-!cn
 host-suffix, amplifyframework.com, geolocation-!cn
 host-suffix, aws-iot-hackathon.com, geolocation-!cn
+host-suffix, aws.com, geolocation-!cn
 host-suffix, awsautopilot.com, geolocation-!cn
 host-suffix, awsautoscaling.com, geolocation-!cn
 host-suffix, awsbraket.com, geolocation-!cn
@@ -23773,6 +23792,7 @@ host-suffix, myicloud.net, geolocation-!cn
 host-suffix, mylcloud.net, geolocation-!cn
 host-suffix, wwwicloud.com, geolocation-!cn
 host, www-cdn.icloud.com.akadns.net, geolocation-!cn
+host-suffix, mask-api.icloud.com, geolocation-!cn
 host-suffix, mask-h2.icloud.com, geolocation-!cn
 host-suffix, mask.icloud.com, geolocation-!cn
 host-suffix, 12diasdepresentesdeitunes.com, geolocation-!cn

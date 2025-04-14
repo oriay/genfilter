@@ -102,6 +102,9 @@ host-suffix, zxid-m.mobileservice.cn, category-ads-all
 host, apilog-web.acfun.cn, category-ads-all
 host-suffix, adcolony.com, category-ads-all
 host-suffix, adjust.com, category-ads-all
+host-suffix, adjust.net.in, category-ads-all
+host-suffix, adjust.io, category-ads-all
+host-suffix, adjust.world, category-ads-all
 host-suffix, advertising.adobe.com, category-ads-all
 host-suffix, tubemogul.com, category-ads-all
 host-suffix, a.alimama.cn, category-ads-all

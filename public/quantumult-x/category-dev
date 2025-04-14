@@ -326,6 +326,7 @@ host-suffix, kotlinlang.org, category-dev
 host-suffix, cdn.jetbrains.com, category-dev
 host-suffix, download-cdn.jetbrains.com.cn, category-dev
 host-suffix, jb.gg, category-dev
+host-suffix, youtrack.cloud, category-dev
 host-suffix, grazie.ai, category-dev
 host-suffix, grazie.aws.intellij.net, category-dev
 host-suffix, jetbrains.ai, category-dev

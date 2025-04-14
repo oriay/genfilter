@@ -401,6 +401,7 @@ host-suffix, amazonworkdocs.com, category-companies
 host-suffix, amplifyapp.com, category-companies
 host-suffix, amplifyframework.com, category-companies
 host-suffix, aws-iot-hackathon.com, category-companies
+host-suffix, aws.com, category-companies
 host-suffix, awsautopilot.com, category-companies
 host-suffix, awsautoscaling.com, category-companies
 host-suffix, awsbraket.com, category-companies
@@ -2293,6 +2294,7 @@ host-suffix, myicloud.net, category-companies
 host-suffix, mylcloud.net, category-companies
 host-suffix, wwwicloud.com, category-companies
 host, www-cdn.icloud.com.akadns.net, category-companies
+host-suffix, mask-api.icloud.com, category-companies
 host-suffix, mask-h2.icloud.com, category-companies
 host-suffix, mask.icloud.com, category-companies
 host-suffix, 12diasdepresentesdeitunes.com, category-companies

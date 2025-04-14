@@ -6,6 +6,7 @@ host, ntp4.aliyun.com, category-ntp-cn
 host, ntp5.aliyun.com, category-ntp-cn
 host, ntp6.aliyun.com, category-ntp-cn
 host, ntp7.aliyun.com, category-ntp-cn
+host, time.amazonaws.cn, category-ntp-cn
 host, time.izatcloud.net, category-ntp-cn
 host, time.xtracloud.net, category-ntp-cn
 host, ntp.tencent.com, category-ntp-cn

@@ -1,5 +1,6 @@
 host, time.apple.com, category-ntp
 host, time.euro.apple.com, category-ntp
+host, time.aws.com, category-ntp
 host, time.facebook.com, category-ntp
 host, time1.facebook.com, category-ntp
 host, time2.facebook.com, category-ntp
@@ -63,6 +64,7 @@ host, ntp4.aliyun.com, category-ntp
 host, ntp5.aliyun.com, category-ntp
 host, ntp6.aliyun.com, category-ntp
 host, ntp7.aliyun.com, category-ntp
+host, time.amazonaws.cn, category-ntp
 host, time.izatcloud.net, category-ntp
 host, time.xtracloud.net, category-ntp
 host, ntp.tencent.com, category-ntp
