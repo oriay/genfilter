@@ -26104,6 +26104,7 @@ host-suffix, hetzner.cloud, geolocation-!cn
 host-suffix, hetzner.com, geolocation-!cn
 host-suffix, hetzner.company, geolocation-!cn
 host-suffix, hetzner.de, geolocation-!cn
+host-suffix, hetzner.social, geolocation-!cn
 host-suffix, htznr.li, geolocation-!cn
 host-suffix, second-ns.com, geolocation-!cn
 host-suffix, second-ns.de, geolocation-!cn
