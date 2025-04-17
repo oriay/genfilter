@@ -27419,6 +27419,7 @@ host-suffix, msfteducation.ca, geolocation-!cn
 host-suffix, msftncsi.com, geolocation-!cn
 host-suffix, msftnet.org, geolocation-!cn
 host-suffix, msgamesresearch.com, geolocation-!cn
+host-suffix, mshome.net, geolocation-!cn
 host-suffix, msocdn.com, geolocation-!cn
 host-suffix, mspil.cn, geolocation-!cn
 host-suffix, msra.cn, geolocation-!cn
