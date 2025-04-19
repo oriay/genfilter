@@ -64,6 +64,8 @@ host-suffix, huaweicloud-dns.net, huawei
 host-suffix, huaweicloud-dns.org, huawei
 host-suffix, huaweicloud-idme.cn, huawei
 host-suffix, huaweicloud-idme.com, huawei
+host-suffix, huaweicloud-koophone.cn, huawei
+host-suffix, huaweicloud-koophone.com, huawei
 host-suffix, huaweicloud-smn.cn, huawei
 host-suffix, huaweicloud-smn.com, huawei
 host-suffix, huaweicloud-smn.net, huawei
@@ -121,6 +123,8 @@ host-suffix, kmop-cn-north-4.cn, huawei
 host-suffix, livehwc3.cn, huawei
 host-suffix, modelarts-infer.cn, huawei
 host-suffix, modelarts-infer.com, huawei
+host-suffix, modelarts-maas.cn, huawei
+host-suffix, modelarts-maas.com, huawei
 host-suffix, myhuaweicloud-custom.cn, huawei
 host-suffix, myhuaweicloud-custom.com, huawei
 host-suffix, myhuaweicloud-koodrive.cn, huawei

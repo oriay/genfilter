@@ -25,6 +25,7 @@ host-suffix, generativeai.google, category-ai-!cn
 host-suffix, makersuite.google.com, category-ai-!cn
 host-suffix, aistudio.google.com, category-ai-!cn
 host-suffix, bard.google.com, category-ai-!cn
+host-suffix, gemini.google, category-ai-!cn
 host-suffix, gemini.google.com, category-ai-!cn
 host-suffix, groq.com, category-ai-!cn
 host-suffix, hf.co, category-ai-!cn

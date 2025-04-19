@@ -10,4 +10,5 @@ host-suffix, generativeai.google, google-gemini
 host-suffix, makersuite.google.com, google-gemini
 host-suffix, aistudio.google.com, google-gemini
 host-suffix, bard.google.com, google-gemini
+host-suffix, gemini.google, google-gemini
 host-suffix, gemini.google.com, google-gemini
