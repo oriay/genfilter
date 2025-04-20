@@ -4151,6 +4151,7 @@ host-suffix, blogspot.td, category-companies
 host-suffix, blogspot.tw, category-companies
 host-suffix, blogspot.ug, category-companies
 host-suffix, blogspot.vn, category-companies
+host-suffix, blogger.googleusercontent.com, category-companies
 host-suffix, dart.dev, category-companies
 host-suffix, dartlang.org, category-companies
 host-suffix, dartpad.dev, category-companies

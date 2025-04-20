@@ -106,6 +106,7 @@ host-suffix, onionshare.org, geolocation-!cn
 host-suffix, ooni.org, geolocation-!cn
 host-suffix, openvpn.net, geolocation-!cn
 host-suffix, privacytools.io, geolocation-!cn
+host-suffix, proxifier.com, geolocation-!cn
 host-suffix, psiphon.ca, geolocation-!cn
 host-suffix, psiphon3.com, geolocation-!cn
 host-suffix, sagernet.org, geolocation-!cn
@@ -118,10 +119,12 @@ host-suffix, tunsafe.com, geolocation-!cn
 host-suffix, turkeyblocks.org, geolocation-!cn
 host-suffix, twister.net.co, geolocation-!cn
 host-suffix, uproxy.org, geolocation-!cn
+host-suffix, vpnrouter.homes, geolocation-!cn
 host-suffix, vuvuzela.io, geolocation-!cn
 host-suffix, whonix.org, geolocation-!cn
 host-suffix, wikileaks.org, geolocation-!cn
 host-suffix, wireguard.com, geolocation-!cn
+host-suffix, xtls.github.io, geolocation-!cn
 host-suffix, zeronet.io, geolocation-!cn
 host-suffix, 4everland.io, geolocation-!cn
 host-suffix, c4rex.co, geolocation-!cn
@@ -25657,6 +25660,7 @@ host-suffix, blogspot.td, geolocation-!cn
 host-suffix, blogspot.tw, geolocation-!cn
 host-suffix, blogspot.ug, geolocation-!cn
 host-suffix, blogspot.vn, geolocation-!cn
+host-suffix, blogger.googleusercontent.com, geolocation-!cn
 host-suffix, dart.dev, geolocation-!cn
 host-suffix, dartlang.org, geolocation-!cn
 host-suffix, dartpad.dev, geolocation-!cn

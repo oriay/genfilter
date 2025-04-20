@@ -21,6 +21,7 @@ host-suffix, onionshare.org, category-anticensorship
 host-suffix, ooni.org, category-anticensorship
 host-suffix, openvpn.net, category-anticensorship
 host-suffix, privacytools.io, category-anticensorship
+host-suffix, proxifier.com, category-anticensorship
 host-suffix, psiphon.ca, category-anticensorship
 host-suffix, psiphon3.com, category-anticensorship
 host-suffix, sagernet.org, category-anticensorship
@@ -33,10 +34,12 @@ host-suffix, tunsafe.com, category-anticensorship
 host-suffix, turkeyblocks.org, category-anticensorship
 host-suffix, twister.net.co, category-anticensorship
 host-suffix, uproxy.org, category-anticensorship
+host-suffix, vpnrouter.homes, category-anticensorship
 host-suffix, vuvuzela.io, category-anticensorship
 host-suffix, whonix.org, category-anticensorship
 host-suffix, wikileaks.org, category-anticensorship
 host-suffix, wireguard.com, category-anticensorship
+host-suffix, xtls.github.io, category-anticensorship
 host-suffix, zeronet.io, category-anticensorship
 host-suffix, 4everland.io, category-anticensorship
 host-suffix, c4rex.co, category-anticensorship

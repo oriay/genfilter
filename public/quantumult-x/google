@@ -706,6 +706,7 @@ host-suffix, blogspot.td, google
 host-suffix, blogspot.tw, google
 host-suffix, blogspot.ug, google
 host-suffix, blogspot.vn, google
+host-suffix, blogger.googleusercontent.com, google
 host-suffix, dart.dev, google
 host-suffix, dartlang.org, google
 host-suffix, dartpad.dev, google
