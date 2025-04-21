@@ -51,7 +51,6 @@ host-suffix, disney-plus.net, disney
 host-suffix, disney-portal.my.onetrust.com, disney
 host-suffix, disney-studio.com, disney
 host-suffix, disney-studio.net, disney
-host-suffix, disney.my.sentry.io, disney
 host-suffix, disneyadsales.com, disney
 host-suffix, disneyarena.com, disney
 host-suffix, disneyaulani.com, disney
@@ -118,6 +117,7 @@ host-suffix, streamingdisney.net, disney
 host-suffix, thestationbymaker.com, disney
 host-suffix, thisispolaris.com, disney
 host-suffix, watchdisneyfe.com, disney
+host, disney.my.sentry.io, disney
 host-suffix, abc-studios.com, disney
 host-suffix, abc.com, disney
 host-suffix, edgedatg.com, disney

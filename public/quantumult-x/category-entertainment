@@ -919,7 +919,6 @@ host-suffix, disney-plus.net, category-entertainment
 host-suffix, disney-portal.my.onetrust.com, category-entertainment
 host-suffix, disney-studio.com, category-entertainment
 host-suffix, disney-studio.net, category-entertainment
-host-suffix, disney.my.sentry.io, category-entertainment
 host-suffix, disneyadsales.com, category-entertainment
 host-suffix, disneyarena.com, category-entertainment
 host-suffix, disneyaulani.com, category-entertainment
@@ -986,6 +985,7 @@ host-suffix, streamingdisney.net, category-entertainment
 host-suffix, thestationbymaker.com, category-entertainment
 host-suffix, thisispolaris.com, category-entertainment
 host-suffix, watchdisneyfe.com, category-entertainment
+host, disney.my.sentry.io, category-entertainment
 host-suffix, abc-studios.com, category-entertainment
 host-suffix, abc.com, category-entertainment
 host-suffix, edgedatg.com, category-entertainment
