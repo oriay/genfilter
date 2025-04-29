@@ -441,8 +441,6 @@ host-suffix, readthedocs.org, category-dev
 host-suffix, redis.io, category-dev
 host-suffix, redislabs.com, category-dev
 host-suffix, remirepo.net, category-dev
-host-suffix, ruby-lang.org, category-dev
-host-suffix, rubygems.org, category-dev
 host-suffix, rust-lang.org, category-dev
 host-suffix, rustup.rs, category-dev
 host-suffix, crates.io, category-dev
@@ -496,9 +494,6 @@ host-suffix, ampproject.org, category-dev
 host, cdn.ampproject.org, category-dev
 host, amp.akamaized.net, category-dev
 host-suffix, electronjs.org, category-dev
-host-suffix, jquery.com, category-dev
-host-suffix, jquerymobile.com, category-dev
-host-suffix, jqueryui.com, category-dev
 host-suffix, mochajs.org, category-dev
 host-suffix, nodejs.org, category-dev
 host-suffix, topcoder.com, category-dev

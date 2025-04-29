@@ -1163,23 +1163,6 @@ host-suffix, bdcat.top, geolocation-cn
 host-suffix, ningtingche.com, geolocation-cn
 host-suffix, immersivetranslate.com, geolocation-cn
 host-suffix, mingxuan.store, geolocation-cn
-host-suffix, 42r.cn, geolocation-cn
-host-suffix, 5566ua.com, geolocation-cn
-host-suffix, aurorapush.cn, geolocation-cn
-host-suffix, e0n.cn, geolocation-cn
-host-suffix, japps.cn, geolocation-cn
-host-suffix, jchat.io, geolocation-cn
-host-suffix, jiguang.cn, geolocation-cn
-host-suffix, jmlk.co, geolocation-cn
-host-suffix, jpush.cn, geolocation-cn
-host-suffix, jpush.io, geolocation-cn
-host-suffix, jpushoa.com, geolocation-cn
-host-suffix, jsurvey.cn, geolocation-cn
-host-suffix, jvoice.cn, geolocation-cn
-host-suffix, kc9.cn, geolocation-cn
-host-suffix, n0q.cn, geolocation-cn
-host-suffix, pushcfg.com, geolocation-cn
-host-suffix, s0n.cn, geolocation-cn
 host-suffix, mobmore.com, geolocation-cn
 host-suffix, umeng.com, geolocation-cn
 host-suffix, umengcloud.com, geolocation-cn
@@ -1861,8 +1844,6 @@ host-suffix, qiniudns.com, geolocation-cn
 host-suffix, qiniup.com, geolocation-cn
 host-suffix, qnsdk.com, geolocation-cn
 host-suffix, qnssl.com, geolocation-cn
-host-suffix, staticfile.net, geolocation-cn
-host-suffix, staticfile.org, geolocation-cn
 host-suffix, szbdyd.com, geolocation-cn
 host-suffix, snodehome.com, geolocation-cn
 host-suffix, snodehome.cn, geolocation-cn
@@ -3416,8 +3397,6 @@ host-suffix, tieba.com, geolocation-cn
 host-suffix, , geolocation-cn
 host-suffix, dandan818.com, geolocation-cn
 host-suffix, dandanvoice.com, geolocation-cn
-host-suffix, 404:, geolocation-cn
-host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
