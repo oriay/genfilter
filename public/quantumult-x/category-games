@@ -576,6 +576,7 @@ host, steamvideo-a.akamaihd.net, category-games
 host-suffix, csgo.wmsj.cn, category-games
 host-suffix, dota2.wmsj.cn, category-games
 host-suffix, wmsjsteam.com, category-games
+host-suffix, client-update.queniuqe.com, category-games
 host-suffix, dl.steam.clngaa.com, category-games
 host-suffix, st.dl.bscstorage.net, category-games
 host-suffix, st.dl.eccdnx.com, category-games

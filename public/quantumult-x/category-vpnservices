@@ -24,6 +24,12 @@ host-suffix, 928.plus, category-vpnservices
 host-suffix, zind.cloud, category-vpnservices
 host-suffix, boslife.biz, category-vpnservices
 host-suffix, boslife.net, category-vpnservices
+host-suffix, cylink.pro, category-vpnservices
+host-suffix, cylink0122.icu, category-vpnservices
+host-suffix, dlercloud.com, category-vpnservices
+host-suffix, dlercloud.org, category-vpnservices
+host-suffix, dlercloud.me, category-vpnservices
+host-suffix, dleris.best, category-vpnservices
 host-suffix, duyaoss.com, category-vpnservices
 host-suffix, duyaossr.com, category-vpnservices
 host-suffix, hitun.io, category-vpnservices
@@ -42,6 +48,8 @@ host-suffix, paofu.cloud, category-vpnservices
 host-suffix, paofuyun.me, category-vpnservices
 host-suffix, shadowsocks.com, category-vpnservices
 host-suffix, shadowsocks.nl, category-vpnservices
+host-suffix, squirrelvpn.com, category-vpnservices
+host-suffix, squirrelgroup.net, category-vpnservices
 host-suffix, airport-gov-cn.com, category-vpnservices
 host-suffix, cnix-gov-cn.com, category-vpnservices
 host-suffix, xn--d4ty0ojsqzfd.com, category-vpnservices

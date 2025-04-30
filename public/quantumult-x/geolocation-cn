@@ -709,6 +709,7 @@ host-suffix, mokahr.com, geolocation-cn
 host-suffix, moleecel.com, geolocation-cn
 host-suffix, moocollege.com, geolocation-cn
 host-suffix, mop.com, geolocation-cn
+host-suffix, morefreegame.com, geolocation-cn
 host-suffix, msanjia.com, geolocation-cn
 host-suffix, mscbsc.com, geolocation-cn
 host-suffix, mukewang.com, geolocation-cn
@@ -1163,6 +1164,23 @@ host-suffix, bdcat.top, geolocation-cn
 host-suffix, ningtingche.com, geolocation-cn
 host-suffix, immersivetranslate.com, geolocation-cn
 host-suffix, mingxuan.store, geolocation-cn
+host-suffix, 42r.cn, geolocation-cn
+host-suffix, 5566ua.com, geolocation-cn
+host-suffix, aurorapush.cn, geolocation-cn
+host-suffix, e0n.cn, geolocation-cn
+host-suffix, japps.cn, geolocation-cn
+host-suffix, jchat.io, geolocation-cn
+host-suffix, jiguang.cn, geolocation-cn
+host-suffix, jmlk.co, geolocation-cn
+host-suffix, jpush.cn, geolocation-cn
+host-suffix, jpush.io, geolocation-cn
+host-suffix, jpushoa.com, geolocation-cn
+host-suffix, jsurvey.cn, geolocation-cn
+host-suffix, jvoice.cn, geolocation-cn
+host-suffix, kc9.cn, geolocation-cn
+host-suffix, n0q.cn, geolocation-cn
+host-suffix, pushcfg.com, geolocation-cn
+host-suffix, s0n.cn, geolocation-cn
 host-suffix, mobmore.com, geolocation-cn
 host-suffix, umeng.com, geolocation-cn
 host-suffix, umengcloud.com, geolocation-cn
@@ -1180,6 +1198,7 @@ host-suffix, tongyi.aliyun.com, geolocation-cn
 host-suffix, qianwen.aliyun.com, geolocation-cn
 host-suffix, qwen.ai, geolocation-cn
 host-suffix, qwenlm.ai, geolocation-cn
+host-suffix, tongyi.com, geolocation-cn
 host-suffix, yiyan.baidu.com, geolocation-cn
 host-suffix, tiangong.cn, geolocation-cn
 host-suffix, doubao.com, geolocation-cn
@@ -1844,6 +1863,8 @@ host-suffix, qiniudns.com, geolocation-cn
 host-suffix, qiniup.com, geolocation-cn
 host-suffix, qnsdk.com, geolocation-cn
 host-suffix, qnssl.com, geolocation-cn
+host-suffix, staticfile.net, geolocation-cn
+host-suffix, staticfile.org, geolocation-cn
 host-suffix, szbdyd.com, geolocation-cn
 host-suffix, snodehome.com, geolocation-cn
 host-suffix, snodehome.cn, geolocation-cn
@@ -3204,8 +3225,10 @@ host-suffix, 51jobcdn.com, geolocation-cn
 host-suffix, yingjiesheng.com, geolocation-cn
 host-suffix, yingjiesheng.net, geolocation-cn
 host-suffix, zhiding.com.cn, geolocation-cn
+host-suffix, afdian.com, geolocation-cn
 host-suffix, afdian.net, geolocation-cn
 host-suffix, afdiancdn.com, geolocation-cn
+host-suffix, ifdian.net, geolocation-cn
 host-suffix, agora.io, geolocation-cn
 host-suffix, agoraio.cn, geolocation-cn
 host-suffix, agoralab.co, geolocation-cn
@@ -3397,6 +3420,8 @@ host-suffix, tieba.com, geolocation-cn
 host-suffix, , geolocation-cn
 host-suffix, dandan818.com, geolocation-cn
 host-suffix, dandanvoice.com, geolocation-cn
+host-suffix, 404:, geolocation-cn
+host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
@@ -4863,6 +4888,7 @@ host-suffix, xiaojukeji.com, geolocation-cn
 host-suffix, dji.com, geolocation-cn
 host-suffix, dji.net, geolocation-cn
 host-suffix, djicdn.com, geolocation-cn
+host-suffix, djiits.com, geolocation-cn
 host-suffix, djiops.com, geolocation-cn
 host-suffix, djiservice.org, geolocation-cn
 host-suffix, skypixel.com, geolocation-cn
@@ -6218,6 +6244,7 @@ host-suffix, miui.com, geolocation-cn
 host-suffix, miwifi.com, geolocation-cn
 host-suffix, xiaomi.cn, geolocation-cn
 host-suffix, xiaomi.com, geolocation-cn
+host-suffix, xiaomi.eu, geolocation-cn
 host-suffix, xiaomi.net, geolocation-cn
 host-suffix, xiaomicp.com, geolocation-cn
 host-suffix, xiaomidns.cn, geolocation-cn

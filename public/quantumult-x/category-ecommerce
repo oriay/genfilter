@@ -109,6 +109,9 @@ host-suffix, booking.com, category-ecommerce
 host-suffix, bstatic.com, category-ecommerce
 host-suffix, book.com.tw, category-ecommerce
 host-suffix, books.com.tw, category-ecommerce
+host-suffix, costco-static.com, category-ecommerce
+host-suffix, costco.com, category-ecommerce
+host-suffix, costcobusinessdelivery.com, category-ecommerce
 host-suffix, coupang.com, category-ecommerce
 host-suffix, coupangcdn.com, category-ecommerce
 host-suffix, craigslist.org, category-ecommerce
