@@ -11709,6 +11709,8 @@ host-suffix, postimg.cc, geolocation-!cn
 host-suffix, pstorage.space, geolocation-!cn
 host-suffix, rmbl.ws, geolocation-!cn
 host-suffix, rumble.com, geolocation-!cn
+host-suffix, embed-cdn.com, geolocation-!cn
+host-suffix, streamable.com, geolocation-!cn
 host-suffix, 18p2p.com, geolocation-!cn
 host-suffix, 8chan.moe, geolocation-!cn
 host-suffix, avsforum.com, geolocation-!cn
@@ -20780,6 +20782,7 @@ host-suffix, jwplayer.com, geolocation-!cn
 host-suffix, jwpltx.com, geolocation-!cn
 host-suffix, jwpsrv.com, geolocation-!cn
 host-suffix, longtailvideo.com, geolocation-!cn
+host-suffix, kindle4rss.com, geolocation-!cn
 host-suffix, kodi.tv, geolocation-!cn
 host-suffix, kodi.wiki, geolocation-!cn
 host-suffix, liberapay.com, geolocation-!cn
@@ -29860,3 +29863,4 @@ host-suffix, starbuckssummergame.com, geolocation-!cn
 host-suffix, tsquare.tv, geolocation-!cn
 host-suffix, windy.com, geolocation-!cn
 host-suffix, xdty.org, geolocation-!cn
+host-suffix, xingrz.me, geolocation-!cn
