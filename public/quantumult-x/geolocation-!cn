@@ -11240,6 +11240,8 @@ host-suffix, bhsr.com, geolocation-!cn
 host-suffix, themisweeps.com, geolocation-!cn
 host-suffix, yuanshen.com, geolocation-!cn
 host-suffix, juequling.com, geolocation-!cn
+host-suffix, mubi.com, geolocation-!cn
+host-suffix, mubicdn.net, geolocation-!cn
 host-suffix, biggggg.com, geolocation-!cn
 host-suffix, mudvod.tv, geolocation-!cn
 host-suffix, nbys.tv, geolocation-!cn
