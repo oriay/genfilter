@@ -10,6 +10,10 @@ host-suffix, ctrip.my, ctrip
 host-suffix, ctrip.sg, ctrip
 host-suffix, ctripbiz.com, ctrip
 host-suffix, ctripbuy.hk, ctrip
+host-suffix, ctripgslb.cn, ctrip
+host-suffix, ctripgslb.com, ctrip
+host-suffix, ctripgslb.com.cn, ctrip
+host-suffix, ctripgslb.net, ctrip
 host-suffix, ctripteam.com, ctrip
 host-suffix, doticloud.com, ctrip
 host-suffix, easytrip.com, ctrip
@@ -25,6 +29,7 @@ host-suffix, tieyou.com, ctrip
 host-suffix, toptown.cn, ctrip
 host-suffix, toursbms.com, ctrip
 host-suffix, trip.com, ctrip
+host-suffix, tripcdn.cn, ctrip
 host-suffix, tripcdn.com, ctrip
 host-suffix, vipdlt.com, ctrip
 host-suffix, qunar.com, ctrip

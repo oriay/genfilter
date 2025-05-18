@@ -505,6 +505,8 @@ host-suffix, cn.bing.com, microsoft
 host-suffix, cn.bing.net, microsoft
 host-suffix, cn.mm.bing.net, microsoft
 host-suffix, ditu.live.com, microsoft
+host-suffix, r.bing.com, microsoft
+host-suffix, th.bing.com, microsoft
 host, bj1.api.bing.com, microsoft
 host, emoi-cncdn.bing.com, microsoft
 host-suffix, atom.io, microsoft

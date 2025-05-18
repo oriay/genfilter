@@ -159,6 +159,9 @@ host-suffix, dotdeb.org, category-dev
 host-suffix, compose-spec.io, category-dev
 host-suffix, docker.com, category-dev
 host-suffix, docker.io, category-dev
+host-suffix, dockerstatic.com, category-dev
+host, docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com, category-dev
+host, docker-pinata-support.s3.amazonaws.com, category-dev
 host-suffix, embed.ly, category-dev
 host-suffix, embedly.com, category-dev
 host-suffix, playerjs.io, category-dev

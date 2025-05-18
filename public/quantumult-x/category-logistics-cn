@@ -35,8 +35,6 @@ host-suffix, guoguo-app.com, category-logistics-cn
 host-suffix, deppon.com, category-logistics-cn
 host-suffix, deppon.com.cn, category-logistics-cn
 host-suffix, dpma.cc, category-logistics-cn
-host-suffix, fcbox.com, category-logistics-cn
-host-suffix, fcboxmall.com, category-logistics-cn
 host-suffix, bxexpress.com.cn, category-logistics-cn
 host-suffix, jtexpress.cn, category-logistics-cn
 host-suffix, jtexpress.com, category-logistics-cn
@@ -140,6 +138,7 @@ host-suffix, 95311.com, category-logistics-cn
 host-suffix, izto.com, category-logistics-cn
 host-suffix, izto.com.cn, category-logistics-cn
 host-suffix, mlzt.com.cn, category-logistics-cn
+host-suffix, tuxi.com, category-logistics-cn
 host-suffix, zt-express.com, category-logistics-cn
 host-suffix, zto.cn, category-logistics-cn
 host-suffix, zto.com, category-logistics-cn

@@ -6,6 +6,7 @@ host-suffix, localhost, private
 host-suffix, test, private
 host-suffix, local, private
 host-suffix, home.arpa, private
+host-suffix, internal, private
 host-suffix, 0.in-addr.arpa, private
 host-suffix, 2.0.192.in-addr.arpa, private
 host-suffix, 10.in-addr.arpa, private

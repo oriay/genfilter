@@ -631,7 +631,6 @@ DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
 DOMAIN-SUFFIX,aty.sohu.com
-DOMAIN-SUFFIX,data.vod.itc.cn
 DOMAIN-SUFFIX,epro.sogou.com
 DOMAIN-SUFFIX,fpb.sohu.com
 DOMAIN-SUFFIX,go.sohu.com
@@ -736,9 +735,6 @@ DOMAIN-SUFFIX,sentry.d.xiaomi.net
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN-SUFFIX,adbehavior.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com

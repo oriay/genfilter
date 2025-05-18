@@ -132,6 +132,8 @@ host-suffix, huobigroup.com, category-cryptocurrency
 host-suffix, huobitoken.com, category-cryptocurrency
 host-suffix, kraken.com, category-cryptocurrency
 host-suffix, kraken.onl, category-cryptocurrency
+host-suffix, kucoin.com, category-cryptocurrency
+host-suffix, kucoin.plus, category-cryptocurrency
 host-suffix, localbitcoins.com, category-cryptocurrency
 host-suffix, localbitcoinschain.com, category-cryptocurrency
 host-suffix, nexo.com, category-cryptocurrency
@@ -147,6 +149,12 @@ host-suffix, onekey.so, category-cryptocurrency
 host-suffix, onekeycn.com, category-cryptocurrency
 host-suffix, , category-cryptocurrency
 host, onekey.zendesk.com, category-cryptocurrency
+host-suffix, redotpay.com, category-cryptocurrency
+host-suffix, redotpay.zendesk.com, category-cryptocurrency
+host-suffix, pod-15-sunco-ws.zendesk.com, category-cryptocurrency
+host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, category-cryptocurrency
+host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, category-cryptocurrency
+host-suffix, trustwallet.com, category-cryptocurrency
 host-suffix, wisecoin.com, category-cryptocurrency
 host-suffix, wiseid.com, category-cryptocurrency
 host-suffix, wisekey.com, category-cryptocurrency
@@ -157,10 +165,3 @@ host-suffix, zb.app, category-cryptocurrency
 host-suffix, zb.com, category-cryptocurrency
 host-suffix, zb.io, category-cryptocurrency
 host-suffix, zb.live, category-cryptocurrency
-host-suffix, kucoin.com, category-cryptocurrency
-host-suffix, kucoin.plus, category-cryptocurrency
-host-suffix, redotpay.com, category-cryptocurrency
-host-suffix, redotpay.zendesk.com, category-cryptocurrency
-host-suffix, pod-15-sunco-ws.zendesk.com, category-cryptocurrency
-host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, category-cryptocurrency
-host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, category-cryptocurrency

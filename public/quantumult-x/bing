@@ -32,5 +32,7 @@ host-suffix, cn.bing.com, bing
 host-suffix, cn.bing.net, bing
 host-suffix, cn.mm.bing.net, bing
 host-suffix, ditu.live.com, bing
+host-suffix, r.bing.com, bing
+host-suffix, th.bing.com, bing
 host, bj1.api.bing.com, bing
 host, emoi-cncdn.bing.com, bing

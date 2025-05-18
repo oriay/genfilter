@@ -792,6 +792,7 @@ host-suffix, proactivebackend-pa.googleapis.com, google
 host, ai.google.dev, google
 host, alkalicore-pa.clients6.google.com, google
 host, alkalimakersuite-pa.clients6.google.com, google
+host, webchannel-alkalimakersuite-pa.clients6.google.com, google
 host-suffix, generativeai.google, google
 host-suffix, makersuite.google.com, google
 host-suffix, aistudio.google.com, google
@@ -806,6 +807,7 @@ host-suffix, proactivebackend-pa.googleapis.com, google
 host, ai.google.dev, google
 host, alkalicore-pa.clients6.google.com, google
 host, alkalimakersuite-pa.clients6.google.com, google
+host, webchannel-alkalimakersuite-pa.clients6.google.com, google
 host-suffix, generativeai.google, google
 host-suffix, makersuite.google.com, google
 host-suffix, aistudio.google.com, google

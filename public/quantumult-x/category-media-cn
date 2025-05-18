@@ -94,13 +94,6 @@ host-suffix, cns.com.cn, category-media-cn
 host-suffix, ecns.cn, category-media-cn
 host-suffix, inewsweek.cn, category-media-cn
 host-suffix, dgtle.com, category-media-cn
-host-suffix, coolbuy.com, category-media-cn
-host-suffix, ifanr.cn, category-media-cn
-host-suffix, ifanr.com, category-media-cn
-host-suffix, ifanr.in, category-media-cn
-host-suffix, ifanrusercontent.com, category-media-cn
-host-suffix, ifanrx.com, category-media-cn
-host-suffix, minapp.com, category-media-cn
 host-suffix, jiemian.com, category-media-cn
 host-suffix, jiemian.com.cn, category-media-cn
 host-suffix, lancdn.com, category-media-cn
@@ -164,7 +157,6 @@ host-suffix, adnet.sohu.com, category-media-cn
 host-suffix, ads.sohu.com, category-media-cn
 host-suffix, adv-sv-show.focus.cn, category-media-cn
 host-suffix, aty.sohu.com, category-media-cn
-host-suffix, data.vod.itc.cn, category-media-cn
 host-suffix, epro.sogou.com, category-media-cn
 host-suffix, fpb.sohu.com, category-media-cn
 host-suffix, go.sohu.com, category-media-cn
@@ -195,6 +187,9 @@ host-suffix, tmtsmartrun.com, category-media-cn
 host-suffix, feng.com, category-media-cn
 host-suffix, fengimg.com, category-media-cn
 host-suffix, wfdata.club, category-media-cn
+host-suffix, ynet.cn, category-media-cn
+host-suffix, ynet.com, category-media-cn
+host-suffix, ynet.com.cn, category-media-cn
 host-suffix, aiganggu.com, category-media-cn
 host-suffix, danjuanfunds.com, category-media-cn
 host-suffix, imedao.com, category-media-cn
