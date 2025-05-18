@@ -1,6 +1,3 @@
-host-suffix, clubhouse.com, category-communication
-host-suffix, clubhouseapi.com, category-communication
-host-suffix, joinclubhouse.com, category-communication
 host-suffix, dis.gd, category-communication
 host-suffix, discord.co, category-communication
 host-suffix, discord.com, category-communication
@@ -34,8 +31,6 @@ host-suffix, intercom.com, category-communication
 host-suffix, intercom.io, category-communication
 host-suffix, intercomassets.com, category-communication
 host-suffix, intercomcdn.com, category-communication
-host-suffix, keybase.io, category-communication
-host-suffix, keybaseapi.com, category-communication
 host-suffix, gcld-line.com, category-communication
 host-suffix, lin.ee, category-communication
 host-suffix, line-apps-beta.com, category-communication
