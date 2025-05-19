@@ -6,3 +6,7 @@ host-suffix, launchpadlibrarian.net, canonical
 host-suffix, launchpadlibrarian.org, canonical
 host-suffix, snapcraft.io, canonical
 host-suffix, snapstore.io, canonical
+host-suffix, ubuntu.com, canonical
+host-suffix, ubuntu.net, canonical
+host-suffix, ubuntuforums.org, canonical
+host-suffix, ubuntu-touch.io, canonical

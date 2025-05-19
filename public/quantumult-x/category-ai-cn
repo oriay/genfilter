@@ -25,3 +25,4 @@ host, cueme-api.quark.cn, category-ai-cn
 host-suffix, n.cn, category-ai-cn
 host-suffix, namiso.com, category-ai-cn
 host, ai.zhaomi.cn, category-ai-cn
+host-suffix, deepseek.com, category-ai-cn

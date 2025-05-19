@@ -11127,6 +11127,12 @@ DOMAIN-SUFFIX,dlsite.jp
 DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,nijiyome.jp
 DOMAIN-SUFFIX,triokini.com
+DOMAIN-SUFFIX,gimy.cc
+DOMAIN-SUFFIX,gimy.co
+DOMAIN-SUFFIX,gimy.to
+DOMAIN-SUFFIX,gimy.tv
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,gr-assets.com
 DOMAIN,apl-hamivideo.cdn.hinet.net
 DOMAIN,hamivideo.hinet.net
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
@@ -11365,6 +11371,8 @@ DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,wwtbam.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
@@ -11806,6 +11814,9 @@ DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutrecker.net
 DOMAIN-SUFFIX,rutrk.org
+DOMAIN-SUFFIX,soyjak.party
+DOMAIN-SUFFIX,soyjak.st
+DOMAIN-SUFFIX,yamibo.com
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
@@ -27415,6 +27426,7 @@ DOMAIN-SUFFIX,c-msedge.net
 DOMAIN-SUFFIX,centralvalidation.com
 DOMAIN-SUFFIX,ch9.ms
 DOMAIN-SUFFIX,charticulator.com
+DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,cortanaanalytics.com
@@ -27533,6 +27545,7 @@ DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.cn
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.cn
+DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftncsi.com

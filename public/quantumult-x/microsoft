@@ -60,6 +60,7 @@ host-suffix, c-msedge.net, microsoft
 host-suffix, centralvalidation.com, microsoft
 host-suffix, ch9.ms, microsoft
 host-suffix, charticulator.com, microsoft
+host-suffix, clarity.ms, microsoft
 host-suffix, cloudapp.net, microsoft
 host-suffix, cloudappsecurity.com, microsoft
 host-suffix, cortanaanalytics.com, microsoft
@@ -178,6 +179,7 @@ host-suffix, msft.net, microsoft
 host-suffix, msftauth.cn, microsoft
 host-suffix, msftauth.net, microsoft
 host-suffix, msftauthimages.cn, microsoft
+host-suffix, msftauthimages.net, microsoft
 host-suffix, msftconnecttest.com, microsoft
 host-suffix, msfteducation.ca, microsoft
 host-suffix, msftncsi.com, microsoft
