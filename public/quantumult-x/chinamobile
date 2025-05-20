@@ -2,6 +2,8 @@ host-suffix, 10086.cn, chinamobile
 host-suffix, 139.com, chinamobile
 host-suffix, chinamobile.com, chinamobile
 host-suffix, chinamobileltd.com, chinamobile
+host-suffix, speedtest.hk.chinamobile.com, chinamobile
+host-suffix, speedtestbb.hk.chinamobile.com, chinamobile
 host-suffix, migucloud.com, chinamobile
 host-suffix, migu.cn, chinamobile
 host-suffix, cmvideo.cn, chinamobile

@@ -1,3 +1,4 @@
+host, bbs.boingboing.net, category-forums
 host-suffix, 18p2p.com, category-forums
 host-suffix, 8chan.moe, category-forums
 host-suffix, avsforum.com, category-forums
@@ -36,8 +37,8 @@ host-suffix, dslr.net, category-forums
 host-suffix, dslreports.com, category-forums
 host-suffix, hkgolden.com, category-forums
 host-suffix, hkgolden.media, category-forums
-host-suffix, lih.kg, category-forums
-host-suffix, lihkg.com, category-forums
+host-suffix, linux.do, category-forums
+host-suffix, ldstatic.com, category-forums
 host-suffix, 5i01.com, category-forums
 host-suffix, mobile01.com, category-forums
 host-suffix, pimg.tw, category-forums
@@ -79,4 +80,7 @@ host-suffix, rutrecker.net, category-forums
 host-suffix, rutrk.org, category-forums
 host-suffix, soyjak.party, category-forums
 host-suffix, soyjak.st, category-forums
-host-suffix, yamibo.com, category-forums
+host-suffix, xda-cdn.com, category-forums
+host-suffix, xda-developers.com, category-forums
+host-suffix, xdaforums.com, category-forums
+host-suffix, xdaimages.com, category-forums

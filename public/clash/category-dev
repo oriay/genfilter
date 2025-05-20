@@ -134,12 +134,6 @@ DOMAIN-SUFFIX,launchpadcontent.net
 DOMAIN-SUFFIX,launchpadlibrarian.com
 DOMAIN-SUFFIX,launchpadlibrarian.net
 DOMAIN-SUFFIX,launchpadlibrarian.org
-DOMAIN-SUFFIX,snapcraft.io
-DOMAIN-SUFFIX,snapstore.io
-DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,ubuntu.net
-DOMAIN-SUFFIX,ubuntuforums.org
-DOMAIN-SUFFIX,ubuntu-touch.io
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ecr.aws
@@ -516,7 +510,3 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,vim.org
-DOMAIN-SUFFIX,xda-cdn.com
-DOMAIN-SUFFIX,xda-developers.com
-DOMAIN-SUFFIX,xdaforums.com
-DOMAIN-SUFFIX,xdaimages.com

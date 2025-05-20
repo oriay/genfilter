@@ -11735,6 +11735,7 @@ host-suffix, rmbl.ws, geolocation-!cn
 host-suffix, rumble.com, geolocation-!cn
 host-suffix, embed-cdn.com, geolocation-!cn
 host-suffix, streamable.com, geolocation-!cn
+host, bbs.boingboing.net, geolocation-!cn
 host-suffix, 18p2p.com, geolocation-!cn
 host-suffix, 8chan.moe, geolocation-!cn
 host-suffix, avsforum.com, geolocation-!cn
@@ -11775,6 +11776,8 @@ host-suffix, hkgolden.com, geolocation-!cn
 host-suffix, hkgolden.media, geolocation-!cn
 host-suffix, lih.kg, geolocation-!cn
 host-suffix, lihkg.com, geolocation-!cn
+host-suffix, linux.do, geolocation-!cn
+host-suffix, ldstatic.com, geolocation-!cn
 host-suffix, 5i01.com, geolocation-!cn
 host-suffix, mobile01.com, geolocation-!cn
 host-suffix, pimg.tw, geolocation-!cn
@@ -11816,6 +11819,10 @@ host-suffix, rutrecker.net, geolocation-!cn
 host-suffix, rutrk.org, geolocation-!cn
 host-suffix, soyjak.party, geolocation-!cn
 host-suffix, soyjak.st, geolocation-!cn
+host-suffix, xda-cdn.com, geolocation-!cn
+host-suffix, xda-developers.com, geolocation-!cn
+host-suffix, xdaforums.com, geolocation-!cn
+host-suffix, xdaimages.com, geolocation-!cn
 host-suffix, yamibo.com, geolocation-!cn
 host-suffix, bsky.app, geolocation-!cn
 host-suffix, bsky.network, geolocation-!cn
@@ -21546,10 +21553,6 @@ host-suffix, unityads.unitychina.cn, geolocation-!cn
 host-suffix, v8.dev, geolocation-!cn
 host-suffix, v8project.org, geolocation-!cn
 host-suffix, vim.org, geolocation-!cn
-host-suffix, xda-cdn.com, geolocation-!cn
-host-suffix, xda-developers.com, geolocation-!cn
-host-suffix, xdaforums.com, geolocation-!cn
-host-suffix, xdaimages.com, geolocation-!cn
 host-suffix, auth0.com, geolocation-!cn
 host-suffix, civitai.com, geolocation-!cn
 host-suffix, porkbun.com, geolocation-!cn
@@ -28459,6 +28462,7 @@ host-suffix, galaxymobile.jp, geolocation-!cn
 host-suffix, game-platform.net, geolocation-!cn
 host-suffix, knoxemm.com, geolocation-!cn
 host-suffix, samsung.com, geolocation-!cn
+host-suffix, samsungads.com, geolocation-!cn
 host-suffix, samsungapps.com, geolocation-!cn
 host-suffix, samsungcloud.com, geolocation-!cn
 host-suffix, samsungdm.com, geolocation-!cn

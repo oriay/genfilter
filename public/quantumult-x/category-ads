@@ -27,7 +27,6 @@ host-suffix, img-bss.csdn.net, category-ads
 host-suffix, imglnkc.com, category-ads
 host-suffix, imglnkd.com, category-ads
 host-suffix, innovid.com, category-ads
-host-suffix, ja2.gamersky.com, category-ads
 host-suffix, jads.co, category-ads
 host-suffix, jl3.yjaxa.top, category-ads
 host-suffix, juicyads.com, category-ads
@@ -442,12 +441,6 @@ host-suffix, assets.growingio.com, category-ads
 host-suffix, mlog.hiido.com, category-ads
 host-suffix, ylog.hiido.com, category-ads
 host-suffix, static.hotjar.com, category-ads
-host-suffix, click.hunantv.com, category-ads
-host-suffix, da.hunantv.com, category-ads
-host-suffix, da.mgtv.com, category-ads
-host-suffix, log.hunantv.com, category-ads
-host-suffix, log.v2.hunantv.com, category-ads
-host-suffix, res.hunantv.com, category-ads
 host-suffix, inner-active.mobi, category-ads
 host-suffix, a.ckm.iqiyi.com, category-ads
 host-suffix, ad.m.iqiyi.com, category-ads
@@ -467,11 +460,13 @@ host-suffix, msg2.video.qiyi.com, category-ads
 host-suffix, policy.video.iqiyi.com, category-ads
 host-suffix, yuedu.iqiyi.com, category-ads
 host-suffix, ads.union.jd.com, category-ads
+host-suffix, ads-union.jd.com, category-ads
 host-suffix, c-nfa.jd.com, category-ads
 host-suffix, cps.360buy.com, category-ads
+host-suffix, gia.jd.com, category-ads
+host-suffix, img-x.jd.com, category-ads
 host-suffix, jzt.jd.com, category-ads
 host-suffix, stat.m.jd.com, category-ads
-host-suffix, img-x.jd.com, category-ads
 host-suffix, adbkwai.com, category-ads
 host-suffix, adkwai.com, category-ads
 host-suffix, adukwai.com, category-ads
@@ -512,9 +507,6 @@ host-suffix, iadmusicmat.music.126.net, category-ads
 host-suffix, iadmusicmatvideo.music.126.net, category-ads
 host-suffix, sentry.music.163.com, category-ads
 host-suffix, js-agent.newrelic.com, category-ads
-host-suffix, ogury.com, category-ads
-host-suffix, presage.io, category-ads
-host-suffix, ogury.co, category-ads
 host-suffix, onesignal.com, category-ads
 host-suffix, openx.net, category-ads
 host-suffix, openxadexchange.com, category-ads

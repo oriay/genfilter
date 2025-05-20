@@ -2267,11 +2267,13 @@ host-suffix, yiyaojd.com, geolocation-cn
 host-suffix, yizhitou.com, geolocation-cn
 host-suffix, duolabao.com, geolocation-cn
 host-suffix, ads.union.jd.com, geolocation-cn
+host-suffix, ads-union.jd.com, geolocation-cn
 host-suffix, c-nfa.jd.com, geolocation-cn
 host-suffix, cps.360buy.com, geolocation-cn
+host-suffix, gia.jd.com, geolocation-cn
+host-suffix, img-x.jd.com, geolocation-cn
 host-suffix, jzt.jd.com, geolocation-cn
 host-suffix, stat.m.jd.com, geolocation-cn
-host-suffix, img-x.jd.com, geolocation-cn
 host-suffix, lianjia.com, geolocation-cn
 host-suffix, ljcdn.com, geolocation-cn
 host-suffix, beckyroom.com, geolocation-cn
@@ -2565,6 +2567,11 @@ host, p9-ad-sign.byteimg.com, geolocation-cn
 host, rtlog3-applog-hl.fqnovel.com, geolocation-cn
 host, rtlog5-applog-hl.fqnovel.com, geolocation-cn
 host-suffix, gamersky.com, geolocation-cn
+host-suffix, click.gamersky.com, geolocation-cn
+host-suffix, ja.gamersky.com, geolocation-cn
+host-suffix, ja1.gamersky.com, geolocation-cn
+host-suffix, ja2.gamersky.com, geolocation-cn
+host-suffix, wmbd.gamersky.com, geolocation-cn
 host-suffix, gcores.com, geolocation-cn
 host-suffix, gitv.cn, geolocation-cn
 host-suffix, gitv.tv, geolocation-cn
@@ -3724,6 +3731,7 @@ host-suffix, alipan.com, geolocation-cn
 host-suffix, aliyundrive.com, geolocation-cn
 host-suffix, aliyundrive.net, geolocation-cn
 host-suffix, freshhema.com, geolocation-cn
+host-suffix, freshippo.com, geolocation-cn
 host-suffix, hemamax.com, geolocation-cn
 host-suffix, hemaos.com, geolocation-cn
 host-suffix, hemashare.cn, geolocation-cn
@@ -6395,6 +6403,8 @@ host-suffix, 10086.cn, geolocation-cn
 host-suffix, 139.com, geolocation-cn
 host-suffix, chinamobile.com, geolocation-cn
 host-suffix, chinamobileltd.com, geolocation-cn
+host-suffix, speedtest.hk.chinamobile.com, geolocation-cn
+host-suffix, speedtestbb.hk.chinamobile.com, geolocation-cn
 host-suffix, migucloud.com, geolocation-cn
 host-suffix, migu.cn, geolocation-cn
 host-suffix, cmvideo.cn, geolocation-cn
@@ -6429,8 +6439,6 @@ host-suffix, chinaunicom.com.hk, geolocation-cn
 host-suffix, chinaunicomglobal.com, geolocation-cn
 host-suffix, cuniq.com, geolocation-cn
 host-suffix, mychinaunicom.com, geolocation-cn
-host-suffix, speedtest.hk.chinamobile.com, geolocation-cn
-host-suffix, speedtestbb.hk.chinamobile.com, geolocation-cn
 host-suffix, wo.cn, geolocation-cn
 host-suffix, wo.com.cn, geolocation-cn
 host-suffix, wo116114.com, geolocation-cn
