@@ -97,6 +97,8 @@ host-suffix, audible.com, amazon
 host-suffix, createspace.com, amazon
 host, images-cn.ssl-images-amazon.com, amazon
 host, images-cn-8.ssl-images-amazon.com, amazon
+host-suffix, amazon-adsystem.com, amazon
+host-suffix, serving-sys.com, amazon
 host-suffix, amazontrust.com, amazon
 host-suffix, awstrust.com, amazon
 host-suffix, ss2.us, amazon
@@ -205,3 +207,10 @@ host-suffix, primevideo.com, amazon
 host-suffix, primevideo.info, amazon
 host-suffix, primevideo.org, amazon
 host-suffix, primevideo.tv, amazon
+host-suffix, wfm.com, amazon
+host-suffix, wholecitiesfoundation.org, amazon
+host-suffix, wholefoods.com, amazon
+host-suffix, wholefoodsmarket.co.uk, amazon
+host-suffix, wholefoodsmarket.com, amazon
+host-suffix, wholekidsfoundation.org, amazon
+host-suffix, wholeplanetfoundation.org, amazon

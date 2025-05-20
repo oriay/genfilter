@@ -441,6 +441,12 @@ host-suffix, assets.growingio.com, category-ads
 host-suffix, mlog.hiido.com, category-ads
 host-suffix, ylog.hiido.com, category-ads
 host-suffix, static.hotjar.com, category-ads
+host-suffix, click.hunantv.com, category-ads
+host-suffix, da.hunantv.com, category-ads
+host-suffix, da.mgtv.com, category-ads
+host-suffix, log.hunantv.com, category-ads
+host-suffix, log.v2.hunantv.com, category-ads
+host-suffix, res.hunantv.com, category-ads
 host-suffix, inner-active.mobi, category-ads
 host-suffix, a.ckm.iqiyi.com, category-ads
 host-suffix, ad.m.iqiyi.com, category-ads
@@ -507,6 +513,9 @@ host-suffix, iadmusicmat.music.126.net, category-ads
 host-suffix, iadmusicmatvideo.music.126.net, category-ads
 host-suffix, sentry.music.163.com, category-ads
 host-suffix, js-agent.newrelic.com, category-ads
+host-suffix, ogury.com, category-ads
+host-suffix, presage.io, category-ads
+host-suffix, ogury.co, category-ads
 host-suffix, onesignal.com, category-ads
 host-suffix, openx.net, category-ads
 host-suffix, openxadexchange.com, category-ads
