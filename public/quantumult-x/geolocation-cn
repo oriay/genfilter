@@ -2019,9 +2019,16 @@ host-suffix, tieyou.com, geolocation-cn
 host-suffix, toptown.cn, geolocation-cn
 host-suffix, toursbms.com, geolocation-cn
 host-suffix, trip.com, geolocation-cn
+host-suffix, vipdlt.com, geolocation-cn
+host-suffix, ak-p.tripcdn.com, geolocation-cn
+host-suffix, ak-s-cw.tripcdn.com, geolocation-cn
+host-suffix, ak-s.tripcdn.com, geolocation-cn
+host-suffix, akatest.tripcdn.com, geolocation-cn
+host-suffix, aw-d.tripcdn.com, geolocation-cn
+host-suffix, aw-p.tripcdn.com, geolocation-cn
+host-suffix, aw-s.tripcdn.com, geolocation-cn
 host-suffix, tripcdn.cn, geolocation-cn
 host-suffix, tripcdn.com, geolocation-cn
-host-suffix, vipdlt.com, geolocation-cn
 host-suffix, qunar.com, geolocation-cn
 host-suffix, qunarcdn.com, geolocation-cn
 host-suffix, qunarzz.com, geolocation-cn

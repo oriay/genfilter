@@ -2055,9 +2055,16 @@ host-suffix, tieyou.com, cn
 host-suffix, toptown.cn, cn
 host-suffix, toursbms.com, cn
 host-suffix, trip.com, cn
+host-suffix, vipdlt.com, cn
+host-suffix, ak-p.tripcdn.com, cn
+host-suffix, ak-s-cw.tripcdn.com, cn
+host-suffix, ak-s.tripcdn.com, cn
+host-suffix, akatest.tripcdn.com, cn
+host-suffix, aw-d.tripcdn.com, cn
+host-suffix, aw-p.tripcdn.com, cn
+host-suffix, aw-s.tripcdn.com, cn
 host-suffix, tripcdn.cn, cn
 host-suffix, tripcdn.com, cn
-host-suffix, vipdlt.com, cn
 host-suffix, qunar.com, cn
 host-suffix, qunarcdn.com, cn
 host-suffix, qunarzz.com, cn
