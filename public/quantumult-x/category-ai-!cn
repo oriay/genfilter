@@ -2,8 +2,6 @@ host-suffix, coderabbit.ai, category-ai-!cn
 host-suffix, coderabbit.gallery.vsassets.io, category-ai-!cn
 host-suffix, clipdrop.co, category-ai-!cn
 host-suffix, jasper.ai, category-ai-!cn
-host-suffix, notebooklm.google, category-ai-!cn
-host-suffix, notebooklm.google.com, category-ai-!cn
 host-suffix, chutes.ai, category-ai-!cn
 host-suffix, dify.ai, category-ai-!cn
 host-suffix, gateway.ai.cloudflare.com, category-ai-!cn
@@ -30,6 +28,10 @@ host-suffix, aistudio.google.com, category-ai-!cn
 host-suffix, bard.google.com, category-ai-!cn
 host-suffix, gemini.google, category-ai-!cn
 host-suffix, gemini.google.com, category-ai-!cn
+host-suffix, notebooklm.google, category-ai-!cn
+host-suffix, notebooklm.google.com, category-ai-!cn
+host-suffix, jules.google, category-ai-!cn
+host-suffix, jules.google.com, category-ai-!cn
 host-suffix, groq.com, category-ai-!cn
 host-suffix, hf.co, category-ai-!cn
 host-suffix, huggingface.co, category-ai-!cn

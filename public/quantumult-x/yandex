@@ -1,7 +1,10 @@
 host-suffix, yandex, yandex
 host-suffix, xn--d1acpjx3f.xn--p1ai, yandex
 host-suffix, dzen.ru, yandex
+host-suffix, rostaxi.org, yandex
 host-suffix, ya.ru, yandex
+host-suffix, yandex-bank.net, yandex
+host-suffix, yandex-images.clstorage.net, yandex
 host-suffix, yandex.aero, yandex
 host-suffix, yandex.az, yandex
 host-suffix, yandex.by, yandex
@@ -33,5 +36,8 @@ host-suffix, yandex.tj, yandex
 host-suffix, yandex.tm, yandex
 host-suffix, yandex.ua, yandex
 host-suffix, yandex.uz, yandex
+host-suffix, yandexadexchange.net, yandex
 host-suffix, yandexcloud.net, yandex
+host-suffix, yandexcom.net, yandex
+host-suffix, yandexwebcache.org, yandex
 host-suffix, yastatic.net, yandex

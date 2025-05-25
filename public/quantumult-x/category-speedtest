@@ -41,3 +41,5 @@ host-suffix, speedtest.net, category-speedtest
 host-suffix, speedtestcustom.com, category-speedtest
 host-suffix, webtest.net, category-speedtest
 host, www.speedtest.net.cdn.cloudflare.net, category-speedtest
+host-suffix, open.cachefly.net, category-speedtest
+host-suffix, openspeedtest.com, category-speedtest

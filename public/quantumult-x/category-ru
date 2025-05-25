@@ -133,8 +133,10 @@ host-suffix, ok.ru, category-ru
 host-suffix, ozon.ru, category-ru
 host-suffix, ozone.ru, category-ru
 host-suffix, ozonusercontent.com, category-ru
+host-suffix, mradx.net, category-ru
 host-suffix, mvk.com, category-ru
 host-suffix, userapi.com, category-ru
+host-suffix, vk-analytics.ru, category-ru
 host-suffix, vk-apps.com, category-ru
 host-suffix, vk-apps.ru, category-ru
 host-suffix, vk-cdn.me, category-ru
@@ -168,7 +170,10 @@ host-suffix, vkvideo.ru, category-ru
 host-suffix, yandex, category-ru
 host-suffix, xn--d1acpjx3f.xn--p1ai, category-ru
 host-suffix, dzen.ru, category-ru
+host-suffix, rostaxi.org, category-ru
 host-suffix, ya.ru, category-ru
+host-suffix, yandex-bank.net, category-ru
+host-suffix, yandex-images.clstorage.net, category-ru
 host-suffix, yandex.aero, category-ru
 host-suffix, yandex.az, category-ru
 host-suffix, yandex.by, category-ru
@@ -200,5 +205,8 @@ host-suffix, yandex.tj, category-ru
 host-suffix, yandex.tm, category-ru
 host-suffix, yandex.ua, category-ru
 host-suffix, yandex.uz, category-ru
+host-suffix, yandexadexchange.net, category-ru
 host-suffix, yandexcloud.net, category-ru
+host-suffix, yandexcom.net, category-ru
+host-suffix, yandexwebcache.org, category-ru
 host-suffix, yastatic.net, category-ru

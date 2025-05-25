@@ -78,15 +78,15 @@ host-suffix, pcbeta.com, cn
 host-suffix, right.com.cn, cn
 host-suffix, uiwow.com, cn
 host-suffix, wuyou.net, cn
-host-suffix, upe.net, cn
 host-suffix, 423down.com, cn
 host-suffix, ghxi.com, cn
+host-suffix, moyubuluo.com, cn
+host-suffix, upe.net, cn
 host-suffix, winos.me, cn
 host-suffix, zhipin.com, cn
 host-suffix, bosszhipin.com, cn
 host-suffix, zhaopin.cn, cn
 host-suffix, moseeker.com, cn
-host-suffix, mihuashi.com, cn
 host-suffix, huorong.cn, cn
 host-suffix, socpk.com, cn
 host-suffix, udesk.cn, cn
@@ -1239,6 +1239,7 @@ host-suffix, yiyan.baidu.com, cn
 host-suffix, tiangong.cn, cn
 host-suffix, doubao.com, cn
 host-suffix, marscode.cn, cn
+host-suffix, bigmodel.cn, cn
 host-suffix, chatglm.cn, cn
 host-suffix, zhipuai.cn, cn
 host-suffix, moonshot.cn, cn
@@ -2417,6 +2418,7 @@ host-suffix, yeshen.com, cn
 host-suffix, forevernine.com, cn
 host-suffix, tgpro.top, cn
 host-suffix, tgprocs.net, cn
+host-suffix, bsbsb.top, cn
 host-suffix, ledu.com, cn
 host-suffix, pearvideo.com, cn
 host-suffix, wo1wan.com, cn
@@ -3393,6 +3395,7 @@ host-suffix, cn.pool.ntp.org, cn
 host-suffix, ntp.neu.edu.cn, cn
 host-suffix, ntp.ntsc.ac.cn, cn
 host-suffix, ntp.org.cn, cn
+host-suffix, mihuashi.com, cn
 host-suffix, capitalonline.net, cn
 host-suffix, mirrors.yun-idc.com, cn
 host-suffix, chinaso.com, cn

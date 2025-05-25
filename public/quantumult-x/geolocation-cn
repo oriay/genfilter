@@ -42,15 +42,15 @@ host-suffix, pcbeta.com, geolocation-cn
 host-suffix, right.com.cn, geolocation-cn
 host-suffix, uiwow.com, geolocation-cn
 host-suffix, wuyou.net, geolocation-cn
-host-suffix, upe.net, geolocation-cn
 host-suffix, 423down.com, geolocation-cn
 host-suffix, ghxi.com, geolocation-cn
+host-suffix, moyubuluo.com, geolocation-cn
+host-suffix, upe.net, geolocation-cn
 host-suffix, winos.me, geolocation-cn
 host-suffix, zhipin.com, geolocation-cn
 host-suffix, bosszhipin.com, geolocation-cn
 host-suffix, zhaopin.cn, geolocation-cn
 host-suffix, moseeker.com, geolocation-cn
-host-suffix, mihuashi.com, geolocation-cn
 host-suffix, huorong.cn, geolocation-cn
 host-suffix, socpk.com, geolocation-cn
 host-suffix, udesk.cn, geolocation-cn
@@ -1203,6 +1203,7 @@ host-suffix, yiyan.baidu.com, geolocation-cn
 host-suffix, tiangong.cn, geolocation-cn
 host-suffix, doubao.com, geolocation-cn
 host-suffix, marscode.cn, geolocation-cn
+host-suffix, bigmodel.cn, geolocation-cn
 host-suffix, chatglm.cn, geolocation-cn
 host-suffix, zhipuai.cn, geolocation-cn
 host-suffix, moonshot.cn, geolocation-cn
@@ -2381,6 +2382,7 @@ host-suffix, yeshen.com, geolocation-cn
 host-suffix, forevernine.com, geolocation-cn
 host-suffix, tgpro.top, geolocation-cn
 host-suffix, tgprocs.net, geolocation-cn
+host-suffix, bsbsb.top, geolocation-cn
 host-suffix, ledu.com, geolocation-cn
 host-suffix, pearvideo.com, geolocation-cn
 host-suffix, wo1wan.com, geolocation-cn
@@ -3357,6 +3359,7 @@ host-suffix, cn.pool.ntp.org, geolocation-cn
 host-suffix, ntp.neu.edu.cn, geolocation-cn
 host-suffix, ntp.ntsc.ac.cn, geolocation-cn
 host-suffix, ntp.org.cn, geolocation-cn
+host-suffix, mihuashi.com, geolocation-cn
 host-suffix, capitalonline.net, geolocation-cn
 host-suffix, mirrors.yun-idc.com, geolocation-cn
 host-suffix, chinaso.com, geolocation-cn
