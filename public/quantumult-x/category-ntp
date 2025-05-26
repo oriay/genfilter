@@ -1,6 +1,7 @@
 host, time.apple.com, category-ntp
 host, time.euro.apple.com, category-ntp
 host, time.aws.com, category-ntp
+host, time.cloudflare.com, category-ntp
 host, time.facebook.com, category-ntp
 host, time1.facebook.com, category-ntp
 host, time2.facebook.com, category-ntp
@@ -12,6 +13,8 @@ host, time1.google.com, category-ntp
 host, time2.google.com, category-ntp
 host, time3.google.com, category-ntp
 host, time4.google.com, category-ntp
+host, ntp.ubuntu.com, category-ntp
+host, time.windows.com, category-ntp
 host, ut1-wwv.nist.gov, category-ntp
 host, ntp-b.nist.gov, category-ntp
 host, ntp-d.nist.gov, category-ntp
@@ -53,9 +56,7 @@ host-suffix, ntp.ripe.net, category-ntp
 host-suffix, ntp.se, category-ntp
 host-suffix, ntp.ufe.cz, category-ntp
 host-suffix, pool.ntp.org, category-ntp
-host-suffix, time.cloudflare.com, category-ntp
 host-suffix, time.nrc.ca, category-ntp
-host-suffix, time.windows.com, category-ntp
 host, ntp.aliyun.com, category-ntp
 host, ntp1.aliyun.com, category-ntp
 host, ntp2.aliyun.com, category-ntp

@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,conda.io
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
+DOMAIN,android.googlesource.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cups.org

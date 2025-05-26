@@ -631,6 +631,7 @@ DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
+DOMAIN,android.googlesource.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogspot.ae

@@ -81,6 +81,7 @@ host-suffix, anaconda.org, category-dev
 host-suffix, conda.io, category-dev
 host-suffix, android.com, category-dev
 host-suffix, androidify.com, category-dev
+host, android.googlesource.com, category-dev
 host-suffix, calendarserver.org, category-dev
 host-suffix, apple-cloudkit.com, category-dev
 host-suffix, cups.org, category-dev

@@ -4182,6 +4182,7 @@ host-suffix, gvt1-cn.com, category-companies
 host-suffix, gvt2-cn.com, category-companies
 host-suffix, android.com, category-companies
 host-suffix, androidify.com, category-companies
+host, android.googlesource.com, category-companies
 host-suffix, blogger.com, category-companies
 host-suffix, blogblog.com, category-companies
 host-suffix, blogspot.ae, category-companies

@@ -20566,6 +20566,7 @@ host-suffix, z3x-team.com, geolocation-!cn
 host, time.apple.com, geolocation-!cn
 host, time.euro.apple.com, geolocation-!cn
 host, time.aws.com, geolocation-!cn
+host, time.cloudflare.com, geolocation-!cn
 host, time.facebook.com, geolocation-!cn
 host, time1.facebook.com, geolocation-!cn
 host, time2.facebook.com, geolocation-!cn
@@ -20577,6 +20578,8 @@ host, time1.google.com, geolocation-!cn
 host, time2.google.com, geolocation-!cn
 host, time3.google.com, geolocation-!cn
 host, time4.google.com, geolocation-!cn
+host, ntp.ubuntu.com, geolocation-!cn
+host, time.windows.com, geolocation-!cn
 host, ut1-wwv.nist.gov, geolocation-!cn
 host, ntp-b.nist.gov, geolocation-!cn
 host, ntp-d.nist.gov, geolocation-!cn
@@ -20618,9 +20621,7 @@ host-suffix, ntp.ripe.net, geolocation-!cn
 host-suffix, ntp.se, geolocation-!cn
 host-suffix, ntp.ufe.cz, geolocation-!cn
 host-suffix, pool.ntp.org, geolocation-!cn
-host-suffix, time.cloudflare.com, geolocation-!cn
 host-suffix, time.nrc.ca, geolocation-!cn
-host-suffix, time.windows.com, geolocation-!cn
 host, ntp.aliyun.com, geolocation-!cn
 host, ntp1.aliyun.com, geolocation-!cn
 host, ntp2.aliyun.com, geolocation-!cn
@@ -21130,6 +21131,7 @@ host-suffix, anaconda.org, geolocation-!cn
 host-suffix, conda.io, geolocation-!cn
 host-suffix, android.com, geolocation-!cn
 host-suffix, androidify.com, geolocation-!cn
+host, android.googlesource.com, geolocation-!cn
 host-suffix, calendarserver.org, geolocation-!cn
 host-suffix, apple-cloudkit.com, geolocation-!cn
 host-suffix, cups.org, geolocation-!cn
@@ -25749,6 +25751,7 @@ host-suffix, gvt1-cn.com, geolocation-!cn
 host-suffix, gvt2-cn.com, geolocation-!cn
 host-suffix, android.com, geolocation-!cn
 host-suffix, androidify.com, geolocation-!cn
+host, android.googlesource.com, geolocation-!cn
 host-suffix, blogger.com, geolocation-!cn
 host-suffix, blogblog.com, geolocation-!cn
 host-suffix, blogspot.ae, geolocation-!cn

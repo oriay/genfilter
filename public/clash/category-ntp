@@ -1,6 +1,7 @@
 DOMAIN,time.apple.com
 DOMAIN,time.euro.apple.com
 DOMAIN,time.aws.com
+DOMAIN,time.cloudflare.com
 DOMAIN,time.facebook.com
 DOMAIN,time1.facebook.com
 DOMAIN,time2.facebook.com
@@ -12,6 +13,8 @@ DOMAIN,time1.google.com
 DOMAIN,time2.google.com
 DOMAIN,time3.google.com
 DOMAIN,time4.google.com
+DOMAIN,ntp.ubuntu.com
+DOMAIN,time.windows.com
 DOMAIN,ut1-wwv.nist.gov
 DOMAIN,ntp-b.nist.gov
 DOMAIN,ntp-d.nist.gov
@@ -53,9 +56,7 @@ DOMAIN-SUFFIX,ntp.ripe.net
 DOMAIN-SUFFIX,ntp.se
 DOMAIN-SUFFIX,ntp.ufe.cz
 DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-SUFFIX,time.cloudflare.com
 DOMAIN-SUFFIX,time.nrc.ca
-DOMAIN-SUFFIX,time.windows.com
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp1.aliyun.com
 DOMAIN,ntp2.aliyun.com
