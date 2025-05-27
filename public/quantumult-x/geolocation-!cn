@@ -28673,6 +28673,7 @@ host-suffix, i234.me, geolocation-!cn
 host-suffix, myds.me, geolocation-!cn
 host-suffix, synology.me, geolocation-!cn
 host-suffix, symantec.com, geolocation-!cn
+host-suffix, symantecliveupdate.com, geolocation-!cn
 host-suffix, tailscale.com, geolocation-!cn
 host-suffix, tailscale.io, geolocation-!cn
 host-suffix, ts.net, geolocation-!cn
