@@ -1497,6 +1497,9 @@ host-suffix, uab.com.mm, geolocation-!cn
 host-suffix, waveomoney.com.mm, geolocation-!cn
 host-suffix, yomabank.com, geolocation-!cn
 host-suffix, ysx-mm.com, geolocation-!cn
+host-suffix, fibank.bg, geolocation-!cn
+host-suffix, meawallet.app, geolocation-!cn
+host-suffix, myfin.bg, geolocation-!cn
 host-suffix, hsbc, geolocation-!cn
 host-suffix, hsbc.com, geolocation-!cn
 host-suffix, hsbc.net, geolocation-!cn
