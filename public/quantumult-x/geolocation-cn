@@ -3052,6 +3052,9 @@ host-suffix, huanqiucdn.cn, geolocation-cn
 host-suffix, gmw.com, geolocation-cn
 host-suffix, thepaper.cn, geolocation-cn
 host-suffix, thecover.cn, geolocation-cn
+host-suffix, cankaoxiaoxi.com, geolocation-cn
+host-suffix, ckxx.net, geolocation-cn
+host-suffix, takungpao.com, geolocation-cn
 host-suffix, expreview.com, geolocation-cn
 host-suffix, huxiu.com, geolocation-cn
 host-suffix, huxiucdn.com, geolocation-cn
@@ -3212,14 +3215,14 @@ host-suffix, tmtsmartrun.com, geolocation-cn
 host-suffix, feng.com, geolocation-cn
 host-suffix, fengimg.com, geolocation-cn
 host-suffix, wfdata.club, geolocation-cn
-host-suffix, ynet.cn, geolocation-cn
-host-suffix, ynet.com, geolocation-cn
-host-suffix, ynet.com.cn, geolocation-cn
 host-suffix, aiganggu.com, geolocation-cn
 host-suffix, danjuanfunds.com, geolocation-cn
 host-suffix, imedao.com, geolocation-cn
 host-suffix, snowballsecurities.com, geolocation-cn
 host-suffix, xueqiu.com, geolocation-cn
+host-suffix, ynet.cn, geolocation-cn
+host-suffix, ynet.com, geolocation-cn
+host-suffix, ynet.com.cn, geolocation-cn
 host-suffix, cloud.189.cn, geolocation-cn
 host-suffix, ctfile.com, geolocation-cn
 host-suffix, feimaoyun.com, geolocation-cn

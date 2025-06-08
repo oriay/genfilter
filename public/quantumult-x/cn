@@ -3088,6 +3088,9 @@ host-suffix, huanqiucdn.cn, cn
 host-suffix, gmw.com, cn
 host-suffix, thepaper.cn, cn
 host-suffix, thecover.cn, cn
+host-suffix, cankaoxiaoxi.com, cn
+host-suffix, ckxx.net, cn
+host-suffix, takungpao.com, cn
 host-suffix, expreview.com, cn
 host-suffix, huxiu.com, cn
 host-suffix, huxiucdn.com, cn
@@ -3248,14 +3251,14 @@ host-suffix, tmtsmartrun.com, cn
 host-suffix, feng.com, cn
 host-suffix, fengimg.com, cn
 host-suffix, wfdata.club, cn
-host-suffix, ynet.cn, cn
-host-suffix, ynet.com, cn
-host-suffix, ynet.com.cn, cn
 host-suffix, aiganggu.com, cn
 host-suffix, danjuanfunds.com, cn
 host-suffix, imedao.com, cn
 host-suffix, snowballsecurities.com, cn
 host-suffix, xueqiu.com, cn
+host-suffix, ynet.cn, cn
+host-suffix, ynet.com, cn
+host-suffix, ynet.com.cn, cn
 host-suffix, cloud.189.cn, cn
 host-suffix, ctfile.com, cn
 host-suffix, feimaoyun.com, cn

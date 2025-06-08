@@ -11525,6 +11525,8 @@ host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
 host-suffix, mox.moe, geolocation-!cn
 host-suffix, vol.moe, geolocation-!cn
+host-suffix, wallhaven.cc, geolocation-!cn
+host-suffix, whvn.cc, geolocation-!cn
 host-suffix, webnovel.com, geolocation-!cn
 host-suffix, wwe.com, geolocation-!cn
 host-suffix, wwe9.com, geolocation-!cn
