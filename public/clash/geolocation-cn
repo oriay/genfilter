@@ -1300,6 +1300,7 @@ DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,ccbtrust.com.cn
 DOMAIN-SUFFIX,ccbxt.com
 DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,xn--fiq64b
 DOMAIN-SUFFIX,chinaamc.com
 DOMAIN-SUFFIX,citic-prudential.com.cn
 DOMAIN-SUFFIX,citicbank.com
@@ -1572,6 +1573,7 @@ DOMAIN-SUFFIX,howbuy.com
 DOMAIN-SUFFIX,lufunds.com
 DOMAIN-SUFFIX,zlfund.cn
 DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,xn--fiq64b
 DOMAIN-SUFFIX,chinaamc.com
 DOMAIN-SUFFIX,citic-prudential.com.cn
 DOMAIN-SUFFIX,citicbank.com
@@ -3144,6 +3146,7 @@ DOMAIN-SUFFIX,ruanmei.com
 DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,win7china.com
 DOMAIN-SUFFIX,win8china.com
+DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,focus-img.cn
 DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,itc.cn
@@ -6544,7 +6547,6 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
 DOMAIN-SUFFIX,xiaomidns.cn
@@ -6653,6 +6655,8 @@ DOMAIN-SUFFIX,ctexcel.com
 DOMAIN-SUFFIX,ctexcel.com.hk
 DOMAIN-SUFFIX,ctexcel.fr
 DOMAIN-SUFFIX,ctexcel.us
+DOMAIN-SUFFIX,unicom
+DOMAIN-SUFFIX,xn--8y0a063a
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10010.com.cn
 DOMAIN-SUFFIX,114menhu.com

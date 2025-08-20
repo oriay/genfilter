@@ -21339,6 +21339,7 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.blog
@@ -27956,6 +27957,7 @@ DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.blog

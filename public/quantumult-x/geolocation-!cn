@@ -21339,6 +21339,7 @@ host-suffix, gitbook.com, geolocation-!cn
 host-suffix, gitbook.io, geolocation-!cn
 host-suffix, atom.io, geolocation-!cn
 host-suffix, dependabot.com, geolocation-!cn
+host-suffix, gh.io, geolocation-!cn
 host-suffix, ghcr.io, geolocation-!cn
 host-suffix, git.io, geolocation-!cn
 host-suffix, github.blog, geolocation-!cn
@@ -27956,6 +27957,7 @@ host, bj1.api.bing.com, geolocation-!cn
 host, emoi-cncdn.bing.com, geolocation-!cn
 host-suffix, atom.io, geolocation-!cn
 host-suffix, dependabot.com, geolocation-!cn
+host-suffix, gh.io, geolocation-!cn
 host-suffix, ghcr.io, geolocation-!cn
 host-suffix, git.io, geolocation-!cn
 host-suffix, github.blog, geolocation-!cn

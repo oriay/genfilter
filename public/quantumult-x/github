@@ -1,5 +1,6 @@
 host-suffix, atom.io, github
 host-suffix, dependabot.com, github
+host-suffix, gh.io, github
 host-suffix, ghcr.io, github
 host-suffix, git.io, github
 host-suffix, github.blog, github

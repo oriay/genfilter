@@ -1300,6 +1300,7 @@ host-suffix, ccbseoul.com, geolocation-cn
 host-suffix, ccbtrust.com.cn, geolocation-cn
 host-suffix, ccbxt.com, geolocation-cn
 host-suffix, citic, geolocation-cn
+host-suffix, xn--fiq64b, geolocation-cn
 host-suffix, chinaamc.com, geolocation-cn
 host-suffix, citic-prudential.com.cn, geolocation-cn
 host-suffix, citicbank.com, geolocation-cn
@@ -1572,6 +1573,7 @@ host-suffix, howbuy.com, geolocation-cn
 host-suffix, lufunds.com, geolocation-cn
 host-suffix, zlfund.cn, geolocation-cn
 host-suffix, citic, geolocation-cn
+host-suffix, xn--fiq64b, geolocation-cn
 host-suffix, chinaamc.com, geolocation-cn
 host-suffix, citic-prudential.com.cn, geolocation-cn
 host-suffix, citicbank.com, geolocation-cn
@@ -3144,6 +3146,7 @@ host-suffix, ruanmei.com, geolocation-cn
 host-suffix, saayaa.com, geolocation-cn
 host-suffix, win7china.com, geolocation-cn
 host-suffix, win8china.com, geolocation-cn
+host-suffix, sohu, geolocation-cn
 host-suffix, focus-img.cn, geolocation-cn
 host-suffix, focus.cn, geolocation-cn
 host-suffix, itc.cn, geolocation-cn
@@ -6544,7 +6547,6 @@ host-suffix, miui.com, geolocation-cn
 host-suffix, miwifi.com, geolocation-cn
 host-suffix, xiaomi.cn, geolocation-cn
 host-suffix, xiaomi.com, geolocation-cn
-host-suffix, xiaomi.eu, geolocation-cn
 host-suffix, xiaomi.net, geolocation-cn
 host-suffix, xiaomicp.com, geolocation-cn
 host-suffix, xiaomidns.cn, geolocation-cn
@@ -6653,6 +6655,8 @@ host-suffix, ctexcel.com, geolocation-cn
 host-suffix, ctexcel.com.hk, geolocation-cn
 host-suffix, ctexcel.fr, geolocation-cn
 host-suffix, ctexcel.us, geolocation-cn
+host-suffix, unicom, geolocation-cn
+host-suffix, xn--8y0a063a, geolocation-cn
 host-suffix, 10010.com, geolocation-cn
 host-suffix, 10010.com.cn, geolocation-cn
 host-suffix, 114menhu.com, geolocation-cn

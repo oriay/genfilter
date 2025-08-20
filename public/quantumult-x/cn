@@ -3,9 +3,10 @@ host-suffix, citic, cn
 host-suffix, baidu, cn
 host-suffix, unicom, cn
 host-suffix, sohu, cn
-host-suffix, xn--zfr164b, cn
 host-suffix, xn--fiqs8s, cn
 host-suffix, xn--fiqz9s, cn
+host-suffix, xn--zfr164b, cn
+host-suffix, xn--55qw42g, cn
 host-suffix, xn--55qx5d, cn
 host-suffix, xn--io0a7i, cn
 host-suffix, xn--ses554g, cn
@@ -1336,6 +1337,7 @@ host-suffix, ccbseoul.com, cn
 host-suffix, ccbtrust.com.cn, cn
 host-suffix, ccbxt.com, cn
 host-suffix, citic, cn
+host-suffix, xn--fiq64b, cn
 host-suffix, chinaamc.com, cn
 host-suffix, citic-prudential.com.cn, cn
 host-suffix, citicbank.com, cn
@@ -1608,6 +1610,7 @@ host-suffix, howbuy.com, cn
 host-suffix, lufunds.com, cn
 host-suffix, zlfund.cn, cn
 host-suffix, citic, cn
+host-suffix, xn--fiq64b, cn
 host-suffix, chinaamc.com, cn
 host-suffix, citic-prudential.com.cn, cn
 host-suffix, citicbank.com, cn
@@ -3180,6 +3183,7 @@ host-suffix, ruanmei.com, cn
 host-suffix, saayaa.com, cn
 host-suffix, win7china.com, cn
 host-suffix, win8china.com, cn
+host-suffix, sohu, cn
 host-suffix, focus-img.cn, cn
 host-suffix, focus.cn, cn
 host-suffix, itc.cn, cn
@@ -6580,7 +6584,6 @@ host-suffix, miui.com, cn
 host-suffix, miwifi.com, cn
 host-suffix, xiaomi.cn, cn
 host-suffix, xiaomi.com, cn
-host-suffix, xiaomi.eu, cn
 host-suffix, xiaomi.net, cn
 host-suffix, xiaomicp.com, cn
 host-suffix, xiaomidns.cn, cn
@@ -6689,6 +6692,8 @@ host-suffix, ctexcel.com, cn
 host-suffix, ctexcel.com.hk, cn
 host-suffix, ctexcel.fr, cn
 host-suffix, ctexcel.us, cn
+host-suffix, unicom, cn
+host-suffix, xn--8y0a063a, cn
 host-suffix, 10010.com, cn
 host-suffix, 10010.com.cn, cn
 host-suffix, 114menhu.com, cn

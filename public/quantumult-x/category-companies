@@ -6349,6 +6349,7 @@ host, bj1.api.bing.com, category-companies
 host, emoi-cncdn.bing.com, category-companies
 host-suffix, atom.io, category-companies
 host-suffix, dependabot.com, category-companies
+host-suffix, gh.io, category-companies
 host-suffix, ghcr.io, category-companies
 host-suffix, git.io, category-companies
 host-suffix, github.blog, category-companies
