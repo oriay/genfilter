@@ -3,6 +3,7 @@ host-suffix, coderabbit.gallery.vsassets.io, category-ai-chat-!cn
 host-suffix, clipdrop.co, category-ai-chat-!cn
 host-suffix, jasper.ai, category-ai-chat-!cn
 host-suffix, chutes.ai, category-ai-chat-!cn
+host-suffix, copilot.microsoft.com, category-ai-chat-!cn
 host-suffix, dify.ai, category-ai-chat-!cn
 host-suffix, gateway.ai.cloudflare.com, category-ai-chat-!cn
 host-suffix, meta.ai, category-ai-chat-!cn
@@ -13,6 +14,10 @@ host-suffix, anthropic.com, category-ai-chat-!cn
 host-suffix, claude.ai, category-ai-chat-!cn
 host-suffix, claudeusercontent.com, category-ai-chat-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-chat-!cn
+host-suffix, cursor-cdn.com, category-ai-chat-!cn
+host-suffix, cursor.com, category-ai-chat-!cn
+host-suffix, cursor.sh, category-ai-chat-!cn
+host-suffix, cursorapi.com, category-ai-chat-!cn
 host-suffix, deepmind.com, category-ai-chat-!cn
 host-suffix, deepmind.google, category-ai-chat-!cn
 host-suffix, geller-pa.googleapis.com, category-ai-chat-!cn
@@ -59,7 +64,3 @@ host-suffix, poe.com, category-ai-chat-!cn
 host-suffix, poecdn.net, category-ai-chat-!cn
 host-suffix, grok.com, category-ai-chat-!cn
 host-suffix, x.ai, category-ai-chat-!cn
-host-suffix, cursor-cdn.com, category-ai-chat-!cn
-host-suffix, cursor.com, category-ai-chat-!cn
-host-suffix, cursor.sh, category-ai-chat-!cn
-host-suffix, cursorapi.com, category-ai-chat-!cn

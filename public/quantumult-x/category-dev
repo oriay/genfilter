@@ -254,6 +254,7 @@ host-suffix, dependabot.com, category-dev
 host-suffix, gh.io, category-dev
 host-suffix, ghcr.io, category-dev
 host-suffix, git.io, category-dev
+host-suffix, github.ai, category-dev
 host-suffix, github.blog, category-dev
 host-suffix, github.com, category-dev
 host-suffix, github.community, category-dev

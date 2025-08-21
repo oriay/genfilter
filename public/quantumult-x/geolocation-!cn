@@ -14,6 +14,7 @@ host-suffix, coderabbit.gallery.vsassets.io, geolocation-!cn
 host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
 host-suffix, chutes.ai, geolocation-!cn
+host-suffix, copilot.microsoft.com, geolocation-!cn
 host-suffix, dify.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
@@ -24,6 +25,10 @@ host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
+host-suffix, cursor-cdn.com, geolocation-!cn
+host-suffix, cursor.com, geolocation-!cn
+host-suffix, cursor.sh, geolocation-!cn
+host-suffix, cursorapi.com, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
@@ -70,10 +75,6 @@ host-suffix, poe.com, geolocation-!cn
 host-suffix, poecdn.net, geolocation-!cn
 host-suffix, grok.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
-host-suffix, cursor-cdn.com, geolocation-!cn
-host-suffix, cursor.com, geolocation-!cn
-host-suffix, cursor.sh, geolocation-!cn
-host-suffix, cursorapi.com, geolocation-!cn
 host-suffix, colorfulstage.com, geolocation-!cn
 host-suffix, crypton.co.jp, geolocation-!cn
 host-suffix, lapriere.jp, geolocation-!cn
@@ -21342,6 +21343,7 @@ host-suffix, dependabot.com, geolocation-!cn
 host-suffix, gh.io, geolocation-!cn
 host-suffix, ghcr.io, geolocation-!cn
 host-suffix, git.io, geolocation-!cn
+host-suffix, github.ai, geolocation-!cn
 host-suffix, github.blog, geolocation-!cn
 host-suffix, github.com, geolocation-!cn
 host-suffix, github.community, geolocation-!cn
@@ -27960,6 +27962,7 @@ host-suffix, dependabot.com, geolocation-!cn
 host-suffix, gh.io, geolocation-!cn
 host-suffix, ghcr.io, geolocation-!cn
 host-suffix, git.io, geolocation-!cn
+host-suffix, github.ai, geolocation-!cn
 host-suffix, github.blog, geolocation-!cn
 host-suffix, github.com, geolocation-!cn
 host-suffix, github.community, geolocation-!cn
