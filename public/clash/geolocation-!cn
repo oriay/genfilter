@@ -10756,6 +10756,7 @@ DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,videos-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,snk-corp.co.jp
+DOMAIN-SUFFIX,snk-corp.info
 DOMAIN-SUFFIX,snkplaymore.info
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,s.team
@@ -13153,6 +13154,8 @@ DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
 DOMAIN,foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubi.tv
+DOMAIN-SUFFIX,tubi.video
 DOMAIN-SUFFIX,tubitv.com
 DOMAIN-SUFFIX,agendaweek.com
 DOMAIN-SUFFIX,excedo.com
@@ -29177,6 +29180,7 @@ DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yandex-bank.net
@@ -29184,6 +29188,7 @@ DOMAIN-SUFFIX,yandex-images.clstorage.net
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
+DOMAIN-SUFFIX,yandex.cloud
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.com.am

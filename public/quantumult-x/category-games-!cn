@@ -511,6 +511,7 @@ host, gamedownloads-rockstargames-com.akamaized.net, category-games-!cn
 host, media-rockstargames-com.akamaized.net, category-games-!cn
 host, videos-rockstargames-com.akamaized.net, category-games-!cn
 host-suffix, snk-corp.co.jp, category-games-!cn
+host-suffix, snk-corp.info, category-games-!cn
 host-suffix, snkplaymore.info, category-games-!cn
 host-suffix, playartifact.com, category-games-!cn
 host-suffix, s.team, category-games-!cn

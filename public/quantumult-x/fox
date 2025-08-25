@@ -242,4 +242,6 @@ host-suffix, woflthenewsstation.com, fox
 host-suffix, wogx.com, fox
 host, foxnewsplayer-a.akamaihd.net, fox
 host-suffix, tubi.io, fox
+host-suffix, tubi.tv, fox
+host-suffix, tubi.video, fox
 host-suffix, tubitv.com, fox

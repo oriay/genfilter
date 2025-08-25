@@ -10756,6 +10756,7 @@ host, gamedownloads-rockstargames-com.akamaized.net, geolocation-!cn
 host, media-rockstargames-com.akamaized.net, geolocation-!cn
 host, videos-rockstargames-com.akamaized.net, geolocation-!cn
 host-suffix, snk-corp.co.jp, geolocation-!cn
+host-suffix, snk-corp.info, geolocation-!cn
 host-suffix, snkplaymore.info, geolocation-!cn
 host-suffix, playartifact.com, geolocation-!cn
 host-suffix, s.team, geolocation-!cn
@@ -13153,6 +13154,8 @@ host-suffix, woflthenewsstation.com, geolocation-!cn
 host-suffix, wogx.com, geolocation-!cn
 host, foxnewsplayer-a.akamaihd.net, geolocation-!cn
 host-suffix, tubi.io, geolocation-!cn
+host-suffix, tubi.tv, geolocation-!cn
+host-suffix, tubi.video, geolocation-!cn
 host-suffix, tubitv.com, geolocation-!cn
 host-suffix, agendaweek.com, geolocation-!cn
 host-suffix, excedo.com, geolocation-!cn
@@ -29177,6 +29180,7 @@ host-suffix, ysm.yahoo.com, geolocation-!cn
 host-suffix, yandex, geolocation-!cn
 host-suffix, xn--d1acpjx3f.xn--p1ai, geolocation-!cn
 host-suffix, dzen.ru, geolocation-!cn
+host-suffix, naydex.net, geolocation-!cn
 host-suffix, rostaxi.org, geolocation-!cn
 host-suffix, ya.ru, geolocation-!cn
 host-suffix, yandex-bank.net, geolocation-!cn
@@ -29184,6 +29188,7 @@ host-suffix, yandex-images.clstorage.net, geolocation-!cn
 host-suffix, yandex.aero, geolocation-!cn
 host-suffix, yandex.az, geolocation-!cn
 host-suffix, yandex.by, geolocation-!cn
+host-suffix, yandex.cloud, geolocation-!cn
 host-suffix, yandex.co.il, geolocation-!cn
 host-suffix, yandex.com, geolocation-!cn
 host-suffix, yandex.com.am, geolocation-!cn
