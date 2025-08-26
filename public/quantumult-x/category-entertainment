@@ -1026,7 +1026,7 @@ host-suffix, imdb.com, category-entertainment
 host-suffix, imdb.to, category-entertainment
 host-suffix, media-imdb.com, category-entertainment
 host-suffix, iyf.tv, category-entertainment
-host-suffix, dnvodcdn.me, category-entertainment
+host-suffix, yfsp.tv, category-entertainment
 host-suffix, kingkong.com.tw, category-entertainment
 host-suffix, kingkongapp.com, category-entertainment
 host-suffix, kfs.io, category-entertainment
@@ -1113,6 +1113,12 @@ host-suffix, nicoseiga.jp, category-entertainment
 host-suffix, nicovideo.jp, category-entertainment
 host-suffix, nimg.jp, category-entertainment
 host-suffix, simg.jp, category-entertainment
+host-suffix, now.com, category-entertainment
+host-suffix, now.com.hk, category-entertainment
+host-suffix, nowe.com, category-entertainment
+host-suffix, nowe.hk, category-entertainment
+host-suffix, now-tv.com, category-entertainment
+host-suffix, now-ashare.com, category-entertainment
 host-suffix, haiwaikan.com, category-entertainment
 host-suffix, iole.tv, category-entertainment
 host-suffix, olehd.com, category-entertainment
@@ -1177,8 +1183,9 @@ host-suffix, sonypicturestelevisiongames.com, category-entertainment
 host-suffix, wheelpop.com, category-entertainment
 host-suffix, wwtbam.com, category-entertainment
 host-suffix, yourfantasybeginsnow.com, category-entertainment
-host-suffix, soundcloud.com, category-entertainment
 host-suffix, sndcdn.com, category-entertainment
+host-suffix, soundcloud.cloud, category-entertainment
+host-suffix, soundcloud.com, category-entertainment
 host-suffix, byspotify.com, category-entertainment
 host-suffix, pscdn.co, category-entertainment
 host-suffix, scdn.co, category-entertainment
