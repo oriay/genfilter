@@ -553,6 +553,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
 DOMAIN-SUFFIX,steam.eca.qtlglb.com
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
@@ -747,6 +748,13 @@ DOMAIN-SUFFIX,boomerang.com
 DOMAIN-SUFFIX,wbdnbo.net
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
+DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,copy-manga.com
+DOMAIN-SUFFIX,copy20.com
+DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dmcdn.net

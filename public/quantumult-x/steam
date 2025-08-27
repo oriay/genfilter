@@ -14,6 +14,7 @@ host-suffix, steamusercontent.com, steam
 host-suffix, underlords.com, steam
 host-suffix, valvesoftware.com, steam
 host-suffix, edge.steam-dns.top.comcast.net, steam
+host, steamcommunity-a.akamaihd.net.edgesuite.net, steam
 host-suffix, steam.apac.qtlglb.com, steam
 host-suffix, steam.eca.qtlglb.com, steam
 host-suffix, steam.naeu.qtlglb.com, steam

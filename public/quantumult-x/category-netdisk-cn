@@ -1,3 +1,5 @@
+host-suffix, 123pan.cn, category-netdisk-cn
+host-suffix, 123pan.com, category-netdisk-cn
 host-suffix, cloud.189.cn, category-netdisk-cn
 host-suffix, ctfile.com, category-netdisk-cn
 host-suffix, feimaoyun.com, category-netdisk-cn
@@ -9,13 +11,6 @@ host-suffix, pan.xunlei.com, category-netdisk-cn
 host-suffix, weiyun.com, category-netdisk-cn
 host-suffix, yun.139.com, category-netdisk-cn
 host-suffix, yunpan.com, category-netdisk-cn
-host-suffix, 123pan.cn, category-netdisk-cn
-host-suffix, 123pan.com, category-netdisk-cn
-host-suffix, alicloudccp.com, category-netdisk-cn
-host-suffix, alipan.com, category-netdisk-cn
-host-suffix, aliyundrive.com, category-netdisk-cn
-host-suffix, aliyundrive.net, category-netdisk-cn
-host-suffix, yunpan.aliyun.com, category-netdisk-cn
 host-suffix, 115.com, category-netdisk-cn
 host-suffix, 115cdn.com, category-netdisk-cn
 host-suffix, 115cdn.net, category-netdisk-cn
@@ -30,6 +25,12 @@ host-suffix, 116cd.com, category-netdisk-cn
 host-suffix, 116cd.net, category-netdisk-cn
 host-suffix, anxia.com, category-netdisk-cn
 host-suffix, sq.cc, category-netdisk-cn
+host-suffix, alicloudccp.com, category-netdisk-cn
+host-suffix, alipan.com, category-netdisk-cn
+host-suffix, aliyundrive.cloud, category-netdisk-cn
+host-suffix, aliyundrive.com, category-netdisk-cn
+host-suffix, aliyundrive.net, category-netdisk-cn
+host-suffix, yunpan.aliyun.com, category-netdisk-cn
 host-suffix, baidupan.com, category-netdisk-cn
 host-suffix, ilanzou.com, category-netdisk-cn
 host-suffix, lanosso.com, category-netdisk-cn

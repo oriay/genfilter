@@ -384,6 +384,11 @@ DOMAIN-SUFFIX,m9.run
 DOMAIN-SUFFIX,ma.run
 DOMAIN-SUFFIX,um.run
 DOMAIN-SUFFIX,ym.run
+DOMAIN-SUFFIX,aegis.qq.com
+DOMAIN-SUFFIX,tamaegis.com
+DOMAIN-SUFFIX,rumt-zh.com
+DOMAIN-SUFFIX,rumt-sg.com
+DOMAIN-SUFFIX,rumt-us.com
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,discuz.net
 DOMAIN-SUFFIX,discuz.org
@@ -448,6 +453,9 @@ DOMAIN-SUFFIX,tjstats.com
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weui.io
+DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,coding.me
+DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com

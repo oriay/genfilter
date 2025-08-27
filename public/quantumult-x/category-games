@@ -724,6 +724,7 @@ host-suffix, steamusercontent.com, category-games
 host-suffix, underlords.com, category-games
 host-suffix, valvesoftware.com, category-games
 host-suffix, edge.steam-dns.top.comcast.net, category-games
+host, steamcommunity-a.akamaihd.net.edgesuite.net, category-games
 host-suffix, steam.apac.qtlglb.com, category-games
 host-suffix, steam.eca.qtlglb.com, category-games
 host-suffix, steam.naeu.qtlglb.com, category-games

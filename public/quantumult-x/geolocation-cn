@@ -2693,10 +2693,6 @@ host-suffix, biligame.net, geolocation-cn
 host-suffix, ciweimao.com, geolocation-cn
 host-suffix, hbooker.com, geolocation-cn
 host-suffix, kuangxiangit.com, geolocation-cn
-host-suffix, copy-manga.com, geolocation-cn
-host-suffix, mangacopy.com, geolocation-cn
-host-suffix, mangafuna.xyz, geolocation-cn
-host-suffix, mangafunb.fun, geolocation-cn
 host-suffix, biji.com, geolocation-cn
 host-suffix, ddmogo.com, geolocation-cn
 host-suffix, igetget.cn, geolocation-cn
@@ -3226,6 +3222,8 @@ host-suffix, xueqiu.com, geolocation-cn
 host-suffix, ynet.cn, geolocation-cn
 host-suffix, ynet.com, geolocation-cn
 host-suffix, ynet.com.cn, geolocation-cn
+host-suffix, 123pan.cn, geolocation-cn
+host-suffix, 123pan.com, geolocation-cn
 host-suffix, cloud.189.cn, geolocation-cn
 host-suffix, ctfile.com, geolocation-cn
 host-suffix, feimaoyun.com, geolocation-cn
@@ -3237,13 +3235,6 @@ host-suffix, pan.xunlei.com, geolocation-cn
 host-suffix, weiyun.com, geolocation-cn
 host-suffix, yun.139.com, geolocation-cn
 host-suffix, yunpan.com, geolocation-cn
-host-suffix, 123pan.cn, geolocation-cn
-host-suffix, 123pan.com, geolocation-cn
-host-suffix, alicloudccp.com, geolocation-cn
-host-suffix, alipan.com, geolocation-cn
-host-suffix, aliyundrive.com, geolocation-cn
-host-suffix, aliyundrive.net, geolocation-cn
-host-suffix, yunpan.aliyun.com, geolocation-cn
 host-suffix, 115.com, geolocation-cn
 host-suffix, 115cdn.com, geolocation-cn
 host-suffix, 115cdn.net, geolocation-cn
@@ -3258,6 +3249,12 @@ host-suffix, 116cd.com, geolocation-cn
 host-suffix, 116cd.net, geolocation-cn
 host-suffix, anxia.com, geolocation-cn
 host-suffix, sq.cc, geolocation-cn
+host-suffix, alicloudccp.com, geolocation-cn
+host-suffix, alipan.com, geolocation-cn
+host-suffix, aliyundrive.cloud, geolocation-cn
+host-suffix, aliyundrive.com, geolocation-cn
+host-suffix, aliyundrive.net, geolocation-cn
+host-suffix, yunpan.aliyun.com, geolocation-cn
 host-suffix, baidupan.com, geolocation-cn
 host-suffix, ilanzou.com, geolocation-cn
 host-suffix, lanosso.com, geolocation-cn
@@ -3747,8 +3744,6 @@ host-suffix, cnweblog.com, geolocation-cn
 host-suffix, cppblog.com, geolocation-cn
 host-suffix, phpweblog.net, geolocation-cn
 host-suffix, teachblog.net, geolocation-cn
-host-suffix, coding.me, geolocation-cn
-host-suffix, coding.net, geolocation-cn
 host-suffix, codechina.net, geolocation-cn
 host-suffix, csdn.com, geolocation-cn
 host-suffix, csdn.net, geolocation-cn
@@ -3844,6 +3839,9 @@ host-suffix, tjstats.com, geolocation-cn
 host-suffix, wegamedeveloper.com, geolocation-cn
 host-suffix, weixinbridge.com, geolocation-cn
 host-suffix, weui.io, geolocation-cn
+host-suffix, cnb.cool, geolocation-cn
+host-suffix, coding.me, geolocation-cn
+host-suffix, coding.net, geolocation-cn
 host-suffix, tipdim.org, geolocation-cn
 host-suffix, openkylin.top, geolocation-cn
 host-suffix, ubuntukylin.com, geolocation-cn
@@ -3953,10 +3951,6 @@ host-suffix, aliexpress.ru, geolocation-cn
 host-suffix, alipayplus.com, geolocation-cn
 host-suffix, alipay.hk, geolocation-cn
 host-suffix, alipaymo.com, geolocation-cn
-host-suffix, alicloudccp.com, geolocation-cn
-host-suffix, alipan.com, geolocation-cn
-host-suffix, aliyundrive.com, geolocation-cn
-host-suffix, aliyundrive.net, geolocation-cn
 host-suffix, freshhema.com, geolocation-cn
 host-suffix, freshippo.com, geolocation-cn
 host-suffix, hemamax.com, geolocation-cn
@@ -4172,6 +4166,12 @@ host-suffix, oss-eu-west-1.aliyuncs.com, geolocation-cn
 host-suffix, oss-me-east-1.aliyuncs.com, geolocation-cn
 host-suffix, oss-us-east-1.aliyuncs.com, geolocation-cn
 host-suffix, oss-us-west-1.aliyuncs.com, geolocation-cn
+host-suffix, alicloudccp.com, geolocation-cn
+host-suffix, alipan.com, geolocation-cn
+host-suffix, aliyundrive.cloud, geolocation-cn
+host-suffix, aliyundrive.com, geolocation-cn
+host-suffix, aliyundrive.net, geolocation-cn
+host-suffix, yunpan.aliyun.com, geolocation-cn
 host-suffix, cainiao-inc.com, geolocation-cn
 host-suffix, cainiao.com, geolocation-cn
 host-suffix, cainiao.com.cn, geolocation-cn
@@ -4575,6 +4575,7 @@ host-suffix, bytegqpo.net, geolocation-cn
 host-suffix, bytegrowth.com, geolocation-cn
 host-suffix, byte-gslb.com, geolocation-cn
 host-suffix, bytegslb.com, geolocation-cn
+host-suffix, byteglb.com, geolocation-cn
 host-suffix, bytehwm.com, geolocation-cn
 host-suffix, byteics.com, geolocation-cn
 host-suffix, byteics.net, geolocation-cn
@@ -4591,6 +4592,7 @@ host-suffix, bytenewst.com, geolocation-cn
 host-suffix, byteorg.com, geolocation-cn
 host-suffix, byteorge.com, geolocation-cn
 host-suffix, byteoversea.com, geolocation-cn
+host-suffix, byteoversea.net, geolocation-cn
 host-suffix, byteq5k.com, geolocation-cn
 host-suffix, byteq8u.net, geolocation-cn
 host-suffix, bytescm.com, geolocation-cn
@@ -4781,6 +4783,7 @@ host-suffix, zjbyte.net, geolocation-cn
 host-suffix, zjcdn.com, geolocation-cn
 host-suffix, zjfcdn.com, geolocation-cn
 host-suffix, zjgslb.com, geolocation-cn
+host, bytedance.map.fastly.net, geolocation-cn
 host-suffix, toutiao.com, geolocation-cn
 host-suffix, toutiaoapi.com, geolocation-cn
 host-suffix, toutiaocdn.com, geolocation-cn
@@ -5132,6 +5135,7 @@ host-suffix, volcfake.com, geolocation-cn
 host-suffix, volcfcdnbyte.com, geolocation-cn
 host-suffix, volcfcdn.com, geolocation-cn
 host-suffix, volcfcdndvs.com, geolocation-cn
+host-suffix, volcfcdndvs1.com, geolocation-cn
 host-suffix, volcfcdnplus.com, geolocation-cn
 host-suffix, volcfcdnrd.com, geolocation-cn
 host-suffix, volcfcdnsc.com, geolocation-cn
@@ -6379,6 +6383,11 @@ host-suffix, m9.run, geolocation-cn
 host-suffix, ma.run, geolocation-cn
 host-suffix, um.run, geolocation-cn
 host-suffix, ym.run, geolocation-cn
+host-suffix, aegis.qq.com, geolocation-cn
+host-suffix, tamaegis.com, geolocation-cn
+host-suffix, rumt-zh.com, geolocation-cn
+host-suffix, rumt-sg.com, geolocation-cn
+host-suffix, rumt-us.com, geolocation-cn
 host-suffix, comsenz.com, geolocation-cn
 host-suffix, discuz.net, geolocation-cn
 host-suffix, discuz.org, geolocation-cn
@@ -6443,6 +6452,9 @@ host-suffix, tjstats.com, geolocation-cn
 host-suffix, wegamedeveloper.com, geolocation-cn
 host-suffix, weixinbridge.com, geolocation-cn
 host-suffix, weui.io, geolocation-cn
+host-suffix, cnb.cool, geolocation-cn
+host-suffix, coding.me, geolocation-cn
+host-suffix, coding.net, geolocation-cn
 host-suffix, battlecare.net, geolocation-cn
 host-suffix, gameitop.com, geolocation-cn
 host-suffix, gameloop.com, geolocation-cn

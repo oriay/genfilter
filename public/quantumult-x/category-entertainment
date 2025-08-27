@@ -553,6 +553,7 @@ host-suffix, steamusercontent.com, category-entertainment
 host-suffix, underlords.com, category-entertainment
 host-suffix, valvesoftware.com, category-entertainment
 host-suffix, edge.steam-dns.top.comcast.net, category-entertainment
+host, steamcommunity-a.akamaihd.net.edgesuite.net, category-entertainment
 host-suffix, steam.apac.qtlglb.com, category-entertainment
 host-suffix, steam.eca.qtlglb.com, category-entertainment
 host-suffix, steam.naeu.qtlglb.com, category-entertainment
@@ -747,6 +748,13 @@ host-suffix, boomerang.com, category-entertainment
 host-suffix, wbdnbo.net, category-entertainment
 host-suffix, catchplay.com, category-entertainment
 host-suffix, tra-ww000-cp.akamaized.net, category-entertainment
+host-suffix, 2025copy.com, category-entertainment
+host-suffix, copy-manga.com, category-entertainment
+host-suffix, copy20.com, category-entertainment
+host-suffix, copy2000.online, category-entertainment
+host-suffix, mangacopy.com, category-entertainment
+host-suffix, mangafuna.xyz, category-entertainment
+host-suffix, mangafunb.fun, category-entertainment
 host-suffix, dailymotion.com, category-entertainment
 host-suffix, dm-event.net, category-entertainment
 host-suffix, dmcdn.net, category-entertainment

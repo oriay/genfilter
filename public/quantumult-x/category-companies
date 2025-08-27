@@ -406,12 +406,15 @@ host-suffix, amazonaws.info, category-companies
 host-suffix, amazonaws.net, category-companies
 host-suffix, amazonaws.org, category-companies
 host-suffix, amazonaws.tv, category-companies
+host-suffix, amazoncognito.com, category-companies
 host-suffix, amazonses.com, category-companies
 host-suffix, amazonworkdocs.com, category-companies
 host-suffix, amplifyapp.com, category-companies
 host-suffix, amplifyframework.com, category-companies
 host-suffix, aws-iot-hackathon.com, category-companies
 host-suffix, aws.com, category-companies
+host-suffix, awsapprunner.com, category-companies
+host-suffix, awsapps.com, category-companies
 host-suffix, awsautopilot.com, category-companies
 host-suffix, awsautoscaling.com, category-companies
 host-suffix, awsbraket.com, category-companies
@@ -4483,6 +4486,8 @@ host-suffix, notebooklm.google, category-companies
 host-suffix, notebooklm.google.com, category-companies
 host-suffix, jules.google, category-companies
 host-suffix, jules.google.com, category-companies
+host-suffix, labs.google, category-companies
+host-suffix, aisandbox-pa.googleapis.com, category-companies
 host-suffix, deepmind.com, category-companies
 host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
@@ -4502,6 +4507,8 @@ host-suffix, notebooklm.google, category-companies
 host-suffix, notebooklm.google.com, category-companies
 host-suffix, jules.google, category-companies
 host-suffix, jules.google.com, category-companies
+host-suffix, labs.google, category-companies
+host-suffix, aisandbox-pa.googleapis.com, category-companies
 host-suffix, googleplay.com, category-companies
 host-suffix, play-fe.googleapis.com, category-companies
 host-suffix, play-games.googleusercontent.com, category-companies
@@ -6032,7 +6039,6 @@ host-suffix, dcg.microsoft.com, category-companies
 host-suffix, docs.com, category-companies
 host-suffix, dynamics.cn, category-companies
 host-suffix, dynamics.com, category-companies
-host-suffix, edgesuite.net, category-companies
 host-suffix, efproject.net, category-companies
 host-suffix, engkoo.com, category-companies
 host-suffix, fasttrackreadysupport.com, category-companies
@@ -6947,6 +6953,7 @@ host, dfp6rglgjqszk.cloudfront.net, category-companies
 host, d1k2us671qcoau.cloudfront.net, category-companies
 host, d2anahhhmp1ffz.cloudfront.net, category-companies
 host-suffix, perplexity.ai, category-companies
+host-suffix, perplexity.com, category-companies
 host-suffix, pplx.ai, category-companies
 host, pplx-res.cloudinary.com, category-companies
 host-suffix, myqnapcloud.com, category-companies

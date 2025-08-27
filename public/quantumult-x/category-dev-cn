@@ -15,8 +15,6 @@ host-suffix, cnweblog.com, category-dev-cn
 host-suffix, cppblog.com, category-dev-cn
 host-suffix, phpweblog.net, category-dev-cn
 host-suffix, teachblog.net, category-dev-cn
-host-suffix, coding.me, category-dev-cn
-host-suffix, coding.net, category-dev-cn
 host-suffix, codechina.net, category-dev-cn
 host-suffix, csdn.com, category-dev-cn
 host-suffix, csdn.net, category-dev-cn
@@ -112,6 +110,9 @@ host-suffix, tjstats.com, category-dev-cn
 host-suffix, wegamedeveloper.com, category-dev-cn
 host-suffix, weixinbridge.com, category-dev-cn
 host-suffix, weui.io, category-dev-cn
+host-suffix, cnb.cool, category-dev-cn
+host-suffix, coding.me, category-dev-cn
+host-suffix, coding.net, category-dev-cn
 host-suffix, tipdim.org, category-dev-cn
 host-suffix, openkylin.top, category-dev-cn
 host-suffix, ubuntukylin.com, category-dev-cn

@@ -48,6 +48,8 @@ host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
+host-suffix, labs.google, geolocation-!cn
+host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
 host-suffix, hf.co, geolocation-!cn
 host-suffix, huggingface.co, geolocation-!cn
@@ -69,6 +71,7 @@ host-suffix, chatgpt.livekit.cloud, geolocation-!cn
 host-suffix, host.livekit.cloud, geolocation-!cn
 host-suffix, turn.livekit.cloud, geolocation-!cn
 host-suffix, perplexity.ai, geolocation-!cn
+host-suffix, perplexity.com, geolocation-!cn
 host-suffix, pplx.ai, geolocation-!cn
 host, pplx-res.cloudinary.com, geolocation-!cn
 host-suffix, poe.com, geolocation-!cn
@@ -1584,11 +1587,13 @@ host-suffix, ifastnetwork.com, geolocation-!cn
 host-suffix, ifastps.com.cn, geolocation-!cn
 host-suffix, ifasttv.com, geolocation-!cn
 host-suffix, longbridge.cloud, geolocation-!cn
+host-suffix, longbridge.com, geolocation-!cn
 host-suffix, longbridge.global, geolocation-!cn
 host-suffix, longbridge.hk, geolocation-!cn
 host-suffix, longbridge.sg, geolocation-!cn
 host-suffix, longbridgeapp.com, geolocation-!cn
 host-suffix, longportapp.com, geolocation-!cn
+host-suffix, lbctrl.com, geolocation-!cn
 host-suffix, lbkrs.com, geolocation-!cn
 host-suffix, wbrks.com, geolocation-!cn
 host-suffix, n26.com, geolocation-!cn
@@ -3042,9 +3047,11 @@ host-suffix, binancezh.sh, geolocation-!cn
 host-suffix, binancezh.top, geolocation-!cn
 host-suffix, binanceapi.com, geolocation-!cn
 host-suffix, bnbstatic.com, geolocation-!cn
+host-suffix, appsflayer.com, geolocation-!cn
+host-suffix, saasexch.cc, geolocation-!cn
+host-suffix, saasexch.co, geolocation-!cn
 host-suffix, saasexch.com, geolocation-!cn
 host-suffix, saasexch.io, geolocation-!cn
-host-suffix, appsflayer.com, geolocation-!cn
 host-suffix, bitflyer.com, geolocation-!cn
 host-suffix, bitflyer.jp, geolocation-!cn
 host-suffix, bisq.io, geolocation-!cn
@@ -10774,6 +10781,7 @@ host-suffix, steamusercontent.com, geolocation-!cn
 host-suffix, underlords.com, geolocation-!cn
 host-suffix, valvesoftware.com, geolocation-!cn
 host-suffix, edge.steam-dns.top.comcast.net, geolocation-!cn
+host, steamcommunity-a.akamaihd.net.edgesuite.net, geolocation-!cn
 host-suffix, steam.apac.qtlglb.com, geolocation-!cn
 host-suffix, steam.eca.qtlglb.com, geolocation-!cn
 host-suffix, steam.naeu.qtlglb.com, geolocation-!cn
@@ -10968,6 +10976,13 @@ host-suffix, boomerang.com, geolocation-!cn
 host-suffix, wbdnbo.net, geolocation-!cn
 host-suffix, catchplay.com, geolocation-!cn
 host-suffix, tra-ww000-cp.akamaized.net, geolocation-!cn
+host-suffix, 2025copy.com, geolocation-!cn
+host-suffix, copy-manga.com, geolocation-!cn
+host-suffix, copy20.com, geolocation-!cn
+host-suffix, copy2000.online, geolocation-!cn
+host-suffix, mangacopy.com, geolocation-!cn
+host-suffix, mangafuna.xyz, geolocation-!cn
+host-suffix, mangafunb.fun, geolocation-!cn
 host-suffix, dailymotion.com, geolocation-!cn
 host-suffix, dm-event.net, geolocation-!cn
 host-suffix, dmcdn.net, geolocation-!cn
@@ -19994,6 +20009,9 @@ host-suffix, chatwhores.tv, geolocation-!cn
 host-suffix, c4slive.com, geolocation-!cn
 host-suffix, clips4sale.com, geolocation-!cn
 host-suffix, videos4sale.com, geolocation-!cn
+host-suffix, coomer.party, geolocation-!cn
+host-suffix, coomer.st, geolocation-!cn
+host-suffix, coomer.su, geolocation-!cn
 host-suffix, cuinc.oen.tw, geolocation-!cn
 host-suffix, cuinc.tw, geolocation-!cn
 host-suffix, chobit.cc, geolocation-!cn
@@ -20101,6 +20119,10 @@ host-suffix, zzycdz.com, geolocation-!cn
 host-suffix, cdnlab.live, geolocation-!cn
 host-suffix, jable.tv, geolocation-!cn
 host-suffix, mushroomtrack.com, geolocation-!cn
+host-suffix, x18r.co, geolocation-!cn
+host-suffix, x18r.com, geolocation-!cn
+host-suffix, z18r.co, geolocation-!cn
+host-suffix, z18r.com, geolocation-!cn
 host-suffix, javbus.com, geolocation-!cn
 host-suffix, javbus22.com, geolocation-!cn
 host-suffix, javcdn.cc, geolocation-!cn
@@ -20109,10 +20131,6 @@ host-suffix, javcc.com, geolocation-!cn
 host-suffix, javdb.com, geolocation-!cn
 host-suffix, jdbimgs.com, geolocation-!cn
 host-suffix, jdbstatic.com, geolocation-!cn
-host-suffix, x18r.co, geolocation-!cn
-host-suffix, x18r.com, geolocation-!cn
-host-suffix, z18r.co, geolocation-!cn
-host-suffix, z18r.com, geolocation-!cn
 host-suffix, javwide.com, geolocation-!cn
 host-suffix, javwide.tv, geolocation-!cn
 host-suffix, jkf.net, geolocation-!cn
@@ -20125,8 +20143,6 @@ host-suffix, johren.net, geolocation-!cn
 host-suffix, hkporn.net, geolocation-!cn
 host-suffix, justav.net, geolocation-!cn
 host-suffix, twporn.net, geolocation-!cn
-host-suffix, cooer.su, geolocation-!cn
-host-suffix, coomer.party, geolocation-!cn
 host-suffix, kemono.cr, geolocation-!cn
 host-suffix, kemono.party, geolocation-!cn
 host-suffix, kemono.su, geolocation-!cn
@@ -20598,6 +20614,7 @@ host-suffix, hostborneo.org, geolocation-!cn
 host-suffix, easy-jtag.com, geolocation-!cn
 host-suffix, z3x-team.com, geolocation-!cn
 host, time.apple.com, geolocation-!cn
+host, time.asia.apple.com, geolocation-!cn
 host, time.euro.apple.com, geolocation-!cn
 host, time.aws.com, geolocation-!cn
 host, time.cloudflare.com, geolocation-!cn
@@ -22030,12 +22047,15 @@ host-suffix, amazonaws.info, geolocation-!cn
 host-suffix, amazonaws.net, geolocation-!cn
 host-suffix, amazonaws.org, geolocation-!cn
 host-suffix, amazonaws.tv, geolocation-!cn
+host-suffix, amazoncognito.com, geolocation-!cn
 host-suffix, amazonses.com, geolocation-!cn
 host-suffix, amazonworkdocs.com, geolocation-!cn
 host-suffix, amplifyapp.com, geolocation-!cn
 host-suffix, amplifyframework.com, geolocation-!cn
 host-suffix, aws-iot-hackathon.com, geolocation-!cn
 host-suffix, aws.com, geolocation-!cn
+host-suffix, awsapprunner.com, geolocation-!cn
+host-suffix, awsapps.com, geolocation-!cn
 host-suffix, awsautopilot.com, geolocation-!cn
 host-suffix, awsautoscaling.com, geolocation-!cn
 host-suffix, awsbraket.com, geolocation-!cn
@@ -26107,6 +26127,8 @@ host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
+host-suffix, labs.google, geolocation-!cn
+host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
@@ -26126,6 +26148,8 @@ host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
+host-suffix, labs.google, geolocation-!cn
+host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, googleplay.com, geolocation-!cn
 host-suffix, play-fe.googleapis.com, geolocation-!cn
 host-suffix, play-games.googleusercontent.com, geolocation-!cn
@@ -27656,7 +27680,6 @@ host-suffix, dcg.microsoft.com, geolocation-!cn
 host-suffix, docs.com, geolocation-!cn
 host-suffix, dynamics.cn, geolocation-!cn
 host-suffix, dynamics.com, geolocation-!cn
-host-suffix, edgesuite.net, geolocation-!cn
 host-suffix, efproject.net, geolocation-!cn
 host-suffix, engkoo.com, geolocation-!cn
 host-suffix, fasttrackreadysupport.com, geolocation-!cn
@@ -28571,6 +28594,7 @@ host, dfp6rglgjqszk.cloudfront.net, geolocation-!cn
 host, d1k2us671qcoau.cloudfront.net, geolocation-!cn
 host, d2anahhhmp1ffz.cloudfront.net, geolocation-!cn
 host-suffix, perplexity.ai, geolocation-!cn
+host-suffix, perplexity.com, geolocation-!cn
 host-suffix, pplx.ai, geolocation-!cn
 host, pplx-res.cloudinary.com, geolocation-!cn
 host-suffix, myqnapcloud.com, geolocation-!cn

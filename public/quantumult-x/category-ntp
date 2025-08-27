@@ -1,4 +1,5 @@
 host, time.apple.com, category-ntp
+host, time.asia.apple.com, category-ntp
 host, time.euro.apple.com, category-ntp
 host, time.aws.com, category-ntp
 host, time.cloudflare.com, category-ntp

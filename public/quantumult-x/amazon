@@ -114,12 +114,15 @@ host-suffix, amazonaws.info, amazon
 host-suffix, amazonaws.net, amazon
 host-suffix, amazonaws.org, amazon
 host-suffix, amazonaws.tv, amazon
+host-suffix, amazoncognito.com, amazon
 host-suffix, amazonses.com, amazon
 host-suffix, amazonworkdocs.com, amazon
 host-suffix, amplifyapp.com, amazon
 host-suffix, amplifyframework.com, amazon
 host-suffix, aws-iot-hackathon.com, amazon
 host-suffix, aws.com, amazon
+host-suffix, awsapprunner.com, amazon
+host-suffix, awsapps.com, amazon
 host-suffix, awsautopilot.com, amazon
 host-suffix, awsautoscaling.com, amazon
 host-suffix, awsbraket.com, amazon

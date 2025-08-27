@@ -317,6 +317,11 @@ host-suffix, m9.run, qcloud
 host-suffix, ma.run, qcloud
 host-suffix, um.run, qcloud
 host-suffix, ym.run, qcloud
+host-suffix, aegis.qq.com, qcloud
+host-suffix, tamaegis.com, qcloud
+host-suffix, rumt-zh.com, qcloud
+host-suffix, rumt-sg.com, qcloud
+host-suffix, rumt-us.com, qcloud
 host-suffix, comsenz.com, qcloud
 host-suffix, discuz.net, qcloud
 host-suffix, discuz.org, qcloud

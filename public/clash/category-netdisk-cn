@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,cloud.189.cn
 DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,feimaoyun.com
@@ -9,13 +11,6 @@ DOMAIN-SUFFIX,pan.xunlei.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,yun.139.com
 DOMAIN-SUFFIX,yunpan.com
-DOMAIN-SUFFIX,123pan.cn
-DOMAIN-SUFFIX,123pan.com
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,alipan.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,yunpan.aliyun.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
@@ -30,6 +25,12 @@ DOMAIN-SUFFIX,116cd.com
 DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,yunpan.aliyun.com
 DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,ilanzou.com
 DOMAIN-SUFFIX,lanosso.com

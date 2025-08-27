@@ -109,6 +109,7 @@ host-suffix, bytegqpo.net, bytedance
 host-suffix, bytegrowth.com, bytedance
 host-suffix, byte-gslb.com, bytedance
 host-suffix, bytegslb.com, bytedance
+host-suffix, byteglb.com, bytedance
 host-suffix, bytehwm.com, bytedance
 host-suffix, byteics.com, bytedance
 host-suffix, byteics.net, bytedance
@@ -125,6 +126,7 @@ host-suffix, bytenewst.com, bytedance
 host-suffix, byteorg.com, bytedance
 host-suffix, byteorge.com, bytedance
 host-suffix, byteoversea.com, bytedance
+host-suffix, byteoversea.net, bytedance
 host-suffix, byteq5k.com, bytedance
 host-suffix, byteq8u.net, bytedance
 host-suffix, bytescm.com, bytedance
@@ -315,6 +317,7 @@ host-suffix, zjbyte.net, bytedance
 host-suffix, zjcdn.com, bytedance
 host-suffix, zjfcdn.com, bytedance
 host-suffix, zjgslb.com, bytedance
+host, bytedance.map.fastly.net, bytedance
 host-suffix, toutiao.com, bytedance
 host-suffix, toutiaoapi.com, bytedance
 host-suffix, toutiaocdn.com, bytedance
@@ -666,6 +669,7 @@ host-suffix, volcfake.com, bytedance
 host-suffix, volcfcdnbyte.com, bytedance
 host-suffix, volcfcdn.com, bytedance
 host-suffix, volcfcdndvs.com, bytedance
+host-suffix, volcfcdndvs1.com, bytedance
 host-suffix, volcfcdnplus.com, bytedance
 host-suffix, volcfcdnrd.com, bytedance
 host-suffix, volcfcdnsc.com, bytedance

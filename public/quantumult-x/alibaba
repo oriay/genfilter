@@ -103,10 +103,6 @@ host-suffix, aliexpress.ru, alibaba
 host-suffix, alipayplus.com, alibaba
 host-suffix, alipay.hk, alibaba
 host-suffix, alipaymo.com, alibaba
-host-suffix, alicloudccp.com, alibaba
-host-suffix, alipan.com, alibaba
-host-suffix, aliyundrive.com, alibaba
-host-suffix, aliyundrive.net, alibaba
 host-suffix, freshhema.com, alibaba
 host-suffix, freshippo.com, alibaba
 host-suffix, hemamax.com, alibaba
@@ -322,6 +318,12 @@ host-suffix, oss-eu-west-1.aliyuncs.com, alibaba
 host-suffix, oss-me-east-1.aliyuncs.com, alibaba
 host-suffix, oss-us-east-1.aliyuncs.com, alibaba
 host-suffix, oss-us-west-1.aliyuncs.com, alibaba
+host-suffix, alicloudccp.com, alibaba
+host-suffix, alipan.com, alibaba
+host-suffix, aliyundrive.cloud, alibaba
+host-suffix, aliyundrive.com, alibaba
+host-suffix, aliyundrive.net, alibaba
+host-suffix, yunpan.aliyun.com, alibaba
 host-suffix, cainiao-inc.com, alibaba
 host-suffix, cainiao.com, alibaba
 host-suffix, cainiao.com.cn, alibaba

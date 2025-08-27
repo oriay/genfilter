@@ -384,6 +384,11 @@ host-suffix, m9.run, tencent
 host-suffix, ma.run, tencent
 host-suffix, um.run, tencent
 host-suffix, ym.run, tencent
+host-suffix, aegis.qq.com, tencent
+host-suffix, tamaegis.com, tencent
+host-suffix, rumt-zh.com, tencent
+host-suffix, rumt-sg.com, tencent
+host-suffix, rumt-us.com, tencent
 host-suffix, comsenz.com, tencent
 host-suffix, discuz.net, tencent
 host-suffix, discuz.org, tencent
@@ -448,6 +453,9 @@ host-suffix, tjstats.com, tencent
 host-suffix, wegamedeveloper.com, tencent
 host-suffix, weixinbridge.com, tencent
 host-suffix, weui.io, tencent
+host-suffix, cnb.cool, tencent
+host-suffix, coding.me, tencent
+host-suffix, coding.net, tencent
 host-suffix, battlecare.net, tencent
 host-suffix, gameitop.com, tencent
 host-suffix, gameloop.com, tencent
