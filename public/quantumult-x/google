@@ -790,6 +790,7 @@ host-suffix, deepmind.google, google
 host-suffix, geller-pa.googleapis.com, google
 host-suffix, generativelanguage.googleapis.com, google
 host-suffix, proactivebackend-pa.googleapis.com, google
+host-suffix, robinfrontend-pa.googleapis.com, google
 host, ai.google.dev, google
 host, alkalicore-pa.clients6.google.com, google
 host, alkalimakersuite-pa.clients6.google.com, google
@@ -811,6 +812,7 @@ host-suffix, deepmind.google, google
 host-suffix, geller-pa.googleapis.com, google
 host-suffix, generativelanguage.googleapis.com, google
 host-suffix, proactivebackend-pa.googleapis.com, google
+host-suffix, robinfrontend-pa.googleapis.com, google
 host, ai.google.dev, google
 host, alkalicore-pa.clients6.google.com, google
 host, alkalimakersuite-pa.clients6.google.com, google

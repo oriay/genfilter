@@ -23,6 +23,7 @@ host-suffix, deepmind.google, category-ai-!cn
 host-suffix, geller-pa.googleapis.com, category-ai-!cn
 host-suffix, generativelanguage.googleapis.com, category-ai-!cn
 host-suffix, proactivebackend-pa.googleapis.com, category-ai-!cn
+host-suffix, robinfrontend-pa.googleapis.com, category-ai-!cn
 host, ai.google.dev, category-ai-!cn
 host, alkalicore-pa.clients6.google.com, category-ai-!cn
 host, alkalimakersuite-pa.clients6.google.com, category-ai-!cn

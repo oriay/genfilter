@@ -3,6 +3,7 @@ host-suffix, deepmind.google, google-gemini
 host-suffix, geller-pa.googleapis.com, google-gemini
 host-suffix, generativelanguage.googleapis.com, google-gemini
 host-suffix, proactivebackend-pa.googleapis.com, google-gemini
+host-suffix, robinfrontend-pa.googleapis.com, google-gemini
 host, ai.google.dev, google-gemini
 host, alkalicore-pa.clients6.google.com, google-gemini
 host, alkalimakersuite-pa.clients6.google.com, google-gemini

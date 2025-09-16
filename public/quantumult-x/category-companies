@@ -4472,6 +4472,7 @@ host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
 host-suffix, generativelanguage.googleapis.com, category-companies
 host-suffix, proactivebackend-pa.googleapis.com, category-companies
+host-suffix, robinfrontend-pa.googleapis.com, category-companies
 host, ai.google.dev, category-companies
 host, alkalicore-pa.clients6.google.com, category-companies
 host, alkalimakersuite-pa.clients6.google.com, category-companies
@@ -4493,6 +4494,7 @@ host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
 host-suffix, generativelanguage.googleapis.com, category-companies
 host-suffix, proactivebackend-pa.googleapis.com, category-companies
+host-suffix, robinfrontend-pa.googleapis.com, category-companies
 host, ai.google.dev, category-companies
 host, alkalicore-pa.clients6.google.com, category-companies
 host, alkalimakersuite-pa.clients6.google.com, category-companies

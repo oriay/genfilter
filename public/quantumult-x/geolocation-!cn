@@ -34,6 +34,7 @@ host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
 host-suffix, generativelanguage.googleapis.com, geolocation-!cn
 host-suffix, proactivebackend-pa.googleapis.com, geolocation-!cn
+host-suffix, robinfrontend-pa.googleapis.com, geolocation-!cn
 host, ai.google.dev, geolocation-!cn
 host, alkalicore-pa.clients6.google.com, geolocation-!cn
 host, alkalimakersuite-pa.clients6.google.com, geolocation-!cn
@@ -26113,6 +26114,7 @@ host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
 host-suffix, generativelanguage.googleapis.com, geolocation-!cn
 host-suffix, proactivebackend-pa.googleapis.com, geolocation-!cn
+host-suffix, robinfrontend-pa.googleapis.com, geolocation-!cn
 host, ai.google.dev, geolocation-!cn
 host, alkalicore-pa.clients6.google.com, geolocation-!cn
 host, alkalimakersuite-pa.clients6.google.com, geolocation-!cn
@@ -26134,6 +26136,7 @@ host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
 host-suffix, generativelanguage.googleapis.com, geolocation-!cn
 host-suffix, proactivebackend-pa.googleapis.com, geolocation-!cn
+host-suffix, robinfrontend-pa.googleapis.com, geolocation-!cn
 host, ai.google.dev, geolocation-!cn
 host, alkalicore-pa.clients6.google.com, geolocation-!cn
 host, alkalimakersuite-pa.clients6.google.com, geolocation-!cn
