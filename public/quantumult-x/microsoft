@@ -532,10 +532,12 @@ host-suffix, githubstatus.com, microsoft
 host-suffix, githubuniverse.com, microsoft
 host-suffix, githubusercontent.com, microsoft
 host-suffix, myoctocat.com, microsoft
+host-suffix, octocaptcha.com, microsoft
 host-suffix, opensource.guide, microsoft
 host-suffix, repo.new, microsoft
 host-suffix, thegithubshop.com, microsoft
 host-suffix, blob.core.windows.net, microsoft
+host, github-api.arkoselabs.com, microsoft
 host, github-cloud.s3.amazonaws.com, microsoft
 host-suffix, npm.community, microsoft
 host-suffix, npmjs.com, microsoft

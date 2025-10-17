@@ -12,7 +12,9 @@ host-suffix, openart.ai, category-ai-!cn
 host-suffix, openrouter.ai, category-ai-!cn
 host-suffix, anthropic.com, category-ai-!cn
 host-suffix, claude.ai, category-ai-!cn
+host-suffix, claude.com, category-ai-!cn
 host-suffix, claudeusercontent.com, category-ai-!cn
+host-suffix, claudemcpclient.com, category-ai-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-!cn
 host-suffix, cursor-cdn.com, category-ai-!cn
 host-suffix, cursor.com, category-ai-!cn

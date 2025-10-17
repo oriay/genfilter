@@ -19,10 +19,12 @@ host-suffix, githubstatus.com, github
 host-suffix, githubuniverse.com, github
 host-suffix, githubusercontent.com, github
 host-suffix, myoctocat.com, github
+host-suffix, octocaptcha.com, github
 host-suffix, opensource.guide, github
 host-suffix, repo.new, github
 host-suffix, thegithubshop.com, github
 host-suffix, blob.core.windows.net, github
+host, github-api.arkoselabs.com, github
 host, github-cloud.s3.amazonaws.com, github
 host-suffix, npm.community, github
 host-suffix, npmjs.com, github

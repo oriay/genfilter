@@ -516,7 +516,9 @@ host-suffix, radeon.com, category-companies
 host, www.amd.com, category-companies
 host-suffix, anthropic.com, category-companies
 host-suffix, claude.ai, category-companies
+host-suffix, claude.com, category-companies
 host-suffix, claudeusercontent.com, category-companies
+host-suffix, claudemcpclient.com, category-companies
 host, servd-anthropic-website.b-cdn.net, category-companies
 host-suffix, apple, category-companies
 host-suffix, apple.ae, category-companies
@@ -6501,10 +6503,12 @@ host-suffix, githubstatus.com, category-companies
 host-suffix, githubuniverse.com, category-companies
 host-suffix, githubusercontent.com, category-companies
 host-suffix, myoctocat.com, category-companies
+host-suffix, octocaptcha.com, category-companies
 host-suffix, opensource.guide, category-companies
 host-suffix, repo.new, category-companies
 host-suffix, thegithubshop.com, category-companies
 host-suffix, blob.core.windows.net, category-companies
+host, github-api.arkoselabs.com, category-companies
 host, github-cloud.s3.amazonaws.com, category-companies
 host-suffix, npm.community, category-companies
 host-suffix, npmjs.com, category-companies

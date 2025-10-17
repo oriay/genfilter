@@ -36,6 +36,7 @@ host, steamstore-a.akamaihd.net, steam
 host, steamusercontent-a.akamaihd.net, steam
 host, steamuserimages-a.akamaihd.net, steam
 host, steamvideo-a.akamaihd.net, steam
+host, steamcloudsweden.blob.core.windows.net, steam
 host-suffix, csgo.wmsj.cn, steam
 host-suffix, dota2.wmsj.cn, steam
 host-suffix, wmsjsteam.com, steam

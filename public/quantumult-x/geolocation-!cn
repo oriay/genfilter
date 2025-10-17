@@ -23,7 +23,9 @@ host-suffix, openart.ai, geolocation-!cn
 host-suffix, openrouter.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
+host-suffix, claude.com, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
+host-suffix, claudemcpclient.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
 host-suffix, cursor-cdn.com, geolocation-!cn
 host-suffix, cursor.com, geolocation-!cn
@@ -3048,6 +3050,8 @@ host-suffix, binancezh.sh, geolocation-!cn
 host-suffix, binancezh.top, geolocation-!cn
 host-suffix, binanceapi.com, geolocation-!cn
 host-suffix, bnbstatic.com, geolocation-!cn
+host-suffix, bntrace.com, geolocation-!cn
+host-suffix, nftstatic.com, geolocation-!cn
 host-suffix, appsflayer.com, geolocation-!cn
 host-suffix, saasexch.cc, geolocation-!cn
 host-suffix, saasexch.co, geolocation-!cn
@@ -10804,6 +10808,7 @@ host, steamstore-a.akamaihd.net, geolocation-!cn
 host, steamusercontent-a.akamaihd.net, geolocation-!cn
 host, steamuserimages-a.akamaihd.net, geolocation-!cn
 host, steamvideo-a.akamaihd.net, geolocation-!cn
+host, steamcloudsweden.blob.core.windows.net, geolocation-!cn
 host-suffix, csgo.wmsj.cn, geolocation-!cn
 host-suffix, dota2.wmsj.cn, geolocation-!cn
 host-suffix, wmsjsteam.com, geolocation-!cn
@@ -20129,6 +20134,7 @@ host-suffix, javbus22.com, geolocation-!cn
 host-suffix, javcdn.cc, geolocation-!cn
 host-suffix, javcc.cc, geolocation-!cn
 host-suffix, javcc.com, geolocation-!cn
+host-suffix, jav.app, geolocation-!cn
 host-suffix, javdb.com, geolocation-!cn
 host-suffix, jdbimgs.com, geolocation-!cn
 host-suffix, jdbstatic.com, geolocation-!cn
@@ -21391,10 +21397,12 @@ host-suffix, githubstatus.com, geolocation-!cn
 host-suffix, githubuniverse.com, geolocation-!cn
 host-suffix, githubusercontent.com, geolocation-!cn
 host-suffix, myoctocat.com, geolocation-!cn
+host-suffix, octocaptcha.com, geolocation-!cn
 host-suffix, opensource.guide, geolocation-!cn
 host-suffix, repo.new, geolocation-!cn
 host-suffix, thegithubshop.com, geolocation-!cn
 host-suffix, blob.core.windows.net, geolocation-!cn
+host, github-api.arkoselabs.com, geolocation-!cn
 host, github-cloud.s3.amazonaws.com, geolocation-!cn
 host-suffix, npm.community, geolocation-!cn
 host-suffix, npmjs.com, geolocation-!cn
@@ -22158,7 +22166,9 @@ host-suffix, radeon.com, geolocation-!cn
 host, www.amd.com, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
+host-suffix, claude.com, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
+host-suffix, claudemcpclient.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
 host-suffix, apple, geolocation-!cn
 host-suffix, apple.ae, geolocation-!cn
@@ -28143,10 +28153,12 @@ host-suffix, githubstatus.com, geolocation-!cn
 host-suffix, githubuniverse.com, geolocation-!cn
 host-suffix, githubusercontent.com, geolocation-!cn
 host-suffix, myoctocat.com, geolocation-!cn
+host-suffix, octocaptcha.com, geolocation-!cn
 host-suffix, opensource.guide, geolocation-!cn
 host-suffix, repo.new, geolocation-!cn
 host-suffix, thegithubshop.com, geolocation-!cn
 host-suffix, blob.core.windows.net, geolocation-!cn
+host, github-api.arkoselabs.com, geolocation-!cn
 host, github-cloud.s3.amazonaws.com, geolocation-!cn
 host-suffix, npm.community, geolocation-!cn
 host-suffix, npmjs.com, geolocation-!cn

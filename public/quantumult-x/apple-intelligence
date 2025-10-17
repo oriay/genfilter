@@ -1,3 +1,4 @@
-host, apple-relay.mask.apple-dns.net, apple-intelligence
 host, apple-relay.apple.com, apple-intelligence
 host, apple-relay.cloudflare.com, apple-intelligence
+host, apple-relay.fastly-edge.com, apple-intelligence
+host, apple-relay.mask.apple-dns.net, apple-intelligence

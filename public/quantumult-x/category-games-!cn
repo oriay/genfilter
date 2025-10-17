@@ -551,6 +551,7 @@ host, steamstore-a.akamaihd.net, category-games-!cn
 host, steamusercontent-a.akamaihd.net, category-games-!cn
 host, steamuserimages-a.akamaihd.net, category-games-!cn
 host, steamvideo-a.akamaihd.net, category-games-!cn
+host, steamcloudsweden.blob.core.windows.net, category-games-!cn
 host-suffix, csgo.wmsj.cn, category-games-!cn
 host-suffix, dota2.wmsj.cn, category-games-!cn
 host-suffix, wmsjsteam.com, category-games-!cn
