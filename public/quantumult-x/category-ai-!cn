@@ -16,6 +16,7 @@ host-suffix, claude.com, category-ai-!cn
 host-suffix, claudeusercontent.com, category-ai-!cn
 host-suffix, claudemcpclient.com, category-ai-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-!cn
+host-suffix, cerebras.ai, category-ai-!cn
 host-suffix, cursor-cdn.com, category-ai-!cn
 host-suffix, cursor.com, category-ai-!cn
 host-suffix, cursor.sh, category-ai-!cn

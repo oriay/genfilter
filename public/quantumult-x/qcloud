@@ -2,6 +2,8 @@ host-suffix, acctdns.com, qcloud
 host-suffix, acctdns.net, qcloud
 host-suffix, aitransfy.com, qcloud
 host-suffix, apaas-zone-test.com, qcloud
+host-suffix, apdcdn.com, qcloud
+host-suffix, apdcdn.net, qcloud
 host-suffix, apigwtencent.com, qcloud
 host-suffix, bkapigw.com, qcloud
 host-suffix, bkapps.com, qcloud
@@ -170,6 +172,7 @@ host-suffix, tidaas.com, qcloud
 host-suffix, timatrix.com.cn, qcloud
 host-suffix, timmerse.com, qcloud
 host-suffix, tlivecdn.com, qcloud
+host-suffix, tlivemcdn.com, qcloud
 host-suffix, tlivepush.com, qcloud
 host-suffix, tlivesource.com, qcloud
 host-suffix, tourismshow.cn, qcloud

@@ -4822,6 +4822,7 @@ host-suffix, youtubekids.com, category-companies
 host-suffix, youtubemobilesupport.com, category-companies
 host-suffix, yt.be, category-companies
 host-suffix, ytimg.com, category-companies
+host, yt3.googleusercontent.com, category-companies
 host-suffix, groq.com, category-companies
 host-suffix, first-ns.de, category-companies
 host-suffix, hetzner.cloud, category-companies

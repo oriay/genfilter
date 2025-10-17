@@ -16,6 +16,7 @@ host-suffix, claude.com, category-ai-chat-!cn
 host-suffix, claudeusercontent.com, category-ai-chat-!cn
 host-suffix, claudemcpclient.com, category-ai-chat-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-chat-!cn
+host-suffix, cerebras.ai, category-ai-chat-!cn
 host-suffix, cursor-cdn.com, category-ai-chat-!cn
 host-suffix, cursor.com, category-ai-chat-!cn
 host-suffix, cursor.sh, category-ai-chat-!cn

@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
@@ -11736,6 +11737,7 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,z5.app
 DOMAIN-SUFFIX,z5.com
 DOMAIN-SUFFIX,zee5.com
@@ -26472,6 +26474,7 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,hetzner.cloud

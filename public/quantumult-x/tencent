@@ -69,6 +69,8 @@ host-suffix, acctdns.com, tencent
 host-suffix, acctdns.net, tencent
 host-suffix, aitransfy.com, tencent
 host-suffix, apaas-zone-test.com, tencent
+host-suffix, apdcdn.com, tencent
+host-suffix, apdcdn.net, tencent
 host-suffix, apigwtencent.com, tencent
 host-suffix, bkapigw.com, tencent
 host-suffix, bkapps.com, tencent
@@ -237,6 +239,7 @@ host-suffix, tidaas.com, tencent
 host-suffix, timatrix.com.cn, tencent
 host-suffix, timmerse.com, tencent
 host-suffix, tlivecdn.com, tencent
+host-suffix, tlivemcdn.com, tencent
 host-suffix, tlivepush.com, tencent
 host-suffix, tlivesource.com, tencent
 host-suffix, tourismshow.cn, tencent
