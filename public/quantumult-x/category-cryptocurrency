@@ -29,6 +29,7 @@ host-suffix, dogecoin.com, category-cryptocurrency
 host-suffix, dydx.exchange, category-cryptocurrency
 host-suffix, fundingrates.xyz, category-cryptocurrency
 host-suffix, gemini.com, category-cryptocurrency
+host-suffix, guardarian.com, category-cryptocurrency
 host-suffix, hashflow.com, category-cryptocurrency
 host-suffix, infura.io, category-cryptocurrency
 host-suffix, invity.io, category-cryptocurrency
@@ -43,6 +44,7 @@ host-suffix, paxful.com, category-cryptocurrency
 host-suffix, polymarket.com, category-cryptocurrency
 host-suffix, ripple.com, category-cryptocurrency
 host-suffix, satoshilabs.com, category-cryptocurrency
+host-suffix, stealthex.io, category-cryptocurrency
 host-suffix, theblock.co, category-cryptocurrency
 host-suffix, trezor.io, category-cryptocurrency
 host-suffix, truefi.io, category-cryptocurrency

@@ -151,6 +151,13 @@ DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,kaolacdn.com
+DOMAIN-SUFFIX,lydaas.cn
+DOMAIN-SUFFIX,lydaas.com
+DOMAIN-SUFFIX,lydaas.com.cn
+DOMAIN-SUFFIX,lydaas.net
+DOMAIN-SUFFIX,lydass.cn
+DOMAIN-SUFFIX,lydass.com.cn
+DOMAIN-SUFFIX,lydass.net
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
@@ -267,8 +274,11 @@ DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyun-iot-share.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
+DOMAIN-SUFFIX,aliyuncdn.net
 DOMAIN-SUFFIX,aliyunfile.com
+DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,cdngslb.com
+DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,kunlunaq.com
@@ -337,8 +347,10 @@ DOMAIN-SUFFIX,dingtalk.cn
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,dingtalk.net
 DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingtalkcloud.com
 DOMAIN-SUFFIX,laiwang.com
 DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,ztna-dingtalk.com
 DOMAIN-SUFFIX,doservice.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to

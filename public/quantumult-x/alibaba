@@ -151,6 +151,13 @@ host-suffix, npmmirror.com, alibaba
 host-suffix, goofish.com, alibaba
 host-suffix, kaola.com, alibaba
 host-suffix, kaolacdn.com, alibaba
+host-suffix, lydaas.cn, alibaba
+host-suffix, lydaas.com, alibaba
+host-suffix, lydaas.com.cn, alibaba
+host-suffix, lydaas.net, alibaba
+host-suffix, lydass.cn, alibaba
+host-suffix, lydass.com.cn, alibaba
+host-suffix, lydass.net, alibaba
 host-suffix, a.alimama.cn, alibaba
 host-suffix, acjs.aliyun.com, alibaba
 host-suffix, adash-c.m.taobao.com, alibaba
@@ -267,8 +274,11 @@ host-suffix, aliyun-inc.com, alibaba
 host-suffix, aliyun-iot-share.com, alibaba
 host-suffix, aliyun.com, alibaba
 host-suffix, aliyuncdn.com, alibaba
+host-suffix, aliyuncdn.net, alibaba
 host-suffix, aliyunfile.com, alibaba
+host-suffix, aliyunpds.com, alibaba
 host-suffix, cdngslb.com, alibaba
+host-suffix, fcapp.run, alibaba
 host-suffix, hichina.com, alibaba
 host-suffix, ica-alliance.org, alibaba
 host-suffix, kunlunaq.com, alibaba
@@ -337,8 +347,10 @@ host-suffix, dingtalk.cn, alibaba
 host-suffix, dingtalk.com, alibaba
 host-suffix, dingtalk.net, alibaba
 host-suffix, dingtalkapps.com, alibaba
+host-suffix, dingtalkcloud.com, alibaba
 host-suffix, laiwang.com, alibaba
 host-suffix, lwurl.to, alibaba
+host-suffix, ztna-dingtalk.com, alibaba
 host-suffix, doservice.com, alibaba
 host-suffix, ele.me, alibaba
 host-suffix, ele.to, alibaba
