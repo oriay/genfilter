@@ -542,6 +542,7 @@ host-suffix, twttr.net, category-social-media-!cn
 host-suffix, twvid.com, category-social-media-!cn
 host-suffix, vine.co, category-social-media-!cn
 host-suffix, x.com, category-social-media-!cn
+host-suffix, cdn-vk.ru, category-social-media-!cn
 host-suffix, mradx.net, category-social-media-!cn
 host-suffix, mvk.com, category-social-media-!cn
 host-suffix, userapi.com, category-social-media-!cn
@@ -550,6 +551,7 @@ host-suffix, vk-apps.com, category-social-media-!cn
 host-suffix, vk-apps.ru, category-social-media-!cn
 host-suffix, vk-cdn.me, category-social-media-!cn
 host-suffix, vk-cdn.net, category-social-media-!cn
+host-suffix, vkcloud-static.ru, category-social-media-!cn
 host-suffix, vk-portal.net, category-social-media-!cn
 host-suffix, vk.cc, category-social-media-!cn
 host-suffix, vk.com, category-social-media-!cn

@@ -289,14 +289,6 @@ host-suffix, baike.com, bytedance
 host-suffix, wukong.com, bytedance
 host-suffix, wukongwenda.cn, bytedance
 host-suffix, wukongwenda.com, bytedance
-host-suffix, dcarapi.com, bytedance
-host-suffix, dcarimg.com, bytedance
-host-suffix, dcarlive.com, bytedance
-host-suffix, dcarstatic.com, bytedance
-host-suffix, dcarvod.com, bytedance
-host-suffix, dcdapp.com, bytedance
-host-suffix, dongchedi.com, bytedance
-host-suffix, dongchediapp.com, bytedance
 host-suffix, 365yg.com, bytedance
 host-suffix, gogokid.com.cn, bytedance
 host-suffix, gogokid.com, bytedance
@@ -738,3 +730,11 @@ host-suffix, zebracdn.com, bytedance
 host-suffix, zjytxd.cn, bytedance
 host-suffix, zjytxp.cn, bytedance
 host-suffix, zvip.cn, bytedance
+host-suffix, dcarapi.com, bytedance
+host-suffix, dcarimg.com, bytedance
+host-suffix, dcarlive.com, bytedance
+host-suffix, dcarstatic.com, bytedance
+host-suffix, dcarvod.com, bytedance
+host-suffix, dcdapp.com, bytedance
+host-suffix, dongchedi.com, bytedance
+host-suffix, dongchediapp.com, bytedance

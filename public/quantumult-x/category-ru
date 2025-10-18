@@ -126,13 +126,18 @@ host-suffix, chukotka.ru, category-ru
 host-suffix, jamal.ru, category-ru
 host-suffix, surgut.ru, category-ru
 host-suffix, yamal.ru, category-ru
+host-suffix, boosty.to, category-ru
+host-suffix, donationalerts.com, category-ru
 host-suffix, imgsmail.ru, category-ru
 host-suffix, mail.ru, category-ru
+host-suffix, memealerts.com, category-ru
 host-suffix, mycdn.me, category-ru
+host-suffix, okcdn.ru, category-ru
 host-suffix, ok.ru, category-ru
 host-suffix, ozon.ru, category-ru
 host-suffix, ozone.ru, category-ru
 host-suffix, ozonusercontent.com, category-ru
+host-suffix, cdn-vk.ru, category-ru
 host-suffix, mradx.net, category-ru
 host-suffix, mvk.com, category-ru
 host-suffix, userapi.com, category-ru
@@ -141,6 +146,7 @@ host-suffix, vk-apps.com, category-ru
 host-suffix, vk-apps.ru, category-ru
 host-suffix, vk-cdn.me, category-ru
 host-suffix, vk-cdn.net, category-ru
+host-suffix, vkcloud-static.ru, category-ru
 host-suffix, vk-portal.net, category-ru
 host-suffix, vk.cc, category-ru
 host-suffix, vk.com, category-ru

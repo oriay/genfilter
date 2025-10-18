@@ -12430,6 +12430,7 @@ DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
@@ -12438,6 +12439,7 @@ DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-cdn.me
 DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vkcloud-static.ru
 DOMAIN-SUFFIX,vk-portal.net
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
@@ -21076,6 +21078,7 @@ DOMAIN-SUFFIX,vercel-status.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.blog
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,vercel.events
 DOMAIN-SUFFIX,vercel.live
 DOMAIN-SUFFIX,vercel.pub
@@ -27038,9 +27041,13 @@ DOMAIN-SUFFIX,logitechg.com.cn
 DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,logitechio.com.cn
 DOMAIN-SUFFIX,worldsfastestgamer.net
+DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,aboutfacebook.com

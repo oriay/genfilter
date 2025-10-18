@@ -1,3 +1,4 @@
+host-suffix, cdn-vk.ru, vk
 host-suffix, mradx.net, vk
 host-suffix, mvk.com, vk
 host-suffix, userapi.com, vk
@@ -6,6 +7,7 @@ host-suffix, vk-apps.com, vk
 host-suffix, vk-apps.ru, vk
 host-suffix, vk-cdn.me, vk
 host-suffix, vk-cdn.net, vk
+host-suffix, vkcloud-static.ru, vk
 host-suffix, vk-portal.net, vk
 host-suffix, vk.cc, vk
 host-suffix, vk.com, vk

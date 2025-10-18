@@ -12430,6 +12430,7 @@ host-suffix, twttr.net, geolocation-!cn
 host-suffix, twvid.com, geolocation-!cn
 host-suffix, vine.co, geolocation-!cn
 host-suffix, x.com, geolocation-!cn
+host-suffix, cdn-vk.ru, geolocation-!cn
 host-suffix, mradx.net, geolocation-!cn
 host-suffix, mvk.com, geolocation-!cn
 host-suffix, userapi.com, geolocation-!cn
@@ -12438,6 +12439,7 @@ host-suffix, vk-apps.com, geolocation-!cn
 host-suffix, vk-apps.ru, geolocation-!cn
 host-suffix, vk-cdn.me, geolocation-!cn
 host-suffix, vk-cdn.net, geolocation-!cn
+host-suffix, vkcloud-static.ru, geolocation-!cn
 host-suffix, vk-portal.net, geolocation-!cn
 host-suffix, vk.cc, geolocation-!cn
 host-suffix, vk.com, geolocation-!cn
@@ -21076,6 +21078,7 @@ host-suffix, vercel-status.com, geolocation-!cn
 host-suffix, vercel.app, geolocation-!cn
 host-suffix, vercel.blog, geolocation-!cn
 host-suffix, vercel.com, geolocation-!cn
+host-suffix, vercel.dev, geolocation-!cn
 host-suffix, vercel.events, geolocation-!cn
 host-suffix, vercel.live, geolocation-!cn
 host-suffix, vercel.pub, geolocation-!cn
@@ -27038,9 +27041,13 @@ host-suffix, logitechg.com.cn, geolocation-!cn
 host-suffix, logitechg.fr, geolocation-!cn
 host-suffix, logitechio.com.cn, geolocation-!cn
 host-suffix, worldsfastestgamer.net, geolocation-!cn
+host-suffix, boosty.to, geolocation-!cn
+host-suffix, donationalerts.com, geolocation-!cn
 host-suffix, imgsmail.ru, geolocation-!cn
 host-suffix, mail.ru, geolocation-!cn
+host-suffix, memealerts.com, geolocation-!cn
 host-suffix, mycdn.me, geolocation-!cn
+host-suffix, okcdn.ru, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, meta.com, geolocation-!cn
 host-suffix, aboutfacebook.com, geolocation-!cn

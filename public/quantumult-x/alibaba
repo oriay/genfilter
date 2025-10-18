@@ -366,7 +366,10 @@ host-suffix, uc.cn, alibaba
 host-suffix, uc123.com, alibaba
 host-suffix, ucweb.com, alibaba
 host-suffix, uczzd.cn, alibaba
+host-suffix, cnzz.com, alibaba
 host-suffix, mobmore.com, alibaba
+host-suffix, puata.info, alibaba
+host-suffix, shujupie.com, alibaba
 host-suffix, umeng.com, alibaba
 host-suffix, umengcloud.com, alibaba
 host-suffix, umsns.com, alibaba
