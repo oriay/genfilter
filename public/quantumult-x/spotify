@@ -12,6 +12,7 @@ host-suffix, spotifycodes.com, spotify
 host-suffix, spotifyforbrands.com, spotify
 host-suffix, spotifyjobs.com, spotify
 host-suffix, spotify.link, spotify
+host-suffix, tospotify.com, spotify
 host, audio-ak-spotify-com.akamaized.net, spotify
 host, audio4-ak-spotify-com.akamaized.net, spotify
 host, cdn-spotify-experiments.conductrics.com, spotify

@@ -1209,6 +1209,7 @@ host-suffix, spotifycodes.com, category-entertainment
 host-suffix, spotifyforbrands.com, category-entertainment
 host-suffix, spotifyjobs.com, category-entertainment
 host-suffix, spotify.link, category-entertainment
+host-suffix, tospotify.com, category-entertainment
 host, audio-ak-spotify-com.akamaized.net, category-entertainment
 host, audio4-ak-spotify-com.akamaized.net, category-entertainment
 host, cdn-spotify-experiments.conductrics.com, category-entertainment
