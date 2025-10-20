@@ -316,6 +316,9 @@ host-suffix, i.snssdk.com, bytedance
 host-suffix, mcs.snssdk.com, bytedance
 host-suffix, pangolin-dsp-toutiao-b.com, bytedance
 host-suffix, pangolin-dsp-toutiao.com, bytedance
+host-suffix, pangolin-hl.snssdk.com, bytedance
+host-suffix, pangolin-lf.snssdk.com, bytedance
+host-suffix, pangolin-lq.snssdk.com, bytedance
 host-suffix, pangolin-sdk-toutiao-b.com, bytedance
 host-suffix, pangolin-sdk-toutiao.com, bytedance
 host-suffix, pangolin-sdk-toutiao1.com, bytedance

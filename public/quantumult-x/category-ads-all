@@ -380,6 +380,9 @@ host-suffix, i.snssdk.com, category-ads-all
 host-suffix, mcs.snssdk.com, category-ads-all
 host-suffix, pangolin-dsp-toutiao-b.com, category-ads-all
 host-suffix, pangolin-dsp-toutiao.com, category-ads-all
+host-suffix, pangolin-hl.snssdk.com, category-ads-all
+host-suffix, pangolin-lf.snssdk.com, category-ads-all
+host-suffix, pangolin-lq.snssdk.com, category-ads-all
 host-suffix, pangolin-sdk-toutiao-b.com, category-ads-all
 host-suffix, pangolin-sdk-toutiao.com, category-ads-all
 host-suffix, pangolin-sdk-toutiao1.com, category-ads-all
@@ -675,6 +678,7 @@ host-suffix, testads.api.my7v.com, category-ads-all
 host-suffix, ad.qq.com, category-ads-all
 host-suffix, ad.qun.qq.com, category-ads-all
 host-suffix, adfilter.imtt.qq.com, category-ads-all
+host-suffix, adnet.qq.com, category-ads-all
 host-suffix, adping.qq.com, category-ads-all
 host-suffix, adpm.app.qq.com, category-ads-all
 host-suffix, adsclick.qq.com, category-ads-all

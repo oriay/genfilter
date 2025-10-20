@@ -165,7 +165,6 @@ host-suffix, spcloudhw.com, tencent
 host-suffix, spcloudhw.net, tencent
 host-suffix, srmkp.cn, tencent
 host-suffix, starlakelab.com, tencent
-host-suffix, tamaegis.com, tencent
 host-suffix, tapd.cn, tencent
 host-suffix, tcdlive.com, tencent
 host-suffix, tcdnhw.com, tencent
@@ -412,6 +411,7 @@ host-suffix, dot.pub, tencent
 host-suffix, ad.qq.com, tencent
 host-suffix, ad.qun.qq.com, tencent
 host-suffix, adfilter.imtt.qq.com, tencent
+host-suffix, adnet.qq.com, tencent
 host-suffix, adping.qq.com, tencent
 host-suffix, adpm.app.qq.com, tencent
 host-suffix, adsclick.qq.com, tencent

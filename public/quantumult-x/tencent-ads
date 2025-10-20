@@ -1,6 +1,7 @@
 host-suffix, ad.qq.com, tencent-ads
 host-suffix, ad.qun.qq.com, tencent-ads
 host-suffix, adfilter.imtt.qq.com, tencent-ads
+host-suffix, adnet.qq.com, tencent-ads
 host-suffix, adping.qq.com, tencent-ads
 host-suffix, adpm.app.qq.com, tencent-ads
 host-suffix, adsclick.qq.com, tencent-ads

@@ -43,7 +43,6 @@ host-suffix, grzq.com, category-securities-cn
 host-suffix, gsgh.cn, category-securities-cn
 host-suffix, gszq.com, category-securities-cn
 host-suffix, gtja.com, category-securities-cn
-host-suffix, gtja.com, category-securities-cn
 host-suffix, guodu.com, category-securities-cn
 host-suffix, guosen.com.cn, category-securities-cn
 host-suffix, gyzq.com.cn, category-securities-cn
@@ -53,7 +52,6 @@ host-suffix, hfzq.com.cn, category-securities-cn
 host-suffix, hlzqgs.com, category-securities-cn
 host-suffix, hongtastock.com, category-securities-cn
 host-suffix, hrsec.com.cn, category-securities-cn
-host-suffix, hsbcqh.com.cn, category-securities-cn
 host-suffix, htsc.com.cn, category-securities-cn
 host-suffix, htsec.com, category-securities-cn
 host-suffix, huajingsec.com, category-securities-cn
@@ -160,3 +158,6 @@ host-suffix, fund123.cn, category-securities-cn
 host-suffix, howbuy.com, category-securities-cn
 host-suffix, lufunds.com, category-securities-cn
 host-suffix, zlfund.cn, category-securities-cn
+host-suffix, hsbc.com.cn, category-securities-cn
+host-suffix, hsbcqh.com.cn, category-securities-cn
+host-suffix, hsbcinsurance.com.cn, category-securities-cn
