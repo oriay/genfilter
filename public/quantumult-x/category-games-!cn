@@ -597,6 +597,12 @@ host, ubisoft-uplay-savegames.s3.amazonaws.com, category-games-!cn
 host, ubisoft-orbit-savegames.s3.amazonaws.com, category-games-!cn
 host, ubistatic3-a.akamaihd.net, category-games-!cn
 host, uplaypc-s-ubisoft.cdn.ubi.com, category-games-!cn
+host, datarouter.apps.netherrealm.com, category-games-!cn
+host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, category-games-!cn
+host-suffix, warnerbrosgames.com, category-games-!cn
+host-suffix, wbagora.com, category-games-!cn
+host-suffix, wbgames.com, category-games-!cn
+host-suffix, wbinsights.com, category-games-!cn
 host-suffix, xbox, category-games-!cn
 host-suffix, gamepass.com, category-games-!cn
 host-suffix, orithegame.com, category-games-!cn

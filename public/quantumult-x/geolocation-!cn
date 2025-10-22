@@ -15,6 +15,7 @@ host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
 host-suffix, chutes.ai, geolocation-!cn
 host-suffix, copilot.microsoft.com, geolocation-!cn
+host-suffix, devin.ai, geolocation-!cn
 host-suffix, diabrowser.com, geolocation-!cn
 host-suffix, dify.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
@@ -3130,6 +3131,10 @@ host-suffix, redotpay.zendesk.com, geolocation-!cn
 host-suffix, pod-15-sunco-ws.zendesk.com, geolocation-!cn
 host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, geolocation-!cn
 host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, geolocation-!cn
+host-suffix, straitsx.com, geolocation-!cn
+host-suffix, , geolocation-!cn
+host, d3r7nsslvs6aaf.cloudfront.net, geolocation-!cn
+host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com, geolocation-!cn
 host-suffix, trustwallet.com, geolocation-!cn
 host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
@@ -10864,6 +10869,12 @@ host, ubisoft-uplay-savegames.s3.amazonaws.com, geolocation-!cn
 host, ubisoft-orbit-savegames.s3.amazonaws.com, geolocation-!cn
 host, ubistatic3-a.akamaihd.net, geolocation-!cn
 host, uplaypc-s-ubisoft.cdn.ubi.com, geolocation-!cn
+host, datarouter.apps.netherrealm.com, geolocation-!cn
+host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, geolocation-!cn
+host-suffix, warnerbrosgames.com, geolocation-!cn
+host-suffix, wbagora.com, geolocation-!cn
+host-suffix, wbgames.com, geolocation-!cn
+host-suffix, wbinsights.com, geolocation-!cn
 host-suffix, xbox, geolocation-!cn
 host-suffix, gamepass.com, geolocation-!cn
 host-suffix, orithegame.com, geolocation-!cn
@@ -29431,6 +29442,7 @@ host-suffix, yandexcloud.net, geolocation-!cn
 host-suffix, yandexcom.net, geolocation-!cn
 host-suffix, yandexwebcache.org, geolocation-!cn
 host-suffix, yastatic.net, geolocation-!cn
+host-suffix, kinopoisk.ru, geolocation-!cn
 host-suffix, grok.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
 host-suffix, anydesk.com, geolocation-!cn
