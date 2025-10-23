@@ -241,6 +241,11 @@ host-suffix, flutterapp.com, category-dev
 host-suffix, pub.dev, category-dev
 host-suffix, fontawesome.com, category-dev
 host-suffix, fortawesome.com, category-dev
+host-suffix, framer.com, category-dev
+host-suffix, framer.website, category-dev
+host-suffix, framercanvas.com, category-dev
+host-suffix, framerstatic.com, category-dev
+host-suffix, framerusercontent.com, category-dev
 host-suffix, fury.blog, category-dev
 host-suffix, fury.co, category-dev
 host-suffix, fury.dev, category-dev
@@ -313,8 +318,14 @@ host-suffix, hyperscan.io, category-dev
 host-suffix, intellinuxgraphics.com, category-dev
 host-suffix, intellinuxgraphics.net, category-dev
 host-suffix, oneapi.com, category-dev
+host-suffix, oneapi.io, category-dev
+host-suffix, opencas.io, category-dev
+host-suffix, opendroneid.org, category-dev
+host-suffix, openvino.ai, category-dev
 host-suffix, openvinotoolkit.org, category-dev
+host-suffix, renderingtoolkit.org, category-dev
 host-suffix, snap-telemetry.io, category-dev
+host-suffix, universalscalablefirmware.org, category-dev
 host-suffix, acpica.com, category-dev
 host-suffix, clearlinux.org, category-dev
 host-suffix, ospray.net, category-dev

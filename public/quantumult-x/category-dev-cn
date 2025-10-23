@@ -34,7 +34,16 @@ host-suffix, deepin.cn, category-dev-cn
 host-suffix, deepin.com, category-dev-cn
 host-suffix, deepin.io, category-dev-cn
 host-suffix, deepin.org, category-dev-cn
+host-suffix, deepin.org.cn, category-dev-cn
+host-suffix, sndu.cn, category-dev-cn
+host-suffix, 51changxie.com, category-dev-cn
+host-suffix, 51jianxie.cn, category-dev-cn
+host-suffix, 91changxie.com, category-dev-cn
+host-suffix, changxie.com, category-dev-cn
 host-suffix, chinauos.com, category-dev-cn
+host-suffix, linglong.space, category-dev-cn
+host-suffix, linyaps.org.cn, category-dev-cn
+host-suffix, uniontech.cn, category-dev-cn
 host-suffix, uniontech.com, category-dev-cn
 host-suffix, gitee.com, category-dev-cn
 host-suffix, gitee.io, category-dev-cn

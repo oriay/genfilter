@@ -18,6 +18,7 @@ host-suffix, cloudflareok.com, cloudflare
 host-suffix, cloudflarepartners.com, cloudflare
 host-suffix, cloudflareportal.com, cloudflare
 host-suffix, cloudflarepreview.com, cloudflare
+host-suffix, cloudflareregistrar.com, cloudflare
 host-suffix, cloudflareresolve.com, cloudflare
 host-suffix, cloudflaressl.com, cloudflare
 host-suffix, cloudflarestatus.com, cloudflare
@@ -34,6 +35,7 @@ host-suffix, trycloudflare.com, cloudflare
 host-suffix, videodelivery.net, cloudflare
 host-suffix, warp.plus, cloudflare
 host-suffix, workers.dev, cloudflare
+host-suffix, cf-china.info, cloudflare
 host-suffix, cf-ns.com, cloudflare
 host-suffix, cf-ns.net, cloudflare
 host-suffix, cf-ns.site, cloudflare

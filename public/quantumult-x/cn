@@ -1995,6 +1995,7 @@ host-suffix, bootcdn.cn, cn
 host-suffix, bootcdn.net, cn
 host-suffix, bootcss.com, cn
 host-suffix, phpcomposer.com, cn
+host-suffix, cf-china.info, cn
 host-suffix, cf-ns.com, cn
 host-suffix, cf-ns.net, cn
 host-suffix, cf-ns.site, cn
@@ -4033,7 +4034,16 @@ host-suffix, deepin.cn, cn
 host-suffix, deepin.com, cn
 host-suffix, deepin.io, cn
 host-suffix, deepin.org, cn
+host-suffix, deepin.org.cn, cn
+host-suffix, sndu.cn, cn
+host-suffix, 51changxie.com, cn
+host-suffix, 51jianxie.cn, cn
+host-suffix, 91changxie.com, cn
+host-suffix, changxie.com, cn
 host-suffix, chinauos.com, cn
+host-suffix, linglong.space, cn
+host-suffix, linyaps.org.cn, cn
+host-suffix, uniontech.cn, cn
 host-suffix, uniontech.com, cn
 host-suffix, gitee.com, cn
 host-suffix, gitee.io, cn

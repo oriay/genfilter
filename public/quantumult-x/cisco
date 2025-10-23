@@ -74,6 +74,7 @@ host-suffix, parstream.com, cisco
 host-suffix, parstream.net, cisco
 host-suffix, parstream.org, cisco
 host-suffix, services-exchange.com, cisco
+host-suffix, splunk.com, cisco
 host-suffix, static-cisco.com, cisco
 host-suffix, tandberg-china.com, cisco
 host-suffix, tandberg.com, cisco

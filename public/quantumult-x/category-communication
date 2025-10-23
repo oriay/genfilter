@@ -56,6 +56,10 @@ host-suffix, linemyshop.com, category-communication
 host-suffix, lineshoppingseller.com, category-communication
 host-suffix, linetv.tw, category-communication
 host-suffix, nhncorp.jp, category-communication
+host-suffix, mail.com, category-communication
+host-suffix, ui-portal.de, category-communication
+host-suffix, uicdn.com, category-communication
+host-suffix, uimserv.net, category-communication
 host-suffix, arewereadyyet.com, category-communication
 host-suffix, cinny.in, category-communication
 host-suffix, element.io, category-communication
@@ -69,6 +73,15 @@ host-suffix, fbmessenger.com, category-communication
 host-suffix, m.me, category-communication
 host-suffix, messenger.com, category-communication
 host-suffix, nbabot.net, category-communication
+host-suffix, pm.me, category-communication
+host-suffix, proton.me, category-communication
+host-suffix, protonmail.ch, category-communication
+host-suffix, protonmail.com, category-communication
+host-suffix, protonstatus.com, category-communication
+host-suffix, protontech.ch, category-communication
+host-suffix, protonvpn.ch, category-communication
+host-suffix, protonvpn.com, category-communication
+host-suffix, protonweb.com, category-communication
 host-suffix, signal.art, category-communication
 host-suffix, signal.group, category-communication
 host-suffix, signal.link, category-communication

@@ -1958,6 +1958,7 @@ host-suffix, bootcdn.cn, geolocation-cn
 host-suffix, bootcdn.net, geolocation-cn
 host-suffix, bootcss.com, geolocation-cn
 host-suffix, phpcomposer.com, geolocation-cn
+host-suffix, cf-china.info, geolocation-cn
 host-suffix, cf-ns.com, geolocation-cn
 host-suffix, cf-ns.net, geolocation-cn
 host-suffix, cf-ns.site, geolocation-cn
@@ -3996,7 +3997,16 @@ host-suffix, deepin.cn, geolocation-cn
 host-suffix, deepin.com, geolocation-cn
 host-suffix, deepin.io, geolocation-cn
 host-suffix, deepin.org, geolocation-cn
+host-suffix, deepin.org.cn, geolocation-cn
+host-suffix, sndu.cn, geolocation-cn
+host-suffix, 51changxie.com, geolocation-cn
+host-suffix, 51jianxie.cn, geolocation-cn
+host-suffix, 91changxie.com, geolocation-cn
+host-suffix, changxie.com, geolocation-cn
 host-suffix, chinauos.com, geolocation-cn
+host-suffix, linglong.space, geolocation-cn
+host-suffix, linyaps.org.cn, geolocation-cn
+host-suffix, uniontech.cn, geolocation-cn
 host-suffix, uniontech.com, geolocation-cn
 host-suffix, gitee.com, geolocation-cn
 host-suffix, gitee.io, geolocation-cn

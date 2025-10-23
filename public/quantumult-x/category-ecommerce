@@ -496,6 +496,7 @@ host-suffix, renchead.com, category-ecommerce
 host-suffix, whisolutions.com, category-ecommerce
 host-suffix, wrenchead.com, category-ecommerce
 host, ebay-25-assets.s3-us-west-1.amazonaws.com, category-ecommerce
+host-suffix, ebuyer.com, category-ecommerce
 host-suffix, farfetch-apps.com, category-ecommerce
 host-suffix, farfetch-contents.com, category-ecommerce
 host-suffix, farfetch.cn, category-ecommerce
