@@ -6769,12 +6769,14 @@ host-suffix, vivo.cn, geolocation-cn
 host-suffix, vivo.com, geolocation-cn
 host-suffix, vivo.com.cn, geolocation-cn
 host-suffix, vivoglobal.com, geolocation-cn
+host-suffix, mgslb.com, geolocation-cn
 host-suffix, mi-idc.com, geolocation-cn
 host-suffix, mi-img.com, geolocation-cn
 host-suffix, mi.com, geolocation-cn
 host-suffix, mifile.cn, geolocation-cn
 host-suffix, migames.com, geolocation-cn
 host-suffix, mijia.tech, geolocation-cn
+host-suffix, mitvos.com, geolocation-cn
 host-suffix, miui.com, geolocation-cn
 host-suffix, miwifi.com, geolocation-cn
 host-suffix, xiaomi.cn, geolocation-cn

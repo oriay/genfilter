@@ -1,9 +1,11 @@
+host-suffix, mgslb.com, xiaomi
 host-suffix, mi-idc.com, xiaomi
 host-suffix, mi-img.com, xiaomi
 host-suffix, mi.com, xiaomi
 host-suffix, mifile.cn, xiaomi
 host-suffix, migames.com, xiaomi
 host-suffix, mijia.tech, xiaomi
+host-suffix, mitvos.com, xiaomi
 host-suffix, miui.com, xiaomi
 host-suffix, miwifi.com, xiaomi
 host-suffix, xiaomi.cn, xiaomi

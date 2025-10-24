@@ -6806,12 +6806,14 @@ host-suffix, vivo.cn, cn
 host-suffix, vivo.com, cn
 host-suffix, vivo.com.cn, cn
 host-suffix, vivoglobal.com, cn
+host-suffix, mgslb.com, cn
 host-suffix, mi-idc.com, cn
 host-suffix, mi-img.com, cn
 host-suffix, mi.com, cn
 host-suffix, mifile.cn, cn
 host-suffix, migames.com, cn
 host-suffix, mijia.tech, cn
+host-suffix, mitvos.com, cn
 host-suffix, miui.com, cn
 host-suffix, miwifi.com, cn
 host-suffix, xiaomi.cn, cn
