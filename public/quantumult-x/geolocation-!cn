@@ -20120,6 +20120,12 @@ host-suffix, myhtlmebook.com, geolocation-!cn
 host-suffix, newhtbook.com, geolocation-!cn
 host-suffix, urhtbooks.com, geolocation-!cn
 host-suffix, , geolocation-!cn
+host-suffix, h-chan.me, geolocation-!cn
+host-suffix, hentai-chan.com, geolocation-!cn
+host-suffix, hentai-chan.live, geolocation-!cn
+host-suffix, hentaichan.live, geolocation-!cn
+host-suffix, hentaichan.me, geolocation-!cn
+host-suffix, imgschan.xyz, geolocation-!cn
 host-suffix, hentaivn.de, geolocation-!cn
 host-suffix, hentaivn.la, geolocation-!cn
 host-suffix, hentaivn.net, geolocation-!cn
