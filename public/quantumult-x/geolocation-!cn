@@ -11878,6 +11878,8 @@ host-suffix, linux.do, geolocation-!cn
 host-suffix, ldstatic.com, geolocation-!cn
 host-suffix, 5i01.com, geolocation-!cn
 host-suffix, mobile01.com, geolocation-!cn
+host-suffix, deepflood.com, geolocation-!cn
+host-suffix, nodeseek.com, geolocation-!cn
 host-suffix, pimg.tw, geolocation-!cn
 host-suffix, pixanalytics.com, geolocation-!cn
 host-suffix, pixfs.net, geolocation-!cn
@@ -13711,8 +13713,8 @@ host-suffix, seasidestory.tokyo, geolocation-!cn
 host-suffix, seiron-sankei.com, geolocation-!cn
 host-suffix, tvnaviweb.jp, geolocation-!cn
 host-suffix, zakzak.co.jp, geolocation-!cn
-host-suffix, scmp.com, geolocation-!cn
-host-suffix, i-scmp.com, geolocation-!cn
+host-suffix, 429:, geolocation-!cn
+host-suffix, For, geolocation-!cn
 host-suffix, setn.com, geolocation-!cn
 host-suffix, settv.com.tw, geolocation-!cn
 host-suffix, singtaonewscorp.com, geolocation-!cn
@@ -13951,14 +13953,8 @@ host-suffix, w3.org, geolocation-!cn
 host-suffix, who.int, geolocation-!cn
 host-suffix, wi-fi.org, geolocation-!cn
 host-suffix, wto.org, geolocation-!cn
-host-suffix, archive-it.org, geolocation-!cn
-host-suffix, archive.md, geolocation-!cn
-host-suffix, archive.org, geolocation-!cn
-host-suffix, archive.ph, geolocation-!cn
-host-suffix, archive.today, geolocation-!cn
-host-suffix, openlibrary.org, geolocation-!cn
-host-suffix, 4pcdn.org, geolocation-!cn
-host-suffix, 4plebs.org, geolocation-!cn
+host-suffix, 429:, geolocation-!cn
+host-suffix, For, geolocation-!cn
 host-suffix, ccstatic.org, geolocation-!cn
 host-suffix, creativecommons.org, geolocation-!cn
 host-suffix, creativecommons.engineering, geolocation-!cn
