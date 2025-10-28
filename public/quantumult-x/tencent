@@ -95,6 +95,14 @@ host-suffix, cloudsite.vip, tencent
 host-suffix, cncqcloud.com, tencent
 host-suffix, computeinit.com, tencent
 host-suffix, coolsite.vip, tencent
+host-suffix, dcloudlive.com, tencent
+host-suffix, dcloudlive.net, tencent
+host-suffix, dcloudsp.com, tencent
+host-suffix, dcloudsp.net, tencent
+host-suffix, dcloudstc.com, tencent
+host-suffix, dcloudstc.net, tencent
+host-suffix, dcloudvod.com, tencent
+host-suffix, dcloudvod.net, tencent
 host-suffix, dnsv1.com, tencent
 host-suffix, dnsv1.com.cn, tencent
 host-suffix, dothework.cn, tencent
@@ -212,6 +220,7 @@ host-suffix, tencentcloudses.com, tencent
 host-suffix, tencentcos.cn, tencent
 host-suffix, tencentcos.com, tencent
 host-suffix, tencentcos.com.cn, tencent
+host-suffix, tencentcs.cn, tencent
 host-suffix, tencentcs.com, tencent
 host-suffix, tencentdayu.com, tencent
 host-suffix, tencentdb.com, tencent

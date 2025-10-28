@@ -3,7 +3,6 @@ host-suffix, mi-idc.com, xiaomi
 host-suffix, mi-img.com, xiaomi
 host-suffix, mi.com, xiaomi
 host-suffix, mifile.cn, xiaomi
-host-suffix, migames.com, xiaomi
 host-suffix, mijia.tech, xiaomi
 host-suffix, mitvos.com, xiaomi
 host-suffix, miui.com, xiaomi
@@ -30,6 +29,8 @@ host-suffix, xiaomisa.net, xiaomi
 host-suffix, xiaomisa.org, xiaomi
 host-suffix, xiaomiwear.com, xiaomi
 host-suffix, xiaomixiaoai.com, xiaomi
+host-suffix, migames.com, xiaomi
+host-suffix, wali.com, xiaomi
 host-suffix, airstarfinance.net, xiaomi
 host-suffix, mipay.com, xiaomi
 host-suffix, duokan.com, xiaomi

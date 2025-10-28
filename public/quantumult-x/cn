@@ -71,9 +71,7 @@ host-suffix, vip.com, cn
 host-suffix, vipstatic.com, cn
 host-suffix, xiamai.net, cn
 host-suffix, 52pojie.cn, cn
-host-suffix, acwifi.net, cn
 host-suffix, chongbuluo.com, cn
-host-suffix, chongdiantou.com, cn
 host-suffix, itsk.com, cn
 host-suffix, kafan.cn, cn
 host-suffix, kanxue.com, cn
@@ -86,7 +84,11 @@ host-suffix, right.com.cn, cn
 host-suffix, uiwow.com, cn
 host-suffix, wuyou.net, cn
 host-suffix, 423down.com, cn
+host-suffix, acwifi.net, cn
+host-suffix, chongdiantou.com, cn
 host-suffix, ghxi.com, cn
+host-suffix, iplaysoft.com, cn
+host-suffix, itellyou.cn, cn
 host-suffix, moyubuluo.com, cn
 host-suffix, upe.net, cn
 host-suffix, winos.me, cn
@@ -115,6 +117,8 @@ host-suffix, guoxuemi.com, cn
 host-suffix, ip138.com, cn
 host-suffix, ipshudi.com, cn
 host-suffix, chaziyu.com, cn
+host-suffix, icplishi.com, cn
+host-suffix, ipchaxun.com, cn
 host-suffix, ipchaxun.net, cn
 host-suffix, rdnsdb.com, cn
 host-suffix, ipplus360.com, cn
@@ -946,6 +950,7 @@ host-suffix, topthink.com, cn
 host-suffix, touqikan.com, cn
 host-suffix, touzid.com, cn
 host-suffix, travelsky.com, cn
+host-suffix, trjcn.com, cn
 host-suffix, trunktech.com, cn
 host-suffix, trustexporter.com, cn
 host-suffix, trustutn.org, cn
@@ -990,6 +995,7 @@ host-suffix, warmheart.top, cn
 host-suffix, wdjimg.com, cn
 host-suffix, wdzj.com, cn
 host-suffix, weand.com, cn
+host-suffix, weavatar.com, cn
 host-suffix, weicaifu.com, cn
 host-suffix, weidian.com, cn
 host-suffix, weilaicaijing.com, cn
@@ -2115,6 +2121,7 @@ host-suffix, 51cdn.com, cn
 host-suffix, 8686c.com, cn
 host-suffix, cdn20.com, cn
 host-suffix, cdn30.org, cn
+host-suffix, cdnmg.com, cn
 host-suffix, chinanetcenter.com, cn
 host-suffix, lxdns.cn, cn
 host-suffix, lxdns.com, cn
@@ -2133,6 +2140,7 @@ host-suffix, wangsu.com, cn
 host-suffix, wscdns.com, cn
 host-suffix, wscdns.info, cn
 host-suffix, wscdns.org, cn
+host-suffix, wsdvs.com, cn
 host-suffix, wsglb.com, cn
 host-suffix, wsglb.net, cn
 host-suffix, wswebcdn.com, cn
@@ -2506,6 +2514,7 @@ host-suffix, yihaodian.com, cn
 host-suffix, yihaodianimg.com, cn
 host-suffix, yiyaojd.com, cn
 host-suffix, yizhitou.com, cn
+host-suffix, imdada.cn, cn
 host-suffix, duolabao.com, cn
 host-suffix, ads.union.jd.com, cn
 host-suffix, ads-union.jd.com, cn
@@ -2649,6 +2658,11 @@ host-suffix, biligame.net, cn
 host-suffix, sl916.com, cn
 host-suffix, cowlevel.net, cn
 host-suffix, cdncl.net, cn
+host-suffix, hero.com, cn
+host-suffix, herogame.com, cn
+host-suffix, heroesports.com, cn
+host-suffix, shyxhy.com, cn
+host-suffix, yingxiong.com, cn
 host-suffix, kurogames.com, cn
 host-suffix, aki-game.com, cn
 host-suffix, mhystatic.com, cn
@@ -3808,6 +3822,7 @@ host-suffix, shimonote.com, cn
 host-suffix, smgv.cn, cn
 host-suffix, nlark.com, cn
 host-suffix, yuque.com, cn
+host-suffix, woodo.cn, cn
 host-suffix, doc88.com, cn
 host-suffix, docin.com, cn
 host-suffix, douding.cn, cn
@@ -3988,6 +4003,9 @@ host-suffix, tieba.com, cn
 host-suffix, , cn
 host-suffix, dandan818.com, cn
 host-suffix, dandanvoice.com, cn
+host-suffix, , cn
+host-suffix, maimai.cn, cn
+host-suffix, taou.com, cn
 host-suffix, 404:, cn
 host-suffix, 404:, cn
 host-suffix, 404:, cn
@@ -6337,6 +6355,14 @@ host-suffix, cloudsite.vip, cn
 host-suffix, cncqcloud.com, cn
 host-suffix, computeinit.com, cn
 host-suffix, coolsite.vip, cn
+host-suffix, dcloudlive.com, cn
+host-suffix, dcloudlive.net, cn
+host-suffix, dcloudsp.com, cn
+host-suffix, dcloudsp.net, cn
+host-suffix, dcloudstc.com, cn
+host-suffix, dcloudstc.net, cn
+host-suffix, dcloudvod.com, cn
+host-suffix, dcloudvod.net, cn
 host-suffix, dnsv1.com, cn
 host-suffix, dnsv1.com.cn, cn
 host-suffix, dothework.cn, cn
@@ -6454,6 +6480,7 @@ host-suffix, tencentcloudses.com, cn
 host-suffix, tencentcos.cn, cn
 host-suffix, tencentcos.com, cn
 host-suffix, tencentcos.com.cn, cn
+host-suffix, tencentcs.cn, cn
 host-suffix, tencentcs.com, cn
 host-suffix, tencentdayu.com, cn
 host-suffix, tencentdb.com, cn
@@ -6811,7 +6838,6 @@ host-suffix, mi-idc.com, cn
 host-suffix, mi-img.com, cn
 host-suffix, mi.com, cn
 host-suffix, mifile.cn, cn
-host-suffix, migames.com, cn
 host-suffix, mijia.tech, cn
 host-suffix, mitvos.com, cn
 host-suffix, miui.com, cn
@@ -6838,6 +6864,8 @@ host-suffix, xiaomisa.net, cn
 host-suffix, xiaomisa.org, cn
 host-suffix, xiaomiwear.com, cn
 host-suffix, xiaomixiaoai.com, cn
+host-suffix, migames.com, cn
+host-suffix, wali.com, cn
 host-suffix, airstarfinance.net, cn
 host-suffix, mipay.com, cn
 host-suffix, duokan.com, cn
