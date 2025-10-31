@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,zhaopin.cn
 DOMAIN-SUFFIX,moseeker.com
 DOMAIN-SUFFIX,huorong.cn
+DOMAIN-SUFFIX,quickapp.cn
 DOMAIN-SUFFIX,socpk.com
 DOMAIN-SUFFIX,udesk.cn
 DOMAIN-SUFFIX,fdcyun.com
@@ -2146,7 +2147,10 @@ DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,roomeet.cn
 DOMAIN-SUFFIX,xinchong.com
 DOMAIN-SUFFIX,zhuancorp.com
+DOMAIN-SUFFIX,zhuaninc.com
+DOMAIN-SUFFIX,zhuanspirit.cn
 DOMAIN-SUFFIX,zhuanspirit.com
+DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,58ganji.com
 DOMAIN-SUFFIX,58ganji-corp.com
@@ -3360,6 +3364,7 @@ DOMAIN-SUFFIX,ruanmei.com
 DOMAIN-SUFFIX,saayaa.com
 DOMAIN-SUFFIX,win7china.com
 DOMAIN-SUFFIX,win8china.com
+DOMAIN-SUFFIX,zuihuimai.com
 DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,focus-img.cn
 DOMAIN-SUFFIX,focus.cn
@@ -4543,6 +4548,7 @@ DOMAIN-SUFFIX,bce-cdn.cn
 DOMAIN-SUFFIX,bce-cdn.com
 DOMAIN-SUFFIX,bce-cdn.net
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,bdcloudapi.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -4578,6 +4584,7 @@ DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tiebaimg.com
 DOMAIN-SUFFIX,xianfae.com
 DOMAIN-SUFFIX,xiaodutv.com
+DOMAIN-SUFFIX,yoojia.com
 DOMAIN-SUFFIX,duxiaoman-int.com
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,duxiaomanfintech.com
@@ -6796,6 +6803,7 @@ DOMAIN-SUFFIX,vivo.cn
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,vivoglobal.com
+DOMAIN-SUFFIX,vvstc.com
 DOMAIN-SUFFIX,mgslb.com
 DOMAIN-SUFFIX,mi-idc.com
 DOMAIN-SUFFIX,mi-img.com
@@ -6926,6 +6934,7 @@ DOMAIN-SUFFIX,chinatelecom-h.com
 DOMAIN-SUFFIX,chinatelecom.com.cn
 DOMAIN-SUFFIX,chinatelecomglobal.com
 DOMAIN-SUFFIX,chntel.com
+DOMAIN-SUFFIX,vnet.cn
 DOMAIN-SUFFIX,chinatelecomhk.com
 DOMAIN-SUFFIX,ctexcel.ca
 DOMAIN-SUFFIX,ctexcel.com
@@ -6992,6 +7001,8 @@ DOMAIN-SUFFIX,sinopecgroup.com
 DOMAIN-SUFFIX,sinopecnews.com.cn
 DOMAIN-SUFFIX,sinopecsales.com
 DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,aiqicha.cn
+DOMAIN-SUFFIX,aiqicha.com
 DOMAIN-SUFFIX,hongdunwang.com.cn
 DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qichacha.com

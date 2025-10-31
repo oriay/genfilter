@@ -24,6 +24,7 @@ host-suffix, bce-cdn.cn, baidu
 host-suffix, bce-cdn.com, baidu
 host-suffix, bce-cdn.net, baidu
 host-suffix, bcebos.com, baidu
+host-suffix, bcelive.com, baidu
 host-suffix, bdcloudapi.com, baidu
 host-suffix, bdimg.com, baidu
 host-suffix, bdstatic.com, baidu
@@ -59,6 +60,7 @@ host-suffix, tieba.com, baidu
 host-suffix, tiebaimg.com, baidu
 host-suffix, xianfae.com, baidu
 host-suffix, xiaodutv.com, baidu
+host-suffix, yoojia.com, baidu
 host-suffix, duxiaoman-int.com, baidu
 host-suffix, duxiaoman.com, baidu
 host-suffix, duxiaomanfintech.com, baidu

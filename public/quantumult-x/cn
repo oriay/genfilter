@@ -97,6 +97,7 @@ host-suffix, bosszhipin.com, cn
 host-suffix, zhaopin.cn, cn
 host-suffix, moseeker.com, cn
 host-suffix, huorong.cn, cn
+host-suffix, quickapp.cn, cn
 host-suffix, socpk.com, cn
 host-suffix, udesk.cn, cn
 host-suffix, fdcyun.com, cn
@@ -2183,7 +2184,10 @@ host-suffix, jxksw.net, cn
 host-suffix, roomeet.cn, cn
 host-suffix, xinchong.com, cn
 host-suffix, zhuancorp.com, cn
+host-suffix, zhuaninc.com, cn
+host-suffix, zhuanspirit.cn, cn
 host-suffix, zhuanspirit.com, cn
+host-suffix, zhuanstatic.com, cn
 host-suffix, zhuanzhuan.com, cn
 host-suffix, 58ganji.com, cn
 host-suffix, 58ganji-corp.com, cn
@@ -3397,6 +3401,7 @@ host-suffix, ruanmei.com, cn
 host-suffix, saayaa.com, cn
 host-suffix, win7china.com, cn
 host-suffix, win8china.com, cn
+host-suffix, zuihuimai.com, cn
 host-suffix, sohu, cn
 host-suffix, focus-img.cn, cn
 host-suffix, focus.cn, cn
@@ -4580,6 +4585,7 @@ host-suffix, bce-cdn.cn, cn
 host-suffix, bce-cdn.com, cn
 host-suffix, bce-cdn.net, cn
 host-suffix, bcebos.com, cn
+host-suffix, bcelive.com, cn
 host-suffix, bdcloudapi.com, cn
 host-suffix, bdimg.com, cn
 host-suffix, bdstatic.com, cn
@@ -4615,6 +4621,7 @@ host-suffix, tieba.com, cn
 host-suffix, tiebaimg.com, cn
 host-suffix, xianfae.com, cn
 host-suffix, xiaodutv.com, cn
+host-suffix, yoojia.com, cn
 host-suffix, duxiaoman-int.com, cn
 host-suffix, duxiaoman.com, cn
 host-suffix, duxiaomanfintech.com, cn
@@ -6833,6 +6840,7 @@ host-suffix, vivo.cn, cn
 host-suffix, vivo.com, cn
 host-suffix, vivo.com.cn, cn
 host-suffix, vivoglobal.com, cn
+host-suffix, vvstc.com, cn
 host-suffix, mgslb.com, cn
 host-suffix, mi-idc.com, cn
 host-suffix, mi-img.com, cn
@@ -6963,6 +6971,7 @@ host-suffix, chinatelecom-h.com, cn
 host-suffix, chinatelecom.com.cn, cn
 host-suffix, chinatelecomglobal.com, cn
 host-suffix, chntel.com, cn
+host-suffix, vnet.cn, cn
 host-suffix, chinatelecomhk.com, cn
 host-suffix, ctexcel.ca, cn
 host-suffix, ctexcel.com, cn
@@ -7029,6 +7038,8 @@ host-suffix, sinopecgroup.com, cn
 host-suffix, sinopecnews.com.cn, cn
 host-suffix, sinopecsales.com, cn
 host-suffix, aiqicha.baidu.com, cn
+host-suffix, aiqicha.cn, cn
+host-suffix, aiqicha.com, cn
 host-suffix, hongdunwang.com.cn, cn
 host-suffix, qcc.com, cn
 host-suffix, qichacha.com, cn

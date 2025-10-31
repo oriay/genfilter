@@ -10083,6 +10083,7 @@ host-suffix, bookshome.info, geolocation-!cn
 host-suffix, bookshome.net, geolocation-!cn
 host-suffix, bookshome.world, geolocation-!cn
 host-suffix, de1lib.org, geolocation-!cn
+host-suffix, dln1.ncdn.ec, geolocation-!cn
 host-suffix, hk1lib.org, geolocation-!cn
 host-suffix, libsolutions.app, geolocation-!cn
 host-suffix, libsolutions.domains, geolocation-!cn
@@ -21747,6 +21748,7 @@ host-suffix, redhat.com, geolocation-!cn
 host-suffix, redhat.org, geolocation-!cn
 host-suffix, scala-lang.org, geolocation-!cn
 host-suffix, scala-sbt.org, geolocation-!cn
+host-suffix, sentry.io, geolocation-!cn
 host-suffix, sourcehut.org, geolocation-!cn
 host-suffix, sr.ht, geolocation-!cn
 host-suffix, askubuntu.com, geolocation-!cn

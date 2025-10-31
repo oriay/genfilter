@@ -60,6 +60,7 @@ host-suffix, bosszhipin.com, geolocation-cn
 host-suffix, zhaopin.cn, geolocation-cn
 host-suffix, moseeker.com, geolocation-cn
 host-suffix, huorong.cn, geolocation-cn
+host-suffix, quickapp.cn, geolocation-cn
 host-suffix, socpk.com, geolocation-cn
 host-suffix, udesk.cn, geolocation-cn
 host-suffix, fdcyun.com, geolocation-cn
@@ -2146,7 +2147,10 @@ host-suffix, jxksw.net, geolocation-cn
 host-suffix, roomeet.cn, geolocation-cn
 host-suffix, xinchong.com, geolocation-cn
 host-suffix, zhuancorp.com, geolocation-cn
+host-suffix, zhuaninc.com, geolocation-cn
+host-suffix, zhuanspirit.cn, geolocation-cn
 host-suffix, zhuanspirit.com, geolocation-cn
+host-suffix, zhuanstatic.com, geolocation-cn
 host-suffix, zhuanzhuan.com, geolocation-cn
 host-suffix, 58ganji.com, geolocation-cn
 host-suffix, 58ganji-corp.com, geolocation-cn
@@ -3360,6 +3364,7 @@ host-suffix, ruanmei.com, geolocation-cn
 host-suffix, saayaa.com, geolocation-cn
 host-suffix, win7china.com, geolocation-cn
 host-suffix, win8china.com, geolocation-cn
+host-suffix, zuihuimai.com, geolocation-cn
 host-suffix, sohu, geolocation-cn
 host-suffix, focus-img.cn, geolocation-cn
 host-suffix, focus.cn, geolocation-cn
@@ -4543,6 +4548,7 @@ host-suffix, bce-cdn.cn, geolocation-cn
 host-suffix, bce-cdn.com, geolocation-cn
 host-suffix, bce-cdn.net, geolocation-cn
 host-suffix, bcebos.com, geolocation-cn
+host-suffix, bcelive.com, geolocation-cn
 host-suffix, bdcloudapi.com, geolocation-cn
 host-suffix, bdimg.com, geolocation-cn
 host-suffix, bdstatic.com, geolocation-cn
@@ -4578,6 +4584,7 @@ host-suffix, tieba.com, geolocation-cn
 host-suffix, tiebaimg.com, geolocation-cn
 host-suffix, xianfae.com, geolocation-cn
 host-suffix, xiaodutv.com, geolocation-cn
+host-suffix, yoojia.com, geolocation-cn
 host-suffix, duxiaoman-int.com, geolocation-cn
 host-suffix, duxiaoman.com, geolocation-cn
 host-suffix, duxiaomanfintech.com, geolocation-cn
@@ -6796,6 +6803,7 @@ host-suffix, vivo.cn, geolocation-cn
 host-suffix, vivo.com, geolocation-cn
 host-suffix, vivo.com.cn, geolocation-cn
 host-suffix, vivoglobal.com, geolocation-cn
+host-suffix, vvstc.com, geolocation-cn
 host-suffix, mgslb.com, geolocation-cn
 host-suffix, mi-idc.com, geolocation-cn
 host-suffix, mi-img.com, geolocation-cn
@@ -6926,6 +6934,7 @@ host-suffix, chinatelecom-h.com, geolocation-cn
 host-suffix, chinatelecom.com.cn, geolocation-cn
 host-suffix, chinatelecomglobal.com, geolocation-cn
 host-suffix, chntel.com, geolocation-cn
+host-suffix, vnet.cn, geolocation-cn
 host-suffix, chinatelecomhk.com, geolocation-cn
 host-suffix, ctexcel.ca, geolocation-cn
 host-suffix, ctexcel.com, geolocation-cn
@@ -6992,6 +7001,8 @@ host-suffix, sinopecgroup.com, geolocation-cn
 host-suffix, sinopecnews.com.cn, geolocation-cn
 host-suffix, sinopecsales.com, geolocation-cn
 host-suffix, aiqicha.baidu.com, geolocation-cn
+host-suffix, aiqicha.cn, geolocation-cn
+host-suffix, aiqicha.com, geolocation-cn
 host-suffix, hongdunwang.com.cn, geolocation-cn
 host-suffix, qcc.com, geolocation-cn
 host-suffix, qichacha.com, geolocation-cn
