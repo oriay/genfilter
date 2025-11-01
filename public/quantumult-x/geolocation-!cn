@@ -9,6 +9,7 @@ host-suffix, onetrust.com, geolocation-!cn
 host-suffix, greasyfork.org, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
+host-suffix, immersivetranslate.com, geolocation-!cn
 host-suffix, coderabbit.ai, geolocation-!cn
 host-suffix, coderabbit.gallery.vsassets.io, geolocation-!cn
 host-suffix, clipdrop.co, geolocation-!cn

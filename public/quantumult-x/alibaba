@@ -6,6 +6,7 @@ host-suffix, 25pp.com, alibaba
 host-suffix, 56che.com, alibaba
 host-suffix, 95095.com, alibaba
 host-suffix, 9game.cn, alibaba
+host-suffix, ali-health.com, alibaba
 host-suffix, aliapp.org, alibaba
 host-suffix, alibaba-inc.com, alibaba
 host-suffix, alibaba.com, alibaba
@@ -270,6 +271,7 @@ host-suffix, alicloudapi.com, alibaba
 host-suffix, alidayu.com, alibaba
 host-suffix, alidns.com, alibaba
 host-suffix, alikunlun.com, alibaba
+host-suffix, alikunlun.net, alibaba
 host-suffix, aliyun-inc.com, alibaba
 host-suffix, aliyun-iot-share.com, alibaba
 host-suffix, aliyun.com, alibaba
