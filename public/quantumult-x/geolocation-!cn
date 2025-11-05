@@ -3669,6 +3669,8 @@ host-suffix, farfetch.com.cn, geolocation-!cn
 host-suffix, farfetch.net, geolocation-!cn
 host-suffix, farfetch.net.cn, geolocation-!cn
 host-suffix, fflnk.net, geolocation-!cn
+host-suffix, ggsel.com, geolocation-!cn
+host-suffix, ggsel.net, geolocation-!cn
 host-suffix, gucci, geolocation-!cn
 host-suffix, chimeforchange.org, geolocation-!cn
 host-suffix, gucci.cn, geolocation-!cn
@@ -11217,6 +11219,7 @@ host-suffix, dlsite.jp, geolocation-!cn
 host-suffix, dlsitestudio.com, geolocation-!cn
 host-suffix, nijiyome.jp, geolocation-!cn
 host-suffix, triokini.com, geolocation-!cn
+host-suffix, ficbook.net, geolocation-!cn
 host-suffix, gimy.cc, geolocation-!cn
 host-suffix, gimy.co, geolocation-!cn
 host-suffix, gimy.to, geolocation-!cn
