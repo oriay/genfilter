@@ -23,6 +23,12 @@ host-suffix, cursor-cdn.com, category-ai-!cn
 host-suffix, cursor.com, category-ai-!cn
 host-suffix, cursor.sh, category-ai-!cn
 host-suffix, cursorapi.com, category-ai-!cn
+host-suffix, cici.com, category-ai-!cn
+host-suffix, ciciai.com, category-ai-!cn
+host-suffix, ciciaicdn.com, category-ai-!cn
+host-suffix, dola.com, category-ai-!cn
+host-suffix, elevenlabs.com, category-ai-!cn
+host-suffix, elevenlabs.io, category-ai-!cn
 host-suffix, deepmind.com, category-ai-!cn
 host-suffix, deepmind.google, category-ai-!cn
 host-suffix, geller-pa.googleapis.com, category-ai-!cn
