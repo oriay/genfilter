@@ -2811,24 +2811,26 @@ host-suffix, bilibili.net, geolocation-cn
 host-suffix, bilibili.tv, geolocation-cn
 host-suffix, bilibilipay.cn, geolocation-cn
 host-suffix, bilibilipay.com, geolocation-cn
-host-suffix, bilicdn1.com, geolocation-cn
-host-suffix, bilicdn2.com, geolocation-cn
-host-suffix, bilicdn3.com, geolocation-cn
-host-suffix, bilicdn4.com, geolocation-cn
-host-suffix, bilicdn5.com, geolocation-cn
 host-suffix, biligo.com, geolocation-cn
-host-suffix, biliimg.com, geolocation-cn
 host-suffix, biliintl.com, geolocation-cn
-host-suffix, bilivideo.cn, geolocation-cn
-host-suffix, bilivideo.com, geolocation-cn
-host-suffix, bilivideo.net, geolocation-cn
 host-suffix, dreamcast.hk, geolocation-cn
-host-suffix, hdslb.com, geolocation-cn
-host-suffix, hdslb.org, geolocation-cn
 host-suffix, im9.com, geolocation-cn
-host-suffix, maoercdn.com, geolocation-cn
-host-suffix, mincdn.com, geolocation-cn
 host-suffix, yo9.com, geolocation-cn
+host-suffix, bilicdn1.com, geolocation-cn
+host-suffix, bilicdn2.com, geolocation-cn
+host-suffix, bilicdn3.com, geolocation-cn
+host-suffix, bilicdn4.com, geolocation-cn
+host-suffix, bilicdn5.com, geolocation-cn
+host-suffix, biliimg.com, geolocation-cn
+host-suffix, bilivideo.cn, geolocation-cn
+host-suffix, bilivideo.com, geolocation-cn
+host-suffix, bilivideo.net, geolocation-cn
+host-suffix, hdslb.com, geolocation-cn
+host-suffix, hdslb.org, geolocation-cn
+host-suffix, , geolocation-cn
+host-suffix, maoercdn.com, geolocation-cn
+host-suffix, mincdn.com, geolocation-cn
+host-suffix, , geolocation-cn
 host, upos-hz-mirrorakam.akamaized.net, geolocation-cn
 host-suffix, bilibiligame.cn, geolocation-cn
 host-suffix, bilibiligame.co, geolocation-cn

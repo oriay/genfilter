@@ -256,24 +256,26 @@ host-suffix, bilibili.net, category-entertainment-cn
 host-suffix, bilibili.tv, category-entertainment-cn
 host-suffix, bilibilipay.cn, category-entertainment-cn
 host-suffix, bilibilipay.com, category-entertainment-cn
-host-suffix, bilicdn1.com, category-entertainment-cn
-host-suffix, bilicdn2.com, category-entertainment-cn
-host-suffix, bilicdn3.com, category-entertainment-cn
-host-suffix, bilicdn4.com, category-entertainment-cn
-host-suffix, bilicdn5.com, category-entertainment-cn
 host-suffix, biligo.com, category-entertainment-cn
-host-suffix, biliimg.com, category-entertainment-cn
 host-suffix, biliintl.com, category-entertainment-cn
-host-suffix, bilivideo.cn, category-entertainment-cn
-host-suffix, bilivideo.com, category-entertainment-cn
-host-suffix, bilivideo.net, category-entertainment-cn
 host-suffix, dreamcast.hk, category-entertainment-cn
-host-suffix, hdslb.com, category-entertainment-cn
-host-suffix, hdslb.org, category-entertainment-cn
 host-suffix, im9.com, category-entertainment-cn
-host-suffix, maoercdn.com, category-entertainment-cn
-host-suffix, mincdn.com, category-entertainment-cn
 host-suffix, yo9.com, category-entertainment-cn
+host-suffix, bilicdn1.com, category-entertainment-cn
+host-suffix, bilicdn2.com, category-entertainment-cn
+host-suffix, bilicdn3.com, category-entertainment-cn
+host-suffix, bilicdn4.com, category-entertainment-cn
+host-suffix, bilicdn5.com, category-entertainment-cn
+host-suffix, biliimg.com, category-entertainment-cn
+host-suffix, bilivideo.cn, category-entertainment-cn
+host-suffix, bilivideo.com, category-entertainment-cn
+host-suffix, bilivideo.net, category-entertainment-cn
+host-suffix, hdslb.com, category-entertainment-cn
+host-suffix, hdslb.org, category-entertainment-cn
+host-suffix, , category-entertainment-cn
+host-suffix, maoercdn.com, category-entertainment-cn
+host-suffix, mincdn.com, category-entertainment-cn
+host-suffix, , category-entertainment-cn
 host, upos-hz-mirrorakam.akamaized.net, category-entertainment-cn
 host-suffix, bilibiligame.cn, category-entertainment-cn
 host-suffix, bilibiligame.co, category-entertainment-cn

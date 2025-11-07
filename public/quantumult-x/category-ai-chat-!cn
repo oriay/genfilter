@@ -51,6 +51,7 @@ host-suffix, jules.google, category-ai-chat-!cn
 host-suffix, jules.google.com, category-ai-chat-!cn
 host-suffix, labs.google, category-ai-chat-!cn
 host-suffix, aisandbox-pa.googleapis.com, category-ai-chat-!cn
+host-suffix, aida.googleapis.com, category-ai-chat-!cn
 host-suffix, groq.com, category-ai-chat-!cn
 host-suffix, hf.co, category-ai-chat-!cn
 host-suffix, huggingface.co, category-ai-chat-!cn

@@ -63,6 +63,7 @@ host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
+host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
 host-suffix, hf.co, geolocation-!cn
 host-suffix, huggingface.co, geolocation-!cn
@@ -26337,6 +26338,7 @@ host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
+host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
@@ -26359,6 +26361,7 @@ host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
+host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, googleplay.com, geolocation-!cn
 host-suffix, play-fe.googleapis.com, geolocation-!cn
 host-suffix, play-games.googleusercontent.com, geolocation-!cn

@@ -807,6 +807,7 @@ host-suffix, jules.google, google
 host-suffix, jules.google.com, google
 host-suffix, labs.google, google
 host-suffix, aisandbox-pa.googleapis.com, google
+host-suffix, aida.googleapis.com, google
 host-suffix, deepmind.com, google
 host-suffix, deepmind.google, google
 host-suffix, geller-pa.googleapis.com, google
@@ -829,6 +830,7 @@ host-suffix, jules.google, google
 host-suffix, jules.google.com, google
 host-suffix, labs.google, google
 host-suffix, aisandbox-pa.googleapis.com, google
+host-suffix, aida.googleapis.com, google
 host-suffix, googleplay.com, google
 host-suffix, play-fe.googleapis.com, google
 host-suffix, play-games.googleusercontent.com, google

@@ -2848,24 +2848,26 @@ host-suffix, bilibili.net, cn
 host-suffix, bilibili.tv, cn
 host-suffix, bilibilipay.cn, cn
 host-suffix, bilibilipay.com, cn
-host-suffix, bilicdn1.com, cn
-host-suffix, bilicdn2.com, cn
-host-suffix, bilicdn3.com, cn
-host-suffix, bilicdn4.com, cn
-host-suffix, bilicdn5.com, cn
 host-suffix, biligo.com, cn
-host-suffix, biliimg.com, cn
 host-suffix, biliintl.com, cn
-host-suffix, bilivideo.cn, cn
-host-suffix, bilivideo.com, cn
-host-suffix, bilivideo.net, cn
 host-suffix, dreamcast.hk, cn
-host-suffix, hdslb.com, cn
-host-suffix, hdslb.org, cn
 host-suffix, im9.com, cn
-host-suffix, maoercdn.com, cn
-host-suffix, mincdn.com, cn
 host-suffix, yo9.com, cn
+host-suffix, bilicdn1.com, cn
+host-suffix, bilicdn2.com, cn
+host-suffix, bilicdn3.com, cn
+host-suffix, bilicdn4.com, cn
+host-suffix, bilicdn5.com, cn
+host-suffix, biliimg.com, cn
+host-suffix, bilivideo.cn, cn
+host-suffix, bilivideo.com, cn
+host-suffix, bilivideo.net, cn
+host-suffix, hdslb.com, cn
+host-suffix, hdslb.org, cn
+host-suffix, , cn
+host-suffix, maoercdn.com, cn
+host-suffix, mincdn.com, cn
+host-suffix, , cn
 host, upos-hz-mirrorakam.akamaized.net, cn
 host-suffix, bilibiligame.cn, cn
 host-suffix, bilibiligame.co, cn
