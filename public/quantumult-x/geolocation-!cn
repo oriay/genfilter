@@ -10575,6 +10575,7 @@ host-suffix, spyjinx.com, geolocation-!cn
 host-suffix, twinmotion.com, geolocation-!cn
 host-suffix, unrealengine.com, geolocation-!cn
 host-suffix, unrealtournament.com, geolocation-!cn
+host-suffix, egdownload.fastly-edge.com, geolocation-!cn
 host-suffix, tarkov.com, geolocation-!cn
 host-suffix, eft-store.com, geolocation-!cn
 host-suffix, escapefromtarkov.com, geolocation-!cn

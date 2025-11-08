@@ -25,6 +25,7 @@ host, download3.epicgames.com, category-game-platforms-download
 host, download4.epicgames.com, category-game-platforms-download
 host, epicgames-download1.akamaized.net, category-game-platforms-download
 host, fastly-download.epicgames.com, category-game-platforms-download
+host-suffix, egdownload.fastly-edge.com, category-game-platforms-download
 host, cloudflare.epicgamescdn.com, category-game-platforms-download
 host, epicgames-download1-1251447533.file.myqcloud.com, category-game-platforms-download
 host, blizzard.gcdn.cloudn.co.kr, category-game-platforms-download

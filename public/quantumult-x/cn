@@ -109,6 +109,8 @@ host-suffix, kaipuyun.cn, cn
 host-suffix, kaipuyun.com, cn
 host-suffix, kaipuyun.com.cn, cn
 host-suffix, kaipuyun.net, cn
+host-suffix, deepepg.com, cn
+host-suffix, kookong.com, cn
 host-suffix, 51togic.com, cn
 host-suffix, ezpro.pro, cn
 host-suffix, itdog.cn, cn
@@ -1879,6 +1881,8 @@ host-suffix, ztogroup.com, cn
 host-suffix, ztoyh.com, cn
 host-suffix, analog.com, cn
 host-suffix, arrow.cn, cn
+host-suffix, boe.com, cn
+host-suffix, boe.com.cn, cn
 host-suffix, bouffalolab.com, cn
 host-suffix, esp8266.cn, cn
 host-suffix, esp8266.com, cn
@@ -1891,7 +1895,7 @@ host-suffix, elecfans.com, cn
 host-suffix, hqchip.com, cn
 host-suffix, hqdoc.com, cn
 host-suffix, hqpcb.com, cn
-host-suffix, infineon.com, cn
+host-suffix, infineon.cn, cn
 host-suffix, quecmall.cn, cn
 host-suffix, quectel.com.cn, cn
 host-suffix, iotronic.tech, cn
@@ -1902,7 +1906,6 @@ host-suffix, seeed.com.cn, cn
 host-suffix, seeedstudio.com.cn, cn
 host-suffix, sipeed.com, cn
 host-suffix, maixhub.com, cn
-host-suffix, ti.com, cn
 host-suffix, ti.com.cn, cn
 host-suffix, wch.cn, cn
 host-suffix, wch-ic.com, cn
@@ -5956,6 +5959,7 @@ host-suffix, guanggaotongapp.cn, cn
 host-suffix, jutongbao.online, cn
 host-suffix, jutongbao.top, cn
 host-suffix, kimg.cn, cn
+host-suffix, kingsoft-office-service.com, cn
 host-suffix, kingsoft.com, cn
 host-suffix, ks-live.com, cn
 host-suffix, ksmobile.com, cn
@@ -6072,12 +6076,14 @@ host-suffix, 127.net, cn
 host-suffix, 163.com, cn
 host-suffix, 163cn.tv, cn
 host-suffix, 163industry.com, cn
+host-suffix, 163jiasu.com, cn
 host-suffix, 163mail.com, cn
 host-suffix, 163qiyukf.com, cn
 host-suffix, 163yun.com, cn
 host-suffix, 166.com, cn
 host-suffix, 166.net, cn
 host-suffix, 188.com, cn
+host-suffix, 321fenx.com, cn
 host-suffix, haowu.link, cn
 host-suffix, icourse163.org, cn
 host-suffix, lofter.com, cn
@@ -6085,7 +6091,11 @@ host-suffix, nease.net, cn
 host-suffix, netease-inc.com, cn
 host-suffix, netease.com, cn
 host-suffix, netease.im, cn
+host-suffix, netstatic.net, cn
 host-suffix, qiyukf.com, cn
+host-suffix, qiyukf.net, cn
+host-suffix, qiyukf.net.cn, cn
+host-suffix, static163.net, cn
 host-suffix, ydstatic.com, cn
 host-suffix, yeah.net, cn
 host-suffix, youdao.com, cn

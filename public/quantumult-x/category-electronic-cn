@@ -1,5 +1,7 @@
 host-suffix, analog.com, category-electronic-cn
 host-suffix, arrow.cn, category-electronic-cn
+host-suffix, boe.com, category-electronic-cn
+host-suffix, boe.com.cn, category-electronic-cn
 host-suffix, bouffalolab.com, category-electronic-cn
 host-suffix, esp8266.cn, category-electronic-cn
 host-suffix, esp8266.com, category-electronic-cn
@@ -12,7 +14,7 @@ host-suffix, elecfans.com, category-electronic-cn
 host-suffix, hqchip.com, category-electronic-cn
 host-suffix, hqdoc.com, category-electronic-cn
 host-suffix, hqpcb.com, category-electronic-cn
-host-suffix, infineon.com, category-electronic-cn
+host-suffix, infineon.cn, category-electronic-cn
 host-suffix, quecmall.cn, category-electronic-cn
 host-suffix, quectel.com.cn, category-electronic-cn
 host-suffix, iotronic.tech, category-electronic-cn
@@ -23,7 +25,6 @@ host-suffix, seeed.com.cn, category-electronic-cn
 host-suffix, seeedstudio.com.cn, category-electronic-cn
 host-suffix, sipeed.com, category-electronic-cn
 host-suffix, maixhub.com, category-electronic-cn
-host-suffix, ti.com, category-electronic-cn
 host-suffix, ti.com.cn, category-electronic-cn
 host-suffix, wch.cn, category-electronic-cn
 host-suffix, wch-ic.com, category-electronic-cn

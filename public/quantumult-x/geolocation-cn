@@ -72,6 +72,8 @@ host-suffix, kaipuyun.cn, geolocation-cn
 host-suffix, kaipuyun.com, geolocation-cn
 host-suffix, kaipuyun.com.cn, geolocation-cn
 host-suffix, kaipuyun.net, geolocation-cn
+host-suffix, deepepg.com, geolocation-cn
+host-suffix, kookong.com, geolocation-cn
 host-suffix, 51togic.com, geolocation-cn
 host-suffix, ezpro.pro, geolocation-cn
 host-suffix, itdog.cn, geolocation-cn
@@ -1842,6 +1844,8 @@ host-suffix, ztogroup.com, geolocation-cn
 host-suffix, ztoyh.com, geolocation-cn
 host-suffix, analog.com, geolocation-cn
 host-suffix, arrow.cn, geolocation-cn
+host-suffix, boe.com, geolocation-cn
+host-suffix, boe.com.cn, geolocation-cn
 host-suffix, bouffalolab.com, geolocation-cn
 host-suffix, esp8266.cn, geolocation-cn
 host-suffix, esp8266.com, geolocation-cn
@@ -1854,7 +1858,7 @@ host-suffix, elecfans.com, geolocation-cn
 host-suffix, hqchip.com, geolocation-cn
 host-suffix, hqdoc.com, geolocation-cn
 host-suffix, hqpcb.com, geolocation-cn
-host-suffix, infineon.com, geolocation-cn
+host-suffix, infineon.cn, geolocation-cn
 host-suffix, quecmall.cn, geolocation-cn
 host-suffix, quectel.com.cn, geolocation-cn
 host-suffix, iotronic.tech, geolocation-cn
@@ -1865,7 +1869,6 @@ host-suffix, seeed.com.cn, geolocation-cn
 host-suffix, seeedstudio.com.cn, geolocation-cn
 host-suffix, sipeed.com, geolocation-cn
 host-suffix, maixhub.com, geolocation-cn
-host-suffix, ti.com, geolocation-cn
 host-suffix, ti.com.cn, geolocation-cn
 host-suffix, wch.cn, geolocation-cn
 host-suffix, wch-ic.com, geolocation-cn
@@ -5919,6 +5922,7 @@ host-suffix, guanggaotongapp.cn, geolocation-cn
 host-suffix, jutongbao.online, geolocation-cn
 host-suffix, jutongbao.top, geolocation-cn
 host-suffix, kimg.cn, geolocation-cn
+host-suffix, kingsoft-office-service.com, geolocation-cn
 host-suffix, kingsoft.com, geolocation-cn
 host-suffix, ks-live.com, geolocation-cn
 host-suffix, ksmobile.com, geolocation-cn
@@ -6035,12 +6039,14 @@ host-suffix, 127.net, geolocation-cn
 host-suffix, 163.com, geolocation-cn
 host-suffix, 163cn.tv, geolocation-cn
 host-suffix, 163industry.com, geolocation-cn
+host-suffix, 163jiasu.com, geolocation-cn
 host-suffix, 163mail.com, geolocation-cn
 host-suffix, 163qiyukf.com, geolocation-cn
 host-suffix, 163yun.com, geolocation-cn
 host-suffix, 166.com, geolocation-cn
 host-suffix, 166.net, geolocation-cn
 host-suffix, 188.com, geolocation-cn
+host-suffix, 321fenx.com, geolocation-cn
 host-suffix, haowu.link, geolocation-cn
 host-suffix, icourse163.org, geolocation-cn
 host-suffix, lofter.com, geolocation-cn
@@ -6048,7 +6054,11 @@ host-suffix, nease.net, geolocation-cn
 host-suffix, netease-inc.com, geolocation-cn
 host-suffix, netease.com, geolocation-cn
 host-suffix, netease.im, geolocation-cn
+host-suffix, netstatic.net, geolocation-cn
 host-suffix, qiyukf.com, geolocation-cn
+host-suffix, qiyukf.net, geolocation-cn
+host-suffix, qiyukf.net.cn, geolocation-cn
+host-suffix, static163.net, geolocation-cn
 host-suffix, ydstatic.com, geolocation-cn
 host-suffix, yeah.net, geolocation-cn
 host-suffix, youdao.com, geolocation-cn
