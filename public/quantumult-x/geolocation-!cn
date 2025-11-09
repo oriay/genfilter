@@ -12,6 +12,8 @@ host-suffix, touhouwiki.net, geolocation-!cn
 host-suffix, immersivetranslate.com, geolocation-!cn
 host-suffix, coderabbit.ai, geolocation-!cn
 host-suffix, coderabbit.gallery.vsassets.io, geolocation-!cn
+host-suffix, cohere.ai, geolocation-!cn
+host-suffix, cohere.com, geolocation-!cn
 host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
 host-suffix, chutes.ai, geolocation-!cn
@@ -11871,6 +11873,8 @@ host-suffix, rmbl.ws, geolocation-!cn
 host-suffix, rumble.com, geolocation-!cn
 host-suffix, embed-cdn.com, geolocation-!cn
 host-suffix, streamable.com, geolocation-!cn
+host-suffix, terabox.com, geolocation-!cn
+host-suffix, teraboxcdn.com, geolocation-!cn
 host, bbs.boingboing.net, geolocation-!cn
 host-suffix, 18p2p.com, geolocation-!cn
 host-suffix, 8chan.moe, geolocation-!cn
