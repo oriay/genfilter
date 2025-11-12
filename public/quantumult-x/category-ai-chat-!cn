@@ -20,15 +20,17 @@ host-suffix, claude.com, category-ai-chat-!cn
 host-suffix, claudeusercontent.com, category-ai-chat-!cn
 host-suffix, claudemcpclient.com, category-ai-chat-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-chat-!cn
+host-suffix, , category-ai-chat-!cn
+host-suffix, coze.com, category-ai-chat-!cn
+host-suffix, , category-ai-chat-!cn
+host-suffix, marscode.com, category-ai-chat-!cn
+host-suffix, trae.ai, category-ai-chat-!cn
+host-suffix, 404:, category-ai-chat-!cn
 host-suffix, cerebras.ai, category-ai-chat-!cn
 host-suffix, cursor-cdn.com, category-ai-chat-!cn
 host-suffix, cursor.com, category-ai-chat-!cn
 host-suffix, cursor.sh, category-ai-chat-!cn
 host-suffix, cursorapi.com, category-ai-chat-!cn
-host-suffix, cici.com, category-ai-chat-!cn
-host-suffix, ciciai.com, category-ai-chat-!cn
-host-suffix, ciciaicdn.com, category-ai-chat-!cn
-host-suffix, dola.com, category-ai-chat-!cn
 host-suffix, elevenlabs.com, category-ai-chat-!cn
 host-suffix, elevenlabs.io, category-ai-chat-!cn
 host-suffix, deepmind.com, category-ai-chat-!cn

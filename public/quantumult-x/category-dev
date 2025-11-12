@@ -41,6 +41,7 @@ host-suffix, mariadb.org, category-dev
 host-suffix, mingw.org, category-dev
 host-suffix, mobatek.net, category-dev
 host-suffix, mysql.com, category-dev
+host-suffix, neovim.io, category-dev
 host-suffix, nixos.org, category-dev
 host-suffix, nodesource.com, category-dev
 host-suffix, notepad-plus-plus.org, category-dev

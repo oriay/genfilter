@@ -24,6 +24,10 @@ host-suffix, qgzb.gov.cn, category-education-cn
 host-suffix, qgzb.net, category-education-cn
 host-suffix, zbbm.gov.cn, category-education-cn
 host-suffix, zbbm.net, category-education-cn
+host-suffix, cugbonline.cn, category-education-cn
+host-suffix, zhihuishu.com, category-education-cn
+host-suffix, j-test.com, category-education-cn
+host-suffix, nattest-china.com, category-education-cn
 host-suffix, yudou.cn, category-education-cn
 host-suffix, yushiyan.net, category-education-cn
 host-suffix, xuetangx.com, category-education-cn
@@ -106,6 +110,5 @@ host-suffix, fenbike.cn, category-education-cn
 host-suffix, fenbike.com, category-education-cn
 host-suffix, fenbilantian.cn, category-education-cn
 host-suffix, fenbilantian.com, category-education-cn
-host-suffix, zhihuishu.com, category-education-cn
 host-suffix, rainclassroom.com, category-education-cn
 host-suffix, yuketang.cn, category-education-cn

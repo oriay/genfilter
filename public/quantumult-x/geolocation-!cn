@@ -32,15 +32,17 @@ host-suffix, claude.com, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
 host-suffix, claudemcpclient.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
+host-suffix, , geolocation-!cn
+host-suffix, coze.com, geolocation-!cn
+host-suffix, , geolocation-!cn
+host-suffix, marscode.com, geolocation-!cn
+host-suffix, trae.ai, geolocation-!cn
+host-suffix, 404:, geolocation-!cn
 host-suffix, cerebras.ai, geolocation-!cn
 host-suffix, cursor-cdn.com, geolocation-!cn
 host-suffix, cursor.com, geolocation-!cn
 host-suffix, cursor.sh, geolocation-!cn
 host-suffix, cursorapi.com, geolocation-!cn
-host-suffix, cici.com, geolocation-!cn
-host-suffix, ciciai.com, geolocation-!cn
-host-suffix, ciciaicdn.com, geolocation-!cn
-host-suffix, dola.com, geolocation-!cn
 host-suffix, elevenlabs.com, geolocation-!cn
 host-suffix, elevenlabs.io, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
@@ -182,7 +184,9 @@ host-suffix, freebrowser.org, geolocation-!cn
 host-suffix, freewechat.com, geolocation-!cn
 host-suffix, freeweibo.com, geolocation-!cn
 host-suffix, freezhihu.org, geolocation-!cn
+host-suffix, googlecensorship.org, geolocation-!cn
 host-suffix, greatfire.org, geolocation-!cn
+host-suffix, greatfirevpn.com, geolocation-!cn
 host-suffix, pao-pao.net, geolocation-!cn
 host-suffix, wikiunblocked.org, geolocation-!cn
 host-suffix, haveibeenpwned.com, geolocation-!cn
@@ -20058,6 +20062,8 @@ host-suffix, bobovip.cc, geolocation-!cn
 host-suffix, sesez.com, geolocation-!cn
 host-suffix, bcicdn.com, geolocation-!cn
 host-suffix, bcrncdn.com, geolocation-!cn
+host-suffix, bcvcdn.com, geolocation-!cn
+host-suffix, bgicdn.com, geolocation-!cn
 host-suffix, bongacams.com, geolocation-!cn
 host-suffix, boylove.cc, geolocation-!cn
 host-suffix, boylove.live, geolocation-!cn
@@ -20828,12 +20834,14 @@ host-suffix, pulsebrowser.app, geolocation-!cn
 host-suffix, qutebrowser.org, geolocation-!cn
 host-suffix, vivaldi.com, geolocation-!cn
 host-suffix, waterfox.net, geolocation-!cn
+host-suffix, zen-browser.app, geolocation-!cn
 host-suffix, censorship.no, geolocation-!cn
 host-suffix, epicbrowser.com, geolocation-!cn
 host-suffix, firefox.com, geolocation-!cn
 host-suffix, firefoxusercontent.com, geolocation-!cn
 host-suffix, torproject.org, geolocation-!cn
 host-suffix, bluestacks.com, geolocation-!cn
+host-suffix, ldmnq.com, geolocation-!cn
 host-suffix, lsplayer.com, geolocation-!cn
 host-suffix, yeshen.com, geolocation-!cn
 host-suffix, maa.plus, geolocation-!cn
@@ -21398,6 +21406,7 @@ host-suffix, mariadb.org, geolocation-!cn
 host-suffix, mingw.org, geolocation-!cn
 host-suffix, mobatek.net, geolocation-!cn
 host-suffix, mysql.com, geolocation-!cn
+host-suffix, neovim.io, geolocation-!cn
 host-suffix, nixos.org, geolocation-!cn
 host-suffix, nodesource.com, geolocation-!cn
 host-suffix, notepad-plus-plus.org, geolocation-!cn
@@ -25150,6 +25159,11 @@ host-suffix, canon.ua, geolocation-!cn
 host-suffix, canon.uz, geolocation-!cn
 host-suffix, canonfoundation.org, geolocation-!cn
 host-suffix, canonproprinters.com, geolocation-!cn
+host-suffix, affinity.api.serifservices.com, geolocation-!cn
+host-suffix, affinity.studio, geolocation-!cn
+host-suffix, affinity-beta.s3.amazonaws.com, geolocation-!cn
+host-suffix, affinity-lessons.s3.amazonaws.com, geolocation-!cn
+host-suffix, canva.com, geolocation-!cn
 host-suffix, chegg.com, geolocation-!cn
 host-suffix, cheggcdn.com, geolocation-!cn
 host-suffix, cisco, geolocation-!cn

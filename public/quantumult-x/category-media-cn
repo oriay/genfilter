@@ -1,3 +1,14 @@
+host-suffix, jsbc.com, category-media-cn
+host-suffix, jstv.com, category-media-cn
+host-suffix, cztv.com, category-media-cn
+host-suffix, cztvcdn.com, category-media-cn
+host-suffix, cztvcloud.com, category-media-cn
+host-suffix, zjstv.com, category-media-cn
+host-suffix, dgtle.com, category-media-cn
+host-suffix, gcores.com, category-media-cn
+host-suffix, geekpark, category-media-cn
+host-suffix, solidot.org, category-media-cn
+host-suffix, sspai.com, category-media-cn
 host-suffix, stcn.com, category-media-cn
 host-suffix, caijing.com.cn, category-media-cn
 host-suffix, hexun.com, category-media-cn
@@ -60,6 +71,7 @@ host-suffix, anzhuo.cn, category-media-cn
 host-suffix, idcquan.com, category-media-cn
 host-suffix, admin5.com, category-media-cn
 host-suffix, jxpp.com, category-media-cn
+host-suffix, woshipm.com, category-media-cn
 host-suffix, 36dianping.com, category-media-cn
 host-suffix, 36kr.com, category-media-cn
 host-suffix, 36krcdn.com, category-media-cn
@@ -106,8 +118,6 @@ host-suffix, chinanews.com.cn, category-media-cn
 host-suffix, cns.com.cn, category-media-cn
 host-suffix, ecns.cn, category-media-cn
 host-suffix, inewsweek.cn, category-media-cn
-host-suffix, dgtle.com, category-media-cn
-host-suffix, geekpark.net, category-media-cn
 host-suffix, coolbuy.com, category-media-cn
 host-suffix, ifanr.cn, category-media-cn
 host-suffix, ifanr.com, category-media-cn
@@ -197,8 +207,6 @@ host-suffix, uranus.sogou.com, category-media-cn
 host-suffix, v2.reachmax.cn, category-media-cn
 host, e8aeb8bbdbbd7.cdn.sohucs.com, category-media-cn
 host, 643108e7617ef.cdn.sohucs.com, category-media-cn
-host-suffix, solidot.org, category-media-cn
-host-suffix, sspai.com, category-media-cn
 host-suffix, tmtpost.com, category-media-cn
 host-suffix, chaindd.com, category-media-cn
 host-suffix, 72whys.com, category-media-cn

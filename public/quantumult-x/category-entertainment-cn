@@ -1,10 +1,20 @@
+host-suffix, ldmnq.com, category-entertainment-cn
 host-suffix, lsplayer.com, category-entertainment-cn
 host-suffix, yeshen.com, category-entertainment-cn
 host-suffix, 51zmt.top, category-entertainment-cn
 host-suffix, bsbsb.top, category-entertainment-cn
+host-suffix, 3dmgame.com, category-entertainment-cn
+host-suffix, ali213.net, category-entertainment-cn
+host-suffix, dmzj.com, category-entertainment-cn
 host-suffix, dongqiudi.com, category-entertainment-cn
 host-suffix, goka.top, category-entertainment-cn
+host-suffix, jjwxc.net, category-entertainment-cn
+host-suffix, mfuns.cn, category-entertainment-cn
+host-suffix, miaopai.com, category-entertainment-cn
+host-suffix, muwai.com, category-entertainment-cn
 host-suffix, pearvideo.com, category-entertainment-cn
+host-suffix, sfacg.com, category-entertainment-cn
+host-suffix, zhanqi.tv, category-entertainment-cn
 host-suffix, 9xgame.com, category-entertainment-cn
 host-suffix, astral-vector.com, category-entertainment-cn
 host-suffix, forevernine.com, category-entertainment-cn
@@ -211,7 +221,6 @@ host-suffix, taptap.cn, category-entertainment-cn
 host-suffix, taptap.com, category-entertainment-cn
 host-suffix, taptap.io, category-entertainment-cn
 host-suffix, taptapdada.com, category-entertainment-cn
-host-suffix, 3dmgame.com, category-entertainment-cn
 host-suffix, ac.fun, category-entertainment-cn
 host-suffix, acfun.cn, category-entertainment-cn
 host-suffix, acfun.net, category-entertainment-cn
@@ -222,7 +231,6 @@ host-suffix, aixifan.com, category-entertainment-cn
 host, apilog-web.acfun.cn, category-entertainment-cn
 host-suffix, acplay.net, category-entertainment-cn
 host-suffix, dandanplay.com, category-entertainment-cn
-host-suffix, ali213.net, category-entertainment-cn
 host-suffix, bbtv.cn, category-entertainment-cn
 host-suffix, bestv.com.cn, category-entertainment-cn
 host-suffix, bestvcdn.cn, category-entertainment-cn
@@ -293,7 +301,6 @@ host-suffix, luojilab.com, category-entertainment-cn
 host-suffix, mogoo.com, category-entertainment-cn
 host-suffix, sao.cn, category-entertainment-cn
 host-suffix, saolife.com, category-entertainment-cn
-host-suffix, dmzj.com, category-entertainment-cn
 host-suffix, activity-wbsj.com, category-entertainment-cn
 host-suffix, aihst8.com, category-entertainment-cn
 host-suffix, amemv.cn, category-entertainment-cn
@@ -419,7 +426,6 @@ host-suffix, ja.gamersky.com, category-entertainment-cn
 host-suffix, ja1.gamersky.com, category-entertainment-cn
 host-suffix, ja2.gamersky.com, category-entertainment-cn
 host-suffix, wmbd.gamersky.com, category-entertainment-cn
-host-suffix, gcores.com, category-entertainment-cn
 host-suffix, gitv.cn, category-entertainment-cn
 host-suffix, gitv.tv, category-entertainment-cn
 host-suffix, hifuntv.com, category-entertainment-cn
@@ -464,7 +470,6 @@ host-suffix, msg.video.qiyi.com, category-entertainment-cn
 host-suffix, msg2.video.qiyi.com, category-entertainment-cn
 host-suffix, policy.video.iqiyi.com, category-entertainment-cn
 host-suffix, yuedu.iqiyi.com, category-entertainment-cn
-host-suffix, jjwxc.net, category-entertainment-cn
 host-suffix, ku6.com, category-entertainment-cn
 host-suffix, ku6cdn.com, category-entertainment-cn
 host-suffix, ku6img.com, category-entertainment-cn
@@ -537,9 +542,6 @@ host-suffix, stat.letv.com, category-entertainment-cn
 host-suffix, static.app.m.letv.com, category-entertainment-cn
 host-suffix, lizhi.fm, category-entertainment-cn
 host-suffix, lizhifm.com, category-entertainment-cn
-host-suffix, mfuns.cn, category-entertainment-cn
-host-suffix, miaopai.com, category-entertainment-cn
-host-suffix, muwai.com, category-entertainment-cn
 host-suffix, pplive.cn, category-entertainment-cn
 host-suffix, pplive.com, category-entertainment-cn
 host-suffix, pptv.com, category-entertainment-cn
@@ -610,7 +612,6 @@ host-suffix, frp-put.com, category-entertainment-cn
 host-suffix, frp-rib.com, category-entertainment-cn
 host-suffix, frp-sea.com, category-entertainment-cn
 host-suffix, frp-six.com, category-entertainment-cn
-host-suffix, sfacg.com, category-entertainment-cn
 host-suffix, 61.com, category-entertainment-cn
 host-suffix, taomee.com, category-entertainment-cn
 host-suffix, u17.com, category-entertainment-cn
@@ -638,4 +639,3 @@ host-suffix, ykimg.com, category-entertainment-cn
 host-suffix, mmstat.com, category-entertainment-cn
 host-suffix, soku.com, category-entertainment-cn
 host-suffix, cibntv.net, category-entertainment-cn
-host-suffix, zhanqi.tv, category-entertainment-cn
