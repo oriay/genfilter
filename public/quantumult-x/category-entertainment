@@ -1141,6 +1141,16 @@ host-suffix, pluto.tv, category-entertainment
 host-suffix, plutotv.net, category-entertainment
 host-suffix, pca.st, category-entertainment
 host-suffix, pocketcasts.com, category-entertainment
+host, d1v5ir2lpwr8os.cloudfront.net, category-entertainment
+host, d22qjgkvxw22r6.cloudfront.net, category-entertainment
+host, d25xi40x97liuc.cloudfront.net, category-entertainment
+host, d27xxe7juh1us6.cloudfront.net, category-entertainment
+host, dmqdd6hw24ucf.cloudfront.net, category-entertainment
+host, images-eu.ssl-images-amazon.com, category-entertainment
+host, images-na.ssl-images-amazon.com, category-entertainment
+host, images-fe.ssl-images-amazon.com, category-entertainment
+host, msh.amazon.co.uk, category-entertainment
+host, static.siege-amazon.com, category-entertainment
 host-suffix, aiv-cdn.net, category-entertainment
 host-suffix, amazonprimevideo.cn, category-entertainment
 host-suffix, amazonprimevideo.com.cn, category-entertainment
@@ -1153,6 +1163,7 @@ host-suffix, primevideo.com, category-entertainment
 host-suffix, primevideo.info, category-entertainment
 host-suffix, primevideo.org, category-entertainment
 host-suffix, primevideo.tv, category-entertainment
+host-suffix, prod.service.minerva.devices.a2z.com, category-entertainment
 host-suffix, fandango.com, category-entertainment
 host-suffix, mgo.com, category-entertainment
 host-suffix, mgo-images.com, category-entertainment

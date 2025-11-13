@@ -490,6 +490,16 @@ host-suffix, kindleoasis.org, category-companies
 host-suffix, kindleoasis.us, category-companies
 host-suffix, kindleoasisnews.com, category-companies
 host-suffix, kindleproject.com, category-companies
+host, d1v5ir2lpwr8os.cloudfront.net, category-companies
+host, d22qjgkvxw22r6.cloudfront.net, category-companies
+host, d25xi40x97liuc.cloudfront.net, category-companies
+host, d27xxe7juh1us6.cloudfront.net, category-companies
+host, dmqdd6hw24ucf.cloudfront.net, category-companies
+host, images-eu.ssl-images-amazon.com, category-companies
+host, images-na.ssl-images-amazon.com, category-companies
+host, images-fe.ssl-images-amazon.com, category-companies
+host, msh.amazon.co.uk, category-companies
+host, static.siege-amazon.com, category-companies
 host-suffix, aiv-cdn.net, category-companies
 host-suffix, amazonprimevideo.cn, category-companies
 host-suffix, amazonprimevideo.com.cn, category-companies
@@ -502,6 +512,7 @@ host-suffix, primevideo.com, category-companies
 host-suffix, primevideo.info, category-companies
 host-suffix, primevideo.org, category-companies
 host-suffix, primevideo.tv, category-companies
+host-suffix, prod.service.minerva.devices.a2z.com, category-companies
 host-suffix, wfm.com, category-companies
 host-suffix, wholecitiesfoundation.org, category-companies
 host-suffix, wholefoods.com, category-companies

@@ -198,6 +198,16 @@ host-suffix, kindleoasis.org, amazon
 host-suffix, kindleoasis.us, amazon
 host-suffix, kindleoasisnews.com, amazon
 host-suffix, kindleproject.com, amazon
+host, d1v5ir2lpwr8os.cloudfront.net, amazon
+host, d22qjgkvxw22r6.cloudfront.net, amazon
+host, d25xi40x97liuc.cloudfront.net, amazon
+host, d27xxe7juh1us6.cloudfront.net, amazon
+host, dmqdd6hw24ucf.cloudfront.net, amazon
+host, images-eu.ssl-images-amazon.com, amazon
+host, images-na.ssl-images-amazon.com, amazon
+host, images-fe.ssl-images-amazon.com, amazon
+host, msh.amazon.co.uk, amazon
+host, static.siege-amazon.com, amazon
 host-suffix, aiv-cdn.net, amazon
 host-suffix, amazonprimevideo.cn, amazon
 host-suffix, amazonprimevideo.com.cn, amazon
@@ -210,6 +220,7 @@ host-suffix, primevideo.com, amazon
 host-suffix, primevideo.info, amazon
 host-suffix, primevideo.org, amazon
 host-suffix, primevideo.tv, amazon
+host-suffix, prod.service.minerva.devices.a2z.com, amazon
 host-suffix, wfm.com, amazon
 host-suffix, wholecitiesfoundation.org, amazon
 host-suffix, wholefoods.com, amazon
