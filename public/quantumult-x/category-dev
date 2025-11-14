@@ -28,6 +28,7 @@ host-suffix, gnu.org, category-dev
 host-suffix, greenend.org.uk, category-dev
 host-suffix, hex.pm, category-dev
 host-suffix, hexdocs.pm, category-dev
+host-suffix, imageglass.org, category-dev
 host-suffix, ius.io, category-dev
 host-suffix, jenkins.io, category-dev
 host-suffix, js.org, category-dev
@@ -40,6 +41,7 @@ host-suffix, macports.org, category-dev
 host-suffix, mariadb.org, category-dev
 host-suffix, mingw.org, category-dev
 host-suffix, mobatek.net, category-dev
+host-suffix, mpv.io, category-dev
 host-suffix, mysql.com, category-dev
 host-suffix, neovim.io, category-dev
 host-suffix, nixos.org, category-dev
