@@ -84,9 +84,12 @@ host-suffix, vipstatic.com, cn
 host-suffix, manmanbuy.com, cn
 host-suffix, xiamai.net, cn
 host-suffix, 52pojie.cn, cn
+host-suffix, anywlan.com, cn
+host-suffix, chinadsl.net, cn
 host-suffix, chiphell.com, cn
 host-suffix, chongbuluo.com, cn
 host-suffix, erji.net, cn
+host-suffix, itpub.net, cn
 host-suffix, itsk.com, cn
 host-suffix, kafan.cn, cn
 host-suffix, kanxue.com, cn
@@ -96,6 +99,7 @@ host-suffix, klpbbs.com, cn
 host-suffix, mcbbs.net, cn
 host-suffix, pcbeta.com, cn
 host-suffix, right.com.cn, cn
+host-suffix, txrjy.com, cn
 host-suffix, uiwow.com, cn
 host-suffix, wuyou.net, cn
 host-suffix, 423down.com, cn
@@ -978,7 +982,6 @@ host-suffix, tuwan.com, cn
 host-suffix, tuwanjun.com, cn
 host-suffix, tvmao.com, cn
 host-suffix, tvzhe.com, cn
-host-suffix, txrjy.com, cn
 host-suffix, u.tools, cn
 host-suffix, ucbug.com, cn
 host-suffix, uggame.com, cn
@@ -1301,6 +1304,7 @@ host-suffix, n.cn, cn
 host-suffix, namiso.com, cn
 host, ai.zhaomi.cn, cn
 host-suffix, miaoyanai.com, cn
+host-suffix, faxingbao.com, cn
 host-suffix, deepseek.com, cn
 host-suffix, butterfly-static.cn, cn
 host-suffix, butterflyai.cn, cn
@@ -2611,6 +2615,8 @@ host-suffix, miaopai.com, cn
 host-suffix, muwai.com, cn
 host-suffix, pearvideo.com, cn
 host-suffix, sfacg.com, cn
+host-suffix, yamibo.com, cn
+host-suffix, yiyouliao.com, cn
 host-suffix, zhanqi.tv, cn
 host-suffix, 9xgame.com, cn
 host-suffix, astral-vector.com, cn
@@ -3357,6 +3363,7 @@ host-suffix, idcquan.com, cn
 host-suffix, admin5.com, cn
 host-suffix, jxpp.com, cn
 host-suffix, woshipm.com, cn
+host-suffix, zhichanli.com, cn
 host-suffix, 36dianping.com, cn
 host-suffix, 36kr.com, cn
 host-suffix, 36krcdn.com, cn
@@ -4581,6 +4588,7 @@ host-suffix, bdydns.net, cn
 host-suffix, chuanke.com, cn
 host-suffix, dlnel.com, cn
 host-suffix, dlnel.org, cn
+host-suffix, duapp.com, cn
 host-suffix, duapp.net, cn
 host-suffix, duapps.com, cn
 host-suffix, duurl.cn, cn
@@ -4594,6 +4602,7 @@ host-suffix, jomocdn.net, cn
 host-suffix, jomodns.cn, cn
 host-suffix, jomodns.com, cn
 host-suffix, jomodns.net, cn
+host-suffix, jomoxc.com, cn
 host-suffix, mipcdn.com, cn
 host-suffix, nuomi.com, cn
 host-suffix, quyaoya.com, cn

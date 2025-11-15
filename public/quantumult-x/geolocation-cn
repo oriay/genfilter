@@ -47,9 +47,12 @@ host-suffix, vipstatic.com, geolocation-cn
 host-suffix, manmanbuy.com, geolocation-cn
 host-suffix, xiamai.net, geolocation-cn
 host-suffix, 52pojie.cn, geolocation-cn
+host-suffix, anywlan.com, geolocation-cn
+host-suffix, chinadsl.net, geolocation-cn
 host-suffix, chiphell.com, geolocation-cn
 host-suffix, chongbuluo.com, geolocation-cn
 host-suffix, erji.net, geolocation-cn
+host-suffix, itpub.net, geolocation-cn
 host-suffix, itsk.com, geolocation-cn
 host-suffix, kafan.cn, geolocation-cn
 host-suffix, kanxue.com, geolocation-cn
@@ -59,6 +62,7 @@ host-suffix, klpbbs.com, geolocation-cn
 host-suffix, mcbbs.net, geolocation-cn
 host-suffix, pcbeta.com, geolocation-cn
 host-suffix, right.com.cn, geolocation-cn
+host-suffix, txrjy.com, geolocation-cn
 host-suffix, uiwow.com, geolocation-cn
 host-suffix, wuyou.net, geolocation-cn
 host-suffix, 423down.com, geolocation-cn
@@ -941,7 +945,6 @@ host-suffix, tuwan.com, geolocation-cn
 host-suffix, tuwanjun.com, geolocation-cn
 host-suffix, tvmao.com, geolocation-cn
 host-suffix, tvzhe.com, geolocation-cn
-host-suffix, txrjy.com, geolocation-cn
 host-suffix, u.tools, geolocation-cn
 host-suffix, ucbug.com, geolocation-cn
 host-suffix, uggame.com, geolocation-cn
@@ -1264,6 +1267,7 @@ host-suffix, n.cn, geolocation-cn
 host-suffix, namiso.com, geolocation-cn
 host, ai.zhaomi.cn, geolocation-cn
 host-suffix, miaoyanai.com, geolocation-cn
+host-suffix, faxingbao.com, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn
 host-suffix, butterfly-static.cn, geolocation-cn
 host-suffix, butterflyai.cn, geolocation-cn
@@ -2574,6 +2578,8 @@ host-suffix, miaopai.com, geolocation-cn
 host-suffix, muwai.com, geolocation-cn
 host-suffix, pearvideo.com, geolocation-cn
 host-suffix, sfacg.com, geolocation-cn
+host-suffix, yamibo.com, geolocation-cn
+host-suffix, yiyouliao.com, geolocation-cn
 host-suffix, zhanqi.tv, geolocation-cn
 host-suffix, 9xgame.com, geolocation-cn
 host-suffix, astral-vector.com, geolocation-cn
@@ -3320,6 +3326,7 @@ host-suffix, idcquan.com, geolocation-cn
 host-suffix, admin5.com, geolocation-cn
 host-suffix, jxpp.com, geolocation-cn
 host-suffix, woshipm.com, geolocation-cn
+host-suffix, zhichanli.com, geolocation-cn
 host-suffix, 36dianping.com, geolocation-cn
 host-suffix, 36kr.com, geolocation-cn
 host-suffix, 36krcdn.com, geolocation-cn
@@ -4544,6 +4551,7 @@ host-suffix, bdydns.net, geolocation-cn
 host-suffix, chuanke.com, geolocation-cn
 host-suffix, dlnel.com, geolocation-cn
 host-suffix, dlnel.org, geolocation-cn
+host-suffix, duapp.com, geolocation-cn
 host-suffix, duapp.net, geolocation-cn
 host-suffix, duapps.com, geolocation-cn
 host-suffix, duurl.cn, geolocation-cn
@@ -4557,6 +4565,7 @@ host-suffix, jomocdn.net, geolocation-cn
 host-suffix, jomodns.cn, geolocation-cn
 host-suffix, jomodns.com, geolocation-cn
 host-suffix, jomodns.net, geolocation-cn
+host-suffix, jomoxc.com, geolocation-cn
 host-suffix, mipcdn.com, geolocation-cn
 host-suffix, nuomi.com, geolocation-cn
 host-suffix, quyaoya.com, geolocation-cn
