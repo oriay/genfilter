@@ -1,3 +1,4 @@
+host-suffix, moscow, category-ru
 host-suffix, ru, category-ru
 host-suffix, su, category-ru
 host-suffix, xn--80adxhks, category-ru
@@ -7,6 +8,8 @@ host-suffix, xn--c1avg, category-ru
 host-suffix, xn--d1acj3b, category-ru
 host-suffix, xn--p1acf, category-ru
 host-suffix, xn--p1ai, category-ru
+host-suffix, ru.com, category-ru
+host-suffix, ru.net, category-ru
 host-suffix, government.ru, category-ru
 host-suffix, gov.ru, category-ru
 host-suffix, gosuslugi.ru, category-ru
@@ -205,12 +208,18 @@ host-suffix, x5static.net, category-ru
 host-suffix, x5w.ru, category-ru
 host-suffix, yandex, category-ru
 host-suffix, xn--d1acpjx3f.xn--p1ai, category-ru
+host-suffix, adfox.ru, category-ru
+host-suffix, admetrica.ru, category-ru
 host-suffix, dzen.ru, category-ru
 host-suffix, naydex.net, category-ru
 host-suffix, rostaxi.org, category-ru
+host-suffix, webvisor.com, category-ru
+host-suffix, webvisor.org, category-ru
 host-suffix, ya.ru, category-ru
+host-suffix, yads.tech, category-ru
 host-suffix, yandex-bank.net, category-ru
 host-suffix, yandex-images.clstorage.net, category-ru
+host-suffix, yandex-team.ru, category-ru
 host-suffix, yandex.aero, category-ru
 host-suffix, yandex.az, category-ru
 host-suffix, yandex.by, category-ru
@@ -246,6 +255,9 @@ host-suffix, yandex.uz, category-ru
 host-suffix, yandexadexchange.net, category-ru
 host-suffix, yandexcloud.net, category-ru
 host-suffix, yandexcom.net, category-ru
+host-suffix, yandexmetrica.com, category-ru
 host-suffix, yandexwebcache.org, category-ru
+host-suffix, yastat.net, category-ru
 host-suffix, yastatic.net, category-ru
 host-suffix, kinopoisk.ru, category-ru
+host-suffix, kinopoisk-ru.clstorage.net, category-ru

@@ -58,6 +58,7 @@ host-suffix, aisandbox-pa.googleapis.com, category-ai-chat-!cn
 host-suffix, aida.googleapis.com, category-ai-chat-!cn
 host-suffix, groq.com, category-ai-chat-!cn
 host-suffix, hf.co, category-ai-chat-!cn
+host-suffix, hf.space, category-ai-chat-!cn
 host-suffix, huggingface.co, category-ai-chat-!cn
 host-suffix, chatgpt.com, category-ai-chat-!cn
 host-suffix, chat.com, category-ai-chat-!cn
