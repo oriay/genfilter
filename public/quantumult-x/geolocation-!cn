@@ -1,5 +1,6 @@
 host-suffix, chemequations.com, geolocation-!cn
 host-suffix, biliplus.com, geolocation-!cn
+host-suffix, originlab.com, geolocation-!cn
 host-suffix, cloudlatex.io, geolocation-!cn
 host-suffix, overleaf.com, geolocation-!cn
 host-suffix, auroraoss.com, geolocation-!cn
@@ -15791,6 +15792,7 @@ host-suffix, tuta.io, geolocation-!cn
 host-suffix, tutamail.com, geolocation-!cn
 host-suffix, tutanota.com, geolocation-!cn
 host-suffix, tutanota.de, geolocation-!cn
+host-suffix, ai-sdk.dev, geolocation-!cn
 host-suffix, err.sh, geolocation-!cn
 host-suffix, hyper.is, geolocation-!cn
 host-suffix, nextjs.org, geolocation-!cn

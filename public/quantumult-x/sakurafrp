@@ -3,12 +3,9 @@ host-suffix, natfrp.com, sakurafrp
 host-suffix, frp-air.com, sakurafrp
 host-suffix, frp-all.com, sakurafrp
 host-suffix, frp-arm.com, sakurafrp
-host-suffix, frp-art.com, sakurafrp
 host-suffix, frp-bag.com, sakurafrp
 host-suffix, frp-bid.com, sakurafrp
-host-suffix, frp-car.com, sakurafrp
 host-suffix, frp-dog.com, sakurafrp
-host-suffix, frp-dry.com, sakurafrp
 host-suffix, frp-egg.com, sakurafrp
 host-suffix, frp-era.com, sakurafrp
 host-suffix, frp-fan.com, sakurafrp
@@ -22,6 +19,7 @@ host-suffix, frp-hen.com, sakurafrp
 host-suffix, frp-hip.com, sakurafrp
 host-suffix, frp-hub.com, sakurafrp
 host-suffix, frp-ice.com, sakurafrp
+host-suffix, frp-jar.com, sakurafrp
 host-suffix, frp-key.com, sakurafrp
 host-suffix, frp-kit.com, sakurafrp
 host-suffix, frp-lab.com, sakurafrp
@@ -30,7 +28,6 @@ host-suffix, frp-mad.com, sakurafrp
 host-suffix, frp-mix.com, sakurafrp
 host-suffix, frp-mom.com, sakurafrp
 host-suffix, frp-nut.com, sakurafrp
-host-suffix, frp-oak.com, sakurafrp
 host-suffix, frp-one.com, sakurafrp
 host-suffix, frp-own.com, sakurafrp
 host-suffix, frp-pen.com, sakurafrp
@@ -38,6 +35,8 @@ host-suffix, frp-rug.com, sakurafrp
 host-suffix, frp-run.com, sakurafrp
 host-suffix, frp-say.com, sakurafrp
 host-suffix, frp-shy.com, sakurafrp
+host-suffix, frp-sun.com, sakurafrp
+host-suffix, frp-tag.com, sakurafrp
 host-suffix, frp-act.com, sakurafrp
 host-suffix, frp-any.com, sakurafrp
 host-suffix, frp-bar.com, sakurafrp
@@ -48,7 +47,6 @@ host-suffix, frp-dad.com, sakurafrp
 host-suffix, frp-end.com, sakurafrp
 host-suffix, frp-fun.com, sakurafrp
 host-suffix, frp-gap.com, sakurafrp
-host-suffix, frp-man.com, sakurafrp
 host-suffix, frp-net.com, sakurafrp
 host-suffix, frp-now.com, sakurafrp
 host-suffix, frp-off.com, sakurafrp
@@ -57,3 +55,4 @@ host-suffix, frp-put.com, sakurafrp
 host-suffix, frp-rib.com, sakurafrp
 host-suffix, frp-sea.com, sakurafrp
 host-suffix, frp-six.com, sakurafrp
+host-suffix, frp-ski.com, sakurafrp
