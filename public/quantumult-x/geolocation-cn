@@ -492,7 +492,6 @@ host-suffix, fimmu.com, geolocation-cn
 host-suffix, finchina.com, geolocation-cn
 host-suffix, fixdown.com, geolocation-cn
 host-suffix, fqjob.net, geolocation-cn
-host-suffix, freebuf.com, geolocation-cn
 host-suffix, fugetech.com, geolocation-cn
 host-suffix, fuwj.com, geolocation-cn
 host-suffix, fxxz.com, geolocation-cn
@@ -563,7 +562,6 @@ host-suffix, hiyd.com, geolocation-cn
 host-suffix, hktheone.com, geolocation-cn
 host-suffix, hn-cbec.com, geolocation-cn
 host-suffix, hnrcsc.com, geolocation-cn
-host-suffix, hntv.tv, geolocation-cn
 host-suffix, hnyuyuhui.com, geolocation-cn
 host-suffix, hollycrm.com, geolocation-cn
 host-suffix, homeinns.com, geolocation-cn
@@ -820,7 +818,6 @@ host-suffix, qh24.com, geolocation-cn
 host-suffix, qiangbus.com, geolocation-cn
 host-suffix, qianjia.com, geolocation-cn
 host-suffix, qianlima.com, geolocation-cn
-host-suffix, qianzhan.com, geolocation-cn
 host-suffix, qiaobutang.com, geolocation-cn
 host-suffix, qie.tv, geolocation-cn
 host-suffix, qifeiye.com, geolocation-cn
@@ -3267,9 +3264,11 @@ host-suffix, cztv.com, geolocation-cn
 host-suffix, cztvcdn.com, geolocation-cn
 host-suffix, cztvcloud.com, geolocation-cn
 host-suffix, zjstv.com, geolocation-cn
+host-suffix, cqcb.com, geolocation-cn
+host-suffix, hntv.tv, geolocation-cn
 host-suffix, dgtle.com, geolocation-cn
 host-suffix, gcores.com, geolocation-cn
-host-suffix, geekpark, geolocation-cn
+host-suffix, geekpark.net, geolocation-cn
 host-suffix, solidot.org, geolocation-cn
 host-suffix, sspai.com, geolocation-cn
 host-suffix, stcn.com, geolocation-cn
@@ -3336,6 +3335,12 @@ host-suffix, admin5.com, geolocation-cn
 host-suffix, jxpp.com, geolocation-cn
 host-suffix, woshipm.com, geolocation-cn
 host-suffix, zhichanli.com, geolocation-cn
+host-suffix, chinaaet.com, geolocation-cn
+host-suffix, freebuf.com, geolocation-cn
+host-suffix, iresearch.cn, geolocation-cn
+host-suffix, qianzhan.com, geolocation-cn
+host-suffix, secrss.com, geolocation-cn
+host-suffix, shangyexinzhi.com, geolocation-cn
 host-suffix, 36dianping.com, geolocation-cn
 host-suffix, 36kr.com, geolocation-cn
 host-suffix, 36krcdn.com, geolocation-cn
@@ -3616,6 +3621,8 @@ host-suffix, qgzb.gov.cn, geolocation-cn
 host-suffix, qgzb.net, geolocation-cn
 host-suffix, zbbm.gov.cn, geolocation-cn
 host-suffix, zbbm.net, geolocation-cn
+host-suffix, cbern.com.cn, geolocation-cn
+host-suffix, smartedu.cn, geolocation-cn
 host-suffix, cugbonline.cn, geolocation-cn
 host-suffix, zhihuishu.com, geolocation-cn
 host-suffix, j-test.com, geolocation-cn

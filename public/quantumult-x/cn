@@ -529,7 +529,6 @@ host-suffix, fimmu.com, cn
 host-suffix, finchina.com, cn
 host-suffix, fixdown.com, cn
 host-suffix, fqjob.net, cn
-host-suffix, freebuf.com, cn
 host-suffix, fugetech.com, cn
 host-suffix, fuwj.com, cn
 host-suffix, fxxz.com, cn
@@ -600,7 +599,6 @@ host-suffix, hiyd.com, cn
 host-suffix, hktheone.com, cn
 host-suffix, hn-cbec.com, cn
 host-suffix, hnrcsc.com, cn
-host-suffix, hntv.tv, cn
 host-suffix, hnyuyuhui.com, cn
 host-suffix, hollycrm.com, cn
 host-suffix, homeinns.com, cn
@@ -857,7 +855,6 @@ host-suffix, qh24.com, cn
 host-suffix, qiangbus.com, cn
 host-suffix, qianjia.com, cn
 host-suffix, qianlima.com, cn
-host-suffix, qianzhan.com, cn
 host-suffix, qiaobutang.com, cn
 host-suffix, qie.tv, cn
 host-suffix, qifeiye.com, cn
@@ -3304,9 +3301,11 @@ host-suffix, cztv.com, cn
 host-suffix, cztvcdn.com, cn
 host-suffix, cztvcloud.com, cn
 host-suffix, zjstv.com, cn
+host-suffix, cqcb.com, cn
+host-suffix, hntv.tv, cn
 host-suffix, dgtle.com, cn
 host-suffix, gcores.com, cn
-host-suffix, geekpark, cn
+host-suffix, geekpark.net, cn
 host-suffix, solidot.org, cn
 host-suffix, sspai.com, cn
 host-suffix, stcn.com, cn
@@ -3373,6 +3372,12 @@ host-suffix, admin5.com, cn
 host-suffix, jxpp.com, cn
 host-suffix, woshipm.com, cn
 host-suffix, zhichanli.com, cn
+host-suffix, chinaaet.com, cn
+host-suffix, freebuf.com, cn
+host-suffix, iresearch.cn, cn
+host-suffix, qianzhan.com, cn
+host-suffix, secrss.com, cn
+host-suffix, shangyexinzhi.com, cn
 host-suffix, 36dianping.com, cn
 host-suffix, 36kr.com, cn
 host-suffix, 36krcdn.com, cn
@@ -3653,6 +3658,8 @@ host-suffix, qgzb.gov.cn, cn
 host-suffix, qgzb.net, cn
 host-suffix, zbbm.gov.cn, cn
 host-suffix, zbbm.net, cn
+host-suffix, cbern.com.cn, cn
+host-suffix, smartedu.cn, cn
 host-suffix, cugbonline.cn, cn
 host-suffix, zhihuishu.com, cn
 host-suffix, j-test.com, cn

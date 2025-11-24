@@ -4,9 +4,11 @@ host-suffix, cztv.com, category-media-cn
 host-suffix, cztvcdn.com, category-media-cn
 host-suffix, cztvcloud.com, category-media-cn
 host-suffix, zjstv.com, category-media-cn
+host-suffix, cqcb.com, category-media-cn
+host-suffix, hntv.tv, category-media-cn
 host-suffix, dgtle.com, category-media-cn
 host-suffix, gcores.com, category-media-cn
-host-suffix, geekpark, category-media-cn
+host-suffix, geekpark.net, category-media-cn
 host-suffix, solidot.org, category-media-cn
 host-suffix, sspai.com, category-media-cn
 host-suffix, stcn.com, category-media-cn
@@ -73,6 +75,12 @@ host-suffix, admin5.com, category-media-cn
 host-suffix, jxpp.com, category-media-cn
 host-suffix, woshipm.com, category-media-cn
 host-suffix, zhichanli.com, category-media-cn
+host-suffix, chinaaet.com, category-media-cn
+host-suffix, freebuf.com, category-media-cn
+host-suffix, iresearch.cn, category-media-cn
+host-suffix, qianzhan.com, category-media-cn
+host-suffix, secrss.com, category-media-cn
+host-suffix, shangyexinzhi.com, category-media-cn
 host-suffix, 36dianping.com, category-media-cn
 host-suffix, 36kr.com, category-media-cn
 host-suffix, 36krcdn.com, category-media-cn
