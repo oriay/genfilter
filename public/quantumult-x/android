@@ -1,3 +1,4 @@
+host-suffix, android, android
 host-suffix, android.com, android
 host-suffix, androidify.com, android
 host, android.googlesource.com, android

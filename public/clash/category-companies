@@ -3679,7 +3679,6 @@ DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,godaddy
-DOMAIN-SUFFIX,and
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,dclk
 DOMAIN-SUFFIX,gbiz
@@ -4310,6 +4309,7 @@ DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN,android.googlesource.com

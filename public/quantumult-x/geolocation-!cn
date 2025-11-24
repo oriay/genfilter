@@ -7287,8 +7287,6 @@ host-suffix, boxun.com, geolocation-!cn
 host-suffix, bowenpress.com, geolocation-!cn
 host-suffix, c-span.org, geolocation-!cn
 host-suffix, c-spanvideo.org, geolocation-!cn
-host-suffix, cbs, geolocation-!cn
-host-suffix, showtime, geolocation-!cn
 host-suffix, cbs.com, geolocation-!cn
 host-suffix, cbscorporation.com, geolocation-!cn
 host-suffix, cbsi.com, geolocation-!cn
@@ -8228,7 +8226,6 @@ host-suffix, skysports.ie, geolocation-!cn
 host-suffix, skysportsonline.com, geolocation-!cn
 host-suffix, skysportsracing.com, geolocation-!cn
 host-suffix, cn-cdn1.skymansion.net, geolocation-!cn
-host-suffix, theguardian, geolocation-!cn
 host-suffix, dev-guardianapis.com, geolocation-!cn
 host-suffix, dev-theguardian.com, geolocation-!cn
 host-suffix, gu-web.net, geolocation-!cn
@@ -15944,6 +15941,7 @@ host-suffix, anaconda.cloud, geolocation-!cn
 host-suffix, anaconda.com, geolocation-!cn
 host-suffix, anaconda.org, geolocation-!cn
 host-suffix, conda.io, geolocation-!cn
+host-suffix, android, geolocation-!cn
 host-suffix, android.com, geolocation-!cn
 host-suffix, androidify.com, geolocation-!cn
 host, android.googlesource.com, geolocation-!cn
@@ -20079,7 +20077,6 @@ host, sni1dcb6gl.wpc.edgecastcdn.net, geolocation-!cn
 host-suffix, godaddy.com, geolocation-!cn
 host-suffix, x.co, geolocation-!cn
 host-suffix, godaddy, geolocation-!cn
-host-suffix, and, geolocation-!cn
 host-suffix, chrome, geolocation-!cn
 host-suffix, dclk, geolocation-!cn
 host-suffix, gbiz, geolocation-!cn
@@ -20710,6 +20707,7 @@ host, www.pxcc.com, geolocation-!cn
 host, xn--flw351e.com, geolocation-!cn
 host-suffix, gvt1-cn.com, geolocation-!cn
 host-suffix, gvt2-cn.com, geolocation-!cn
+host-suffix, android, geolocation-!cn
 host-suffix, android.com, geolocation-!cn
 host-suffix, androidify.com, geolocation-!cn
 host, android.googlesource.com, geolocation-!cn
@@ -24492,8 +24490,6 @@ host-suffix, hkedcity.net, geolocation-!cn
 host-suffix, hkreadingcity.net, geolocation-!cn
 host-suffix, huanghuagang.org, geolocation-!cn
 host-suffix, lavteam.org, geolocation-!cn
-host-suffix, mcd, geolocation-!cn
-host-suffix, mcdonalds, geolocation-!cn
 host-suffix, happymeal.com.au, geolocation-!cn
 host-suffix, mcdelivery.com.au, geolocation-!cn
 host-suffix, mcdonalds.com.au, geolocation-!cn

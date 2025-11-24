@@ -3679,7 +3679,6 @@ host, sni1dcb6gl.wpc.edgecastcdn.net, category-companies
 host-suffix, godaddy.com, category-companies
 host-suffix, x.co, category-companies
 host-suffix, godaddy, category-companies
-host-suffix, and, category-companies
 host-suffix, chrome, category-companies
 host-suffix, dclk, category-companies
 host-suffix, gbiz, category-companies
@@ -4310,6 +4309,7 @@ host, www.pxcc.com, category-companies
 host, xn--flw351e.com, category-companies
 host-suffix, gvt1-cn.com, category-companies
 host-suffix, gvt2-cn.com, category-companies
+host-suffix, android, category-companies
 host-suffix, android.com, category-companies
 host-suffix, androidify.com, category-companies
 host, android.googlesource.com, category-companies

@@ -280,8 +280,6 @@ host-suffix, boxun.com, category-media
 host-suffix, bowenpress.com, category-media
 host-suffix, c-span.org, category-media
 host-suffix, c-spanvideo.org, category-media
-host-suffix, cbs, category-media
-host-suffix, showtime, category-media
 host-suffix, cbs.com, category-media
 host-suffix, cbscorporation.com, category-media
 host-suffix, cbsi.com, category-media
@@ -1221,7 +1219,6 @@ host-suffix, skysports.ie, category-media
 host-suffix, skysportsonline.com, category-media
 host-suffix, skysportsracing.com, category-media
 host-suffix, cn-cdn1.skymansion.net, category-media
-host-suffix, theguardian, category-media
 host-suffix, dev-guardianapis.com, category-media
 host-suffix, dev-theguardian.com, category-media
 host-suffix, gu-web.net, category-media

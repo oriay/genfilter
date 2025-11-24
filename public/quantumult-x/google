@@ -1,4 +1,3 @@
-host-suffix, and, google
 host-suffix, chrome, google
 host-suffix, dclk, google
 host-suffix, gbiz, google
@@ -629,6 +628,7 @@ host, www.pxcc.com, google
 host, xn--flw351e.com, google
 host-suffix, gvt1-cn.com, google
 host-suffix, gvt2-cn.com, google
+host-suffix, android, google
 host-suffix, android.com, google
 host-suffix, androidify.com, google
 host, android.googlesource.com, google
