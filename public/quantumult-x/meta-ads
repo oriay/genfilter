@@ -1,4 +1,5 @@
 host-suffix, analytics.facebook.com, meta-ads
+host-suffix, facebookads.com, meta-ads
 host-suffix, pixel.facebook.com, meta-ads
 host-suffix, graph.instagram.com, meta-ads
 host-suffix, graph-fallback.instagram.com, meta-ads

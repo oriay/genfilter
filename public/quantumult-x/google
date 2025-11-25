@@ -755,6 +755,8 @@ host-suffix, advertiserscommunity.com, google
 host-suffix, adwords-community.com, google
 host-suffix, adwords.com, google
 host-suffix, adwordsexpress.com, google
+host-suffix, app-analytics-services.com, google
+host-suffix, app-analytics-services-att.com, google
 host-suffix, app-measurement-cn.com, google
 host-suffix, app-measurement.com, google
 host-suffix, doubleclick-cn.net, google
@@ -764,6 +766,7 @@ host-suffix, doubleclick.net, google
 host-suffix, google-analytics-cn.com, google
 host-suffix, google-analytics.com, google
 host-suffix, googleadapis.com, google
+host-suffix, googleadapis.l.google.com, google
 host-suffix, googleads-cn.com, google
 host-suffix, googleads.com, google
 host-suffix, googleadservices-cn.com, google
@@ -782,9 +785,13 @@ host-suffix, googletraveladservices-cn.com, google
 host-suffix, googletraveladservices.com, google
 host-suffix, googlevads-cn.com, google
 host-suffix, mail-ads.google.com, google
+host-suffix, mobileads.google.com, google
 host-suffix, marketingplatform.google.com, google
+host-suffix, pagead.l.google.com, google
+host-suffix, partnerad.l.google.com, google
 host-suffix, urchin.com, google
 host, analytics.google.com, google
+host, fundingchoicesmessages.google.com, google
 host-suffix, deepmind.com, google
 host-suffix, deepmind.google, google
 host-suffix, geller-pa.googleapis.com, google

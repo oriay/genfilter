@@ -417,8 +417,10 @@ host-suffix, dnsv4.com, tencent
 host-suffix, dnsv5.com, tencent
 host-suffix, doh.pub, tencent
 host-suffix, dot.pub, tencent
+host-suffix, ad.browser.qq.com, tencent
 host-suffix, ad.qq.com, tencent
 host-suffix, ad.qun.qq.com, tencent
+host-suffix, ad.weixin.qq.com, tencent
 host-suffix, adfilter.imtt.qq.com, tencent
 host-suffix, adnet.qq.com, tencent
 host-suffix, adping.qq.com, tencent
@@ -435,13 +437,17 @@ host-suffix, adsview.qq.com, tencent
 host-suffix, adsview2.qq.com, tencent
 host-suffix, adv.app.qq.com, tencent
 host-suffix, adver.qq.com, tencent
+host-suffix, beacon.cdn.qq.com, tencent
 host-suffix, beacon.qq.com, tencent
 host-suffix, beaconcdn.qq.com, tencent
 host-suffix, btrace.qq.com, tencent
+host-suffix, bugly.qq.com, tencent
 host-suffix, e.qq.com, tencent
 host-suffix, gdt.qq.com, tencent
+host-suffix, hq-tracking.qq.com, tencent
 host-suffix, isdspeed.qq.com, tencent
 host-suffix, log.tbs.qq.com, tencent
+host-suffix, mdt.qq.com, tencent
 host-suffix, mpush.qq.com, tencent
 host-suffix, mtrace.qq.com, tencent
 host-suffix, pgdt.gtimg.cn, tencent
@@ -451,6 +457,8 @@ host-suffix, sngmta.qq.com, tencent
 host-suffix, stat.y.qq.com, tencent
 host-suffix, tajs.qq.com, tencent
 host-suffix, tcss.qq.com, tencent
+host-suffix, tmead.y.qq.com, tencent
+host-suffix, tmeadcomm.y.qq.com, tencent
 host-suffix, trace.qq.com, tencent
 host-suffix, ugdtimg.com, tencent
 host-suffix, wit.qq.com, tencent

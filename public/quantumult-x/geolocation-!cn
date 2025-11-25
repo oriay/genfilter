@@ -6519,7 +6519,6 @@ host-suffix, facebook30.com, geolocation-!cn
 host-suffix, facebook30.net, geolocation-!cn
 host-suffix, facebook30.org, geolocation-!cn
 host-suffix, facebook4business.com, geolocation-!cn
-host-suffix, facebookads.com, geolocation-!cn
 host-suffix, facebookadvertisingsecrets.com, geolocation-!cn
 host-suffix, facebookatschool.com, geolocation-!cn
 host-suffix, facebookawards.com, geolocation-!cn
@@ -16334,6 +16333,7 @@ host-suffix, redhat.org, geolocation-!cn
 host-suffix, scala-lang.org, geolocation-!cn
 host-suffix, scala-sbt.org, geolocation-!cn
 host-suffix, sentry.io, geolocation-!cn
+host-suffix, sentry-cdn.com, geolocation-!cn
 host-suffix, sourcehut.org, geolocation-!cn
 host-suffix, sr.ht, geolocation-!cn
 host-suffix, askubuntu.com, geolocation-!cn
@@ -20834,6 +20834,8 @@ host-suffix, advertiserscommunity.com, geolocation-!cn
 host-suffix, adwords-community.com, geolocation-!cn
 host-suffix, adwords.com, geolocation-!cn
 host-suffix, adwordsexpress.com, geolocation-!cn
+host-suffix, app-analytics-services.com, geolocation-!cn
+host-suffix, app-analytics-services-att.com, geolocation-!cn
 host-suffix, app-measurement-cn.com, geolocation-!cn
 host-suffix, app-measurement.com, geolocation-!cn
 host-suffix, doubleclick-cn.net, geolocation-!cn
@@ -20843,6 +20845,7 @@ host-suffix, doubleclick.net, geolocation-!cn
 host-suffix, google-analytics-cn.com, geolocation-!cn
 host-suffix, google-analytics.com, geolocation-!cn
 host-suffix, googleadapis.com, geolocation-!cn
+host-suffix, googleadapis.l.google.com, geolocation-!cn
 host-suffix, googleads-cn.com, geolocation-!cn
 host-suffix, googleads.com, geolocation-!cn
 host-suffix, googleadservices-cn.com, geolocation-!cn
@@ -20861,9 +20864,13 @@ host-suffix, googletraveladservices-cn.com, geolocation-!cn
 host-suffix, googletraveladservices.com, geolocation-!cn
 host-suffix, googlevads-cn.com, geolocation-!cn
 host-suffix, mail-ads.google.com, geolocation-!cn
+host-suffix, mobileads.google.com, geolocation-!cn
 host-suffix, marketingplatform.google.com, geolocation-!cn
+host-suffix, pagead.l.google.com, geolocation-!cn
+host-suffix, partnerad.l.google.com, geolocation-!cn
 host-suffix, urchin.com, geolocation-!cn
 host, analytics.google.com, geolocation-!cn
+host, fundingchoicesmessages.google.com, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
@@ -22130,7 +22137,6 @@ host-suffix, facebook30.com, geolocation-!cn
 host-suffix, facebook30.net, geolocation-!cn
 host-suffix, facebook30.org, geolocation-!cn
 host-suffix, facebook4business.com, geolocation-!cn
-host-suffix, facebookads.com, geolocation-!cn
 host-suffix, facebookadvertisingsecrets.com, geolocation-!cn
 host-suffix, facebookatschool.com, geolocation-!cn
 host-suffix, facebookawards.com, geolocation-!cn

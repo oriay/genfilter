@@ -4436,6 +4436,8 @@ host-suffix, advertiserscommunity.com, category-companies
 host-suffix, adwords-community.com, category-companies
 host-suffix, adwords.com, category-companies
 host-suffix, adwordsexpress.com, category-companies
+host-suffix, app-analytics-services.com, category-companies
+host-suffix, app-analytics-services-att.com, category-companies
 host-suffix, app-measurement-cn.com, category-companies
 host-suffix, app-measurement.com, category-companies
 host-suffix, doubleclick-cn.net, category-companies
@@ -4445,6 +4447,7 @@ host-suffix, doubleclick.net, category-companies
 host-suffix, google-analytics-cn.com, category-companies
 host-suffix, google-analytics.com, category-companies
 host-suffix, googleadapis.com, category-companies
+host-suffix, googleadapis.l.google.com, category-companies
 host-suffix, googleads-cn.com, category-companies
 host-suffix, googleads.com, category-companies
 host-suffix, googleadservices-cn.com, category-companies
@@ -4463,9 +4466,13 @@ host-suffix, googletraveladservices-cn.com, category-companies
 host-suffix, googletraveladservices.com, category-companies
 host-suffix, googlevads-cn.com, category-companies
 host-suffix, mail-ads.google.com, category-companies
+host-suffix, mobileads.google.com, category-companies
 host-suffix, marketingplatform.google.com, category-companies
+host-suffix, pagead.l.google.com, category-companies
+host-suffix, partnerad.l.google.com, category-companies
 host-suffix, urchin.com, category-companies
 host, analytics.google.com, category-companies
+host, fundingchoicesmessages.google.com, category-companies
 host-suffix, deepmind.com, category-companies
 host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
@@ -5732,7 +5739,6 @@ host-suffix, facebook30.com, category-companies
 host-suffix, facebook30.net, category-companies
 host-suffix, facebook30.org, category-companies
 host-suffix, facebook4business.com, category-companies
-host-suffix, facebookads.com, category-companies
 host-suffix, facebookadvertisingsecrets.com, category-companies
 host-suffix, facebookatschool.com, category-companies
 host-suffix, facebookawards.com, category-companies
