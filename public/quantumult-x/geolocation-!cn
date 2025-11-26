@@ -2335,6 +2335,7 @@ host-suffix, akastream.com, geolocation-!cn
 host-suffix, akastream.net, geolocation-!cn
 host-suffix, akatns.net, geolocation-!cn
 host-suffix, akcdn.com.cn, geolocation-!cn
+host-suffix, akstat.io, geolocation-!cn
 host-suffix, aptdn.net, geolocation-!cn
 host-suffix, edgekey.net, geolocation-!cn
 host-suffix, edgekey88.net, geolocation-!cn
@@ -24303,6 +24304,7 @@ host-suffix, yandex.st, geolocation-!cn
 host-suffix, yandex.sx, geolocation-!cn
 host-suffix, yandex.tj, geolocation-!cn
 host-suffix, yandex.tm, geolocation-!cn
+host-suffix, yandex.tr, geolocation-!cn
 host-suffix, yandex.ua, geolocation-!cn
 host-suffix, yandex.uz, geolocation-!cn
 host-suffix, yandexadexchange.net, geolocation-!cn

@@ -1,4 +1,5 @@
 host-suffix, moscow, category-ru
+host-suffix, tatar, category-ru
 host-suffix, ru, category-ru
 host-suffix, su, category-ru
 host-suffix, xn--80adxhks, category-ru
@@ -250,6 +251,7 @@ host-suffix, yandex.st, category-ru
 host-suffix, yandex.sx, category-ru
 host-suffix, yandex.tj, category-ru
 host-suffix, yandex.tm, category-ru
+host-suffix, yandex.tr, category-ru
 host-suffix, yandex.ua, category-ru
 host-suffix, yandex.uz, category-ru
 host-suffix, yandexadexchange.net, category-ru
