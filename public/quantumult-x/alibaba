@@ -102,8 +102,11 @@ host-suffix, yunos-inc.com, alibaba
 host-suffix, yunos.com, alibaba
 host-suffix, yushanfang.com, alibaba
 host-suffix, zuodao.com, alibaba
+host-suffix, ae-rus.net, alibaba
+host-suffix, aestatic.net, alibaba
 host-suffix, aliexpress.com, alibaba
 host-suffix, aliexpress.ru, alibaba
+host-suffix, aliexpress-media.com, alibaba
 host-suffix, alipayplus.com, alibaba
 host-suffix, alipay.hk, alibaba
 host-suffix, alipaymo.com, alibaba

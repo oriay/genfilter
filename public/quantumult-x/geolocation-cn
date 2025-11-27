@@ -4250,8 +4250,11 @@ host-suffix, yunos-inc.com, geolocation-cn
 host-suffix, yunos.com, geolocation-cn
 host-suffix, yushanfang.com, geolocation-cn
 host-suffix, zuodao.com, geolocation-cn
+host-suffix, ae-rus.net, geolocation-cn
+host-suffix, aestatic.net, geolocation-cn
 host-suffix, aliexpress.com, geolocation-cn
 host-suffix, aliexpress.ru, geolocation-cn
+host-suffix, aliexpress-media.com, geolocation-cn
 host-suffix, alipayplus.com, geolocation-cn
 host-suffix, alipay.hk, geolocation-cn
 host-suffix, alipaymo.com, geolocation-cn

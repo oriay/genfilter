@@ -533,6 +533,16 @@ host-suffix, playvalorant.com, category-entertainment
 host-suffix, riotforgegames.com, category-entertainment
 host-suffix, ruinedking.com, category-entertainment
 host-suffix, convrgencegame.com, category-entertainment
+host-suffix, rblx.org, category-entertainment
+host-suffix, rbx.com, category-entertainment
+host-suffix, rbxcdn.com, category-entertainment
+host-suffix, roblox-api.arkoselabs.co, category-entertainment
+host-suffix, roblox.com, category-entertainment
+host-suffix, robloxlabs.com, category-entertainment
+host, d1unuk07s6td74.cloudfront.net, category-entertainment
+host, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com, category-entertainment
+host, roblox-poc.global.ssl.fastly.net, category-entertainment
+host, robloxcorp.s.llnwi.net, category-entertainment
 host-suffix, rockstargames.com, category-entertainment
 host-suffix, rsg.sc, category-entertainment
 host, gamedownloads-rockstargames-com.akamaized.net, category-entertainment
