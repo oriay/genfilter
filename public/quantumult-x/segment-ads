@@ -1,1 +1,4 @@
-host-suffix, cdn.segment.com, segment-ads
+host-suffix, segment.com, segment-ads
+host-suffix, segment.io, segment-ads
+host-suffix, segmenthub.com, segment-ads
+host-suffix, segmentify.com, segment-ads

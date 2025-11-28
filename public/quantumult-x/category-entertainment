@@ -7,7 +7,6 @@ host-suffix, fireside.fm, category-entertainment
 host-suffix, internationalsaimoe.com, category-entertainment
 host-suffix, joox.com, category-entertainment
 host-suffix, linetv.tw, category-entertainment
-host-suffix, litv.tv, category-entertainment
 host-suffix, megaphone.fm, category-entertainment
 host-suffix, mikanani.me, category-entertainment
 host-suffix, moov.hk, category-entertainment
@@ -1073,6 +1072,9 @@ host-suffix, last.fm, category-entertainment
 host, lastfm.freetls.fastly.net, category-entertainment
 host-suffix, litv.tv, category-entertainment
 host-suffix, litvfreepc.akamaized.net, category-entertainment
+host-suffix, ofiii.com, category-entertainment
+host, ntdofifreepc-tgc.cdn.hinet.net, category-entertainment
+host, ntdofifreevcpc-tgc.cdn.hinet.net, category-entertainment
 host-suffix, manhuagui.com, category-entertainment
 host-suffix, mubi.com, category-entertainment
 host-suffix, mubicdn.net, category-entertainment
@@ -1256,7 +1258,6 @@ host, p16-tiktokcdn-com.akamaized.net, category-entertainment
 host-suffix, themoviedb.org, category-entertainment
 host-suffix, tmdb.org, category-entertainment
 host, tmdb-image-prod.b-cdn.net, category-entertainment
-host-suffix, thetvdb.com, category-entertainment
 host-suffix, dogatch.jp, category-entertainment
 host-suffix, gorin.jp, category-entertainment
 host-suffix, screens-lab.jp, category-entertainment

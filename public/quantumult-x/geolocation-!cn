@@ -4759,7 +4759,6 @@ host-suffix, fireside.fm, geolocation-!cn
 host-suffix, internationalsaimoe.com, geolocation-!cn
 host-suffix, joox.com, geolocation-!cn
 host-suffix, linetv.tw, geolocation-!cn
-host-suffix, litv.tv, geolocation-!cn
 host-suffix, megaphone.fm, geolocation-!cn
 host-suffix, mikanani.me, geolocation-!cn
 host-suffix, moov.hk, geolocation-!cn
@@ -5825,6 +5824,9 @@ host-suffix, last.fm, geolocation-!cn
 host, lastfm.freetls.fastly.net, geolocation-!cn
 host-suffix, litv.tv, geolocation-!cn
 host-suffix, litvfreepc.akamaized.net, geolocation-!cn
+host-suffix, ofiii.com, geolocation-!cn
+host, ntdofifreepc-tgc.cdn.hinet.net, geolocation-!cn
+host, ntdofifreevcpc-tgc.cdn.hinet.net, geolocation-!cn
 host-suffix, manhuagui.com, geolocation-!cn
 host-suffix, mubi.com, geolocation-!cn
 host-suffix, mubicdn.net, geolocation-!cn
@@ -6008,7 +6010,6 @@ host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
 host-suffix, themoviedb.org, geolocation-!cn
 host-suffix, tmdb.org, geolocation-!cn
 host, tmdb-image-prod.b-cdn.net, geolocation-!cn
-host-suffix, thetvdb.com, geolocation-!cn
 host-suffix, dogatch.jp, geolocation-!cn
 host-suffix, gorin.jp, geolocation-!cn
 host-suffix, screens-lab.jp, geolocation-!cn

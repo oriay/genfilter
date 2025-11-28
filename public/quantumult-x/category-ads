@@ -8,6 +8,7 @@ host-suffix, ad.wang502.com, category-ads
 host-suffix, adbutter.net, category-ads
 host-suffix, addthisedge.com, category-ads
 host-suffix, ads.trafficjunky.net, category-ads
+host-suffix, ads.wteam.xyz, category-ads
 host-suffix, adtechus.com, category-ads
 host-suffix, adtrue.com, category-ads
 host-suffix, adxprtz.com, category-ads
@@ -16,6 +17,7 @@ host-suffix, cdn.banclip.com, category-ads
 host-suffix, cfts1tifqr.com, category-ads
 host-suffix, contentabc.com, category-ads
 host-suffix, cretgate.com, category-ads
+host-suffix, decide.mixpanel.com, category-ads
 host-suffix, ero-advertising.com, category-ads
 host-suffix, eroadvertising.com, category-ads
 host-suffix, exoclick.com, category-ads
@@ -32,10 +34,12 @@ host-suffix, jads.co, category-ads
 host-suffix, jl3.yjaxa.top, category-ads
 host-suffix, juicyads.com, category-ads
 host-suffix, kepler-37b.com, category-ads
+host-suffix, leanplum.com, category-ads
 host-suffix, lqc006.com, category-ads
 host-suffix, moat.com, category-ads
 host-suffix, moatads.com, category-ads
 host-suffix, mobwithad.com, category-ads
+host-suffix, onesignal.com, category-ads
 host-suffix, realsrv.com, category-ads
 host-suffix, s4yxaqyq95.com, category-ads
 host-suffix, shhs-ydd8x2.yjrmss.cn, category-ads
@@ -249,7 +253,9 @@ host-suffix, najva.com, category-ads
 host-suffix, sabavision.com, category-ads
 host-suffix, tapsell.ir, category-ads
 host-suffix, yektanet.com, category-ads
-host-suffix, x.clearbitjs.com, category-ads
+host-suffix, clearbit.com, category-ads
+host-suffix, clearbitjs.com, category-ads
+host-suffix, clearbitscripts.com, category-ads
 host-suffix, ad.games.dmm.com, category-ads
 host-suffix, bluekai.com, category-ads
 host-suffix, fout.jp, category-ads
@@ -356,7 +362,6 @@ host, wlog.kuaishou.com, category-ads
 host-suffix, ads.service.kugou.com, category-ads
 host-suffix, adserviceretry.kglink.cn, category-ads
 host-suffix, adserviceretry.kugou.com, category-ads
-host-suffix, leanplum.com, category-ads
 host-suffix, apple.www.letv.com, category-ads
 host-suffix, ark.letv.com, category-ads
 host-suffix, dc.letv.com, category-ads
@@ -368,7 +373,6 @@ host-suffix, graph.instagram.com, category-ads
 host-suffix, graph-fallback.instagram.com, category-ads
 host-suffix, graph.whatsapp.com, category-ads
 host-suffix, graph.whatsapp.net, category-ads
-host-suffix, decide.mixpanel.com, category-ads
 host-suffix, mopub.com, category-ads
 host-suffix, evt.mxplay.com, category-ads
 host-suffix, a.youdao.com, category-ads
@@ -387,7 +391,6 @@ host-suffix, js-agent.newrelic.com, category-ads
 host-suffix, ogury.com, category-ads
 host-suffix, presage.io, category-ads
 host-suffix, ogury.co, category-ads
-host-suffix, onesignal.com, category-ads
 host-suffix, openx.net, category-ads
 host-suffix, openxadexchange.com, category-ads
 host-suffix, openxcdn.net, category-ads
@@ -404,7 +407,10 @@ host-suffix, qhupdate.com, category-ads
 host-suffix, s.360.cn, category-ads
 host-suffix, s.so.360.cn, category-ads
 host-suffix, s.union.360.cn, category-ads
-host-suffix, cdn.segment.com, category-ads
+host-suffix, segment.com, category-ads
+host-suffix, segment.io, category-ads
+host-suffix, segmenthub.com, category-ads
+host-suffix, segmentify.com, category-ads
 host-suffix, static.sensorsdata.cn, category-ads
 host-suffix, ad.sina.com.cn, category-ads
 host-suffix, ad.us.sinaimg.cn, category-ads
@@ -533,7 +539,6 @@ host-suffix, splash-ads.unitychina.cn, category-ads
 host-suffix, unityads.unity.cn, category-ads
 host-suffix, unityads.unity3d.com, category-ads
 host-suffix, unityads.unitychina.cn, category-ads
-host-suffix, ads.wteam.xyz, category-ads
 host-suffix, collector.xhamster.com, category-ads
 host-suffix, a.market.xiaomi.com, category-ads
 host-suffix, ad.intl.xiaomi.com, category-ads
