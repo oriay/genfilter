@@ -15,7 +15,6 @@ host-suffix, omobi.cc, category-entertainment
 host-suffix, oranum.com, category-entertainment
 host-suffix, overcast.fm, category-entertainment
 host-suffix, syosetu.com, category-entertainment
-host-suffix, thetvdb.com, category-entertainment
 host-suffix, weverse.io, category-entertainment
 host-suffix, yande.re, category-entertainment
 host-suffix, amp-api.podcast.apple.com, category-entertainment
@@ -1128,6 +1127,9 @@ host-suffix, nowe.com, category-entertainment
 host-suffix, nowe.hk, category-entertainment
 host-suffix, now-tv.com, category-entertainment
 host-suffix, now-ashare.com, category-entertainment
+host-suffix, playfamily.ru, category-entertainment
+host-suffix, okko.sport, category-entertainment
+host-suffix, okko.tv, category-entertainment
 host-suffix, haiwaikan.com, category-entertainment
 host-suffix, iole.tv, category-entertainment
 host-suffix, olehd.com, category-entertainment
@@ -1258,6 +1260,7 @@ host, p16-tiktokcdn-com.akamaized.net, category-entertainment
 host-suffix, themoviedb.org, category-entertainment
 host-suffix, tmdb.org, category-entertainment
 host, tmdb-image-prod.b-cdn.net, category-entertainment
+host-suffix, thetvdb.com, category-entertainment
 host-suffix, dogatch.jp, category-entertainment
 host-suffix, gorin.jp, category-entertainment
 host-suffix, screens-lab.jp, category-entertainment

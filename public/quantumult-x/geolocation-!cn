@@ -4767,7 +4767,6 @@ host-suffix, omobi.cc, geolocation-!cn
 host-suffix, oranum.com, geolocation-!cn
 host-suffix, overcast.fm, geolocation-!cn
 host-suffix, syosetu.com, geolocation-!cn
-host-suffix, thetvdb.com, geolocation-!cn
 host-suffix, weverse.io, geolocation-!cn
 host-suffix, yande.re, geolocation-!cn
 host-suffix, amp-api.podcast.apple.com, geolocation-!cn
@@ -5880,6 +5879,9 @@ host-suffix, nowe.com, geolocation-!cn
 host-suffix, nowe.hk, geolocation-!cn
 host-suffix, now-tv.com, geolocation-!cn
 host-suffix, now-ashare.com, geolocation-!cn
+host-suffix, playfamily.ru, geolocation-!cn
+host-suffix, okko.sport, geolocation-!cn
+host-suffix, okko.tv, geolocation-!cn
 host-suffix, haiwaikan.com, geolocation-!cn
 host-suffix, iole.tv, geolocation-!cn
 host-suffix, olehd.com, geolocation-!cn
@@ -6010,6 +6012,7 @@ host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
 host-suffix, themoviedb.org, geolocation-!cn
 host-suffix, tmdb.org, geolocation-!cn
 host, tmdb-image-prod.b-cdn.net, geolocation-!cn
+host-suffix, thetvdb.com, geolocation-!cn
 host-suffix, dogatch.jp, geolocation-!cn
 host-suffix, gorin.jp, geolocation-!cn
 host-suffix, screens-lab.jp, geolocation-!cn
