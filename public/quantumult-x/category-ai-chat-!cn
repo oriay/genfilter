@@ -88,4 +88,5 @@ host, pplx-res.cloudinary.com, category-ai-chat-!cn
 host-suffix, poe.com, category-ai-chat-!cn
 host-suffix, poecdn.net, category-ai-chat-!cn
 host-suffix, grok.com, category-ai-chat-!cn
+host-suffix, grok.x.com, category-ai-chat-!cn
 host-suffix, x.ai, category-ai-chat-!cn

@@ -101,6 +101,7 @@ host, pplx-res.cloudinary.com, geolocation-!cn
 host-suffix, poe.com, geolocation-!cn
 host-suffix, poecdn.net, geolocation-!cn
 host-suffix, grok.com, geolocation-!cn
+host-suffix, grok.x.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
 host-suffix, colorfulstage.com, geolocation-!cn
 host-suffix, crypton.co.jp, geolocation-!cn
@@ -22042,6 +22043,7 @@ host-suffix, mail.ru, geolocation-!cn
 host-suffix, memealerts.com, geolocation-!cn
 host-suffix, mycdn.me, geolocation-!cn
 host-suffix, okcdn.ru, geolocation-!cn
+host-suffix, llama.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, meta.com, geolocation-!cn
 host-suffix, aboutfacebook.com, geolocation-!cn
@@ -24285,6 +24287,7 @@ host-suffix, admetrica.ru, geolocation-!cn
 host-suffix, dzen.ru, geolocation-!cn
 host-suffix, naydex.net, geolocation-!cn
 host-suffix, rostaxi.org, geolocation-!cn
+host-suffix, turbopages.org, geolocation-!cn
 host-suffix, webvisor.com, geolocation-!cn
 host-suffix, webvisor.org, geolocation-!cn
 host-suffix, ya.ru, geolocation-!cn

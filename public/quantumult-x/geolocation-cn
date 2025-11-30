@@ -1273,6 +1273,9 @@ host-suffix, namiso.com, geolocation-cn
 host, ai.zhaomi.cn, geolocation-cn
 host-suffix, miaoyanai.com, geolocation-cn
 host-suffix, faxingbao.com, geolocation-cn
+host-suffix, meta.law, geolocation-cn
+host-suffix, metaso.cn, geolocation-cn
+host-suffix, xiezuocat.com, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn
 host-suffix, butterfly-static.cn, geolocation-cn
 host-suffix, butterflyai.cn, geolocation-cn

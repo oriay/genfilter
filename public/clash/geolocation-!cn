@@ -101,6 +101,7 @@ DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,colorfulstage.com
 DOMAIN-SUFFIX,crypton.co.jp
@@ -22042,6 +22043,7 @@ DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -24285,6 +24287,7 @@ DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,dzen.ru
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,rostaxi.org
+DOMAIN-SUFFIX,turbopages.org
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,ya.ru
