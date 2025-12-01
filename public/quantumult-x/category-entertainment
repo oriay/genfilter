@@ -30,7 +30,6 @@ host-suffix, humblebundle.com, category-entertainment
 host-suffix, joinsquad.com, category-entertainment
 host-suffix, loverslab.com, category-entertainment
 host-suffix, minecraft.wiki, category-entertainment
-host-suffix, modrinth.com, category-entertainment
 host-suffix, nexusmods.com, category-entertainment
 host-suffix, offworldindustries.com, category-entertainment
 host-suffix, offworldindustries.net, category-entertainment
@@ -319,6 +318,7 @@ host-suffix, illusion.jp, category-entertainment
 host-suffix, itch.io, category-entertainment
 host-suffix, itch.zone, category-entertainment
 host-suffix, lowiro.com, category-entertainment
+host-suffix, modrinth.com, category-entertainment
 host-suffix, nexon.co.jp, category-entertainment
 host-suffix, nexon.com, category-entertainment
 host-suffix, nexon.io, category-entertainment
@@ -688,6 +688,8 @@ host-suffix, ynoproject.net, category-entertainment
 host-suffix, ptzwx.com, category-entertainment
 host-suffix, quanben-xiaoshuo.com, category-entertainment
 host-suffix, quanben.io, category-entertainment
+host-suffix, 7tv.app, category-entertainment
+host-suffix, 7tv.io, category-entertainment
 host-suffix, abema.io, category-entertainment
 host-suffix, abema.tv, category-entertainment
 host-suffix, abema-tv.com, category-entertainment
@@ -1075,6 +1077,7 @@ host-suffix, ofiii.com, category-entertainment
 host, ntdofifreepc-tgc.cdn.hinet.net, category-entertainment
 host, ntdofifreevcpc-tgc.cdn.hinet.net, category-entertainment
 host-suffix, manhuagui.com, category-entertainment
+host-suffix, metacritic.com, category-entertainment
 host-suffix, mubi.com, category-entertainment
 host-suffix, mubicdn.net, category-entertainment
 host-suffix, biggggg.com, category-entertainment
@@ -1184,6 +1187,9 @@ host-suffix, mgo-images.com, category-entertainment
 host-suffix, ravm.tv, category-entertainment
 host-suffix, roku.com, category-entertainment
 host-suffix, rokutime.com, category-entertainment
+host-suffix, rutube.ru, category-entertainment
+host-suffix, rutubelist.ru, category-entertainment
+host-suffix, rtbcdn.ru, category-entertainment
 host-suffix, showtimeanytime.com, category-entertainment
 host-suffix, showtime.com, category-entertainment
 host-suffix, dishworld.com, category-entertainment

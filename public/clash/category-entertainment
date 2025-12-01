@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,minecraft.wiki
-DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
@@ -319,6 +318,7 @@ DOMAIN-SUFFIX,illusion.jp
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
 DOMAIN-SUFFIX,lowiro.com
+DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nexon.io
@@ -688,6 +688,8 @@ DOMAIN-SUFFIX,ynoproject.net
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema-tv.com
@@ -1075,6 +1077,7 @@ DOMAIN-SUFFIX,ofiii.com
 DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mubicdn.net
 DOMAIN-SUFFIX,biggggg.com
@@ -1184,6 +1187,9 @@ DOMAIN-SUFFIX,mgo-images.com
 DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,showtimeanytime.com
 DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,dishworld.com

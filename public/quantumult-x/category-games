@@ -224,7 +224,6 @@ host-suffix, humblebundle.com, category-games
 host-suffix, joinsquad.com, category-games
 host-suffix, loverslab.com, category-games
 host-suffix, minecraft.wiki, category-games
-host-suffix, modrinth.com, category-games
 host-suffix, nexusmods.com, category-games
 host-suffix, offworldindustries.com, category-games
 host-suffix, offworldindustries.net, category-games
@@ -513,6 +512,7 @@ host-suffix, illusion.jp, category-games
 host-suffix, itch.io, category-games
 host-suffix, itch.zone, category-games
 host-suffix, lowiro.com, category-games
+host-suffix, modrinth.com, category-games
 host-suffix, nexon.co.jp, category-games
 host-suffix, nexon.com, category-games
 host-suffix, nexon.io, category-games

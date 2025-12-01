@@ -3015,6 +3015,13 @@ host-suffix, telesco.pe, geolocation-!cn
 host-suffix, tg.dev, geolocation-!cn
 host-suffix, tx.me, geolocation-!cn
 host-suffix, usercontent.dev, geolocation-!cn
+host-suffix, temp-mail.org, geolocation-!cn
+host-suffix, viber.com, geolocation-!cn
+host-suffix, viber.co, geolocation-!cn
+host-suffix, viber.me, geolocation-!cn
+host-suffix, s-bid.rmp.rakuten.com, geolocation-!cn
+host-suffix, vbcdn.com, geolocation-!cn
+host-suffix, vbcdn.net, geolocation-!cn
 host-suffix, wa.me, geolocation-!cn
 host-suffix, whatsapp-plus.info, geolocation-!cn
 host-suffix, whatsapp-plus.me, geolocation-!cn
@@ -4783,7 +4790,6 @@ host-suffix, humblebundle.com, geolocation-!cn
 host-suffix, joinsquad.com, geolocation-!cn
 host-suffix, loverslab.com, geolocation-!cn
 host-suffix, minecraft.wiki, geolocation-!cn
-host-suffix, modrinth.com, geolocation-!cn
 host-suffix, nexusmods.com, geolocation-!cn
 host-suffix, offworldindustries.com, geolocation-!cn
 host-suffix, offworldindustries.net, geolocation-!cn
@@ -5072,6 +5078,7 @@ host-suffix, illusion.jp, geolocation-!cn
 host-suffix, itch.io, geolocation-!cn
 host-suffix, itch.zone, geolocation-!cn
 host-suffix, lowiro.com, geolocation-!cn
+host-suffix, modrinth.com, geolocation-!cn
 host-suffix, nexon.co.jp, geolocation-!cn
 host-suffix, nexon.com, geolocation-!cn
 host-suffix, nexon.io, geolocation-!cn
@@ -5441,6 +5448,8 @@ host-suffix, ynoproject.net, geolocation-!cn
 host-suffix, ptzwx.com, geolocation-!cn
 host-suffix, quanben-xiaoshuo.com, geolocation-!cn
 host-suffix, quanben.io, geolocation-!cn
+host-suffix, 7tv.app, geolocation-!cn
+host-suffix, 7tv.io, geolocation-!cn
 host-suffix, abema.io, geolocation-!cn
 host-suffix, abema.tv, geolocation-!cn
 host-suffix, abema-tv.com, geolocation-!cn
@@ -5828,6 +5837,7 @@ host-suffix, ofiii.com, geolocation-!cn
 host, ntdofifreepc-tgc.cdn.hinet.net, geolocation-!cn
 host, ntdofifreevcpc-tgc.cdn.hinet.net, geolocation-!cn
 host-suffix, manhuagui.com, geolocation-!cn
+host-suffix, metacritic.com, geolocation-!cn
 host-suffix, mubi.com, geolocation-!cn
 host-suffix, mubicdn.net, geolocation-!cn
 host-suffix, biggggg.com, geolocation-!cn
@@ -5937,6 +5947,9 @@ host-suffix, mgo-images.com, geolocation-!cn
 host-suffix, ravm.tv, geolocation-!cn
 host-suffix, roku.com, geolocation-!cn
 host-suffix, rokutime.com, geolocation-!cn
+host-suffix, rutube.ru, geolocation-!cn
+host-suffix, rutubelist.ru, geolocation-!cn
+host-suffix, rtbcdn.ru, geolocation-!cn
 host-suffix, showtimeanytime.com, geolocation-!cn
 host-suffix, showtime.com, geolocation-!cn
 host-suffix, dishworld.com, geolocation-!cn
@@ -6368,6 +6381,8 @@ host-suffix, dcard.tw, geolocation-!cn
 host-suffix, broadbandreports.com, geolocation-!cn
 host-suffix, dslr.net, geolocation-!cn
 host-suffix, dslreports.com, geolocation-!cn
+host-suffix, habr.com, geolocation-!cn
+host-suffix, habrastorage.org, geolocation-!cn
 host-suffix, hkgolden.com, geolocation-!cn
 host-suffix, hkgolden.media, geolocation-!cn
 host-suffix, lih.kg, geolocation-!cn
@@ -19672,6 +19687,7 @@ host-suffix, affinity.studio, geolocation-!cn
 host-suffix, affinity-beta.s3.amazonaws.com, geolocation-!cn
 host-suffix, affinity-lessons.s3.amazonaws.com, geolocation-!cn
 host-suffix, canva.com, geolocation-!cn
+host-suffix, canvastatus.com, geolocation-!cn
 host-suffix, chegg.com, geolocation-!cn
 host-suffix, cheggcdn.com, geolocation-!cn
 host-suffix, cisco, geolocation-!cn

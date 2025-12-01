@@ -3254,6 +3254,7 @@ host-suffix, affinity.studio, category-companies
 host-suffix, affinity-beta.s3.amazonaws.com, category-companies
 host-suffix, affinity-lessons.s3.amazonaws.com, category-companies
 host-suffix, canva.com, category-companies
+host-suffix, canvastatus.com, category-companies
 host-suffix, chegg.com, category-companies
 host-suffix, cheggcdn.com, category-companies
 host-suffix, cisco, category-companies
