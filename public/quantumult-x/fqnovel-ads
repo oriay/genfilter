@@ -1,0 +1,15 @@
+host, ads3-normal-hl.zijieapi.com, fqnovel-ads
+host, ads3-normal.zijieapi.com, fqnovel-ads
+host, ads5-normal-hl.zijieapi.com, fqnovel-ads
+host, ads5-normal.zijieapi.com, fqnovel-ads
+host, log3-applog-hl.fqnovel.com, fqnovel-ads
+host, log3-applog.fqnovel.com, fqnovel-ads
+host, log5-applog-hl.fqnovel.com, fqnovel-ads
+host, log5-applog.fqnovel.com, fqnovel-ads
+host, p3-ad-sign.byteimg.com, fqnovel-ads
+host, p6-ad-sign.byteimg.com, fqnovel-ads
+host, p9-ad-sign.byteimg.com, fqnovel-ads
+host, rtlog3-applog-hl.fqnovel.com, fqnovel-ads
+host, rtlog3-applog.fqnovel.com, fqnovel-ads
+host, rtlog5-applog-hl.fqnovel.com, fqnovel-ads
+host, rtlog5-applog.fqnovel.com, fqnovel-ads
