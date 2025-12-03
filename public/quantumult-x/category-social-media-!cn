@@ -481,6 +481,8 @@ host-suffix, linkedin.cn, category-social-media-!cn
 host, e122475.dscg.akamaiedge.net, category-social-media-!cn
 host, licdn.cn.cdn20.com, category-social-media-!cn
 host, linkedin.sc.omtrdc.net, category-social-media-!cn
+host-suffix, imgsmail.ru, category-social-media-!cn
+host-suffix, mail.ru, category-social-media-!cn
 host-suffix, misskey.io, category-social-media-!cn
 host-suffix, misskeyusercontent.jp, category-social-media-!cn
 host-suffix, 9ineverse.com, category-social-media-!cn
@@ -515,6 +517,9 @@ host-suffix, oekakiskey.com, category-social-media-!cn
 host-suffix, submarin.online, category-social-media-!cn
 host-suffix, sushi.ski, category-social-media-!cn
 host-suffix, trpger.us, category-social-media-!cn
+host-suffix, ok.ru, category-social-media-!cn
+host-suffix, okcdn.ru, category-social-media-!cn
+host-suffix, mycdn.me, category-social-media-!cn
 host-suffix, threads.com, category-social-media-!cn
 host-suffix, threads.net, category-social-media-!cn
 host-suffix, ads-twitter.com, category-social-media-!cn
