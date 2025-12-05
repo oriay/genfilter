@@ -4758,6 +4758,7 @@ host-suffix, udacity.com, geolocation-!cn
 host-suffix, udemy.com, geolocation-!cn
 host-suffix, udemycdn.com, geolocation-!cn
 host-suffix, w3schools.com, geolocation-!cn
+host-suffix, zotero.org, geolocation-!cn
 host-suffix, 777tv.net, geolocation-!cn
 host-suffix, blubrry.com, geolocation-!cn
 host-suffix, buzzsprout.com, geolocation-!cn
