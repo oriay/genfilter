@@ -5345,6 +5345,7 @@ host-suffix, byteoversea.com, geolocation-cn
 host-suffix, muscdn.com, geolocation-cn
 host-suffix, musical.ly, geolocation-cn
 host-suffix, tik-tokapi.com, geolocation-cn
+host-suffix, tiktok-row.net, geolocation-cn
 host-suffix, tiktok.com, geolocation-cn
 host-suffix, tiktokcdn-eu.com, geolocation-cn
 host-suffix, tiktokcdn-us.com, geolocation-cn
@@ -5352,6 +5353,8 @@ host-suffix, tiktokcdn.com, geolocation-cn
 host-suffix, tiktokd.net, geolocation-cn
 host-suffix, tiktokd.org, geolocation-cn
 host-suffix, tiktokeu-cdn.com, geolocation-cn
+host-suffix, tiktokglobalshopv.com, geolocation-cn
+host-suffix, tiktokminis.us, geolocation-cn
 host-suffix, tiktokrow-cdn.com, geolocation-cn
 host-suffix, tiktokv.com, geolocation-cn
 host-suffix, tiktokv.eu, geolocation-cn

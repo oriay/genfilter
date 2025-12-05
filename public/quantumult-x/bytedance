@@ -574,6 +574,7 @@ host-suffix, byteoversea.com, bytedance
 host-suffix, muscdn.com, bytedance
 host-suffix, musical.ly, bytedance
 host-suffix, tik-tokapi.com, bytedance
+host-suffix, tiktok-row.net, bytedance
 host-suffix, tiktok.com, bytedance
 host-suffix, tiktokcdn-eu.com, bytedance
 host-suffix, tiktokcdn-us.com, bytedance
@@ -581,6 +582,8 @@ host-suffix, tiktokcdn.com, bytedance
 host-suffix, tiktokd.net, bytedance
 host-suffix, tiktokd.org, bytedance
 host-suffix, tiktokeu-cdn.com, bytedance
+host-suffix, tiktokglobalshopv.com, bytedance
+host-suffix, tiktokminis.us, bytedance
 host-suffix, tiktokrow-cdn.com, bytedance
 host-suffix, tiktokv.com, bytedance
 host-suffix, tiktokv.eu, bytedance
