@@ -184,7 +184,6 @@ DOMAIN-SUFFIX,supercellsupport.cn
 DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,bcfmglobal.com
 DOMAIN-SUFFIX,tcfmglobal.com
-DOMAIN-SUFFIX,	
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
@@ -442,6 +441,10 @@ DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,arcraiders.com
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
+DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,capturingreality.com
@@ -473,6 +476,8 @@ DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,tarkov.com
 DOMAIN-SUFFIX,eft-store.com
 DOMAIN-SUFFIX,escapefromtarkov.com
+DOMAIN-SUFFIX,faceit.com
+DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,cdngarenanow-a.akamaihd.net
 DOMAIN,dlgarenanow-a.akamaihd.net

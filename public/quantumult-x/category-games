@@ -184,7 +184,6 @@ host-suffix, supercellsupport.cn, category-games
 host-suffix, codm.com, category-games
 host-suffix, bcfmglobal.com, category-games
 host-suffix, tcfmglobal.com, category-games
-host-suffix, 	, category-games
 host-suffix, anticheatexpert.com, category-games
 host-suffix, 17roco.com, category-games
 host-suffix, roco.qq.com, category-games
@@ -442,6 +441,10 @@ host, cloudsync-prod.s3.amazonaws.com, category-games
 host, origin-a.akamaihd.net, category-games
 host, rtm.tnt-ea.com, category-games
 host, ssl-lvlt.cdn.ea.com, category-games
+host-suffix, arcraiders.com, category-games
+host-suffix, embark-studios.com, category-games
+host-suffix, embark.games, category-games
+host-suffix, reachthefinals.com, category-games
 host-suffix, 3lateral.com, category-games
 host-suffix, artstation.com, category-games
 host-suffix, capturingreality.com, category-games
@@ -473,6 +476,8 @@ host-suffix, egdownload.fastly-edge.com, category-games
 host-suffix, tarkov.com, category-games
 host-suffix, eft-store.com, category-games
 host-suffix, escapefromtarkov.com, category-games
+host-suffix, faceit.com, category-games
+host-suffix, faceit-cdn.net, category-games
 host, avatargarenanow-a.akamaihd.net, category-games
 host, cdngarenanow-a.akamaihd.net, category-games
 host, dlgarenanow-a.akamaihd.net, category-games

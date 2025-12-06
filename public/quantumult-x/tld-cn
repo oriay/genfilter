@@ -1,8 +1,13 @@
-host-suffix, cn, tld-cn
-host-suffix, citic, tld-cn
+host-suffix, alibaba, tld-cn
+host-suffix, alipay, tld-cn
 host-suffix, baidu, tld-cn
-host-suffix, unicom, tld-cn
+host-suffix, citic, tld-cn
+host-suffix, cn, tld-cn
+host-suffix, icbc, tld-cn
 host-suffix, sohu, tld-cn
+host-suffix, taobao, tld-cn
+host-suffix, tmall, tld-cn
+host-suffix, unicom, tld-cn
 host-suffix, xn--fiqs8s, tld-cn
 host-suffix, xn--fiqz9s, tld-cn
 host-suffix, xn--zfr164b, tld-cn

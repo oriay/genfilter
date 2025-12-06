@@ -226,6 +226,10 @@ host, cloudsync-prod.s3.amazonaws.com, category-games-!cn
 host, origin-a.akamaihd.net, category-games-!cn
 host, rtm.tnt-ea.com, category-games-!cn
 host, ssl-lvlt.cdn.ea.com, category-games-!cn
+host-suffix, arcraiders.com, category-games-!cn
+host-suffix, embark-studios.com, category-games-!cn
+host-suffix, embark.games, category-games-!cn
+host-suffix, reachthefinals.com, category-games-!cn
 host-suffix, 3lateral.com, category-games-!cn
 host-suffix, artstation.com, category-games-!cn
 host-suffix, capturingreality.com, category-games-!cn
@@ -257,6 +261,8 @@ host-suffix, egdownload.fastly-edge.com, category-games-!cn
 host-suffix, tarkov.com, category-games-!cn
 host-suffix, eft-store.com, category-games-!cn
 host-suffix, escapefromtarkov.com, category-games-!cn
+host-suffix, faceit.com, category-games-!cn
+host-suffix, faceit-cdn.net, category-games-!cn
 host, avatargarenanow-a.akamaihd.net, category-games-!cn
 host, cdngarenanow-a.akamaihd.net, category-games-!cn
 host, dlgarenanow-a.akamaihd.net, category-games-!cn
