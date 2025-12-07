@@ -1604,6 +1604,7 @@ host-suffix, gcloudcstest.com, geolocation-cn
 host-suffix, gcloudcstestonly.com, geolocation-cn
 host-suffix, gclouddolphin.com, geolocation-cn
 host-suffix, gcloudsdk.com, geolocation-cn
+host-suffix, gcloudsvcs.com, geolocation-cn
 host-suffix, gdtimg.com, geolocation-cn
 host-suffix, goto-game.com, geolocation-cn
 host-suffix, goto-game.mobi, geolocation-cn
@@ -2369,11 +2370,13 @@ host-suffix, kankanews.com, geolocation-cn
 host-suffix, kankannews.com, geolocation-cn
 host-suffix, kksmg.com, geolocation-cn
 host-suffix, statickksmg.com, geolocation-cn
+host-suffix, latepost.com, geolocation-cn
 host-suffix, nanyuenews.com, geolocation-cn
 host-suffix, nbd.com.cn, geolocation-cn
 host-suffix, news.cn, geolocation-cn
 host-suffix, xinhuanet.com, geolocation-cn
 host-suffix, xinhuaxmt.com, geolocation-cn
+host-suffix, ofweek.com, geolocation-cn
 host-suffix, 3conline.com, geolocation-cn
 host-suffix, pconline.com.cn, geolocation-cn
 host-suffix, people.cn, geolocation-cn
@@ -4011,6 +4014,7 @@ host-suffix, leigod.com, geolocation-cn
 host-suffix, tmjiasuqi.com, geolocation-cn
 host-suffix, uu.163.com, geolocation-cn
 host-suffix, xunyou.com, geolocation-cn
+host-suffix, xunyou.mobi, geolocation-cn
 host-suffix, bohejiasuqi.com, geolocation-cn
 host-suffix, jiasu.bohe.com, geolocation-cn
 host-suffix, golink.com, geolocation-cn
@@ -6805,6 +6809,7 @@ host-suffix, gcloudcstest.com, geolocation-cn
 host-suffix, gcloudcstestonly.com, geolocation-cn
 host-suffix, gclouddolphin.com, geolocation-cn
 host-suffix, gcloudsdk.com, geolocation-cn
+host-suffix, gcloudsvcs.com, geolocation-cn
 host-suffix, gdtimg.com, geolocation-cn
 host-suffix, goto-game.com, geolocation-cn
 host-suffix, goto-game.mobi, geolocation-cn

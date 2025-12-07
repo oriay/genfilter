@@ -484,6 +484,7 @@ host-suffix, gcloudcstest.com, tencent
 host-suffix, gcloudcstestonly.com, tencent
 host-suffix, gclouddolphin.com, tencent
 host-suffix, gcloudsdk.com, tencent
+host-suffix, gcloudsvcs.com, tencent
 host-suffix, gdtimg.com, tencent
 host-suffix, goto-game.com, tencent
 host-suffix, goto-game.mobi, tencent

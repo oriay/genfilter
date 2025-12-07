@@ -2386,6 +2386,7 @@ host-suffix, cloudflarestream.com, geolocation-!cn
 host-suffix, cloudflaretest.com, geolocation-!cn
 host-suffix, cloudflarewarp.com, geolocation-!cn
 host-suffix, every1dns.net, geolocation-!cn
+host-suffix, imagedelivery.net, geolocation-!cn
 host-suffix, isbgpsafeyet.com, geolocation-!cn
 host-suffix, one.one.one, geolocation-!cn
 host-suffix, pacloudflare.com, geolocation-!cn
