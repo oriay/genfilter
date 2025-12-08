@@ -32,6 +32,7 @@ host-suffix, isbgpsafeyet.com, cloudflare
 host-suffix, one.one.one, cloudflare
 host-suffix, pacloudflare.com, cloudflare
 host-suffix, pages.dev, cloudflare
+host-suffix, r2.dev, cloudflare
 host-suffix, trycloudflare.com, cloudflare
 host-suffix, videodelivery.net, cloudflare
 host-suffix, warp.plus, cloudflare

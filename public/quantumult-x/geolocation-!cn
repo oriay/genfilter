@@ -2391,6 +2391,7 @@ host-suffix, isbgpsafeyet.com, geolocation-!cn
 host-suffix, one.one.one, geolocation-!cn
 host-suffix, pacloudflare.com, geolocation-!cn
 host-suffix, pages.dev, geolocation-!cn
+host-suffix, r2.dev, geolocation-!cn
 host-suffix, trycloudflare.com, geolocation-!cn
 host-suffix, videodelivery.net, geolocation-!cn
 host-suffix, warp.plus, geolocation-!cn
