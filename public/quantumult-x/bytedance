@@ -304,6 +304,10 @@ host-suffix, ppximg.com, bytedance
 host-suffix, ppxstatic.com, bytedance
 host-suffix, ppxvod.com, bytedance
 host-suffix, xiaoxiaapi.com, bytedance
+host-suffix, douyinec.com, bytedance
+host-suffix, ecombdapi.com, bytedance
+host-suffix, ecombdstatic.com, bytedance
+host-suffix, jinritemai.com, bytedance
 host-suffix, faceu.com, bytedance
 host-suffix, ulikecam.com, bytedance
 host-suffix, rsproxy.cn, bytedance
@@ -330,6 +334,7 @@ host-suffix, pglstatp-snssdk-toutiao.com, bytedance
 host-suffix, pglstatp-toutiao-b.com, bytedance
 host-suffix, pglstatp-toutiao.com, bytedance
 host-suffix, sf3-ttcdn-tos.pstatp.com, bytedance
+host-suffix, shoppingads.cn, bytedance
 host, ads3-normal-hl.zijieapi.com, bytedance
 host, ads3-normal.zijieapi.com, bytedance
 host, ads5-normal-hl.zijieapi.com, bytedance

@@ -246,6 +246,7 @@ host-suffix, pglstatp-snssdk-toutiao.com, category-ads
 host-suffix, pglstatp-toutiao-b.com, category-ads
 host-suffix, pglstatp-toutiao.com, category-ads
 host-suffix, sf3-ttcdn-tos.pstatp.com, category-ads
+host-suffix, shoppingads.cn, category-ads
 host, ads3-normal-hl.zijieapi.com, category-ads
 host, ads3-normal.zijieapi.com, category-ads
 host, ads5-normal-hl.zijieapi.com, category-ads

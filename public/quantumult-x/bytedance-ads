@@ -21,6 +21,7 @@ host-suffix, pglstatp-snssdk-toutiao.com, bytedance-ads
 host-suffix, pglstatp-toutiao-b.com, bytedance-ads
 host-suffix, pglstatp-toutiao.com, bytedance-ads
 host-suffix, sf3-ttcdn-tos.pstatp.com, bytedance-ads
+host-suffix, shoppingads.cn, bytedance-ads
 host, ads3-normal-hl.zijieapi.com, bytedance-ads
 host, ads3-normal.zijieapi.com, bytedance-ads
 host, ads5-normal-hl.zijieapi.com, bytedance-ads
