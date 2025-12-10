@@ -6091,6 +6091,7 @@ host-suffix, wps.cn, cn
 host-suffix, wps.com, cn
 host-suffix, wpscdn.cn, cn
 host-suffix, wpscdn.com, cn
+host-suffix, qwps.cn, cn
 host-suffix, kscord.com, cn
 host-suffix, 51dzt.com, cn
 host-suffix, iciba.com, cn
@@ -6816,6 +6817,7 @@ host-suffix, adslvfile.qq.com, cn
 host-suffix, adslvseed.qq.com, cn
 host-suffix, adsmind.apdcdn.tc.qq.com, cn
 host-suffix, adsqqclick.qq.com, cn
+host-suffix, adstats.tencentmusic.com, cn
 host-suffix, adstestview.qq.com, cn
 host-suffix, adsview.qq.com, cn
 host-suffix, adsview2.qq.com, cn
@@ -6829,14 +6831,17 @@ host-suffix, bugly.qq.com, cn
 host-suffix, e.qq.com, cn
 host-suffix, gdt.qq.com, cn
 host-suffix, hq-tracking.qq.com, cn
+host-suffix, htrace.wetvinfo.com, cn
 host-suffix, isdspeed.qq.com, cn
 host-suffix, log.tbs.qq.com, cn
 host-suffix, mdt.qq.com, cn
+host-suffix, monitor.music.qq.com, cn
 host-suffix, mpush.qq.com, cn
 host-suffix, mtrace.qq.com, cn
 host-suffix, pgdt.gtimg.cn, cn
 host-suffix, pingjs.qq.com, cn
 host-suffix, push.qq.com, cn
+host-suffix, report.qqweb.qq.com, cn
 host-suffix, sngmta.qq.com, cn
 host-suffix, stat.y.qq.com, cn
 host-suffix, tajs.qq.com, cn

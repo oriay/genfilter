@@ -6049,6 +6049,7 @@ host-suffix, wps.cn, geolocation-cn
 host-suffix, wps.com, geolocation-cn
 host-suffix, wpscdn.cn, geolocation-cn
 host-suffix, wpscdn.com, geolocation-cn
+host-suffix, qwps.cn, geolocation-cn
 host-suffix, kscord.com, geolocation-cn
 host-suffix, 51dzt.com, geolocation-cn
 host-suffix, iciba.com, geolocation-cn
@@ -6774,6 +6775,7 @@ host-suffix, adslvfile.qq.com, geolocation-cn
 host-suffix, adslvseed.qq.com, geolocation-cn
 host-suffix, adsmind.apdcdn.tc.qq.com, geolocation-cn
 host-suffix, adsqqclick.qq.com, geolocation-cn
+host-suffix, adstats.tencentmusic.com, geolocation-cn
 host-suffix, adstestview.qq.com, geolocation-cn
 host-suffix, adsview.qq.com, geolocation-cn
 host-suffix, adsview2.qq.com, geolocation-cn
@@ -6787,14 +6789,17 @@ host-suffix, bugly.qq.com, geolocation-cn
 host-suffix, e.qq.com, geolocation-cn
 host-suffix, gdt.qq.com, geolocation-cn
 host-suffix, hq-tracking.qq.com, geolocation-cn
+host-suffix, htrace.wetvinfo.com, geolocation-cn
 host-suffix, isdspeed.qq.com, geolocation-cn
 host-suffix, log.tbs.qq.com, geolocation-cn
 host-suffix, mdt.qq.com, geolocation-cn
+host-suffix, monitor.music.qq.com, geolocation-cn
 host-suffix, mpush.qq.com, geolocation-cn
 host-suffix, mtrace.qq.com, geolocation-cn
 host-suffix, pgdt.gtimg.cn, geolocation-cn
 host-suffix, pingjs.qq.com, geolocation-cn
 host-suffix, push.qq.com, geolocation-cn
+host-suffix, report.qqweb.qq.com, geolocation-cn
 host-suffix, sngmta.qq.com, geolocation-cn
 host-suffix, stat.y.qq.com, geolocation-cn
 host-suffix, tajs.qq.com, geolocation-cn

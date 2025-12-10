@@ -514,6 +514,7 @@ host-suffix, adslvfile.qq.com, category-ads
 host-suffix, adslvseed.qq.com, category-ads
 host-suffix, adsmind.apdcdn.tc.qq.com, category-ads
 host-suffix, adsqqclick.qq.com, category-ads
+host-suffix, adstats.tencentmusic.com, category-ads
 host-suffix, adstestview.qq.com, category-ads
 host-suffix, adsview.qq.com, category-ads
 host-suffix, adsview2.qq.com, category-ads
@@ -527,14 +528,17 @@ host-suffix, bugly.qq.com, category-ads
 host-suffix, e.qq.com, category-ads
 host-suffix, gdt.qq.com, category-ads
 host-suffix, hq-tracking.qq.com, category-ads
+host-suffix, htrace.wetvinfo.com, category-ads
 host-suffix, isdspeed.qq.com, category-ads
 host-suffix, log.tbs.qq.com, category-ads
 host-suffix, mdt.qq.com, category-ads
+host-suffix, monitor.music.qq.com, category-ads
 host-suffix, mpush.qq.com, category-ads
 host-suffix, mtrace.qq.com, category-ads
 host-suffix, pgdt.gtimg.cn, category-ads
 host-suffix, pingjs.qq.com, category-ads
 host-suffix, push.qq.com, category-ads
+host-suffix, report.qqweb.qq.com, category-ads
 host-suffix, sngmta.qq.com, category-ads
 host-suffix, stat.y.qq.com, category-ads
 host-suffix, tajs.qq.com, category-ads

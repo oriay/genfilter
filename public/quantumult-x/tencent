@@ -432,6 +432,7 @@ host-suffix, adslvfile.qq.com, tencent
 host-suffix, adslvseed.qq.com, tencent
 host-suffix, adsmind.apdcdn.tc.qq.com, tencent
 host-suffix, adsqqclick.qq.com, tencent
+host-suffix, adstats.tencentmusic.com, tencent
 host-suffix, adstestview.qq.com, tencent
 host-suffix, adsview.qq.com, tencent
 host-suffix, adsview2.qq.com, tencent
@@ -445,14 +446,17 @@ host-suffix, bugly.qq.com, tencent
 host-suffix, e.qq.com, tencent
 host-suffix, gdt.qq.com, tencent
 host-suffix, hq-tracking.qq.com, tencent
+host-suffix, htrace.wetvinfo.com, tencent
 host-suffix, isdspeed.qq.com, tencent
 host-suffix, log.tbs.qq.com, tencent
 host-suffix, mdt.qq.com, tencent
+host-suffix, monitor.music.qq.com, tencent
 host-suffix, mpush.qq.com, tencent
 host-suffix, mtrace.qq.com, tencent
 host-suffix, pgdt.gtimg.cn, tencent
 host-suffix, pingjs.qq.com, tencent
 host-suffix, push.qq.com, tencent
+host-suffix, report.qqweb.qq.com, tencent
 host-suffix, sngmta.qq.com, tencent
 host-suffix, stat.y.qq.com, tencent
 host-suffix, tajs.qq.com, tencent
