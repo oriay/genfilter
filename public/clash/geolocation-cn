@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,cc-pay.cn
 DOMAIN-SUFFIX,hsqh.net
 DOMAIN-SUFFIX,baijiayun.com
 DOMAIN-SUFFIX,cjjd19.com
@@ -7,6 +8,9 @@ DOMAIN-SUFFIX,mypaas.com
 DOMAIN-SUFFIX,mypaas.com.cn
 DOMAIN-SUFFIX,myypark.com
 DOMAIN-SUFFIX,funcdn.com
+DOMAIN-SUFFIX,jiashule.com
+DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,kaipuyun.cn
 DOMAIN-SUFFIX,kaipuyun.com
@@ -664,7 +668,6 @@ DOMAIN-SUFFIX,jianzhi8.com
 DOMAIN-SUFFIX,jiaodong.net
 DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,jiasuhui.com
-DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,jiathis.com
 DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jiazhao.com
@@ -1135,7 +1138,6 @@ DOMAIN-SUFFIX,yrz.name
 DOMAIN-SUFFIX,yslyhr.com
 DOMAIN-SUFFIX,ysten.com
 DOMAIN-SUFFIX,yuanzhiyijiantong.com
-DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yundun.com
 DOMAIN-SUFFIX,yunkanpan.com
@@ -4547,6 +4549,7 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudapi.com
 DOMAIN-SUFFIX,alidayu.com
 DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,aligfwaf.com
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,alikunlun.net
 DOMAIN-SUFFIX,aliyun-inc.com
@@ -6538,6 +6541,7 @@ DOMAIN-SUFFIX,tcloudhw.com
 DOMAIN-SUFFIX,tcloudhw.net
 DOMAIN-SUFFIX,tcloudscdn.com
 DOMAIN-SUFFIX,tcloudscdn.net
+DOMAIN-SUFFIX,tdnsstic1.cn
 DOMAIN-SUFFIX,tdnsx1.com
 DOMAIN-SUFFIX,techo.chat
 DOMAIN-SUFFIX,tefscloud.com

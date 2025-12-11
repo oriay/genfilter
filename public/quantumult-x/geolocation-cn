@@ -1,3 +1,4 @@
+host-suffix, cc-pay.cn, geolocation-cn
 host-suffix, hsqh.net, geolocation-cn
 host-suffix, baijiayun.com, geolocation-cn
 host-suffix, cjjd19.com, geolocation-cn
@@ -7,6 +8,9 @@ host-suffix, mypaas.com, geolocation-cn
 host-suffix, mypaas.com.cn, geolocation-cn
 host-suffix, myypark.com, geolocation-cn
 host-suffix, funcdn.com, geolocation-cn
+host-suffix, jiashule.com, geolocation-cn
+host-suffix, jiasule.com, geolocation-cn
+host-suffix, yunaq.com, geolocation-cn
 host-suffix, jikeiot.cloud, geolocation-cn
 host-suffix, kaipuyun.cn, geolocation-cn
 host-suffix, kaipuyun.com, geolocation-cn
@@ -664,7 +668,6 @@ host-suffix, jianzhi8.com, geolocation-cn
 host-suffix, jiaodong.net, geolocation-cn
 host-suffix, jiaoyimao.com, geolocation-cn
 host-suffix, jiasuhui.com, geolocation-cn
-host-suffix, jiasule.com, geolocation-cn
 host-suffix, jiathis.com, geolocation-cn
 host-suffix, jiayuan.com, geolocation-cn
 host-suffix, jiazhao.com, geolocation-cn
@@ -1135,7 +1138,6 @@ host-suffix, yrz.name, geolocation-cn
 host-suffix, yslyhr.com, geolocation-cn
 host-suffix, ysten.com, geolocation-cn
 host-suffix, yuanzhiyijiantong.com, geolocation-cn
-host-suffix, yunaq.com, geolocation-cn
 host-suffix, yunba.io, geolocation-cn
 host-suffix, yundun.com, geolocation-cn
 host-suffix, yunkanpan.com, geolocation-cn
@@ -4547,6 +4549,7 @@ host-suffix, alicdn.com, geolocation-cn
 host-suffix, alicloudapi.com, geolocation-cn
 host-suffix, alidayu.com, geolocation-cn
 host-suffix, alidns.com, geolocation-cn
+host-suffix, aligfwaf.com, geolocation-cn
 host-suffix, alikunlun.com, geolocation-cn
 host-suffix, alikunlun.net, geolocation-cn
 host-suffix, aliyun-inc.com, geolocation-cn
@@ -6538,6 +6541,7 @@ host-suffix, tcloudhw.com, geolocation-cn
 host-suffix, tcloudhw.net, geolocation-cn
 host-suffix, tcloudscdn.com, geolocation-cn
 host-suffix, tcloudscdn.net, geolocation-cn
+host-suffix, tdnsstic1.cn, geolocation-cn
 host-suffix, tdnsx1.com, geolocation-cn
 host-suffix, techo.chat, geolocation-cn
 host-suffix, tefscloud.com, geolocation-cn

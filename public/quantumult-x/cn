@@ -40,6 +40,7 @@ host-suffix, xn--5tzm5g, cn
 host-suffix, xn--8y0a063a, cn
 host-suffix, xn--rhqv96g, cn
 host-suffix, xn--nyqy26a, cn
+host-suffix, cc-pay.cn, cn
 host-suffix, hsqh.net, cn
 host-suffix, baijiayun.com, cn
 host-suffix, cjjd19.com, cn
@@ -49,6 +50,9 @@ host-suffix, mypaas.com, cn
 host-suffix, mypaas.com.cn, cn
 host-suffix, myypark.com, cn
 host-suffix, funcdn.com, cn
+host-suffix, jiashule.com, cn
+host-suffix, jiasule.com, cn
+host-suffix, yunaq.com, cn
 host-suffix, jikeiot.cloud, cn
 host-suffix, kaipuyun.cn, cn
 host-suffix, kaipuyun.com, cn
@@ -706,7 +710,6 @@ host-suffix, jianzhi8.com, cn
 host-suffix, jiaodong.net, cn
 host-suffix, jiaoyimao.com, cn
 host-suffix, jiasuhui.com, cn
-host-suffix, jiasule.com, cn
 host-suffix, jiathis.com, cn
 host-suffix, jiayuan.com, cn
 host-suffix, jiazhao.com, cn
@@ -1177,7 +1180,6 @@ host-suffix, yrz.name, cn
 host-suffix, yslyhr.com, cn
 host-suffix, ysten.com, cn
 host-suffix, yuanzhiyijiantong.com, cn
-host-suffix, yunaq.com, cn
 host-suffix, yunba.io, cn
 host-suffix, yundun.com, cn
 host-suffix, yunkanpan.com, cn
@@ -4589,6 +4591,7 @@ host-suffix, alicdn.com, cn
 host-suffix, alicloudapi.com, cn
 host-suffix, alidayu.com, cn
 host-suffix, alidns.com, cn
+host-suffix, aligfwaf.com, cn
 host-suffix, alikunlun.com, cn
 host-suffix, alikunlun.net, cn
 host-suffix, aliyun-inc.com, cn
@@ -6580,6 +6583,7 @@ host-suffix, tcloudhw.com, cn
 host-suffix, tcloudhw.net, cn
 host-suffix, tcloudscdn.com, cn
 host-suffix, tcloudscdn.net, cn
+host-suffix, tdnsstic1.cn, cn
 host-suffix, tdnsx1.com, cn
 host-suffix, techo.chat, cn
 host-suffix, tefscloud.com, cn
