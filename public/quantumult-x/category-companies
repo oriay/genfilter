@@ -6750,6 +6750,8 @@ host-suffix, thegithubshop.com, category-companies
 host-suffix, blob.core.windows.net, category-companies
 host, github-api.arkoselabs.com, category-companies
 host, github-cloud.s3.amazonaws.com, category-companies
+host-suffix, collector.github.com, category-companies
+host-suffix, copilot-telemetry.githubusercontent.com, category-companies
 host-suffix, npm.community, category-companies
 host-suffix, npmjs.com, category-companies
 host-suffix, npmjs.org, category-companies

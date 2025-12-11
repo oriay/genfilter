@@ -4793,6 +4793,7 @@ host-suffix, humblebundle.com, geolocation-!cn
 host-suffix, joinsquad.com, geolocation-!cn
 host-suffix, loverslab.com, geolocation-!cn
 host-suffix, minecraft.wiki, geolocation-!cn
+host-suffix, nexus-cdn.com, geolocation-!cn
 host-suffix, nexusmods.com, geolocation-!cn
 host-suffix, offworldindustries.com, geolocation-!cn
 host-suffix, offworldindustries.net, geolocation-!cn
@@ -6049,10 +6050,12 @@ host, i.jeded.com, geolocation-!cn
 host-suffix, tidal.com, geolocation-!cn
 host-suffix, tidalhifi.com, geolocation-!cn
 host-suffix, wimpmusic.com, geolocation-!cn
+host-suffix, bytedapm.com, geolocation-!cn
 host-suffix, byteoversea.com, geolocation-!cn
 host-suffix, muscdn.com, geolocation-!cn
 host-suffix, musical.ly, geolocation-!cn
 host-suffix, tik-tokapi.com, geolocation-!cn
+host-suffix, tiktok-minis.com, geolocation-!cn
 host-suffix, tiktok-row.net, geolocation-!cn
 host-suffix, tiktok.com, geolocation-!cn
 host-suffix, tiktokcdn-eu.com, geolocation-!cn
@@ -6073,6 +6076,10 @@ host-suffix, ttlivecdn.com, geolocation-!cn
 host-suffix, ttoverseaus.net, geolocation-!cn
 host-suffix, ttwstatic.com, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
+host, roovza-launches.appsflyersdk.com, geolocation-!cn
+host, roovza.inapps.appsflyersdk.com, geolocation-!cn
+host, roovza.launches.appsflyersdk.com, geolocation-!cn
+host, roovza.skadsdk.appsflyersdk.com, geolocation-!cn
 host-suffix, themoviedb.org, geolocation-!cn
 host-suffix, tmdb.org, geolocation-!cn
 host, tmdb-image-prod.b-cdn.net, geolocation-!cn
@@ -16244,6 +16251,8 @@ host-suffix, thegithubshop.com, geolocation-!cn
 host-suffix, blob.core.windows.net, geolocation-!cn
 host, github-api.arkoselabs.com, geolocation-!cn
 host, github-cloud.s3.amazonaws.com, geolocation-!cn
+host-suffix, collector.github.com, geolocation-!cn
+host-suffix, copilot-telemetry.githubusercontent.com, geolocation-!cn
 host-suffix, npm.community, geolocation-!cn
 host-suffix, npmjs.com, geolocation-!cn
 host-suffix, npmjs.org, geolocation-!cn
@@ -23248,6 +23257,8 @@ host-suffix, thegithubshop.com, geolocation-!cn
 host-suffix, blob.core.windows.net, geolocation-!cn
 host, github-api.arkoselabs.com, geolocation-!cn
 host, github-cloud.s3.amazonaws.com, geolocation-!cn
+host-suffix, collector.github.com, geolocation-!cn
+host-suffix, copilot-telemetry.githubusercontent.com, geolocation-!cn
 host-suffix, npm.community, geolocation-!cn
 host-suffix, npmjs.com, geolocation-!cn
 host-suffix, npmjs.org, geolocation-!cn

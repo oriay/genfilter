@@ -1,7 +1,9 @@
+host-suffix, bytedapm.com, tiktok
 host-suffix, byteoversea.com, tiktok
 host-suffix, muscdn.com, tiktok
 host-suffix, musical.ly, tiktok
 host-suffix, tik-tokapi.com, tiktok
+host-suffix, tiktok-minis.com, tiktok
 host-suffix, tiktok-row.net, tiktok
 host-suffix, tiktok.com, tiktok
 host-suffix, tiktokcdn-eu.com, tiktok
@@ -22,3 +24,7 @@ host-suffix, ttlivecdn.com, tiktok
 host-suffix, ttoverseaus.net, tiktok
 host-suffix, ttwstatic.com, tiktok
 host, p16-tiktokcdn-com.akamaized.net, tiktok
+host, roovza-launches.appsflyersdk.com, tiktok
+host, roovza.inapps.appsflyersdk.com, tiktok
+host, roovza.launches.appsflyersdk.com, tiktok
+host, roovza.skadsdk.appsflyersdk.com, tiktok

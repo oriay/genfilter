@@ -74,7 +74,6 @@ host-suffix, bytedance.com, bytedance
 host-suffix, bytedance.net, bytedance
 host-suffix, bytedance.org, bytedance
 host-suffix, bytedanceapi.com, bytedance
-host-suffix, bytedapm.com, bytedance
 host-suffix, bytedcdn.com, bytedance
 host-suffix, bytedeliver.com, bytedance
 host-suffix, bytedgames.com, bytedance
@@ -575,10 +574,12 @@ host-suffix, larksuiteimg.com, bytedance
 host-suffix, larkvc.com, bytedance
 host-suffix, statuslarkoffice.com, bytedance
 host-suffix, thelarkcloud.com, bytedance
+host-suffix, bytedapm.com, bytedance
 host-suffix, byteoversea.com, bytedance
 host-suffix, muscdn.com, bytedance
 host-suffix, musical.ly, bytedance
 host-suffix, tik-tokapi.com, bytedance
+host-suffix, tiktok-minis.com, bytedance
 host-suffix, tiktok-row.net, bytedance
 host-suffix, tiktok.com, bytedance
 host-suffix, tiktokcdn-eu.com, bytedance
@@ -599,6 +600,10 @@ host-suffix, ttlivecdn.com, bytedance
 host-suffix, ttoverseaus.net, bytedance
 host-suffix, ttwstatic.com, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
+host, roovza-launches.appsflyersdk.com, bytedance
+host, roovza.inapps.appsflyersdk.com, bytedance
+host, roovza.launches.appsflyersdk.com, bytedance
+host, roovza.skadsdk.appsflyersdk.com, bytedance
 host-suffix, doudou.com, bytedance
 host-suffix, marscode.cn, bytedance
 host-suffix, marscode.com.cn, bytedance

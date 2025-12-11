@@ -286,6 +286,8 @@ host-suffix, thegithubshop.com, category-dev
 host-suffix, blob.core.windows.net, category-dev
 host, github-api.arkoselabs.com, category-dev
 host, github-cloud.s3.amazonaws.com, category-dev
+host-suffix, collector.github.com, category-dev
+host-suffix, copilot-telemetry.githubusercontent.com, category-dev
 host-suffix, npm.community, category-dev
 host-suffix, npmjs.com, category-dev
 host-suffix, npmjs.org, category-dev

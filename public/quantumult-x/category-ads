@@ -288,6 +288,8 @@ host-suffix, metrics.duolingo.com, category-ads
 host-suffix, analytics.vpc.duolingo.com, category-ads
 host-suffix, emogi.com, category-ads
 host-suffix, data.flurry.com, category-ads
+host-suffix, collector.github.com, category-ads
+host-suffix, copilot-telemetry.githubusercontent.com, category-ads
 host-suffix, 2mdn-cn.net, category-ads
 host-suffix, 2mdn.net, category-ads
 host-suffix, admob-cn.com, category-ads
@@ -415,6 +417,7 @@ host-suffix, openxmarket.asia, category-ads
 host-suffix, cdn.pocoiq.cn, category-ads
 host-suffix, oct.pocoiq.cn, category-ads
 host-suffix, ads.pubmatic.com, category-ads
+host-suffix, fenxi.360.cn, category-ads
 host-suffix, fenxi.com, category-ads
 host-suffix, lianmeng.360.cn, category-ads
 host-suffix, mediav.com, category-ads

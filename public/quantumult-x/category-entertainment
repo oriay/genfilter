@@ -31,6 +31,7 @@ host-suffix, humblebundle.com, category-entertainment
 host-suffix, joinsquad.com, category-entertainment
 host-suffix, loverslab.com, category-entertainment
 host-suffix, minecraft.wiki, category-entertainment
+host-suffix, nexus-cdn.com, category-entertainment
 host-suffix, nexusmods.com, category-entertainment
 host-suffix, offworldindustries.com, category-entertainment
 host-suffix, offworldindustries.net, category-entertainment
@@ -1287,10 +1288,12 @@ host, i.jeded.com, category-entertainment
 host-suffix, tidal.com, category-entertainment
 host-suffix, tidalhifi.com, category-entertainment
 host-suffix, wimpmusic.com, category-entertainment
+host-suffix, bytedapm.com, category-entertainment
 host-suffix, byteoversea.com, category-entertainment
 host-suffix, muscdn.com, category-entertainment
 host-suffix, musical.ly, category-entertainment
 host-suffix, tik-tokapi.com, category-entertainment
+host-suffix, tiktok-minis.com, category-entertainment
 host-suffix, tiktok-row.net, category-entertainment
 host-suffix, tiktok.com, category-entertainment
 host-suffix, tiktokcdn-eu.com, category-entertainment
@@ -1311,6 +1314,10 @@ host-suffix, ttlivecdn.com, category-entertainment
 host-suffix, ttoverseaus.net, category-entertainment
 host-suffix, ttwstatic.com, category-entertainment
 host, p16-tiktokcdn-com.akamaized.net, category-entertainment
+host, roovza-launches.appsflyersdk.com, category-entertainment
+host, roovza.inapps.appsflyersdk.com, category-entertainment
+host, roovza.launches.appsflyersdk.com, category-entertainment
+host, roovza.skadsdk.appsflyersdk.com, category-entertainment
 host-suffix, themoviedb.org, category-entertainment
 host-suffix, tmdb.org, category-entertainment
 host, tmdb-image-prod.b-cdn.net, category-entertainment

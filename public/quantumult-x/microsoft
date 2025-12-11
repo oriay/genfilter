@@ -532,6 +532,8 @@ host-suffix, thegithubshop.com, microsoft
 host-suffix, blob.core.windows.net, microsoft
 host, github-api.arkoselabs.com, microsoft
 host, github-cloud.s3.amazonaws.com, microsoft
+host-suffix, collector.github.com, microsoft
+host-suffix, copilot-telemetry.githubusercontent.com, microsoft
 host-suffix, npm.community, microsoft
 host-suffix, npmjs.com, microsoft
 host-suffix, npmjs.org, microsoft

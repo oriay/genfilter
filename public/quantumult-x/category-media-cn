@@ -19,6 +19,7 @@ host-suffix, cqliving.com, category-media-cn
 host-suffix, cqnews.net, category-media-cn
 host-suffix, cqsjb.com, category-media-cn
 host-suffix, cs.com.cn, category-media-cn
+host-suffix, cyzone.cn, category-media-cn
 host-suffix, cztv.com, category-media-cn
 host-suffix, cztvcdn.com, category-media-cn
 host-suffix, cztvcloud.com, category-media-cn
@@ -28,6 +29,8 @@ host-suffix, gw.com.cn, category-media-cn
 host-suffix, yundzh.com, category-media-cn
 host-suffix, dgtle.com, category-media-cn
 host-suffix, donews.com, category-media-cn
+host-suffix, dzng.com, category-media-cn
+host-suffix, dzwww.com, category-media-cn
 host-suffix, expreview.com, category-media-cn
 host-suffix, freebuf.com, category-media-cn
 host-suffix, gcores.com, category-media-cn
@@ -46,6 +49,7 @@ host-suffix, iresearch.cn, category-media-cn
 host-suffix, jianyuweb.com, category-media-cn
 host-suffix, wallstcn.com, category-media-cn
 host-suffix, wallstreetcn.com, category-media-cn
+host-suffix, jiqizhixin.com, category-media-cn
 host-suffix, jrj.com.cn, category-media-cn
 host-suffix, jrjimg.cn, category-media-cn
 host-suffix, jsbc.com, category-media-cn
@@ -69,8 +73,11 @@ host-suffix, people.cn, category-media-cn
 host-suffix, people.com.cn, category-media-cn
 host-suffix, pingwest.com, category-media-cn
 host-suffix, qbitai.com, category-media-cn
+host-suffix, qiluyidian.net, category-media-cn
+host-suffix, ql1d.com, category-media-cn
 host-suffix, qingdaonews.com, category-media-cn
 host-suffix, qianzhan.com, category-media-cn
+host-suffix, scsjb.cn, category-media-cn
 host-suffix, secrss.com, category-media-cn
 host-suffix, sfccn.com, category-media-cn
 host-suffix, shangyexinzhi.com, category-media-cn
