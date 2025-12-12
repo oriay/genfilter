@@ -22,6 +22,7 @@ host-suffix, copilot.microsoft.com, geolocation-!cn
 host-suffix, devin.ai, geolocation-!cn
 host-suffix, diabrowser.com, geolocation-!cn
 host-suffix, dify.ai, geolocation-!cn
+host-suffix, duck.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, mistral.ai, geolocation-!cn
@@ -15677,6 +15678,7 @@ host-suffix, ddh.gg, geolocation-!cn
 host-suffix, dgg.gg, geolocation-!cn
 host-suffix, dontbubble.us, geolocation-!cn
 host-suffix, donttrack.us, geolocation-!cn
+host-suffix, duck.ai, geolocation-!cn
 host-suffix, duck.co, geolocation-!cn
 host-suffix, duck.com, geolocation-!cn
 host-suffix, duckduckco.com, geolocation-!cn

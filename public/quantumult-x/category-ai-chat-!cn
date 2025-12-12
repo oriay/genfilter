@@ -9,6 +9,7 @@ host-suffix, copilot.microsoft.com, category-ai-chat-!cn
 host-suffix, devin.ai, category-ai-chat-!cn
 host-suffix, diabrowser.com, category-ai-chat-!cn
 host-suffix, dify.ai, category-ai-chat-!cn
+host-suffix, duck.ai, category-ai-chat-!cn
 host-suffix, gateway.ai.cloudflare.com, category-ai-chat-!cn
 host-suffix, meta.ai, category-ai-chat-!cn
 host-suffix, mistral.ai, category-ai-chat-!cn
