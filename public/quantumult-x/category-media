@@ -15,10 +15,12 @@ host-suffix, chinaeconomicreview.com, category-media
 host-suffix, cmmedia.com.tw, category-media
 host-suffix, cna.com.tw, category-media
 host-suffix, cnyes.com, category-media
+host-suffix, cool3c.com, category-media
 host-suffix, coolloud.org.tw, category-media
 host-suffix, cup.com.hk, category-media
 host-suffix, cw.com.tw, category-media
 host-suffix, d100.net, category-media
+host-suffix, donga.com, category-media
 host-suffix, ebc.net.tw, category-media
 host-suffix, ettoday.net, category-media
 host-suffix, eventsinfocus.org, category-media
@@ -26,6 +28,7 @@ host-suffix, factwire.org, category-media
 host-suffix, fortuneinsight.com, category-media
 host-suffix, freebeacon.com, category-media
 host-suffix, gbnews.uk, category-media
+host-suffix, getnews.jp, category-media
 host-suffix, hk01.com, category-media
 host-suffix, hkcitizenmedia.com, category-media
 host-suffix, hkcnews.com, category-media
@@ -34,11 +37,13 @@ host-suffix, hkgpao.com, category-media
 host-suffix, hongkongfp.com, category-media
 host-suffix, inmediahk.net, category-media
 host-suffix, inside.com.tw, category-media
+host-suffix, itmedia.co.jp, category-media
 host-suffix, jfengtime.com, category-media
 host-suffix, landofhope.tv, category-media
 host-suffix, limedia.tw, category-media
 host-suffix, localpresshk.com, category-media
 host-suffix, ltsports.com.tw, category-media
+host-suffix, macaodaily.com, category-media
 host-suffix, mdnkids.com, category-media
 host-suffix, mirrormedia.com.tw, category-media
 host-suffix, mirrormedia.mg, category-media
@@ -82,6 +87,7 @@ host-suffix, upmedia.mg, category-media
 host-suffix, vjmedia.com.hk, category-media
 host-suffix, warroom.org, category-media
 host-suffix, washingtonpost.com, category-media
+host-suffix, watch.impress.co.jp, category-media
 host-suffix, wealth.com.tw, category-media
 host-suffix, weiyuksj.com, category-media
 host-suffix, wenzhao.ca, category-media

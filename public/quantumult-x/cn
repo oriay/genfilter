@@ -127,7 +127,9 @@ host-suffix, dxy.cn, cn
 host-suffix, dxycdn.com, cn
 host-suffix, jsehealth.com, cn
 host-suffix, mingxuan.store, cn
-host-suffix, caac.gov.cn, cn
+host-suffix, gov.cn, cn
+host-suffix, cma.cn, cn
+host-suffix, nmc.cn, cn
 host-suffix, ceair.com, cn
 host-suffix, chinaexpressair.com, cn
 host-suffix, csair.com, cn
@@ -234,9 +236,6 @@ host-suffix, moulem.com, cn
 host-suffix, qzhuye.com, cn
 host-suffix, chugou360.com, cn
 host-suffix, ycrx360.com, cn
-host-suffix, cma.gov.cn, cn
-host-suffix, cma.cn, cn
-host-suffix, nmc.cn, cn
 host-suffix, 0123456789.com, cn
 host-suffix, 0379home.com, cn
 host-suffix, 055110.com, cn
@@ -255,12 +254,10 @@ host-suffix, 123u.com, cn
 host-suffix, 1637.com, cn
 host-suffix, 16888.com, cn
 host-suffix, 16rd.com, cn
-host-suffix, 17173.com, cn
 host-suffix, 178linux.com, cn
 host-suffix, 17989.com, cn
 host-suffix, 17cdn.com, cn
 host-suffix, 17house.com, cn
-host-suffix, 18183.com, cn
 host-suffix, 1905.com, cn
 host-suffix, 19yxw.com, cn
 host-suffix, 1nongjing.com, cn
@@ -341,7 +338,6 @@ host-suffix, 714.com, cn
 host-suffix, 7230.com, cn
 host-suffix, 72byte.com, cn
 host-suffix, 7down.com, cn
-host-suffix, 7k7k.com, cn
 host-suffix, 7po.com, cn
 host-suffix, 7x24cc.com, cn
 host-suffix, 7xdown.com, cn
@@ -847,7 +843,6 @@ host-suffix, mumayi.com, cn
 host-suffix, muomou.com, cn
 host-suffix, muzhiwan.com, cn
 host-suffix, mydown.com, cn
-host-suffix, mydrivers.com, cn
 host-suffix, myshow360.net, cn
 host-suffix, myyx618.com, cn
 host-suffix, myzaker.com, cn
@@ -1511,9 +1506,7 @@ host-suffix, ldmnq.com, cn
 host-suffix, lsplayer.com, cn
 host-suffix, yeshen.com, cn
 host-suffix, 17k.com, cn
-host-suffix, 3dmgame.com, cn
 host-suffix, 51zmt.top, cn
-host-suffix, ali213.net, cn
 host-suffix, baofeng.com, cn
 host-suffix, baofeng.net, cn
 host-suffix, bgwxc.com, cn
@@ -1545,6 +1538,26 @@ host-suffix, yiyouliao.com, cn
 host-suffix, zhanqi.tv, cn
 host-suffix, zhulang.com, cn
 host-suffix, zongheng.com, cn
+host-suffix, 17173.com, cn
+host-suffix, 18183.com, cn
+host-suffix, 3dmgame.com, cn
+host-suffix, ali213.net, cn
+host-suffix, cgames.com, cn
+host-suffix, chuapp.com, cn
+host-suffix, dataeye.com, cn
+host-suffix, gamediary.cn, cn
+host-suffix, gamelook.com.cn, cn
+host-suffix, gameres.com, cn
+host-suffix, gamewower.com, cn
+host-suffix, gcores.com, cn
+host-suffix, ign.com.cn, cn
+host-suffix, nadianshi.com, cn
+host-suffix, news.yxrb.net, cn
+host-suffix, ucg.cn, cn
+host-suffix, youxichaguan.com, cn
+host-suffix, youxiputao.com, cn
+host-suffix, yystv.cn, cn
+host-suffix, 7k7k.com, cn
 host-suffix, 9xgame.com, cn
 host-suffix, astral-vector.com, cn
 host-suffix, forevernine.com, cn
@@ -1618,6 +1631,7 @@ host-suffix, we4399.com, cn
 host-suffix, webgame163.com, cn
 host-suffix, youba.com, cn
 host-suffix, yxhhdl.com, cn
+host-suffix, 9game.cn, cn
 host-suffix, bilibiligame.cn, cn
 host-suffix, bilibiligame.co, cn
 host-suffix, bilibiligame.net, cn
@@ -1735,10 +1749,8 @@ host-suffix, tcfmglobal.com, cn
 host-suffix, anticheatexpert.com, cn
 host-suffix, 17roco.com, cn
 host-suffix, roco.qq.com, cn
-host-suffix, tgbus.com, cn
 host-suffix, tiancity.com, cn
 host-suffix, tiancitycdn.com, cn
-host-suffix, vgtime.com, cn
 host-suffix, vrzwk.cn, cn
 host-suffix, vrzwk.com, cn
 host-suffix, vrzwk.net, cn
@@ -2191,6 +2203,8 @@ host-suffix, tingbook.com, cn
 host-suffix, xs.cn, cn
 host-suffix, xs8.cn, cn
 host-suffix, xxsy.net, cn
+host-suffix, tgbus.com, cn
+host-suffix, vgtime.com, cn
 host-suffix, 3songshu.com, cn
 host-suffix, haidilao.com, cn
 host-suffix, heytea.com, cn
@@ -2393,7 +2407,6 @@ host-suffix, dzng.com, cn
 host-suffix, dzwww.com, cn
 host-suffix, expreview.com, cn
 host-suffix, freebuf.com, cn
-host-suffix, gcores.com, cn
 host-suffix, geekpark.net, cn
 host-suffix, gmw.com, cn
 host-suffix, hexun.com, cn
@@ -2404,6 +2417,7 @@ host-suffix, huanqiu.com, cn
 host-suffix, huanqiucdn.cn, cn
 host-suffix, huxiu.com, cn
 host-suffix, huxiucdn.com, cn
+host-suffix, icpcw.com, cn
 host-suffix, idcquan.com, cn
 host-suffix, iresearch.cn, cn
 host-suffix, jianyuweb.com, cn
@@ -2421,6 +2435,7 @@ host-suffix, kankannews.com, cn
 host-suffix, kksmg.com, cn
 host-suffix, statickksmg.com, cn
 host-suffix, latepost.com, cn
+host-suffix, mydrivers.com, cn
 host-suffix, nanyuenews.com, cn
 host-suffix, nbd.com.cn, cn
 host-suffix, news.cn, cn
@@ -2455,6 +2470,7 @@ host-suffix, 10jqka.com.cn, cn
 host-suffix, thsi.cn, cn
 host-suffix, ths123.com, cn
 host-suffix, woshipm.com, cn
+host-suffix, xkb.com.cn, cn
 host-suffix, yicai.com, cn
 host-suffix, zealer.com, cn
 host-suffix, zhichanli.com, cn
@@ -3132,6 +3148,9 @@ host-suffix, amzndns-cn.biz, cn
 host-suffix, amzndns-cn.cn, cn
 host-suffix, amzndns-cn.com, cn
 host-suffix, amzndns-cn.net, cn
+host-suffix, bsclink.cn, cn
+host-suffix, qingcdn.com, cn
+host-suffix, trpcdn.net, cn
 host-suffix, bootcdn.cn, cn
 host-suffix, bootcdn.net, cn
 host-suffix, bootcss.com, cn
@@ -4361,7 +4380,6 @@ host-suffix, tmall, cn
 host-suffix, 25pp.com, cn
 host-suffix, 56che.com, cn
 host-suffix, 95095.com, cn
-host-suffix, 9game.cn, cn
 host-suffix, ali-health.com, cn
 host-suffix, aliapp.org, cn
 host-suffix, alibaba-inc.com, cn
@@ -4523,6 +4541,7 @@ host-suffix, lydaas.net, cn
 host-suffix, lydass.cn, cn
 host-suffix, lydass.com.cn, cn
 host-suffix, lydass.net, cn
+host-suffix, 9game.cn, cn
 host-suffix, a.alimama.cn, cn
 host-suffix, acjs.aliyun.com, cn
 host-suffix, adash-c.m.taobao.com, cn

@@ -1,6 +1,6 @@
 host, download.cdp.bethesda.net, category-game-platforms-download
 host, content.cdp.bethesda.net, category-game-platforms-download
-host, gamedownloads-rockstargames-com.akamaized.net, category-game-platforms-download
+host, lion.secure.dyn.riotcdn.net, category-game-platforms-download
 host, lol.secure.dyn.riotcdn.net, category-game-platforms-download
 host, ks-foundation.secure.dyn.riotcdn.net, category-game-platforms-download
 host, riot-client.secure.dyn.riotcdn.net, category-game-platforms-download
@@ -41,6 +41,7 @@ host, blzdist-wow.necdn.leihuo.netease.com, category-game-platforms-download
 host, blzdist-hs.necdn.leihuo.netease.com, category-game-platforms-download
 host, blzdist-di.necdn.leihuo.netease.com, category-game-platforms-download
 host, blzdist-ow.necdn.leihuo.netease.com, category-game-platforms-download
+host, blzdist-d3.necdn.leihuo.netease.com, category-game-platforms-download
 host, gog-cdn.akamaized.net, category-game-platforms-download
 host, gog-cdn-fastly-cp77.gog.com, category-game-platforms-download
 host, gog-cdn-fastly.gog.com, category-game-platforms-download
@@ -59,8 +60,11 @@ host, assets2.xboxlive.com, category-game-platforms-download
 host, uplaypc-s-ubisoft.cdn.ubi.com, category-game-platforms-download
 host, uplaypc-s-ubisoft-ww.cdn.ubi.com, category-game-platforms-download
 host, ubisoftconnect.cdn.ubi.com, category-game-platforms-download
+host, ubisoftconnect.eo-edgefunctions7.com, category-game-platforms-download
+host, uplaypc-s-ubisoft.cdn.ubionline.com.cn, category-game-platforms-download
 host, uplaypc-s-ubisoft.cdn.ubionline.com.cn, category-game-platforms-download
 host, origin-a.akamaihd.net, category-game-platforms-download
+host, prod.cloudflare.cdn.ea.com, category-game-platforms-download
 host, dl.steam.clngaa.com, category-game-platforms-download
 host, st.dl.eccdnx.com, category-game-platforms-download
 host, st.dl.bscstorage.net, category-game-platforms-download
