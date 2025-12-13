@@ -25,6 +25,7 @@ host-suffix, diabrowser.com, geolocation-!cn
 host-suffix, dify.ai, geolocation-!cn
 host-suffix, duck.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
+host-suffix, kiro.dev, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, mistral.ai, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
@@ -22830,7 +22831,6 @@ host-suffix, c-msedge.net, geolocation-!cn
 host-suffix, centralvalidation.com, geolocation-!cn
 host-suffix, ch9.ms, geolocation-!cn
 host-suffix, charticulator.com, geolocation-!cn
-host-suffix, clarity.ms, geolocation-!cn
 host-suffix, cloudapp.net, geolocation-!cn
 host-suffix, cloudappsecurity.com, geolocation-!cn
 host-suffix, cortanaanalytics.com, geolocation-!cn
@@ -22894,7 +22894,6 @@ host-suffix, microsoft-sbs-domains.com, geolocation-!cn
 host-suffix, microsoft-smb.cn, geolocation-!cn
 host-suffix, microsoft365.com, geolocation-!cn
 host-suffix, microsoftaccountguard.com, geolocation-!cn
-host-suffix, microsoftads.com, geolocation-!cn
 host-suffix, microsoftadvertising.com, geolocation-!cn
 host-suffix, microsoftadvertisingregionalawards.com, geolocation-!cn
 host-suffix, microsoftaffiliates.com, geolocation-!cn
@@ -22936,7 +22935,6 @@ host-suffix, morphcharts.com, geolocation-!cn
 host-suffix, mpnevolution.com, geolocation-!cn
 host-suffix, ms-studiosmedia.com, geolocation-!cn
 host-suffix, ms365surfaceoffer.com, geolocation-!cn
-host-suffix, msads.net, geolocation-!cn
 host-suffix, msauth.cn, geolocation-!cn
 host-suffix, msauth.net, geolocation-!cn
 host-suffix, msauthimages.cn, geolocation-!cn
@@ -22963,7 +22961,6 @@ host-suffix, msra.cn, geolocation-!cn
 host-suffix, msturing.org, geolocation-!cn
 host-suffix, msudalosti.com, geolocation-!cn
 host-suffix, mymicrosoft.com, geolocation-!cn
-host-suffix, nelreports.net, geolocation-!cn
 host-suffix, nextechafrica.net, geolocation-!cn
 host-suffix, nxta.org, geolocation-!cn
 host-suffix, o365cn.com, geolocation-!cn
@@ -23307,6 +23304,12 @@ host-suffix, copilot-telemetry.githubusercontent.com, geolocation-!cn
 host-suffix, npm.community, geolocation-!cn
 host-suffix, npmjs.com, geolocation-!cn
 host-suffix, npmjs.org, geolocation-!cn
+host-suffix, browser.events.data.msn.cn, geolocation-!cn
+host-suffix, browser.events.data.msn.com, geolocation-!cn
+host-suffix, clarity.ms, geolocation-!cn
+host-suffix, microsoftads.com, geolocation-!cn
+host-suffix, msads.net, geolocation-!cn
+host-suffix, nelreports.net, geolocation-!cn
 host-suffix, adaptivecards.io, geolocation-!cn
 host-suffix, api-extractor.com, geolocation-!cn
 host-suffix, apisof.net, geolocation-!cn

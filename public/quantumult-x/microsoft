@@ -60,7 +60,6 @@ host-suffix, c-msedge.net, microsoft
 host-suffix, centralvalidation.com, microsoft
 host-suffix, ch9.ms, microsoft
 host-suffix, charticulator.com, microsoft
-host-suffix, clarity.ms, microsoft
 host-suffix, cloudapp.net, microsoft
 host-suffix, cloudappsecurity.com, microsoft
 host-suffix, cortanaanalytics.com, microsoft
@@ -124,7 +123,6 @@ host-suffix, microsoft-sbs-domains.com, microsoft
 host-suffix, microsoft-smb.cn, microsoft
 host-suffix, microsoft365.com, microsoft
 host-suffix, microsoftaccountguard.com, microsoft
-host-suffix, microsoftads.com, microsoft
 host-suffix, microsoftadvertising.com, microsoft
 host-suffix, microsoftadvertisingregionalawards.com, microsoft
 host-suffix, microsoftaffiliates.com, microsoft
@@ -166,7 +164,6 @@ host-suffix, morphcharts.com, microsoft
 host-suffix, mpnevolution.com, microsoft
 host-suffix, ms-studiosmedia.com, microsoft
 host-suffix, ms365surfaceoffer.com, microsoft
-host-suffix, msads.net, microsoft
 host-suffix, msauth.cn, microsoft
 host-suffix, msauth.net, microsoft
 host-suffix, msauthimages.cn, microsoft
@@ -193,7 +190,6 @@ host-suffix, msra.cn, microsoft
 host-suffix, msturing.org, microsoft
 host-suffix, msudalosti.com, microsoft
 host-suffix, mymicrosoft.com, microsoft
-host-suffix, nelreports.net, microsoft
 host-suffix, nextechafrica.net, microsoft
 host-suffix, nxta.org, microsoft
 host-suffix, o365cn.com, microsoft
@@ -537,6 +533,12 @@ host-suffix, copilot-telemetry.githubusercontent.com, microsoft
 host-suffix, npm.community, microsoft
 host-suffix, npmjs.com, microsoft
 host-suffix, npmjs.org, microsoft
+host-suffix, browser.events.data.msn.cn, microsoft
+host-suffix, browser.events.data.msn.com, microsoft
+host-suffix, clarity.ms, microsoft
+host-suffix, microsoftads.com, microsoft
+host-suffix, msads.net, microsoft
+host-suffix, nelreports.net, microsoft
 host-suffix, adaptivecards.io, microsoft
 host-suffix, api-extractor.com, microsoft
 host-suffix, apisof.net, microsoft

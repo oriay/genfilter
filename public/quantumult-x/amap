@@ -8,3 +8,8 @@ host-suffix, amapauto.com, amap
 host-suffix, anav.com, amap
 host-suffix, autonavi.com, amap
 host-suffix, gaode.com, amap
+host-suffix, adashx.ut.amap.com, amap
+host-suffix, dualstack-logs.amap.com, amap
+host-suffix, logs.amap.com, amap
+host-suffix, optimus-ads.amap.com, amap
+host-suffix, v6-adashx.ut.amap.com, amap

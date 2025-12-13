@@ -1,0 +1,5 @@
+host-suffix, adashx.ut.amap.com, amap-ads
+host-suffix, dualstack-logs.amap.com, amap-ads
+host-suffix, logs.amap.com, amap-ads
+host-suffix, optimus-ads.amap.com, amap-ads
+host-suffix, v6-adashx.ut.amap.com, amap-ads

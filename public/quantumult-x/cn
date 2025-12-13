@@ -2694,8 +2694,10 @@ host-suffix, umsns.com, cn
 host-suffix, umtrack.com, cn
 host-suffix, uyunad.com, cn
 host-suffix, whalecloud.com, cn
+host-suffix, aaid.umeng.com, cn
 host-suffix, alog.umeng.com, cn
 host-suffix, alog.umengcloud.com, cn
+host-suffix, utoken.umeng.com, cn
 host-suffix, w.cnzz.com, cn
 host-suffix, z.gds.cnzz.com, cn
 host-suffix, httpdns-api.aliyuncs.com, cn
@@ -4552,7 +4554,6 @@ host-suffix, adash.man.aliyuncs.com, cn
 host-suffix, adashbc.m.taobao.com, cn
 host-suffix, adashbc.ut.taobao.com, cn
 host-suffix, adashx.m.taobao.com, cn
-host-suffix, adashx.ut.amap.com, cn
 host-suffix, adashx.ut.ele.me, cn
 host-suffix, adashx4ae.ut.taobao.com, cn
 host-suffix, adashx4yt.m.taobao.com, cn
@@ -4580,10 +4581,14 @@ host-suffix, retcode.taobao.com, cn
 host-suffix, tce.alicdn.com, cn
 host-suffix, tns.simba.taobao.com, cn
 host-suffix, track.lc.quark.cn, cn
-host-suffix, v6-adashx.ut.amap.com, cn
 host-suffix, v6-adashx.ut.cainiao.com, cn
 host-suffix, v6-adashx.ut.ele.me, cn
 host-suffix, v6-adashx.ut.taobao.com, cn
+host-suffix, adashx.ut.amap.com, cn
+host-suffix, dualstack-logs.amap.com, cn
+host-suffix, logs.amap.com, cn
+host-suffix, optimus-ads.amap.com, cn
+host-suffix, v6-adashx.ut.amap.com, cn
 host-suffix, ad.api.3g.youku.com, cn
 host-suffix, ad.api.mobile.youku.com, cn
 host-suffix, ad.mobile.youku.com, cn
@@ -4727,8 +4732,10 @@ host-suffix, umsns.com, cn
 host-suffix, umtrack.com, cn
 host-suffix, uyunad.com, cn
 host-suffix, whalecloud.com, cn
+host-suffix, aaid.umeng.com, cn
 host-suffix, alog.umeng.com, cn
 host-suffix, alog.umengcloud.com, cn
+host-suffix, utoken.umeng.com, cn
 host-suffix, w.cnzz.com, cn
 host-suffix, z.gds.cnzz.com, cn
 host-suffix, kumiao.com, cn
@@ -4747,6 +4754,11 @@ host-suffix, amapauto.com, cn
 host-suffix, anav.com, cn
 host-suffix, autonavi.com, cn
 host-suffix, gaode.com, cn
+host-suffix, adashx.ut.amap.com, cn
+host-suffix, dualstack-logs.amap.com, cn
+host-suffix, logs.amap.com, cn
+host-suffix, optimus-ads.amap.com, cn
+host-suffix, v6-adashx.ut.amap.com, cn
 host-suffix, baidu, cn
 host-suffix, 91.com, cn
 host-suffix, aipage.com, cn
@@ -6861,6 +6873,7 @@ host-suffix, adsview.qq.com, cn
 host-suffix, adsview2.qq.com, cn
 host-suffix, adv.app.qq.com, cn
 host-suffix, adver.qq.com, cn
+host-suffix, badjs.weixinbridge.com, cn
 host-suffix, beacon.cdn.qq.com, cn
 host-suffix, beacon.qq.com, cn
 host-suffix, beaconcdn.qq.com, cn

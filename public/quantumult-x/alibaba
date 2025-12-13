@@ -177,7 +177,6 @@ host-suffix, adash.man.aliyuncs.com, alibaba
 host-suffix, adashbc.m.taobao.com, alibaba
 host-suffix, adashbc.ut.taobao.com, alibaba
 host-suffix, adashx.m.taobao.com, alibaba
-host-suffix, adashx.ut.amap.com, alibaba
 host-suffix, adashx.ut.ele.me, alibaba
 host-suffix, adashx4ae.ut.taobao.com, alibaba
 host-suffix, adashx4yt.m.taobao.com, alibaba
@@ -205,10 +204,14 @@ host-suffix, retcode.taobao.com, alibaba
 host-suffix, tce.alicdn.com, alibaba
 host-suffix, tns.simba.taobao.com, alibaba
 host-suffix, track.lc.quark.cn, alibaba
-host-suffix, v6-adashx.ut.amap.com, alibaba
 host-suffix, v6-adashx.ut.cainiao.com, alibaba
 host-suffix, v6-adashx.ut.ele.me, alibaba
 host-suffix, v6-adashx.ut.taobao.com, alibaba
+host-suffix, adashx.ut.amap.com, alibaba
+host-suffix, dualstack-logs.amap.com, alibaba
+host-suffix, logs.amap.com, alibaba
+host-suffix, optimus-ads.amap.com, alibaba
+host-suffix, v6-adashx.ut.amap.com, alibaba
 host-suffix, ad.api.3g.youku.com, alibaba
 host-suffix, ad.api.mobile.youku.com, alibaba
 host-suffix, ad.mobile.youku.com, alibaba
@@ -352,8 +355,10 @@ host-suffix, umsns.com, alibaba
 host-suffix, umtrack.com, alibaba
 host-suffix, uyunad.com, alibaba
 host-suffix, whalecloud.com, alibaba
+host-suffix, aaid.umeng.com, alibaba
 host-suffix, alog.umeng.com, alibaba
 host-suffix, alog.umengcloud.com, alibaba
+host-suffix, utoken.umeng.com, alibaba
 host-suffix, w.cnzz.com, alibaba
 host-suffix, z.gds.cnzz.com, alibaba
 host-suffix, kumiao.com, alibaba
@@ -372,3 +377,8 @@ host-suffix, amapauto.com, alibaba
 host-suffix, anav.com, alibaba
 host-suffix, autonavi.com, alibaba
 host-suffix, gaode.com, alibaba
+host-suffix, adashx.ut.amap.com, alibaba
+host-suffix, dualstack-logs.amap.com, alibaba
+host-suffix, logs.amap.com, alibaba
+host-suffix, optimus-ads.amap.com, alibaba
+host-suffix, v6-adashx.ut.amap.com, alibaba

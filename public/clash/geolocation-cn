@@ -2652,8 +2652,10 @@ DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,umtrack.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,whalecloud.com
+DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,utoken.umeng.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
@@ -4510,7 +4512,6 @@ DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
@@ -4538,10 +4539,14 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -4685,8 +4690,10 @@ DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,umtrack.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,whalecloud.com
+DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,utoken.umeng.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,kumiao.com
@@ -4705,6 +4712,11 @@ DOMAIN-SUFFIX,amapauto.com
 DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,gaode.com
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,aipage.com
@@ -6819,6 +6831,7 @@ DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
 DOMAIN-SUFFIX,adv.app.qq.com
 DOMAIN-SUFFIX,adver.qq.com
+DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,beacon.cdn.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beaconcdn.qq.com

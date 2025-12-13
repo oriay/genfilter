@@ -2652,8 +2652,10 @@ host-suffix, umsns.com, geolocation-cn
 host-suffix, umtrack.com, geolocation-cn
 host-suffix, uyunad.com, geolocation-cn
 host-suffix, whalecloud.com, geolocation-cn
+host-suffix, aaid.umeng.com, geolocation-cn
 host-suffix, alog.umeng.com, geolocation-cn
 host-suffix, alog.umengcloud.com, geolocation-cn
+host-suffix, utoken.umeng.com, geolocation-cn
 host-suffix, w.cnzz.com, geolocation-cn
 host-suffix, z.gds.cnzz.com, geolocation-cn
 host-suffix, httpdns-api.aliyuncs.com, geolocation-cn
@@ -4510,7 +4512,6 @@ host-suffix, adash.man.aliyuncs.com, geolocation-cn
 host-suffix, adashbc.m.taobao.com, geolocation-cn
 host-suffix, adashbc.ut.taobao.com, geolocation-cn
 host-suffix, adashx.m.taobao.com, geolocation-cn
-host-suffix, adashx.ut.amap.com, geolocation-cn
 host-suffix, adashx.ut.ele.me, geolocation-cn
 host-suffix, adashx4ae.ut.taobao.com, geolocation-cn
 host-suffix, adashx4yt.m.taobao.com, geolocation-cn
@@ -4538,10 +4539,14 @@ host-suffix, retcode.taobao.com, geolocation-cn
 host-suffix, tce.alicdn.com, geolocation-cn
 host-suffix, tns.simba.taobao.com, geolocation-cn
 host-suffix, track.lc.quark.cn, geolocation-cn
-host-suffix, v6-adashx.ut.amap.com, geolocation-cn
 host-suffix, v6-adashx.ut.cainiao.com, geolocation-cn
 host-suffix, v6-adashx.ut.ele.me, geolocation-cn
 host-suffix, v6-adashx.ut.taobao.com, geolocation-cn
+host-suffix, adashx.ut.amap.com, geolocation-cn
+host-suffix, dualstack-logs.amap.com, geolocation-cn
+host-suffix, logs.amap.com, geolocation-cn
+host-suffix, optimus-ads.amap.com, geolocation-cn
+host-suffix, v6-adashx.ut.amap.com, geolocation-cn
 host-suffix, ad.api.3g.youku.com, geolocation-cn
 host-suffix, ad.api.mobile.youku.com, geolocation-cn
 host-suffix, ad.mobile.youku.com, geolocation-cn
@@ -4685,8 +4690,10 @@ host-suffix, umsns.com, geolocation-cn
 host-suffix, umtrack.com, geolocation-cn
 host-suffix, uyunad.com, geolocation-cn
 host-suffix, whalecloud.com, geolocation-cn
+host-suffix, aaid.umeng.com, geolocation-cn
 host-suffix, alog.umeng.com, geolocation-cn
 host-suffix, alog.umengcloud.com, geolocation-cn
+host-suffix, utoken.umeng.com, geolocation-cn
 host-suffix, w.cnzz.com, geolocation-cn
 host-suffix, z.gds.cnzz.com, geolocation-cn
 host-suffix, kumiao.com, geolocation-cn
@@ -4705,6 +4712,11 @@ host-suffix, amapauto.com, geolocation-cn
 host-suffix, anav.com, geolocation-cn
 host-suffix, autonavi.com, geolocation-cn
 host-suffix, gaode.com, geolocation-cn
+host-suffix, adashx.ut.amap.com, geolocation-cn
+host-suffix, dualstack-logs.amap.com, geolocation-cn
+host-suffix, logs.amap.com, geolocation-cn
+host-suffix, optimus-ads.amap.com, geolocation-cn
+host-suffix, v6-adashx.ut.amap.com, geolocation-cn
 host-suffix, baidu, geolocation-cn
 host-suffix, 91.com, geolocation-cn
 host-suffix, aipage.com, geolocation-cn
@@ -6819,6 +6831,7 @@ host-suffix, adsview.qq.com, geolocation-cn
 host-suffix, adsview2.qq.com, geolocation-cn
 host-suffix, adv.app.qq.com, geolocation-cn
 host-suffix, adver.qq.com, geolocation-cn
+host-suffix, badjs.weixinbridge.com, geolocation-cn
 host-suffix, beacon.cdn.qq.com, geolocation-cn
 host-suffix, beacon.qq.com, geolocation-cn
 host-suffix, beaconcdn.qq.com, geolocation-cn

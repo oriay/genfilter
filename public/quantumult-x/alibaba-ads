@@ -8,7 +8,6 @@ host-suffix, adash.man.aliyuncs.com, alibaba-ads
 host-suffix, adashbc.m.taobao.com, alibaba-ads
 host-suffix, adashbc.ut.taobao.com, alibaba-ads
 host-suffix, adashx.m.taobao.com, alibaba-ads
-host-suffix, adashx.ut.amap.com, alibaba-ads
 host-suffix, adashx.ut.ele.me, alibaba-ads
 host-suffix, adashx4ae.ut.taobao.com, alibaba-ads
 host-suffix, adashx4yt.m.taobao.com, alibaba-ads
@@ -36,10 +35,14 @@ host-suffix, retcode.taobao.com, alibaba-ads
 host-suffix, tce.alicdn.com, alibaba-ads
 host-suffix, tns.simba.taobao.com, alibaba-ads
 host-suffix, track.lc.quark.cn, alibaba-ads
-host-suffix, v6-adashx.ut.amap.com, alibaba-ads
 host-suffix, v6-adashx.ut.cainiao.com, alibaba-ads
 host-suffix, v6-adashx.ut.ele.me, alibaba-ads
 host-suffix, v6-adashx.ut.taobao.com, alibaba-ads
+host-suffix, adashx.ut.amap.com, alibaba-ads
+host-suffix, dualstack-logs.amap.com, alibaba-ads
+host-suffix, logs.amap.com, alibaba-ads
+host-suffix, optimus-ads.amap.com, alibaba-ads
+host-suffix, v6-adashx.ut.amap.com, alibaba-ads
 host-suffix, ad.api.3g.youku.com, alibaba-ads
 host-suffix, ad.api.mobile.youku.com, alibaba-ads
 host-suffix, ad.mobile.youku.com, alibaba-ads

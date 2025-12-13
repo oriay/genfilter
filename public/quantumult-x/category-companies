@@ -6278,7 +6278,6 @@ host-suffix, c-msedge.net, category-companies
 host-suffix, centralvalidation.com, category-companies
 host-suffix, ch9.ms, category-companies
 host-suffix, charticulator.com, category-companies
-host-suffix, clarity.ms, category-companies
 host-suffix, cloudapp.net, category-companies
 host-suffix, cloudappsecurity.com, category-companies
 host-suffix, cortanaanalytics.com, category-companies
@@ -6342,7 +6341,6 @@ host-suffix, microsoft-sbs-domains.com, category-companies
 host-suffix, microsoft-smb.cn, category-companies
 host-suffix, microsoft365.com, category-companies
 host-suffix, microsoftaccountguard.com, category-companies
-host-suffix, microsoftads.com, category-companies
 host-suffix, microsoftadvertising.com, category-companies
 host-suffix, microsoftadvertisingregionalawards.com, category-companies
 host-suffix, microsoftaffiliates.com, category-companies
@@ -6384,7 +6382,6 @@ host-suffix, morphcharts.com, category-companies
 host-suffix, mpnevolution.com, category-companies
 host-suffix, ms-studiosmedia.com, category-companies
 host-suffix, ms365surfaceoffer.com, category-companies
-host-suffix, msads.net, category-companies
 host-suffix, msauth.cn, category-companies
 host-suffix, msauth.net, category-companies
 host-suffix, msauthimages.cn, category-companies
@@ -6411,7 +6408,6 @@ host-suffix, msra.cn, category-companies
 host-suffix, msturing.org, category-companies
 host-suffix, msudalosti.com, category-companies
 host-suffix, mymicrosoft.com, category-companies
-host-suffix, nelreports.net, category-companies
 host-suffix, nextechafrica.net, category-companies
 host-suffix, nxta.org, category-companies
 host-suffix, o365cn.com, category-companies
@@ -6755,6 +6751,12 @@ host-suffix, copilot-telemetry.githubusercontent.com, category-companies
 host-suffix, npm.community, category-companies
 host-suffix, npmjs.com, category-companies
 host-suffix, npmjs.org, category-companies
+host-suffix, browser.events.data.msn.cn, category-companies
+host-suffix, browser.events.data.msn.com, category-companies
+host-suffix, clarity.ms, category-companies
+host-suffix, microsoftads.com, category-companies
+host-suffix, msads.net, category-companies
+host-suffix, nelreports.net, category-companies
 host-suffix, adaptivecards.io, category-companies
 host-suffix, api-extractor.com, category-companies
 host-suffix, apisof.net, category-companies
