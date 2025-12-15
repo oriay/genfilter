@@ -3746,6 +3746,7 @@ host-suffix, qgzb.gov.cn, geolocation-cn
 host-suffix, qgzb.net, geolocation-cn
 host-suffix, zbbm.gov.cn, geolocation-cn
 host-suffix, zbbm.net, geolocation-cn
+host-suffix, neea.cn, geolocation-cn
 host-suffix, 91yunxiao.com, geolocation-cn
 host-suffix, aiyunxiao.com, geolocation-cn
 host-suffix, haofenshu.com, geolocation-cn
