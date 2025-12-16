@@ -4473,7 +4473,6 @@ host-suffix, pagead.l.google.com, category-companies
 host-suffix, partnerad.l.google.com, category-companies
 host-suffix, urchin.com, category-companies
 host, analytics.google.com, category-companies
-host, fundingchoicesmessages.google.com, category-companies
 host-suffix, deepmind.com, category-companies
 host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
