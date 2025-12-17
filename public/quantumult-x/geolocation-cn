@@ -1257,6 +1257,7 @@ host-suffix, aloys233.top, geolocation-cn
 host-suffix, fanmingming.com, geolocation-cn
 host-suffix, zway.top, geolocation-cn
 host-suffix, jinrishici.com, geolocation-cn
+host-suffix, openvela.com, geolocation-cn
 host-suffix, tipdm.org, geolocation-cn
 host-suffix, aixcoder.com, geolocation-cn
 host-suffix, nnthink.com, geolocation-cn
@@ -4100,6 +4101,9 @@ host-suffix, trae.cn, geolocation-cn
 host-suffix, trae.com.cn, geolocation-cn
 host-suffix, trae.guru, geolocation-cn
 host-suffix, yoma.cn, geolocation-cn
+host-suffix, miaibox.com, geolocation-cn
+host-suffix, xiaoaiassist.com, geolocation-cn
+host-suffix, xiaomimimo.com, geolocation-cn
 host-suffix, oray.com, geolocation-cn
 host-suffix, oray.net, geolocation-cn
 host-suffix, orayer.com, geolocation-cn
@@ -7137,6 +7141,9 @@ host-suffix, sentry.d.xiaomi.net, geolocation-cn
 host-suffix, tjqonline.cn, geolocation-cn
 host-suffix, tracker.ai.xiaomi.com, geolocation-cn
 host-suffix, tracking.miui.com, geolocation-cn
+host-suffix, miaibox.com, geolocation-cn
+host-suffix, xiaoaiassist.com, geolocation-cn
+host-suffix, xiaomimimo.com, geolocation-cn
 host-suffix, sandai.net, geolocation-cn
 host-suffix, thunderurl.com, geolocation-cn
 host-suffix, xunlei.com, geolocation-cn
