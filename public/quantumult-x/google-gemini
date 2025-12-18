@@ -21,3 +21,5 @@ host-suffix, jules.google.com, google-gemini
 host-suffix, labs.google, google-gemini
 host-suffix, aisandbox-pa.googleapis.com, google-gemini
 host-suffix, aida.googleapis.com, google-gemini
+host-suffix, opal.google, google-gemini
+host-suffix, opal.google.com, google-gemini

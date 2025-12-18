@@ -76,6 +76,8 @@ host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
+host-suffix, opal.google, geolocation-!cn
+host-suffix, opal.google.com, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
 host-suffix, hf.co, geolocation-!cn
 host-suffix, hf.space, geolocation-!cn
@@ -17005,6 +17007,7 @@ host-suffix, amplifyapp.com, geolocation-!cn
 host-suffix, amplifyframework.com, geolocation-!cn
 host-suffix, aws-iot-hackathon.com, geolocation-!cn
 host-suffix, aws.com, geolocation-!cn
+host-suffix, aws.dev, geolocation-!cn
 host-suffix, awsapprunner.com, geolocation-!cn
 host-suffix, awsapps.com, geolocation-!cn
 host-suffix, awsautopilot.com, geolocation-!cn
@@ -21102,6 +21105,8 @@ host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
+host-suffix, opal.google, geolocation-!cn
+host-suffix, opal.google.com, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
@@ -21125,6 +21130,8 @@ host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
+host-suffix, opal.google, geolocation-!cn
+host-suffix, opal.google.com, geolocation-!cn
 host-suffix, googleplay.com, geolocation-!cn
 host-suffix, play-fe.googleapis.com, geolocation-!cn
 host-suffix, play-games.googleusercontent.com, geolocation-!cn

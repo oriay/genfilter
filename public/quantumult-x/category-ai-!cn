@@ -62,6 +62,8 @@ host-suffix, jules.google.com, category-ai-!cn
 host-suffix, labs.google, category-ai-!cn
 host-suffix, aisandbox-pa.googleapis.com, category-ai-!cn
 host-suffix, aida.googleapis.com, category-ai-!cn
+host-suffix, opal.google, category-ai-!cn
+host-suffix, opal.google.com, category-ai-!cn
 host-suffix, groq.com, category-ai-!cn
 host-suffix, hf.co, category-ai-!cn
 host-suffix, hf.space, category-ai-!cn

@@ -399,6 +399,7 @@ host-suffix, amplifyapp.com, category-companies
 host-suffix, amplifyframework.com, category-companies
 host-suffix, aws-iot-hackathon.com, category-companies
 host-suffix, aws.com, category-companies
+host-suffix, aws.dev, category-companies
 host-suffix, awsapprunner.com, category-companies
 host-suffix, awsapps.com, category-companies
 host-suffix, awsautopilot.com, category-companies
@@ -4496,6 +4497,8 @@ host-suffix, jules.google.com, category-companies
 host-suffix, labs.google, category-companies
 host-suffix, aisandbox-pa.googleapis.com, category-companies
 host-suffix, aida.googleapis.com, category-companies
+host-suffix, opal.google, category-companies
+host-suffix, opal.google.com, category-companies
 host-suffix, deepmind.com, category-companies
 host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
@@ -4519,6 +4522,8 @@ host-suffix, jules.google.com, category-companies
 host-suffix, labs.google, category-companies
 host-suffix, aisandbox-pa.googleapis.com, category-companies
 host-suffix, aida.googleapis.com, category-companies
+host-suffix, opal.google, category-companies
+host-suffix, opal.google.com, category-companies
 host-suffix, googleplay.com, category-companies
 host-suffix, play-fe.googleapis.com, category-companies
 host-suffix, play-games.googleusercontent.com, category-companies

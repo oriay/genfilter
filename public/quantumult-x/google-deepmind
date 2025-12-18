@@ -21,3 +21,5 @@ host-suffix, jules.google.com, google-deepmind
 host-suffix, labs.google, google-deepmind
 host-suffix, aisandbox-pa.googleapis.com, google-deepmind
 host-suffix, aida.googleapis.com, google-deepmind
+host-suffix, opal.google, google-deepmind
+host-suffix, opal.google.com, google-deepmind

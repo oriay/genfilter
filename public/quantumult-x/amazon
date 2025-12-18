@@ -121,6 +121,7 @@ host-suffix, amplifyapp.com, amazon
 host-suffix, amplifyframework.com, amazon
 host-suffix, aws-iot-hackathon.com, amazon
 host-suffix, aws.com, amazon
+host-suffix, aws.dev, amazon
 host-suffix, awsapprunner.com, amazon
 host-suffix, awsapps.com, amazon
 host-suffix, awsautopilot.com, amazon
