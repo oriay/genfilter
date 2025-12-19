@@ -1155,8 +1155,14 @@ host-suffix, last.fm, category-entertainment
 host, lastfm.freetls.fastly.net, category-entertainment
 host-suffix, litv.tv, category-entertainment
 host-suffix, litvfreepc.akamaized.net, category-entertainment
+host, ntdfreemobile-tgc.cdn.hinet.net, category-entertainment
+host, ntdfreepc-tgc.cdn.hinet.net, category-entertainment
+host, ntdfreetv-tgc.cdn.hinet.net, category-entertainment
+host, ntdfreevcpc-tgc.cdn.hinet.net, category-entertainment
 host-suffix, ofiii.com, category-entertainment
+host, ntdofifreemobile-tgc.cdn.hinet.net, category-entertainment
 host, ntdofifreepc-tgc.cdn.hinet.net, category-entertainment
+host, ntdofifreetv-tgc.cdn.hinet.net, category-entertainment
 host, ntdofifreevcpc-tgc.cdn.hinet.net, category-entertainment
 host-suffix, manhuagui.com, category-entertainment
 host-suffix, metacritic.com, category-entertainment

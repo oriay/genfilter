@@ -45,6 +45,7 @@ host-suffix, hsqh.net, cn
 host-suffix, lu.com, cn
 host-suffix, lufax.com, cn
 host-suffix, lufaxcdn.com, cn
+host-suffix, pospal.cn, cn
 host-suffix, baijiayun.com, cn
 host-suffix, chuangcache.com, cn
 host-suffix, chuangcdn.com, cn
@@ -4993,9 +4994,11 @@ host-suffix, wangmeng.baidu.com, cn
 host-suffix, wkctj.baidu.com, cn
 host-suffix, wm.baidu.com, cn
 host-suffix, zz.bdstatic.com, cn
+host-suffix, syh.zybang.com, cn
 host-suffix, zuoyebang.cc, cn
 host-suffix, zuoyebang.com, cn
 host-suffix, zybang.com, cn
+host-suffix, syh.zybang.com, cn
 host-suffix, beisen.com, cn
 host-suffix, beisen.cn, cn
 host-suffix, beisenapp.com, cn

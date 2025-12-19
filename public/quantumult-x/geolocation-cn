@@ -3,6 +3,7 @@ host-suffix, hsqh.net, geolocation-cn
 host-suffix, lu.com, geolocation-cn
 host-suffix, lufax.com, geolocation-cn
 host-suffix, lufaxcdn.com, geolocation-cn
+host-suffix, pospal.cn, geolocation-cn
 host-suffix, baijiayun.com, geolocation-cn
 host-suffix, chuangcache.com, geolocation-cn
 host-suffix, chuangcdn.com, geolocation-cn
@@ -4951,9 +4952,11 @@ host-suffix, wangmeng.baidu.com, geolocation-cn
 host-suffix, wkctj.baidu.com, geolocation-cn
 host-suffix, wm.baidu.com, geolocation-cn
 host-suffix, zz.bdstatic.com, geolocation-cn
+host-suffix, syh.zybang.com, geolocation-cn
 host-suffix, zuoyebang.cc, geolocation-cn
 host-suffix, zuoyebang.com, geolocation-cn
 host-suffix, zybang.com, geolocation-cn
+host-suffix, syh.zybang.com, geolocation-cn
 host-suffix, beisen.com, geolocation-cn
 host-suffix, beisen.cn, geolocation-cn
 host-suffix, beisenapp.com, geolocation-cn

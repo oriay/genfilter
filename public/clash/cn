@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,hsqh.net
 DOMAIN-SUFFIX,lu.com
 DOMAIN-SUFFIX,lufax.com
 DOMAIN-SUFFIX,lufaxcdn.com
+DOMAIN-SUFFIX,pospal.cn
 DOMAIN-SUFFIX,baijiayun.com
 DOMAIN-SUFFIX,chuangcache.com
 DOMAIN-SUFFIX,chuangcdn.com
@@ -4993,9 +4994,11 @@ DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wkctj.baidu.com
 DOMAIN-SUFFIX,wm.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
+DOMAIN-SUFFIX,syh.zybang.com
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
+DOMAIN-SUFFIX,syh.zybang.com
 DOMAIN-SUFFIX,beisen.com
 DOMAIN-SUFFIX,beisen.cn
 DOMAIN-SUFFIX,beisenapp.com

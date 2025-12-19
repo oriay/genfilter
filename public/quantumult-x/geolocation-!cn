@@ -5922,8 +5922,14 @@ host-suffix, last.fm, geolocation-!cn
 host, lastfm.freetls.fastly.net, geolocation-!cn
 host-suffix, litv.tv, geolocation-!cn
 host-suffix, litvfreepc.akamaized.net, geolocation-!cn
+host, ntdfreemobile-tgc.cdn.hinet.net, geolocation-!cn
+host, ntdfreepc-tgc.cdn.hinet.net, geolocation-!cn
+host, ntdfreetv-tgc.cdn.hinet.net, geolocation-!cn
+host, ntdfreevcpc-tgc.cdn.hinet.net, geolocation-!cn
 host-suffix, ofiii.com, geolocation-!cn
+host, ntdofifreemobile-tgc.cdn.hinet.net, geolocation-!cn
 host, ntdofifreepc-tgc.cdn.hinet.net, geolocation-!cn
+host, ntdofifreetv-tgc.cdn.hinet.net, geolocation-!cn
 host, ntdofifreevcpc-tgc.cdn.hinet.net, geolocation-!cn
 host-suffix, manhuagui.com, geolocation-!cn
 host-suffix, metacritic.com, geolocation-!cn
