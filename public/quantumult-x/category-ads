@@ -600,8 +600,12 @@ host-suffix, ad1.xiaomi.com, category-ads
 host-suffix, admob.xiaomi.com, category-ads
 host-suffix, adv.sec.intl.miui.com, category-ads
 host-suffix, adv.sec.miui.com, category-ads
+host-suffix, data.mistat.india.xiaomi.com, category-ads
+host-suffix, data.mistat.intl.xiaomi.com, category-ads
+host-suffix, data.mistat.rus.xiaomi.com, category-ads
+host-suffix, data.mistat.xiaomi.com, category-ads
+host-suffix, logupdate.avlyun.sec.miui.com, category-ads
 host-suffix, misc.in.duokanbox.com, category-ads
-host-suffix, mistat.xiaomi.com, category-ads
 host-suffix, sentry.d.mi.com, category-ads
 host-suffix, sentry.d.xiaomi.net, category-ads
 host-suffix, tjqonline.cn, category-ads

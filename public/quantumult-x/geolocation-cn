@@ -80,6 +80,7 @@ host-suffix, itellyou.cn, geolocation-cn
 host-suffix, moyubuluo.com, geolocation-cn
 host-suffix, upe.net, geolocation-cn
 host-suffix, winos.me, geolocation-cn
+host-suffix, ahfda.com, geolocation-cn
 host-suffix, biomart.cn, geolocation-cn
 host-suffix, dxy.com, geolocation-cn
 host-suffix, dxy.cn, geolocation-cn
@@ -138,6 +139,7 @@ host-suffix, i8tq.com, geolocation-cn
 host-suffix, tq121.com.cn, geolocation-cn
 host-suffix, weather.com.cn, geolocation-cn
 host-suffix, weatherdt.com, geolocation-cn
+host-suffix, immersivetranslate.cn, geolocation-cn
 host-suffix, ireader.com, geolocation-cn
 host-suffix, zhangyue.com, geolocation-cn
 host-suffix, zhangyue01.com, geolocation-cn
@@ -3847,6 +3849,10 @@ host-suffix, cugbonline.cn, geolocation-cn
 host-suffix, dearedu.com, geolocation-cn
 host-suffix, dgjy.net, geolocation-cn
 host-suffix, eduei.com, geolocation-cn
+host-suffix, ictbda.cn, geolocation-cn
+host-suffix, ictbda.com, geolocation-cn
+host-suffix, modex.com.cn, geolocation-cn
+host-suffix, xir.cn, geolocation-cn
 host-suffix, j-test.com, geolocation-cn
 host-suffix, nattest-china.com, geolocation-cn
 host-suffix, keboyunxiao.com, geolocation-cn
@@ -3939,6 +3945,7 @@ host-suffix, ancientbooks.cn, geolocation-cn
 host-suffix, apabi.com, geolocation-cn
 host-suffix, bjinfobank.com, geolocation-cn
 host-suffix, blyun.com, geolocation-cn
+host-suffix, medalink.cn, geolocation-cn
 host-suffix, chinabooktrading.com, geolocation-cn
 host-suffix, cidp.com.cn, geolocation-cn
 host-suffix, cnbksy.com, geolocation-cn
@@ -4075,6 +4082,8 @@ host-suffix, faxingbao.com, geolocation-cn
 host-suffix, meta.law, geolocation-cn
 host-suffix, metaso.cn, geolocation-cn
 host-suffix, xiezuocat.com, geolocation-cn
+host-suffix, askdiandian.com, geolocation-cn
+host-suffix, diandianlife.top, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn
 host-suffix, butterfly-static.cn, geolocation-cn
 host-suffix, butterflyai.cn, geolocation-cn
@@ -7139,8 +7148,12 @@ host-suffix, ad1.xiaomi.com, geolocation-cn
 host-suffix, admob.xiaomi.com, geolocation-cn
 host-suffix, adv.sec.intl.miui.com, geolocation-cn
 host-suffix, adv.sec.miui.com, geolocation-cn
+host-suffix, data.mistat.india.xiaomi.com, geolocation-cn
+host-suffix, data.mistat.intl.xiaomi.com, geolocation-cn
+host-suffix, data.mistat.rus.xiaomi.com, geolocation-cn
+host-suffix, data.mistat.xiaomi.com, geolocation-cn
+host-suffix, logupdate.avlyun.sec.miui.com, geolocation-cn
 host-suffix, misc.in.duokanbox.com, geolocation-cn
-host-suffix, mistat.xiaomi.com, geolocation-cn
 host-suffix, sentry.d.mi.com, geolocation-cn
 host-suffix, sentry.d.xiaomi.net, geolocation-cn
 host-suffix, tjqonline.cn, geolocation-cn

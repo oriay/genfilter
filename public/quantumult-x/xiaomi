@@ -50,8 +50,12 @@ host-suffix, ad1.xiaomi.com, xiaomi
 host-suffix, admob.xiaomi.com, xiaomi
 host-suffix, adv.sec.intl.miui.com, xiaomi
 host-suffix, adv.sec.miui.com, xiaomi
+host-suffix, data.mistat.india.xiaomi.com, xiaomi
+host-suffix, data.mistat.intl.xiaomi.com, xiaomi
+host-suffix, data.mistat.rus.xiaomi.com, xiaomi
+host-suffix, data.mistat.xiaomi.com, xiaomi
+host-suffix, logupdate.avlyun.sec.miui.com, xiaomi
 host-suffix, misc.in.duokanbox.com, xiaomi
-host-suffix, mistat.xiaomi.com, xiaomi
 host-suffix, sentry.d.mi.com, xiaomi
 host-suffix, sentry.d.xiaomi.net, xiaomi
 host-suffix, tjqonline.cn, xiaomi

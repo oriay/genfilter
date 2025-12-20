@@ -122,6 +122,7 @@ host-suffix, itellyou.cn, cn
 host-suffix, moyubuluo.com, cn
 host-suffix, upe.net, cn
 host-suffix, winos.me, cn
+host-suffix, ahfda.com, cn
 host-suffix, biomart.cn, cn
 host-suffix, dxy.com, cn
 host-suffix, dxy.cn, cn
@@ -180,6 +181,7 @@ host-suffix, i8tq.com, cn
 host-suffix, tq121.com.cn, cn
 host-suffix, weather.com.cn, cn
 host-suffix, weatherdt.com, cn
+host-suffix, immersivetranslate.cn, cn
 host-suffix, ireader.com, cn
 host-suffix, zhangyue.com, cn
 host-suffix, zhangyue01.com, cn
@@ -3889,6 +3891,10 @@ host-suffix, cugbonline.cn, cn
 host-suffix, dearedu.com, cn
 host-suffix, dgjy.net, cn
 host-suffix, eduei.com, cn
+host-suffix, ictbda.cn, cn
+host-suffix, ictbda.com, cn
+host-suffix, modex.com.cn, cn
+host-suffix, xir.cn, cn
 host-suffix, j-test.com, cn
 host-suffix, nattest-china.com, cn
 host-suffix, keboyunxiao.com, cn
@@ -3981,6 +3987,7 @@ host-suffix, ancientbooks.cn, cn
 host-suffix, apabi.com, cn
 host-suffix, bjinfobank.com, cn
 host-suffix, blyun.com, cn
+host-suffix, medalink.cn, cn
 host-suffix, chinabooktrading.com, cn
 host-suffix, cidp.com.cn, cn
 host-suffix, cnbksy.com, cn
@@ -4117,6 +4124,8 @@ host-suffix, faxingbao.com, cn
 host-suffix, meta.law, cn
 host-suffix, metaso.cn, cn
 host-suffix, xiezuocat.com, cn
+host-suffix, askdiandian.com, cn
+host-suffix, diandianlife.top, cn
 host-suffix, deepseek.com, cn
 host-suffix, butterfly-static.cn, cn
 host-suffix, butterflyai.cn, cn
@@ -7181,8 +7190,12 @@ host-suffix, ad1.xiaomi.com, cn
 host-suffix, admob.xiaomi.com, cn
 host-suffix, adv.sec.intl.miui.com, cn
 host-suffix, adv.sec.miui.com, cn
+host-suffix, data.mistat.india.xiaomi.com, cn
+host-suffix, data.mistat.intl.xiaomi.com, cn
+host-suffix, data.mistat.rus.xiaomi.com, cn
+host-suffix, data.mistat.xiaomi.com, cn
+host-suffix, logupdate.avlyun.sec.miui.com, cn
 host-suffix, misc.in.duokanbox.com, cn
-host-suffix, mistat.xiaomi.com, cn
 host-suffix, sentry.d.mi.com, cn
 host-suffix, sentry.d.xiaomi.net, cn
 host-suffix, tjqonline.cn, cn
