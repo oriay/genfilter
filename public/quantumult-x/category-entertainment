@@ -715,6 +715,9 @@ host, ubisoft-uplay-savegames.s3.amazonaws.com, category-entertainment
 host, ubisoft-orbit-savegames.s3.amazonaws.com, category-entertainment
 host, ubistatic3-a.akamaihd.net, category-entertainment
 host, uplaypc-s-ubisoft.cdn.ubi.com, category-entertainment
+host-suffix, vrchat.cloud, category-entertainment
+host-suffix, vrchat.com, category-entertainment
+host-suffix, vrchat.net, category-entertainment
 host, datarouter.apps.netherrealm.com, category-entertainment
 host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, category-entertainment
 host-suffix, warnerbrosgames.com, category-entertainment

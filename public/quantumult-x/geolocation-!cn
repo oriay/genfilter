@@ -2449,6 +2449,9 @@ host-suffix, cloudimage.io, geolocation-!cn
 host-suffix, cloudimg.io, geolocation-!cn
 host-suffix, stackpath.com, geolocation-!cn
 host-suffix, stackpath.dev, geolocation-!cn
+host-suffix, vrcdn.cloud, geolocation-!cn
+host-suffix, vrcdn.live, geolocation-!cn
+host-suffix, vrcdn.video, geolocation-!cn
 host-suffix, embedwistia-a.akamaihd.net, geolocation-!cn
 host-suffix, wistia.com, geolocation-!cn
 host-suffix, wistia.net, geolocation-!cn
@@ -5482,6 +5485,9 @@ host, ubisoft-uplay-savegames.s3.amazonaws.com, geolocation-!cn
 host, ubisoft-orbit-savegames.s3.amazonaws.com, geolocation-!cn
 host, ubistatic3-a.akamaihd.net, geolocation-!cn
 host, uplaypc-s-ubisoft.cdn.ubi.com, geolocation-!cn
+host-suffix, vrchat.cloud, geolocation-!cn
+host-suffix, vrchat.com, geolocation-!cn
+host-suffix, vrchat.net, geolocation-!cn
 host, datarouter.apps.netherrealm.com, geolocation-!cn
 host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, geolocation-!cn
 host-suffix, warnerbrosgames.com, geolocation-!cn
