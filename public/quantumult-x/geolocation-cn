@@ -18,6 +18,7 @@ host-suffix, jiashule.com, geolocation-cn
 host-suffix, jiasule.com, geolocation-cn
 host-suffix, yunaq.com, geolocation-cn
 host-suffix, jikeiot.cloud, geolocation-cn
+host-suffix, jsdmirror.com, geolocation-cn
 host-suffix, kaipuyun.cn, geolocation-cn
 host-suffix, kaipuyun.com, geolocation-cn
 host-suffix, kaipuyun.com.cn, geolocation-cn
@@ -2385,6 +2386,8 @@ host-suffix, iresearch.cn, geolocation-cn
 host-suffix, jianyuweb.com, geolocation-cn
 host-suffix, wallstcn.com, geolocation-cn
 host-suffix, wallstreetcn.com, geolocation-cn
+host-suffix, jfdaily.com, geolocation-cn
+host-suffix, shobserver.com, geolocation-cn
 host-suffix, jiqizhixin.com, geolocation-cn
 host-suffix, jrj.com.cn, geolocation-cn
 host-suffix, jrjimg.cn, geolocation-cn
@@ -3849,6 +3852,7 @@ host-suffix, cugbonline.cn, geolocation-cn
 host-suffix, dearedu.com, geolocation-cn
 host-suffix, dgjy.net, geolocation-cn
 host-suffix, eduei.com, geolocation-cn
+host-suffix, gk100.com, geolocation-cn
 host-suffix, ictbda.cn, geolocation-cn
 host-suffix, ictbda.com, geolocation-cn
 host-suffix, modex.com.cn, geolocation-cn
@@ -5577,6 +5581,11 @@ host-suffix, tiktokw.us, geolocation-cn
 host-suffix, ttlivecdn.com, geolocation-cn
 host-suffix, ttoverseaus.net, geolocation-cn
 host-suffix, ttwstatic.com, geolocation-cn
+host-suffix, tiktokcdn-us.com.edgesuite.net, geolocation-cn
+host-suffix, tiktokcdn.com.akamaized.net, geolocation-cn
+host-suffix, tiktokcdn.com.edgesuite.net, geolocation-cn
+host-suffix, tiktokv.com.edgekey.net, geolocation-cn
+host-suffix, tiktokv.com.edgesuite.net, geolocation-cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-cn
 host, roovza-launches.appsflyersdk.com, geolocation-cn
 host, roovza.inapps.appsflyersdk.com, geolocation-cn

@@ -1360,6 +1360,11 @@ host-suffix, tiktokw.us, category-entertainment
 host-suffix, ttlivecdn.com, category-entertainment
 host-suffix, ttoverseaus.net, category-entertainment
 host-suffix, ttwstatic.com, category-entertainment
+host-suffix, tiktokcdn-us.com.edgesuite.net, category-entertainment
+host-suffix, tiktokcdn.com.akamaized.net, category-entertainment
+host-suffix, tiktokcdn.com.edgesuite.net, category-entertainment
+host-suffix, tiktokv.com.edgekey.net, category-entertainment
+host-suffix, tiktokv.com.edgesuite.net, category-entertainment
 host, p16-tiktokcdn-com.akamaized.net, category-entertainment
 host, roovza-launches.appsflyersdk.com, category-entertainment
 host, roovza.inapps.appsflyersdk.com, category-entertainment

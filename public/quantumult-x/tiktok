@@ -23,6 +23,11 @@ host-suffix, tiktokw.us, tiktok
 host-suffix, ttlivecdn.com, tiktok
 host-suffix, ttoverseaus.net, tiktok
 host-suffix, ttwstatic.com, tiktok
+host-suffix, tiktokcdn-us.com.edgesuite.net, tiktok
+host-suffix, tiktokcdn.com.akamaized.net, tiktok
+host-suffix, tiktokcdn.com.edgesuite.net, tiktok
+host-suffix, tiktokv.com.edgekey.net, tiktok
+host-suffix, tiktokv.com.edgesuite.net, tiktok
 host, p16-tiktokcdn-com.akamaized.net, tiktok
 host, roovza-launches.appsflyersdk.com, tiktok
 host, roovza.inapps.appsflyersdk.com, tiktok

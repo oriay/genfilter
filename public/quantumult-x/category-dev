@@ -44,6 +44,7 @@ host-suffix, mobatek.net, category-dev
 host-suffix, mpv.io, category-dev
 host-suffix, mysql.com, category-dev
 host-suffix, neovim.io, category-dev
+host-suffix, newpipe.net, category-dev
 host-suffix, nixos.org, category-dev
 host-suffix, nodesource.com, category-dev
 host-suffix, notepad-plus-plus.org, category-dev
@@ -54,8 +55,8 @@ host-suffix, packagist.org, category-dev
 host-suffix, pcre.org, category-dev
 host-suffix, phantomjs.org, category-dev
 host-suffix, php.net, category-dev
-host-suffix, putty.org, category-dev
 host-suffix, postgresql.org, category-dev
+host-suffix, putty.org, category-dev
 host-suffix, r-project.org, category-dev
 host-suffix, raspberrypi.org, category-dev
 host-suffix, raspbian.org, category-dev
@@ -73,6 +74,8 @@ host-suffix, videojs.com, category-dev
 host-suffix, videolan.org, category-dev
 host-suffix, wapm.io, category-dev
 host-suffix, wasmer.io, category-dev
+host-suffix, webflow.com, category-dev
+host-suffix, weblate.org, category-dev
 host-suffix, wireshark.org, category-dev
 host-suffix, x.org, category-dev
 host-suffix, xposed.info, category-dev

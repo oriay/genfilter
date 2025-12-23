@@ -4,6 +4,9 @@ host-suffix, biliplus.com, geolocation-!cn
 host-suffix, originlab.com, geolocation-!cn
 host-suffix, cloudlatex.io, geolocation-!cn
 host-suffix, overleaf.com, geolocation-!cn
+host-suffix, collinsdictionary.com, geolocation-!cn
+host-suffix, ldoceonline.com, geolocation-!cn
+host-suffix, immersivetranslate.com, geolocation-!cn
 host-suffix, auroraoss.com, geolocation-!cn
 host-suffix, cookiepro.com, geolocation-!cn
 host-suffix, cookielaw.org, geolocation-!cn
@@ -11,7 +14,6 @@ host-suffix, onetrust.com, geolocation-!cn
 host-suffix, greasyfork.org, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
-host-suffix, immersivetranslate.com, geolocation-!cn
 host-suffix, coderabbit.ai, geolocation-!cn
 host-suffix, coderabbit.gallery.vsassets.io, geolocation-!cn
 host-suffix, cohere.ai, geolocation-!cn
@@ -1539,6 +1541,7 @@ host-suffix, myfin.bg, geolocation-!cn
 host-suffix, futuesop.com, geolocation-!cn
 host-suffix, futufin.com, geolocation-!cn
 host-suffix, futuhk.com, geolocation-!cn
+host-suffix, futuhkapp.com, geolocation-!cn
 host-suffix, futuhn.com, geolocation-!cn
 host-suffix, futuholdings.com, geolocation-!cn
 host-suffix, futuniuniu.com, geolocation-!cn
@@ -6130,6 +6133,11 @@ host-suffix, tiktokw.us, geolocation-!cn
 host-suffix, ttlivecdn.com, geolocation-!cn
 host-suffix, ttoverseaus.net, geolocation-!cn
 host-suffix, ttwstatic.com, geolocation-!cn
+host-suffix, tiktokcdn-us.com.edgesuite.net, geolocation-!cn
+host-suffix, tiktokcdn.com.akamaized.net, geolocation-!cn
+host-suffix, tiktokcdn.com.edgesuite.net, geolocation-!cn
+host-suffix, tiktokv.com.edgekey.net, geolocation-!cn
+host-suffix, tiktokv.com.edgesuite.net, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
 host, roovza-launches.appsflyersdk.com, geolocation-!cn
 host, roovza.inapps.appsflyersdk.com, geolocation-!cn
@@ -15881,8 +15889,6 @@ host-suffix, kodi.tv, geolocation-!cn
 host-suffix, kodi.wiki, geolocation-!cn
 host-suffix, liberapay.com, geolocation-!cn
 host-suffix, liberapay.org, geolocation-!cn
-host-suffix, linguee.com, geolocation-!cn
-host-suffix, deepl.com, geolocation-!cn
 host-suffix, localizecdn.com, geolocation-!cn
 host-suffix, localizejs.com, geolocation-!cn
 host-suffix, localizestatus.com, geolocation-!cn
@@ -16046,7 +16052,6 @@ host-suffix, zeit-world.org, geolocation-!cn
 host-suffix, zeit.co, geolocation-!cn
 host-suffix, zeit.sh, geolocation-!cn
 host-suffix, zeitworld.com, geolocation-!cn
-host-suffix, webflow.com, geolocation-!cn
 host-suffix, editorx.com, geolocation-!cn
 host-suffix, parastorage.com, geolocation-!cn
 host-suffix, wix-code.com, geolocation-!cn
@@ -16088,6 +16093,8 @@ host-suffix, zohowebstatic.com, geolocation-!cn
 host-suffix, zoom.com, geolocation-!cn
 host-suffix, zoom.com.cn, geolocation-!cn
 host-suffix, zoom.us, geolocation-!cn
+host-suffix, linguee.com, geolocation-!cn
+host-suffix, deepl.com, geolocation-!cn
 host-suffix, adventofcode.com, geolocation-!cn
 host-suffix, alpinelinux.org, geolocation-!cn
 host-suffix, apache.org, geolocation-!cn
@@ -16134,6 +16141,7 @@ host-suffix, mobatek.net, geolocation-!cn
 host-suffix, mpv.io, geolocation-!cn
 host-suffix, mysql.com, geolocation-!cn
 host-suffix, neovim.io, geolocation-!cn
+host-suffix, newpipe.net, geolocation-!cn
 host-suffix, nixos.org, geolocation-!cn
 host-suffix, nodesource.com, geolocation-!cn
 host-suffix, notepad-plus-plus.org, geolocation-!cn
@@ -16144,8 +16152,8 @@ host-suffix, packagist.org, geolocation-!cn
 host-suffix, pcre.org, geolocation-!cn
 host-suffix, phantomjs.org, geolocation-!cn
 host-suffix, php.net, geolocation-!cn
-host-suffix, putty.org, geolocation-!cn
 host-suffix, postgresql.org, geolocation-!cn
+host-suffix, putty.org, geolocation-!cn
 host-suffix, r-project.org, geolocation-!cn
 host-suffix, raspberrypi.org, geolocation-!cn
 host-suffix, raspbian.org, geolocation-!cn
@@ -16163,6 +16171,8 @@ host-suffix, videojs.com, geolocation-!cn
 host-suffix, videolan.org, geolocation-!cn
 host-suffix, wapm.io, geolocation-!cn
 host-suffix, wasmer.io, geolocation-!cn
+host-suffix, webflow.com, geolocation-!cn
+host-suffix, weblate.org, geolocation-!cn
 host-suffix, wireshark.org, geolocation-!cn
 host-suffix, x.org, geolocation-!cn
 host-suffix, xposed.info, geolocation-!cn

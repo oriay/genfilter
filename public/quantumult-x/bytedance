@@ -599,6 +599,11 @@ host-suffix, tiktokw.us, bytedance
 host-suffix, ttlivecdn.com, bytedance
 host-suffix, ttoverseaus.net, bytedance
 host-suffix, ttwstatic.com, bytedance
+host-suffix, tiktokcdn-us.com.edgesuite.net, bytedance
+host-suffix, tiktokcdn.com.akamaized.net, bytedance
+host-suffix, tiktokcdn.com.edgesuite.net, bytedance
+host-suffix, tiktokv.com.edgekey.net, bytedance
+host-suffix, tiktokv.com.edgesuite.net, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
 host, roovza-launches.appsflyersdk.com, bytedance
 host, roovza.inapps.appsflyersdk.com, bytedance

@@ -60,6 +60,7 @@ host-suffix, jiashule.com, cn
 host-suffix, jiasule.com, cn
 host-suffix, yunaq.com, cn
 host-suffix, jikeiot.cloud, cn
+host-suffix, jsdmirror.com, cn
 host-suffix, kaipuyun.cn, cn
 host-suffix, kaipuyun.com, cn
 host-suffix, kaipuyun.com.cn, cn
@@ -2427,6 +2428,8 @@ host-suffix, iresearch.cn, cn
 host-suffix, jianyuweb.com, cn
 host-suffix, wallstcn.com, cn
 host-suffix, wallstreetcn.com, cn
+host-suffix, jfdaily.com, cn
+host-suffix, shobserver.com, cn
 host-suffix, jiqizhixin.com, cn
 host-suffix, jrj.com.cn, cn
 host-suffix, jrjimg.cn, cn
@@ -3891,6 +3894,7 @@ host-suffix, cugbonline.cn, cn
 host-suffix, dearedu.com, cn
 host-suffix, dgjy.net, cn
 host-suffix, eduei.com, cn
+host-suffix, gk100.com, cn
 host-suffix, ictbda.cn, cn
 host-suffix, ictbda.com, cn
 host-suffix, modex.com.cn, cn
@@ -5619,6 +5623,11 @@ host-suffix, tiktokw.us, cn
 host-suffix, ttlivecdn.com, cn
 host-suffix, ttoverseaus.net, cn
 host-suffix, ttwstatic.com, cn
+host-suffix, tiktokcdn-us.com.edgesuite.net, cn
+host-suffix, tiktokcdn.com.akamaized.net, cn
+host-suffix, tiktokcdn.com.edgesuite.net, cn
+host-suffix, tiktokv.com.edgekey.net, cn
+host-suffix, tiktokv.com.edgesuite.net, cn
 host, p16-tiktokcdn-com.akamaized.net, cn
 host, roovza-launches.appsflyersdk.com, cn
 host, roovza.inapps.appsflyersdk.com, cn
