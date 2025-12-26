@@ -4,9 +4,11 @@ host-suffix, chinamobile.com, chinamobile
 host-suffix, chinamobileltd.com, chinamobile
 host-suffix, speedtest.hk.chinamobile.com, chinamobile
 host-suffix, speedtestbb.hk.chinamobile.com, chinamobile
-host-suffix, migucloud.com, chinamobile
-host-suffix, migu.cn, chinamobile
+host-suffix, cmread.com, chinamobile
 host-suffix, cmvideo.cn, chinamobile
+host-suffix, migu.cn, chinamobile
+host-suffix, migucloud.com, chinamobile
+host-suffix, migufun.com, chinamobile
 host-suffix, miguvideo.com, chinamobile
 host-suffix, andfx.cn, chinamobile
 host-suffix, andfx.net, chinamobile
