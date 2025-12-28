@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,cookiepro.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,atwiki.jp
 DOMAIN-SUFFIX,touhouwiki.net
@@ -16122,6 +16123,7 @@ DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnu.org
+DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,greenend.org.uk
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
@@ -16225,6 +16227,7 @@ DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,getbootstrap.com
 DOMAIN-SUFFIX,braventures.com

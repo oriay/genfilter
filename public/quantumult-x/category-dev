@@ -25,6 +25,7 @@ host-suffix, getcomposer.org, category-dev
 host-suffix, getzola.org, category-dev
 host-suffix, git-scm.com, category-dev
 host-suffix, gnu.org, category-dev
+host-suffix, godbolt.org, category-dev
 host-suffix, greenend.org.uk, category-dev
 host-suffix, hex.pm, category-dev
 host-suffix, hexdocs.pm, category-dev
@@ -128,6 +129,7 @@ host-suffix, swiftui.cn, category-dev
 host-suffix, swiftui.com.cn, category-dev
 host-suffix, archlinux.org, category-dev
 host-suffix, archlinuxarm.org, category-dev
+host-suffix, archlinuxcn.org, category-dev
 host-suffix, bootstrapcdn.com, category-dev
 host-suffix, getbootstrap.com, category-dev
 host-suffix, braventures.com, category-dev

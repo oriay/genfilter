@@ -11,6 +11,7 @@ host-suffix, auroraoss.com, geolocation-!cn
 host-suffix, cookiepro.com, geolocation-!cn
 host-suffix, cookielaw.org, geolocation-!cn
 host-suffix, onetrust.com, geolocation-!cn
+host-suffix, dmhy.org, geolocation-!cn
 host-suffix, greasyfork.org, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
@@ -16122,6 +16123,7 @@ host-suffix, getcomposer.org, geolocation-!cn
 host-suffix, getzola.org, geolocation-!cn
 host-suffix, git-scm.com, geolocation-!cn
 host-suffix, gnu.org, geolocation-!cn
+host-suffix, godbolt.org, geolocation-!cn
 host-suffix, greenend.org.uk, geolocation-!cn
 host-suffix, hex.pm, geolocation-!cn
 host-suffix, hexdocs.pm, geolocation-!cn
@@ -16225,6 +16227,7 @@ host-suffix, swiftui.cn, geolocation-!cn
 host-suffix, swiftui.com.cn, geolocation-!cn
 host-suffix, archlinux.org, geolocation-!cn
 host-suffix, archlinuxarm.org, geolocation-!cn
+host-suffix, archlinuxcn.org, geolocation-!cn
 host-suffix, bootstrapcdn.com, geolocation-!cn
 host-suffix, getbootstrap.com, geolocation-!cn
 host-suffix, braventures.com, geolocation-!cn

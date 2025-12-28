@@ -1,5 +1,6 @@
 host-suffix, captive.apple.com, connectivity-check
-host-suffix, ping.archlinux.org, connectivity-check
+host, ping.archlinux.org, connectivity-check
+host, redirect.archlinux.org, connectivity-check
 host-suffix, cp.cloudflare.com, connectivity-check
 host-suffix, network-test.debian.org, connectivity-check
 host-suffix, detectportal.firefox.com, connectivity-check
