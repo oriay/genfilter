@@ -21482,6 +21482,7 @@ host-suffix, yt.be, geolocation-!cn
 host-suffix, ytimg.com, geolocation-!cn
 host, yt3.googleusercontent.com, geolocation-!cn
 host-suffix, first-ns.de, geolocation-!cn
+host-suffix, hetzner-cloud.de, geolocation-!cn
 host-suffix, hetzner.cloud, geolocation-!cn
 host-suffix, hetzner.com, geolocation-!cn
 host-suffix, hetzner.company, geolocation-!cn
