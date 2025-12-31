@@ -7,11 +7,13 @@ host-suffix, adsense.com, google-ads
 host-suffix, adsensecustomsearchads.com, google-ads
 host-suffix, adsenseformobileapps.com, google-ads
 host-suffix, adservice.google.com, google-ads
+host-suffix, adtrafficquality.google, google-ads
 host-suffix, advertisercommunity.com, google-ads
 host-suffix, advertiserscommunity.com, google-ads
 host-suffix, adwords-community.com, google-ads
 host-suffix, adwords.com, google-ads
 host-suffix, adwordsexpress.com, google-ads
+host-suffix, analytics-alv.google.com, google-ads
 host-suffix, app-analytics-services.com, google-ads
 host-suffix, app-analytics-services-att.com, google-ads
 host-suffix, app-measurement-cn.com, google-ads
@@ -20,6 +22,7 @@ host-suffix, doubleclick-cn.net, google-ads
 host-suffix, doubleclick.cn, google-ads
 host-suffix, doubleclick.com, google-ads
 host-suffix, doubleclick.net, google-ads
+host-suffix, fcmatch.google.com, google-ads
 host-suffix, google-analytics-cn.com, google-ads
 host-suffix, google-analytics.com, google-ads
 host-suffix, googleadapis.com, google-ads

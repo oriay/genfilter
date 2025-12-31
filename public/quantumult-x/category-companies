@@ -4435,11 +4435,13 @@ host-suffix, adsense.com, category-companies
 host-suffix, adsensecustomsearchads.com, category-companies
 host-suffix, adsenseformobileapps.com, category-companies
 host-suffix, adservice.google.com, category-companies
+host-suffix, adtrafficquality.google, category-companies
 host-suffix, advertisercommunity.com, category-companies
 host-suffix, advertiserscommunity.com, category-companies
 host-suffix, adwords-community.com, category-companies
 host-suffix, adwords.com, category-companies
 host-suffix, adwordsexpress.com, category-companies
+host-suffix, analytics-alv.google.com, category-companies
 host-suffix, app-analytics-services.com, category-companies
 host-suffix, app-analytics-services-att.com, category-companies
 host-suffix, app-measurement-cn.com, category-companies
@@ -4448,6 +4450,7 @@ host-suffix, doubleclick-cn.net, category-companies
 host-suffix, doubleclick.cn, category-companies
 host-suffix, doubleclick.com, category-companies
 host-suffix, doubleclick.net, category-companies
+host-suffix, fcmatch.google.com, category-companies
 host-suffix, google-analytics-cn.com, category-companies
 host-suffix, google-analytics.com, category-companies
 host-suffix, googleadapis.com, category-companies

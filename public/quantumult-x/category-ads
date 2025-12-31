@@ -303,11 +303,13 @@ host-suffix, adsense.com, category-ads
 host-suffix, adsensecustomsearchads.com, category-ads
 host-suffix, adsenseformobileapps.com, category-ads
 host-suffix, adservice.google.com, category-ads
+host-suffix, adtrafficquality.google, category-ads
 host-suffix, advertisercommunity.com, category-ads
 host-suffix, advertiserscommunity.com, category-ads
 host-suffix, adwords-community.com, category-ads
 host-suffix, adwords.com, category-ads
 host-suffix, adwordsexpress.com, category-ads
+host-suffix, analytics-alv.google.com, category-ads
 host-suffix, app-analytics-services.com, category-ads
 host-suffix, app-analytics-services-att.com, category-ads
 host-suffix, app-measurement-cn.com, category-ads
@@ -316,6 +318,7 @@ host-suffix, doubleclick-cn.net, category-ads
 host-suffix, doubleclick.cn, category-ads
 host-suffix, doubleclick.com, category-ads
 host-suffix, doubleclick.net, category-ads
+host-suffix, fcmatch.google.com, category-ads
 host-suffix, google-analytics-cn.com, category-ads
 host-suffix, google-analytics.com, category-ads
 host-suffix, googleadapis.com, category-ads
