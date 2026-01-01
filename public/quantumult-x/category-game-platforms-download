@@ -489,3 +489,4 @@ host, steam.eca.qtlglb.com, category-game-platforms-download
 host, steam.naeu.qtlglb.com, category-game-platforms-download
 host, steam.ru.qtlglb.com, category-game-platforms-download
 host, edge.steam-dns.top.comcast.net, category-game-platforms-download
+host-suffix, domain:dl.playstation.net, category-game-platforms-download
