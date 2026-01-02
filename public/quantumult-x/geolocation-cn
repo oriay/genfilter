@@ -7280,11 +7280,15 @@ host-suffix, chinaunicom.com, geolocation-cn
 host-suffix, chinaunicom.com.cn, geolocation-cn
 host-suffix, chinaunicom.com.hk, geolocation-cn
 host-suffix, chinaunicomglobal.com, geolocation-cn
+host-suffix, cuguplus.com, geolocation-cn
 host-suffix, cuniq.com, geolocation-cn
+host-suffix, cuniq.sg, geolocation-cn
 host-suffix, mychinaunicom.com, geolocation-cn
 host-suffix, wo.cn, geolocation-cn
 host-suffix, wo.com.cn, geolocation-cn
 host-suffix, wo116114.com, geolocation-cn
+host-suffix, wocloud.com.cn, geolocation-cn
+host-suffix, woread.com.cn, geolocation-cn
 host-suffix, ipip.net, geolocation-cn
 host-suffix, myip.la, geolocation-cn
 host-suffix, 8btc.com, geolocation-cn
