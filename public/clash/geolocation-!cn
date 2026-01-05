@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,cookiepro.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,atwiki.jp
 DOMAIN-SUFFIX,touhouwiki.net
@@ -68,6 +69,7 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google
@@ -6697,9 +6699,9 @@ DOMAIN-SUFFIX,maintracker.org
 DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
+DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
-DOMAIN-SUFFIX,rutrecker.net
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
@@ -21282,6 +21284,7 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google
@@ -21307,6 +21310,7 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google

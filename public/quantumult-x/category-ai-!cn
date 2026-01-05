@@ -51,6 +51,7 @@ host, alkalimakersuite-pa.clients6.google.com, category-ai-!cn
 host, webchannel-alkalimakersuite-pa.clients6.google.com, category-ai-!cn
 host-suffix, generativeai.google, category-ai-!cn
 host-suffix, makersuite.google.com, category-ai-!cn
+host-suffix, ai.studio, category-ai-!cn
 host-suffix, aistudio.google.com, category-ai-!cn
 host-suffix, bard.google.com, category-ai-!cn
 host-suffix, gemini.google, category-ai-!cn

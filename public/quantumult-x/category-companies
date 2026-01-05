@@ -4491,6 +4491,7 @@ host, alkalimakersuite-pa.clients6.google.com, category-companies
 host, webchannel-alkalimakersuite-pa.clients6.google.com, category-companies
 host-suffix, generativeai.google, category-companies
 host-suffix, makersuite.google.com, category-companies
+host-suffix, ai.studio, category-companies
 host-suffix, aistudio.google.com, category-companies
 host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies
@@ -4516,6 +4517,7 @@ host, alkalimakersuite-pa.clients6.google.com, category-companies
 host, webchannel-alkalimakersuite-pa.clients6.google.com, category-companies
 host-suffix, generativeai.google, category-companies
 host-suffix, makersuite.google.com, category-companies
+host-suffix, ai.studio, category-companies
 host-suffix, aistudio.google.com, category-companies
 host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies

@@ -51,6 +51,7 @@ host, alkalimakersuite-pa.clients6.google.com, category-ai-chat-!cn
 host, webchannel-alkalimakersuite-pa.clients6.google.com, category-ai-chat-!cn
 host-suffix, generativeai.google, category-ai-chat-!cn
 host-suffix, makersuite.google.com, category-ai-chat-!cn
+host-suffix, ai.studio, category-ai-chat-!cn
 host-suffix, aistudio.google.com, category-ai-chat-!cn
 host-suffix, bard.google.com, category-ai-chat-!cn
 host-suffix, gemini.google, category-ai-chat-!cn

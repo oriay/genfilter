@@ -10,6 +10,7 @@ host, alkalimakersuite-pa.clients6.google.com, google-gemini
 host, webchannel-alkalimakersuite-pa.clients6.google.com, google-gemini
 host-suffix, generativeai.google, google-gemini
 host-suffix, makersuite.google.com, google-gemini
+host-suffix, ai.studio, google-gemini
 host-suffix, aistudio.google.com, google-gemini
 host-suffix, bard.google.com, google-gemini
 host-suffix, gemini.google, google-gemini

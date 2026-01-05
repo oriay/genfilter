@@ -12,6 +12,7 @@ host-suffix, cookiepro.com, geolocation-!cn
 host-suffix, cookielaw.org, geolocation-!cn
 host-suffix, onetrust.com, geolocation-!cn
 host-suffix, dmhy.org, geolocation-!cn
+host-suffix, rutor.info, geolocation-!cn
 host-suffix, greasyfork.org, geolocation-!cn
 host-suffix, atwiki.jp, geolocation-!cn
 host-suffix, touhouwiki.net, geolocation-!cn
@@ -68,6 +69,7 @@ host, alkalimakersuite-pa.clients6.google.com, geolocation-!cn
 host, webchannel-alkalimakersuite-pa.clients6.google.com, geolocation-!cn
 host-suffix, generativeai.google, geolocation-!cn
 host-suffix, makersuite.google.com, geolocation-!cn
+host-suffix, ai.studio, geolocation-!cn
 host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
@@ -6697,9 +6699,9 @@ host-suffix, maintracker.org, geolocation-!cn
 host-suffix, rutracker.cc, geolocation-!cn
 host-suffix, rutracker.cr, geolocation-!cn
 host-suffix, rutracker.me, geolocation-!cn
+host-suffix, rutracker.net, geolocation-!cn
 host-suffix, rutracker.nl, geolocation-!cn
 host-suffix, rutracker.org, geolocation-!cn
-host-suffix, rutrecker.net, geolocation-!cn
 host-suffix, rutrk.org, geolocation-!cn
 host-suffix, soyjak.party, geolocation-!cn
 host-suffix, soyjak.st, geolocation-!cn
@@ -21282,6 +21284,7 @@ host, alkalimakersuite-pa.clients6.google.com, geolocation-!cn
 host, webchannel-alkalimakersuite-pa.clients6.google.com, geolocation-!cn
 host-suffix, generativeai.google, geolocation-!cn
 host-suffix, makersuite.google.com, geolocation-!cn
+host-suffix, ai.studio, geolocation-!cn
 host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
@@ -21307,6 +21310,7 @@ host, alkalimakersuite-pa.clients6.google.com, geolocation-!cn
 host, webchannel-alkalimakersuite-pa.clients6.google.com, geolocation-!cn
 host-suffix, generativeai.google, geolocation-!cn
 host-suffix, makersuite.google.com, geolocation-!cn
+host-suffix, ai.studio, geolocation-!cn
 host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn

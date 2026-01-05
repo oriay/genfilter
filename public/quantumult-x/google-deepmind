@@ -10,6 +10,7 @@ host, alkalimakersuite-pa.clients6.google.com, google-deepmind
 host, webchannel-alkalimakersuite-pa.clients6.google.com, google-deepmind
 host-suffix, generativeai.google, google-deepmind
 host-suffix, makersuite.google.com, google-deepmind
+host-suffix, ai.studio, google-deepmind
 host-suffix, aistudio.google.com, google-deepmind
 host-suffix, bard.google.com, google-deepmind
 host-suffix, gemini.google, google-deepmind
