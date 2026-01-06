@@ -795,7 +795,6 @@ host, cds-cdn.v.aaplimg.com, apple
 host, cds.apple.com, apple
 host, cds.apple.com.akadns.net, apple
 host, cdsassets.apple.com, apple
-host, certs.apple.com, apple
 host, cl2-cn.apple.com, apple
 host, cl4-cn.apple.com, apple
 host, clientflow.apple.com, apple
@@ -803,7 +802,6 @@ host, clientflow.apple.com.akadns.net, apple
 host, cn-smp-paymentservices.apple.com, apple
 host, configuration.apple.com, apple
 host, configuration.apple.com.akadns.net, apple
-host, crl.apple.com, apple
 host, cstat.apple.com, apple
 host, cstat.cdn-apple.com, apple
 host, dd-cdn.origin-apple.com.akadns.net, apple
@@ -856,10 +854,6 @@ host, mesu-china.apple.com.akadns.net, apple
 host, mesu.apple.com, apple
 host, ml.cdn-apple.com, apple
 host, music.apple.com, apple
-host, ocsp-lb.apple.com.akadns.net, apple
-host, ocsp.apple.com, apple
-host, ocsp2-lb.apple.com.akadns.net, apple
-host, ocsp2.apple.com, apple
 host, oscdn.apple.com, apple
 host, oscdn.origin-apple.com.akadns.net, apple
 host, osxapps.itunes.g.aaplimg.com, apple
@@ -902,8 +896,6 @@ host, tj-pod1-smp-device.apple.com, apple
 host, updates-http.cdn-apple.com, apple
 host, updates-http.cdn-apple.com.akadns.net, apple
 host, updates.cdn-apple.com, apple
-host, valid.apple.com, apple
-host, valid.origin-apple.com.akadns.net, apple
 host, weather-data.apple.com, apple
 host, weather-data.apple.com.akadns.net, apple
 host, weather-map.apple.com, apple
@@ -962,6 +954,7 @@ host, ocsp.apple.com, apple
 host, ocsp2-lb.apple.com.akadns.net, apple
 host, ocsp2.apple.com, apple
 host, valid.apple.com, apple
+host, valid.origin-apple.com.akadns.net, apple
 host, apple-tv-plus-press.apple.com, apple
 host, hls-amt.itunes.apple.com, apple
 host, hls.itunes.apple.com, apple
@@ -1813,7 +1806,3 @@ host-suffix, itunesu.com, apple
 host-suffix, itunesu.net, apple
 host-suffix, iutunes.com, apple
 host-suffix, wwwitunes.com, apple
-host-suffix, appleswift.com, apple
-host-suffix, swift.org, apple
-host-suffix, swiftui.cn, apple
-host-suffix, swiftui.com.cn, apple

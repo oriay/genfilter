@@ -484,8 +484,9 @@ host-suffix, xn--gogl-1nd42e.com, google
 host-suffix, xplr.co, google
 host-suffix, zukunftswerkstatt.de, google
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, google
+host-suffix, gvt1-cn.com, google
+host-suffix, gvt2-cn.com, google
 host, www.recaptcha.net, google
-host, safebrowsing-cache.google.com, google
 host, 265.com, google
 host, 2mdn-cn.net, google
 host, 2mdn.net, google
@@ -514,7 +515,6 @@ host, cnappinstall.googleadapis.com, google
 host, connectivitycheck.gstatic.com, google
 host, content.googleadapis.com, google
 host, crashlyticsreports-pa.googleapis.com, google
-host, crl.pki.goog, google
 host, csi.gstatic.com, google
 host, dartsearch-cn.net, google
 host, dg-meta.video.google.com, google
@@ -526,7 +526,6 @@ host, download.mlcc.google.com, google
 host, download.qatp1.net, google
 host, download.tensorflow.google.com, google
 host, emmapplecodevice.googleapis.com, google
-host, firebase-settings.crashlytics.com, google
 host, fontfiles.googleapis.com, google
 host, fonts.googleapis.com, google
 host, fonts.gstatic.com, google
@@ -565,10 +564,8 @@ host, logger-dev.corp.google.com, google
 host, logger.corp.google.com, google
 host, login.corp.google.com, google
 host, monitoring.qpdp1.net, google
-host, ocsp.pki.goog, google
 host, pagead-googlehosted.l.google.com, google
 host, performanceparameters.googleapis.com, google
-host, pki-goog.l.google.com, google
 host, prod-controlbe.floonet.goog, google
 host, prod-databe.floonet.goog, google
 host, prod.databe.floonet.goog, google
@@ -587,7 +584,6 @@ host, redirector.bdn.dev, google
 host, redirector.c.chat.google.com, google
 host, redirector.c.mail.google.com, google
 host, redirector.c.pack.google.com, google
-host, redirector.c.play.google.com, google
 host, redirector.c.youtubeeducation.com, google
 host, redirector.gcpcdn.gvt1.com, google
 host, redirector.gvt1.com, google
@@ -626,8 +622,6 @@ host, www.destinationurl.com, google
 host, www.gstatic.com, google
 host, www.pxcc.com, google
 host, xn--flw351e.com, google
-host-suffix, gvt1-cn.com, google
-host-suffix, gvt2-cn.com, google
 host-suffix, android, google
 host-suffix, android.com, google
 host-suffix, androidify.com, google

@@ -1342,7 +1342,6 @@ host, cds-cdn.v.aaplimg.com, category-companies
 host, cds.apple.com, category-companies
 host, cds.apple.com.akadns.net, category-companies
 host, cdsassets.apple.com, category-companies
-host, certs.apple.com, category-companies
 host, cl2-cn.apple.com, category-companies
 host, cl4-cn.apple.com, category-companies
 host, clientflow.apple.com, category-companies
@@ -1350,7 +1349,6 @@ host, clientflow.apple.com.akadns.net, category-companies
 host, cn-smp-paymentservices.apple.com, category-companies
 host, configuration.apple.com, category-companies
 host, configuration.apple.com.akadns.net, category-companies
-host, crl.apple.com, category-companies
 host, cstat.apple.com, category-companies
 host, cstat.cdn-apple.com, category-companies
 host, dd-cdn.origin-apple.com.akadns.net, category-companies
@@ -1403,10 +1401,6 @@ host, mesu-china.apple.com.akadns.net, category-companies
 host, mesu.apple.com, category-companies
 host, ml.cdn-apple.com, category-companies
 host, music.apple.com, category-companies
-host, ocsp-lb.apple.com.akadns.net, category-companies
-host, ocsp.apple.com, category-companies
-host, ocsp2-lb.apple.com.akadns.net, category-companies
-host, ocsp2.apple.com, category-companies
 host, oscdn.apple.com, category-companies
 host, oscdn.origin-apple.com.akadns.net, category-companies
 host, osxapps.itunes.g.aaplimg.com, category-companies
@@ -1449,8 +1443,6 @@ host, tj-pod1-smp-device.apple.com, category-companies
 host, updates-http.cdn-apple.com, category-companies
 host, updates-http.cdn-apple.com.akadns.net, category-companies
 host, updates.cdn-apple.com, category-companies
-host, valid.apple.com, category-companies
-host, valid.origin-apple.com.akadns.net, category-companies
 host, weather-data.apple.com, category-companies
 host, weather-data.apple.com.akadns.net, category-companies
 host, weather-map.apple.com, category-companies
@@ -1509,6 +1501,7 @@ host, ocsp.apple.com, category-companies
 host, ocsp2-lb.apple.com.akadns.net, category-companies
 host, ocsp2.apple.com, category-companies
 host, valid.apple.com, category-companies
+host, valid.origin-apple.com.akadns.net, category-companies
 host, apple-tv-plus-press.apple.com, category-companies
 host, hls-amt.itunes.apple.com, category-companies
 host, hls.itunes.apple.com, category-companies
@@ -2360,10 +2353,6 @@ host-suffix, itunesu.com, category-companies
 host-suffix, itunesu.net, category-companies
 host-suffix, iutunes.com, category-companies
 host-suffix, wwwitunes.com, category-companies
-host-suffix, appleswift.com, category-companies
-host-suffix, swift.org, category-companies
-host-suffix, swiftui.cn, category-companies
-host-suffix, swiftui.com.cn, category-companies
 host-suffix, asus.com, category-companies
 host-suffix, asus.com.cn, category-companies
 host-suffix, asuscloud.com, category-companies
@@ -4169,8 +4158,9 @@ host-suffix, xn--gogl-1nd42e.com, category-companies
 host-suffix, xplr.co, category-companies
 host-suffix, zukunftswerkstatt.de, category-companies
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, category-companies
+host-suffix, gvt1-cn.com, category-companies
+host-suffix, gvt2-cn.com, category-companies
 host, www.recaptcha.net, category-companies
-host, safebrowsing-cache.google.com, category-companies
 host, 265.com, category-companies
 host, 2mdn-cn.net, category-companies
 host, 2mdn.net, category-companies
@@ -4199,7 +4189,6 @@ host, cnappinstall.googleadapis.com, category-companies
 host, connectivitycheck.gstatic.com, category-companies
 host, content.googleadapis.com, category-companies
 host, crashlyticsreports-pa.googleapis.com, category-companies
-host, crl.pki.goog, category-companies
 host, csi.gstatic.com, category-companies
 host, dartsearch-cn.net, category-companies
 host, dg-meta.video.google.com, category-companies
@@ -4211,7 +4200,6 @@ host, download.mlcc.google.com, category-companies
 host, download.qatp1.net, category-companies
 host, download.tensorflow.google.com, category-companies
 host, emmapplecodevice.googleapis.com, category-companies
-host, firebase-settings.crashlytics.com, category-companies
 host, fontfiles.googleapis.com, category-companies
 host, fonts.googleapis.com, category-companies
 host, fonts.gstatic.com, category-companies
@@ -4250,10 +4238,8 @@ host, logger-dev.corp.google.com, category-companies
 host, logger.corp.google.com, category-companies
 host, login.corp.google.com, category-companies
 host, monitoring.qpdp1.net, category-companies
-host, ocsp.pki.goog, category-companies
 host, pagead-googlehosted.l.google.com, category-companies
 host, performanceparameters.googleapis.com, category-companies
-host, pki-goog.l.google.com, category-companies
 host, prod-controlbe.floonet.goog, category-companies
 host, prod-databe.floonet.goog, category-companies
 host, prod.databe.floonet.goog, category-companies
@@ -4272,7 +4258,6 @@ host, redirector.bdn.dev, category-companies
 host, redirector.c.chat.google.com, category-companies
 host, redirector.c.mail.google.com, category-companies
 host, redirector.c.pack.google.com, category-companies
-host, redirector.c.play.google.com, category-companies
 host, redirector.c.youtubeeducation.com, category-companies
 host, redirector.gcpcdn.gvt1.com, category-companies
 host, redirector.gvt1.com, category-companies
@@ -4311,8 +4296,6 @@ host, www.destinationurl.com, category-companies
 host, www.gstatic.com, category-companies
 host, www.pxcc.com, category-companies
 host, xn--flw351e.com, category-companies
-host-suffix, gvt1-cn.com, category-companies
-host-suffix, gvt2-cn.com, category-companies
 host-suffix, android, category-companies
 host-suffix, android.com, category-companies
 host-suffix, androidify.com, category-companies

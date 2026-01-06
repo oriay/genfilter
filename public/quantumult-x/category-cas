@@ -28,6 +28,7 @@ host, ocsp.apple.com, category-cas
 host, ocsp2-lb.apple.com.akadns.net, category-cas
 host, ocsp2.apple.com, category-cas
 host, valid.apple.com, category-cas
+host, valid.origin-apple.com.akadns.net, category-cas
 host-suffix, buypass-ssl.com, category-cas
 host-suffix, buypass.com, category-cas
 host-suffix, buypass.no, category-cas
