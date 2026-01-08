@@ -15851,6 +15851,7 @@ host-suffix, ntp2.tohoku.ac.jp, geolocation-!cn
 host-suffix, ntp.tut.ac.jp, geolocation-!cn
 host-suffix, ntp1.wakwak.com, geolocation-!cn
 host-suffix, ntp2.wakwak.com, geolocation-!cn
+host-suffix, authpass.app, geolocation-!cn
 host-suffix, authy.com, geolocation-!cn
 host-suffix, dashlane.com, geolocation-!cn
 host-suffix, enpass.io, geolocation-!cn
@@ -16327,7 +16328,9 @@ host-suffix, mobatek.net, geolocation-!cn
 host-suffix, mpv.io, geolocation-!cn
 host-suffix, mysql.com, geolocation-!cn
 host-suffix, neovim.io, geolocation-!cn
+host-suffix, netfilter.org, geolocation-!cn
 host-suffix, newpipe.net, geolocation-!cn
+host-suffix, nftables.org, geolocation-!cn
 host-suffix, nixos.org, geolocation-!cn
 host-suffix, nodesource.com, geolocation-!cn
 host-suffix, notepad-plus-plus.org, geolocation-!cn

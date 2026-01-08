@@ -62,6 +62,7 @@ host-suffix, kaipuyun.net, cn
 host-suffix, knet.cn, cn
 host-suffix, pkoplink.com, cn
 host-suffix, 51selling.com, cn
+host-suffix, aihuishou.com, cn
 host-suffix, appsimg.com, cn
 host-suffix, appvipshop.com, cn
 host-suffix, vip.com, cn
@@ -110,6 +111,7 @@ host-suffix, x-station.cn, cn
 host-suffix, znds.com, cn
 host-suffix, 423down.com, cn
 host-suffix, acwifi.net, cn
+host-suffix, appinn.com, cn
 host-suffix, chongdiantou.com, cn
 host-suffix, ghxi.com, cn
 host-suffix, iplaysoft.com, cn
@@ -159,10 +161,13 @@ host-suffix, wzlib.cn, cn
 host-suffix, 7moor-fs1.com, cn
 host-suffix, 7moor.com, cn
 host-suffix, antutu.com, cn
+host-suffix, antutu.net, cn
 host-suffix, bambulab.com, cn
 host-suffix, bblmw.com, cn
 host-suffix, bosszhipin.com, cn
 host-suffix, zhipin.com, cn
+host-suffix, chuimg.com, cn
+host-suffix, xiachufang.com, cn
 host-suffix, clink.cn, cn
 host-suffix, dangbei.com, cn
 host-suffix, dangbei.net, cn
@@ -209,6 +214,9 @@ host-suffix, socpk.com, cn
 host-suffix, suzuki-china.com, cn
 host-suffix, udesk.cn, cn
 host-suffix, ysjf.com, cn
+host-suffix, fnnas.com, cn
+host-suffix, fnnas.net, cn
+host-suffix, fnos.net, cn
 host-suffix, huaban.com, cn
 host-suffix, huabanimg.com, cn
 host-suffix, dancf.com, cn
@@ -389,7 +397,6 @@ host-suffix, apk3.com, cn
 host-suffix, apk8.com, cn
 host-suffix, aplaybox.com, cn
 host-suffix, appchina.com, cn
-host-suffix, appinn.com, cn
 host-suffix, arpun.com, cn
 host-suffix, asklib.com, cn
 host-suffix, babytree.com, cn
@@ -1095,7 +1102,6 @@ host-suffix, xdqtech.com, cn
 host-suffix, xdtool.com, cn
 host-suffix, xdwan.com, cn
 host-suffix, xfdown.com, cn
-host-suffix, xiachufang.com, cn
 host-suffix, xiaobaixitong.com, cn
 host-suffix, xiaoe-tech.com, cn
 host-suffix, xiaogouh5.com, cn

@@ -11,6 +11,17 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,dodopizza.ru
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodostatic.net
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,rostics.ru
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+DOMAIN-SUFFIX,trbcdn.net
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,taxsee.com
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozone.ru
 DOMAIN-SUFFIX,ozonusercontent.com
@@ -151,6 +162,9 @@ DOMAIN-SUFFIX,chukotka.ru
 DOMAIN-SUFFIX,jamal.ru
 DOMAIN-SUFFIX,surgut.ru
 DOMAIN-SUFFIX,yamal.ru
+DOMAIN-SUFFIX,fix-price.com
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,avito.ru

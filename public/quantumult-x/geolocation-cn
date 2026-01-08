@@ -20,6 +20,7 @@ host-suffix, kaipuyun.net, geolocation-cn
 host-suffix, knet.cn, geolocation-cn
 host-suffix, pkoplink.com, geolocation-cn
 host-suffix, 51selling.com, geolocation-cn
+host-suffix, aihuishou.com, geolocation-cn
 host-suffix, appsimg.com, geolocation-cn
 host-suffix, appvipshop.com, geolocation-cn
 host-suffix, vip.com, geolocation-cn
@@ -68,6 +69,7 @@ host-suffix, x-station.cn, geolocation-cn
 host-suffix, znds.com, geolocation-cn
 host-suffix, 423down.com, geolocation-cn
 host-suffix, acwifi.net, geolocation-cn
+host-suffix, appinn.com, geolocation-cn
 host-suffix, chongdiantou.com, geolocation-cn
 host-suffix, ghxi.com, geolocation-cn
 host-suffix, iplaysoft.com, geolocation-cn
@@ -117,10 +119,13 @@ host-suffix, wzlib.cn, geolocation-cn
 host-suffix, 7moor-fs1.com, geolocation-cn
 host-suffix, 7moor.com, geolocation-cn
 host-suffix, antutu.com, geolocation-cn
+host-suffix, antutu.net, geolocation-cn
 host-suffix, bambulab.com, geolocation-cn
 host-suffix, bblmw.com, geolocation-cn
 host-suffix, bosszhipin.com, geolocation-cn
 host-suffix, zhipin.com, geolocation-cn
+host-suffix, chuimg.com, geolocation-cn
+host-suffix, xiachufang.com, geolocation-cn
 host-suffix, clink.cn, geolocation-cn
 host-suffix, dangbei.com, geolocation-cn
 host-suffix, dangbei.net, geolocation-cn
@@ -167,6 +172,9 @@ host-suffix, socpk.com, geolocation-cn
 host-suffix, suzuki-china.com, geolocation-cn
 host-suffix, udesk.cn, geolocation-cn
 host-suffix, ysjf.com, geolocation-cn
+host-suffix, fnnas.com, geolocation-cn
+host-suffix, fnnas.net, geolocation-cn
+host-suffix, fnos.net, geolocation-cn
 host-suffix, huaban.com, geolocation-cn
 host-suffix, huabanimg.com, geolocation-cn
 host-suffix, dancf.com, geolocation-cn
@@ -347,7 +355,6 @@ host-suffix, apk3.com, geolocation-cn
 host-suffix, apk8.com, geolocation-cn
 host-suffix, aplaybox.com, geolocation-cn
 host-suffix, appchina.com, geolocation-cn
-host-suffix, appinn.com, geolocation-cn
 host-suffix, arpun.com, geolocation-cn
 host-suffix, asklib.com, geolocation-cn
 host-suffix, babytree.com, geolocation-cn
@@ -1053,7 +1060,6 @@ host-suffix, xdqtech.com, geolocation-cn
 host-suffix, xdtool.com, geolocation-cn
 host-suffix, xdwan.com, geolocation-cn
 host-suffix, xfdown.com, geolocation-cn
-host-suffix, xiachufang.com, geolocation-cn
 host-suffix, xiaobaixitong.com, geolocation-cn
 host-suffix, xiaoe-tech.com, geolocation-cn
 host-suffix, xiaogouh5.com, geolocation-cn
