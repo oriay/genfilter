@@ -1718,6 +1718,7 @@ host-suffix, xd.cn, geolocation-cn
 host-suffix, xd.com, geolocation-cn
 host-suffix, xdcdn.net, geolocation-cn
 host-suffix, xindong.com, geolocation-cn
+host-suffix, tapapks.com, geolocation-cn
 host-suffix, tapimg.com, geolocation-cn
 host-suffix, tapimg.net, geolocation-cn
 host-suffix, taptap.cn, geolocation-cn
