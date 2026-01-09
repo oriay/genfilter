@@ -2643,6 +2643,7 @@ host-suffix, 42r.cn, geolocation-cn
 host-suffix, 5566ua.com, geolocation-cn
 host-suffix, aurorapush.cn, geolocation-cn
 host-suffix, e0n.cn, geolocation-cn
+host-suffix, easytomessage.com, geolocation-cn
 host-suffix, japps.cn, geolocation-cn
 host-suffix, jchat.io, geolocation-cn
 host-suffix, jiguang.cn, geolocation-cn
@@ -3929,6 +3930,8 @@ host-suffix, yeshj.com, geolocation-cn
 host-suffix, koocdn.com, geolocation-cn
 host-suffix, koolearn.com, geolocation-cn
 host-suffix, koopass.com, geolocation-cn
+host-suffix, schoopia.com, geolocation-cn
+host-suffix, tongxuepie.com, geolocation-cn
 host-suffix, baydn.com, geolocation-cn
 host-suffix, shanbay.com, geolocation-cn
 host-suffix, speiyou.com, geolocation-cn

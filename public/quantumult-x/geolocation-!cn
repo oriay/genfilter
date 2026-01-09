@@ -79,6 +79,7 @@ host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
+host-suffix, labs.google.com, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, opal.google, geolocation-!cn
@@ -21316,6 +21317,7 @@ host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
+host-suffix, labs.google.com, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, opal.google, geolocation-!cn
@@ -21342,6 +21344,7 @@ host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
+host-suffix, labs.google.com, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, opal.google, geolocation-!cn
