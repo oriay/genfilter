@@ -33,12 +33,15 @@ host-suffix, isdspeed.qq.com, tencent-ads
 host-suffix, log.tbs.qq.com, tencent-ads
 host-suffix, mdt.qq.com, tencent-ads
 host-suffix, monitor.music.qq.com, tencent-ads
+host-suffix, monitor.uu.qq.com, tencent-ads
 host-suffix, mpush.qq.com, tencent-ads
 host-suffix, mtrace.qq.com, tencent-ads
 host-suffix, pgdt.gtimg.cn, tencent-ads
 host-suffix, pingjs.qq.com, tencent-ads
+host-suffix, pmir.3g.qq.com, tencent-ads
 host-suffix, push.qq.com, tencent-ads
 host-suffix, report.qqweb.qq.com, tencent-ads
+host-suffix, rmonitor.qq.com, tencent-ads
 host-suffix, sngmta.qq.com, tencent-ads
 host-suffix, stat.y.qq.com, tencent-ads
 host-suffix, tajs.qq.com, tencent-ads

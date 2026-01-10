@@ -14,6 +14,8 @@ host-suffix, logupdate.avlyun.sec.miui.com, xiaomi-ads
 host-suffix, misc.in.duokanbox.com, xiaomi-ads
 host-suffix, sentry.d.mi.com, xiaomi-ads
 host-suffix, sentry.d.xiaomi.net, xiaomi-ads
+host-suffix, stats.music.xiaomi.com, xiaomi-ads
 host-suffix, tjqonline.cn, xiaomi-ads
 host-suffix, tracker.ai.xiaomi.com, xiaomi-ads
+host-suffix, tracker.xiaomixiaoai.com, xiaomi-ads
 host-suffix, tracking.miui.com, xiaomi-ads

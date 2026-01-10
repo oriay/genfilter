@@ -111,6 +111,8 @@ host-suffix, reyun.com, category-ads-all
 host-suffix, zhugeapi.com, category-ads-all
 host-suffix, zhugeapi.net, category-ads-all
 host-suffix, zhugeio.com, category-ads-all
+host-suffix, atrace.chelaile.net.cn, category-ads-all
+host-suffix, logs.chelaile.net.cn, category-ads-all
 host, apilog-web.acfun.cn, category-ads-all
 host-suffix, adcolony.com, category-ads-all
 host-suffix, adjust.com, category-ads-all
@@ -573,12 +575,15 @@ host-suffix, isdspeed.qq.com, category-ads-all
 host-suffix, log.tbs.qq.com, category-ads-all
 host-suffix, mdt.qq.com, category-ads-all
 host-suffix, monitor.music.qq.com, category-ads-all
+host-suffix, monitor.uu.qq.com, category-ads-all
 host-suffix, mpush.qq.com, category-ads-all
 host-suffix, mtrace.qq.com, category-ads-all
 host-suffix, pgdt.gtimg.cn, category-ads-all
 host-suffix, pingjs.qq.com, category-ads-all
+host-suffix, pmir.3g.qq.com, category-ads-all
 host-suffix, push.qq.com, category-ads-all
 host-suffix, report.qqweb.qq.com, category-ads-all
+host-suffix, rmonitor.qq.com, category-ads-all
 host-suffix, sngmta.qq.com, category-ads-all
 host-suffix, stat.y.qq.com, category-ads-all
 host-suffix, tajs.qq.com, category-ads-all
@@ -633,8 +638,10 @@ host-suffix, logupdate.avlyun.sec.miui.com, category-ads-all
 host-suffix, misc.in.duokanbox.com, category-ads-all
 host-suffix, sentry.d.mi.com, category-ads-all
 host-suffix, sentry.d.xiaomi.net, category-ads-all
+host-suffix, stats.music.xiaomi.com, category-ads-all
 host-suffix, tjqonline.cn, category-ads-all
 host-suffix, tracker.ai.xiaomi.com, category-ads-all
+host-suffix, tracker.xiaomixiaoai.com, category-ads-all
 host-suffix, tracking.miui.com, category-ads-all
 host-suffix, adbehavior.ximalaya.com, category-ads-all
 host-suffix, adse.wsa.ximalaya.com, category-ads-all

@@ -1,5 +1,6 @@
 host-suffix, 21jingji.com, category-media-cn
 host-suffix, admin5.com, category-media-cn
+host-suffix, anhuinews.com, category-media-cn
 host-suffix, anzhuo.cn, category-media-cn
 host-suffix, bianews.com, category-media-cn
 host-suffix, caijing.com.cn, category-media-cn
@@ -24,6 +25,7 @@ host-suffix, cztv.com, category-media-cn
 host-suffix, cztvcdn.com, category-media-cn
 host-suffix, cztvcloud.com, category-media-cn
 host-suffix, zjstv.com, category-media-cn
+host-suffix, dutenews.com, category-media-cn
 host-suffix, dzh.com.cn, category-media-cn
 host-suffix, gw.com.cn, category-media-cn
 host-suffix, yundzh.com, category-media-cn
@@ -92,6 +94,8 @@ host-suffix, ssajax.cn, category-media-cn
 host-suffix, ssimg.cn, category-media-cn
 host-suffix, stockstar.com, category-media-cn
 host-suffix, stcn.com, category-media-cn
+host-suffix, sznews.com, category-media-cn
+host-suffix, szpgm.com, category-media-cn
 host-suffix, takungpao.com, category-media-cn
 host-suffix, techweb.com.cn, category-media-cn
 host-suffix, thecover.cn, category-media-cn
