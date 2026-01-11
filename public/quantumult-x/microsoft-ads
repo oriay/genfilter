@@ -4,3 +4,5 @@ host-suffix, clarity.ms, microsoft-ads
 host-suffix, microsoftads.com, microsoft-ads
 host-suffix, msads.net, microsoft-ads
 host-suffix, nelreports.net, microsoft-ads
+host-suffix, collector.github.com, microsoft-ads
+host-suffix, copilot-telemetry.githubusercontent.com, microsoft-ads

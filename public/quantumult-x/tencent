@@ -460,6 +460,7 @@ host-suffix, pgdt.gtimg.cn, tencent
 host-suffix, pingjs.qq.com, tencent
 host-suffix, pmir.3g.qq.com, tencent
 host-suffix, push.qq.com, tencent
+host-suffix, qqdata.ab.qq.com, tencent
 host-suffix, report.qqweb.qq.com, tencent
 host-suffix, rmonitor.qq.com, tencent
 host-suffix, sngmta.qq.com, tencent
@@ -468,6 +469,7 @@ host-suffix, tajs.qq.com, tencent
 host-suffix, tcss.qq.com, tencent
 host-suffix, tmead.y.qq.com, tencent
 host-suffix, tmeadcomm.y.qq.com, tencent
+host-suffix, tpstelemetry.tencent.com, tencent
 host-suffix, trace.qq.com, tencent
 host-suffix, ugdtimg.com, tencent
 host-suffix, wit.qq.com, tencent

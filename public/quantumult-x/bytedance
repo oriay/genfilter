@@ -310,12 +310,15 @@ host-suffix, jinritemai.com, bytedance
 host-suffix, faceu.com, bytedance
 host-suffix, ulikecam.com, bytedance
 host-suffix, rsproxy.cn, bytedance
+host-suffix, ad.toutiao.com, bytedance
+host-suffix, analytics.tiktok.com, bytedance
 host-suffix, bds.snssdk.com, bytedance
 host-suffix, byteadverts.com, bytedance
 host-suffix, ctobsnssdk.com, bytedance
 host-suffix, dig.bdurl.net, bytedance
 host-suffix, extlog.snssdk.com, bytedance
 host-suffix, i.snssdk.com, bytedance
+host-suffix, log.zijieapi.com, bytedance
 host-suffix, mcs.snssdk.com, bytedance
 host-suffix, pangolin-dsp-toutiao-b.com, bytedance
 host-suffix, pangolin-dsp-toutiao.com, bytedance

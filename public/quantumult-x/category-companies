@@ -1451,6 +1451,7 @@ host, weatherkit.apple.com, category-companies
 host, www.apple.com, category-companies
 host, www.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, xp.apple.com, category-companies
+host-suffix, advertising.apple.com, category-companies
 host-suffix, api-adservices.apple.com, category-companies
 host-suffix, iadsdk.apple.com, category-companies
 host-suffix, iad.apple.com, category-companies
@@ -6755,6 +6756,8 @@ host-suffix, clarity.ms, category-companies
 host-suffix, microsoftads.com, category-companies
 host-suffix, msads.net, category-companies
 host-suffix, nelreports.net, category-companies
+host-suffix, collector.github.com, category-companies
+host-suffix, copilot-telemetry.githubusercontent.com, category-companies
 host-suffix, adaptivecards.io, category-companies
 host-suffix, api-extractor.com, category-companies
 host-suffix, apisof.net, category-companies

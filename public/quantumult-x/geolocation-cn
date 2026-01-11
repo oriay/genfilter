@@ -2497,6 +2497,7 @@ host-suffix, zggbdszt.cn, geolocation-cn
 host-suffix, zggbdszt.com.cn, geolocation-cn
 host-suffix, zggbdszt.net.cn, geolocation-cn
 host-suffix, zygbdszt.net.cn, geolocation-cn
+host-suffix, ad.cctv.com, geolocation-cn
 host-suffix, chinanews.com, geolocation-cn
 host-suffix, chinanews.com.cn, geolocation-cn
 host-suffix, cns.com.cn, geolocation-cn
@@ -4414,6 +4415,7 @@ host-suffix, tendcloud.com, geolocation-cn
 host-suffix, talkingdata.com, geolocation-cn
 host-suffix, talkinggame.com, geolocation-cn
 host-suffix, cpatrk.net, geolocation-cn
+host-suffix, tdsdk.cpatrk.net, geolocation-cn
 host-suffix, vaptcha.com, geolocation-cn
 host-suffix, vaptcha.net, geolocation-cn
 host-suffix, hf-aw.cn, geolocation-cn
@@ -5327,12 +5329,15 @@ host-suffix, jinritemai.com, geolocation-cn
 host-suffix, faceu.com, geolocation-cn
 host-suffix, ulikecam.com, geolocation-cn
 host-suffix, rsproxy.cn, geolocation-cn
+host-suffix, ad.toutiao.com, geolocation-cn
+host-suffix, analytics.tiktok.com, geolocation-cn
 host-suffix, bds.snssdk.com, geolocation-cn
 host-suffix, byteadverts.com, geolocation-cn
 host-suffix, ctobsnssdk.com, geolocation-cn
 host-suffix, dig.bdurl.net, geolocation-cn
 host-suffix, extlog.snssdk.com, geolocation-cn
 host-suffix, i.snssdk.com, geolocation-cn
+host-suffix, log.zijieapi.com, geolocation-cn
 host-suffix, mcs.snssdk.com, geolocation-cn
 host-suffix, pangolin-dsp-toutiao-b.com, geolocation-cn
 host-suffix, pangolin-dsp-toutiao.com, geolocation-cn
@@ -7020,6 +7025,7 @@ host-suffix, pgdt.gtimg.cn, geolocation-cn
 host-suffix, pingjs.qq.com, geolocation-cn
 host-suffix, pmir.3g.qq.com, geolocation-cn
 host-suffix, push.qq.com, geolocation-cn
+host-suffix, qqdata.ab.qq.com, geolocation-cn
 host-suffix, report.qqweb.qq.com, geolocation-cn
 host-suffix, rmonitor.qq.com, geolocation-cn
 host-suffix, sngmta.qq.com, geolocation-cn
@@ -7028,6 +7034,7 @@ host-suffix, tajs.qq.com, geolocation-cn
 host-suffix, tcss.qq.com, geolocation-cn
 host-suffix, tmead.y.qq.com, geolocation-cn
 host-suffix, tmeadcomm.y.qq.com, geolocation-cn
+host-suffix, tpstelemetry.tencent.com, geolocation-cn
 host-suffix, trace.qq.com, geolocation-cn
 host-suffix, ugdtimg.com, geolocation-cn
 host-suffix, wit.qq.com, geolocation-cn

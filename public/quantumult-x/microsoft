@@ -539,6 +539,8 @@ host-suffix, clarity.ms, microsoft
 host-suffix, microsoftads.com, microsoft
 host-suffix, msads.net, microsoft
 host-suffix, nelreports.net, microsoft
+host-suffix, collector.github.com, microsoft
+host-suffix, copilot-telemetry.githubusercontent.com, microsoft
 host-suffix, adaptivecards.io, microsoft
 host-suffix, api-extractor.com, microsoft
 host-suffix, apisof.net, microsoft

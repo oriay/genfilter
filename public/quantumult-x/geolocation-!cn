@@ -18284,6 +18284,7 @@ host, weatherkit.apple.com, geolocation-!cn
 host, www.apple.com, geolocation-!cn
 host, www.apple.com.edgekey.net.globalredir.akadns.net, geolocation-!cn
 host, xp.apple.com, geolocation-!cn
+host-suffix, advertising.apple.com, geolocation-!cn
 host-suffix, api-adservices.apple.com, geolocation-!cn
 host-suffix, iadsdk.apple.com, geolocation-!cn
 host-suffix, iad.apple.com, geolocation-!cn
@@ -23588,6 +23589,8 @@ host-suffix, clarity.ms, geolocation-!cn
 host-suffix, microsoftads.com, geolocation-!cn
 host-suffix, msads.net, geolocation-!cn
 host-suffix, nelreports.net, geolocation-!cn
+host-suffix, collector.github.com, geolocation-!cn
+host-suffix, copilot-telemetry.githubusercontent.com, geolocation-!cn
 host-suffix, adaptivecards.io, geolocation-!cn
 host-suffix, api-extractor.com, geolocation-!cn
 host-suffix, apisof.net, geolocation-!cn

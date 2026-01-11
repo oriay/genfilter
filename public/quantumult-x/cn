@@ -2539,6 +2539,7 @@ host-suffix, zggbdszt.cn, cn
 host-suffix, zggbdszt.com.cn, cn
 host-suffix, zggbdszt.net.cn, cn
 host-suffix, zygbdszt.net.cn, cn
+host-suffix, ad.cctv.com, cn
 host-suffix, chinanews.com, cn
 host-suffix, chinanews.com.cn, cn
 host-suffix, cns.com.cn, cn
@@ -4456,6 +4457,7 @@ host-suffix, tendcloud.com, cn
 host-suffix, talkingdata.com, cn
 host-suffix, talkinggame.com, cn
 host-suffix, cpatrk.net, cn
+host-suffix, tdsdk.cpatrk.net, cn
 host-suffix, vaptcha.com, cn
 host-suffix, vaptcha.net, cn
 host-suffix, hf-aw.cn, cn
@@ -5369,12 +5371,15 @@ host-suffix, jinritemai.com, cn
 host-suffix, faceu.com, cn
 host-suffix, ulikecam.com, cn
 host-suffix, rsproxy.cn, cn
+host-suffix, ad.toutiao.com, cn
+host-suffix, analytics.tiktok.com, cn
 host-suffix, bds.snssdk.com, cn
 host-suffix, byteadverts.com, cn
 host-suffix, ctobsnssdk.com, cn
 host-suffix, dig.bdurl.net, cn
 host-suffix, extlog.snssdk.com, cn
 host-suffix, i.snssdk.com, cn
+host-suffix, log.zijieapi.com, cn
 host-suffix, mcs.snssdk.com, cn
 host-suffix, pangolin-dsp-toutiao-b.com, cn
 host-suffix, pangolin-dsp-toutiao.com, cn
@@ -7062,6 +7067,7 @@ host-suffix, pgdt.gtimg.cn, cn
 host-suffix, pingjs.qq.com, cn
 host-suffix, pmir.3g.qq.com, cn
 host-suffix, push.qq.com, cn
+host-suffix, qqdata.ab.qq.com, cn
 host-suffix, report.qqweb.qq.com, cn
 host-suffix, rmonitor.qq.com, cn
 host-suffix, sngmta.qq.com, cn
@@ -7070,6 +7076,7 @@ host-suffix, tajs.qq.com, cn
 host-suffix, tcss.qq.com, cn
 host-suffix, tmead.y.qq.com, cn
 host-suffix, tmeadcomm.y.qq.com, cn
+host-suffix, tpstelemetry.tencent.com, cn
 host-suffix, trace.qq.com, cn
 host-suffix, ugdtimg.com, cn
 host-suffix, wit.qq.com, cn
