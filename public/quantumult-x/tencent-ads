@@ -1,6 +1,7 @@
 host-suffix, ad.browser.qq.com, tencent-ads
 host-suffix, ad.qq.com, tencent-ads
 host-suffix, ad.qun.qq.com, tencent-ads
+host-suffix, ad.tencentmusic.com, tencent-ads
 host-suffix, ad.weixin.qq.com, tencent-ads
 host-suffix, adfilter.imtt.qq.com, tencent-ads
 host-suffix, adnet.qq.com, tencent-ads
@@ -42,6 +43,7 @@ host-suffix, pmir.3g.qq.com, tencent-ads
 host-suffix, push.qq.com, tencent-ads
 host-suffix, qqdata.ab.qq.com, tencent-ads
 host-suffix, report.qqweb.qq.com, tencent-ads
+host-suffix, report.tencentmusic.com, tencent-ads
 host-suffix, rmonitor.qq.com, tencent-ads
 host-suffix, sngmta.qq.com, tencent-ads
 host-suffix, stat.y.qq.com, tencent-ads

@@ -92,6 +92,8 @@ host-suffix, zhugeapi.net, category-ads
 host-suffix, zhugeio.com, category-ads
 host-suffix, atrace.chelaile.net.cn, category-ads
 host-suffix, logs.chelaile.net.cn, category-ads
+host-suffix, analytics.umetrip.com, category-ads
+host-suffix, sensors.umetrip.com.cn, category-ads
 host, apilog-web.acfun.cn, category-ads
 host-suffix, adcolony.com, category-ads
 host-suffix, adjust.com, category-ads
@@ -491,6 +493,7 @@ host, ad-display.diwodiwo.xyz, category-ads
 host-suffix, cdn.pocoiq.cn, category-ads
 host-suffix, oct.pocoiq.cn, category-ads
 host-suffix, ads.pubmatic.com, category-ads
+host-suffix, c.sayhi.360.cn, category-ads
 host-suffix, fenxi.360.cn, category-ads
 host-suffix, fenxi.com, category-ads
 host-suffix, lianmeng.360.cn, category-ads
@@ -580,6 +583,7 @@ host-suffix, testads.api.my7v.com, category-ads
 host-suffix, ad.browser.qq.com, category-ads
 host-suffix, ad.qq.com, category-ads
 host-suffix, ad.qun.qq.com, category-ads
+host-suffix, ad.tencentmusic.com, category-ads
 host-suffix, ad.weixin.qq.com, category-ads
 host-suffix, adfilter.imtt.qq.com, category-ads
 host-suffix, adnet.qq.com, category-ads
@@ -621,6 +625,7 @@ host-suffix, pmir.3g.qq.com, category-ads
 host-suffix, push.qq.com, category-ads
 host-suffix, qqdata.ab.qq.com, category-ads
 host-suffix, report.qqweb.qq.com, category-ads
+host-suffix, report.tencentmusic.com, category-ads
 host-suffix, rmonitor.qq.com, category-ads
 host-suffix, sngmta.qq.com, category-ads
 host-suffix, stat.y.qq.com, category-ads

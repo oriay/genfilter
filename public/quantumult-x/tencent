@@ -65,6 +65,16 @@ host-suffix, fymallqa3.com, tencent
 host-suffix, fymallqa4.com, tencent
 host-suffix, fymallqa7.com, tencent
 host-suffix, fymallqa9.com, tencent
+host-suffix, tdnsdl1.cn, tencent
+host-suffix, tdnsdl1.com.cn, tencent
+host-suffix, tdnsdl2.cn, tencent
+host-suffix, tdnsdl2.com.cn, tencent
+host-suffix, tdnsdl3.cn, tencent
+host-suffix, tdnsdl3.com.cn, tencent
+host-suffix, tdnsdl4.cn, tencent
+host-suffix, tdnsdl4.com.cn, tencent
+host-suffix, tdnsdl5.cn, tencent
+host-suffix, tdnsdl5.com.cn, tencent
 host-suffix, acctdns.com, tencent
 host-suffix, acctdns.net, tencent
 host-suffix, aitransfy.com, tencent
@@ -421,6 +431,7 @@ host-suffix, dot.pub, tencent
 host-suffix, ad.browser.qq.com, tencent
 host-suffix, ad.qq.com, tencent
 host-suffix, ad.qun.qq.com, tencent
+host-suffix, ad.tencentmusic.com, tencent
 host-suffix, ad.weixin.qq.com, tencent
 host-suffix, adfilter.imtt.qq.com, tencent
 host-suffix, adnet.qq.com, tencent
@@ -462,6 +473,7 @@ host-suffix, pmir.3g.qq.com, tencent
 host-suffix, push.qq.com, tencent
 host-suffix, qqdata.ab.qq.com, tencent
 host-suffix, report.qqweb.qq.com, tencent
+host-suffix, report.tencentmusic.com, tencent
 host-suffix, rmonitor.qq.com, tencent
 host-suffix, sngmta.qq.com, tencent
 host-suffix, stat.y.qq.com, tencent
