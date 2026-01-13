@@ -805,6 +805,8 @@ host-suffix, aistudio.google.com, google
 host-suffix, bard.google.com, google
 host-suffix, gemini.google, google
 host-suffix, gemini.google.com, google
+host, notebooklm-pa.googleapis.com, google
+host, notebooklm.googleapis.com, google
 host-suffix, notebooklm.google, google
 host-suffix, notebooklm.google.com, google
 host-suffix, jules.google, google
@@ -832,6 +834,8 @@ host-suffix, aistudio.google.com, google
 host-suffix, bard.google.com, google
 host-suffix, gemini.google, google
 host-suffix, gemini.google.com, google
+host, notebooklm-pa.googleapis.com, google
+host, notebooklm.googleapis.com, google
 host-suffix, notebooklm.google, google
 host-suffix, notebooklm.google.com, google
 host-suffix, jules.google, google

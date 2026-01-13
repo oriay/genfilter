@@ -4480,6 +4480,8 @@ host-suffix, aistudio.google.com, category-companies
 host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies
 host-suffix, gemini.google.com, category-companies
+host, notebooklm-pa.googleapis.com, category-companies
+host, notebooklm.googleapis.com, category-companies
 host-suffix, notebooklm.google, category-companies
 host-suffix, notebooklm.google.com, category-companies
 host-suffix, jules.google, category-companies
@@ -4507,6 +4509,8 @@ host-suffix, aistudio.google.com, category-companies
 host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies
 host-suffix, gemini.google.com, category-companies
+host, notebooklm-pa.googleapis.com, category-companies
+host, notebooklm.googleapis.com, category-companies
 host-suffix, notebooklm.google, category-companies
 host-suffix, notebooklm.google.com, category-companies
 host-suffix, jules.google, category-companies

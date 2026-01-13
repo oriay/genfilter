@@ -56,6 +56,8 @@ host-suffix, aistudio.google.com, category-ai-!cn
 host-suffix, bard.google.com, category-ai-!cn
 host-suffix, gemini.google, category-ai-!cn
 host-suffix, gemini.google.com, category-ai-!cn
+host, notebooklm-pa.googleapis.com, category-ai-!cn
+host, notebooklm.googleapis.com, category-ai-!cn
 host-suffix, notebooklm.google, category-ai-!cn
 host-suffix, notebooklm.google.com, category-ai-!cn
 host-suffix, jules.google, category-ai-!cn

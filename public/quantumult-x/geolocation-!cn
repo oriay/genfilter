@@ -74,6 +74,8 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
+host, notebooklm-pa.googleapis.com, geolocation-!cn
+host, notebooklm.googleapis.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
@@ -21338,6 +21340,8 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
+host, notebooklm-pa.googleapis.com, geolocation-!cn
+host, notebooklm.googleapis.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
@@ -21365,6 +21369,8 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
+host, notebooklm-pa.googleapis.com, geolocation-!cn
+host, notebooklm.googleapis.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn

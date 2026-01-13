@@ -15,6 +15,8 @@ host-suffix, aistudio.google.com, google-gemini
 host-suffix, bard.google.com, google-gemini
 host-suffix, gemini.google, google-gemini
 host-suffix, gemini.google.com, google-gemini
+host, notebooklm-pa.googleapis.com, google-gemini
+host, notebooklm.googleapis.com, google-gemini
 host-suffix, notebooklm.google, google-gemini
 host-suffix, notebooklm.google.com, google-gemini
 host-suffix, jules.google, google-gemini
