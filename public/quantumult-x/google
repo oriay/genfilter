@@ -805,6 +805,9 @@ host-suffix, aistudio.google.com, google
 host-suffix, bard.google.com, google
 host-suffix, gemini.google, google
 host-suffix, gemini.google.com, google
+host, cloudaicompanion.googleapis.com, google
+host, cloudcode-pa.googleapis.com, google
+host, daily-cloudcode-pa.googleapis.com, google
 host, notebooklm-pa.googleapis.com, google
 host, notebooklm.googleapis.com, google
 host-suffix, notebooklm.google, google
@@ -817,6 +820,10 @@ host-suffix, aisandbox-pa.googleapis.com, google
 host-suffix, aida.googleapis.com, google
 host-suffix, opal.google, google
 host-suffix, opal.google.com, google
+host, antigravity-pa.googleapis.com, google
+host, antigravity.googleapis.com, google
+host-suffix, antigravity.google, google
+host-suffix, antigravity-unleash.goog, google
 host-suffix, deepmind.com, google
 host-suffix, deepmind.google, google
 host-suffix, geller-pa.googleapis.com, google
@@ -834,6 +841,9 @@ host-suffix, aistudio.google.com, google
 host-suffix, bard.google.com, google
 host-suffix, gemini.google, google
 host-suffix, gemini.google.com, google
+host, cloudaicompanion.googleapis.com, google
+host, cloudcode-pa.googleapis.com, google
+host, daily-cloudcode-pa.googleapis.com, google
 host, notebooklm-pa.googleapis.com, google
 host, notebooklm.googleapis.com, google
 host-suffix, notebooklm.google, google
@@ -846,6 +856,10 @@ host-suffix, aisandbox-pa.googleapis.com, google
 host-suffix, aida.googleapis.com, google
 host-suffix, opal.google, google
 host-suffix, opal.google.com, google
+host, antigravity-pa.googleapis.com, google
+host, antigravity.googleapis.com, google
+host-suffix, antigravity.google, google
+host-suffix, antigravity-unleash.goog, google
 host-suffix, googleplay.com, google
 host-suffix, play-fe.googleapis.com, google
 host-suffix, play-games.googleusercontent.com, google

@@ -56,6 +56,9 @@ host-suffix, aistudio.google.com, category-ai-chat-!cn
 host-suffix, bard.google.com, category-ai-chat-!cn
 host-suffix, gemini.google, category-ai-chat-!cn
 host-suffix, gemini.google.com, category-ai-chat-!cn
+host, cloudaicompanion.googleapis.com, category-ai-chat-!cn
+host, cloudcode-pa.googleapis.com, category-ai-chat-!cn
+host, daily-cloudcode-pa.googleapis.com, category-ai-chat-!cn
 host, notebooklm-pa.googleapis.com, category-ai-chat-!cn
 host, notebooklm.googleapis.com, category-ai-chat-!cn
 host-suffix, notebooklm.google, category-ai-chat-!cn
@@ -68,6 +71,10 @@ host-suffix, aisandbox-pa.googleapis.com, category-ai-chat-!cn
 host-suffix, aida.googleapis.com, category-ai-chat-!cn
 host-suffix, opal.google, category-ai-chat-!cn
 host-suffix, opal.google.com, category-ai-chat-!cn
+host, antigravity-pa.googleapis.com, category-ai-chat-!cn
+host, antigravity.googleapis.com, category-ai-chat-!cn
+host-suffix, antigravity.google, category-ai-chat-!cn
+host-suffix, antigravity-unleash.goog, category-ai-chat-!cn
 host-suffix, groq.com, category-ai-chat-!cn
 host-suffix, hf.co, category-ai-chat-!cn
 host-suffix, hf.space, category-ai-chat-!cn

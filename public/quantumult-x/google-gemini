@@ -15,6 +15,9 @@ host-suffix, aistudio.google.com, google-gemini
 host-suffix, bard.google.com, google-gemini
 host-suffix, gemini.google, google-gemini
 host-suffix, gemini.google.com, google-gemini
+host, cloudaicompanion.googleapis.com, google-gemini
+host, cloudcode-pa.googleapis.com, google-gemini
+host, daily-cloudcode-pa.googleapis.com, google-gemini
 host, notebooklm-pa.googleapis.com, google-gemini
 host, notebooklm.googleapis.com, google-gemini
 host-suffix, notebooklm.google, google-gemini
@@ -27,3 +30,7 @@ host-suffix, aisandbox-pa.googleapis.com, google-gemini
 host-suffix, aida.googleapis.com, google-gemini
 host-suffix, opal.google, google-gemini
 host-suffix, opal.google.com, google-gemini
+host, antigravity-pa.googleapis.com, google-gemini
+host, antigravity.googleapis.com, google-gemini
+host-suffix, antigravity.google, google-gemini
+host-suffix, antigravity-unleash.goog, google-gemini

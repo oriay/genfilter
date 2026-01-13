@@ -74,6 +74,9 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
+host, cloudaicompanion.googleapis.com, geolocation-!cn
+host, cloudcode-pa.googleapis.com, geolocation-!cn
+host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
@@ -86,6 +89,10 @@ host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, opal.google, geolocation-!cn
 host-suffix, opal.google.com, geolocation-!cn
+host, antigravity-pa.googleapis.com, geolocation-!cn
+host, antigravity.googleapis.com, geolocation-!cn
+host-suffix, antigravity.google, geolocation-!cn
+host-suffix, antigravity-unleash.goog, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
 host-suffix, hf.co, geolocation-!cn
 host-suffix, hf.space, geolocation-!cn
@@ -4973,6 +4980,7 @@ host-suffix, rtbcdn.ru, geolocation-!cn
 host-suffix, ngenix.net, geolocation-!cn
 host-suffix, restream-media.net, geolocation-!cn
 host-suffix, wink.ru, geolocation-!cn
+host-suffix, dinopoloclub.com, geolocation-!cn
 host-suffix, dodi-repacks.download, geolocation-!cn
 host-suffix, dodi-repacks.site, geolocation-!cn
 host-suffix, fabricmc.net, geolocation-!cn
@@ -4983,8 +4991,10 @@ host-suffix, humblebundle.com, geolocation-!cn
 host-suffix, joinsquad.com, geolocation-!cn
 host-suffix, loverslab.com, geolocation-!cn
 host-suffix, minecraft.wiki, geolocation-!cn
+host-suffix, mobimon.com.tw, geolocation-!cn
 host-suffix, nexus-cdn.com, geolocation-!cn
 host-suffix, nexusmods.com, geolocation-!cn
+host-suffix, noxygames.com, geolocation-!cn
 host-suffix, offworldindustries.com, geolocation-!cn
 host-suffix, offworldindustries.net, geolocation-!cn
 host-suffix, papermc.io, geolocation-!cn
@@ -4992,6 +5002,8 @@ host-suffix, planetminecraft.com, geolocation-!cn
 host-suffix, prismlauncher.org, geolocation-!cn
 host-suffix, protondb.com, geolocation-!cn
 host-suffix, quiltmc.org, geolocation-!cn
+host-suffix, rayark.download, geolocation-!cn
+host-suffix, rayark.net, geolocation-!cn
 host-suffix, speedrun.com, geolocation-!cn
 host-suffix, steamdb.info, geolocation-!cn
 host-suffix, 2k.com, geolocation-!cn
@@ -21340,6 +21352,9 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
+host, cloudaicompanion.googleapis.com, geolocation-!cn
+host, cloudcode-pa.googleapis.com, geolocation-!cn
+host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
@@ -21352,6 +21367,10 @@ host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, opal.google, geolocation-!cn
 host-suffix, opal.google.com, geolocation-!cn
+host, antigravity-pa.googleapis.com, geolocation-!cn
+host, antigravity.googleapis.com, geolocation-!cn
+host-suffix, antigravity.google, geolocation-!cn
+host-suffix, antigravity-unleash.goog, geolocation-!cn
 host-suffix, deepmind.com, geolocation-!cn
 host-suffix, deepmind.google, geolocation-!cn
 host-suffix, geller-pa.googleapis.com, geolocation-!cn
@@ -21369,6 +21388,9 @@ host-suffix, aistudio.google.com, geolocation-!cn
 host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
+host, cloudaicompanion.googleapis.com, geolocation-!cn
+host, cloudcode-pa.googleapis.com, geolocation-!cn
+host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
@@ -21381,6 +21403,10 @@ host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
 host-suffix, opal.google, geolocation-!cn
 host-suffix, opal.google.com, geolocation-!cn
+host, antigravity-pa.googleapis.com, geolocation-!cn
+host, antigravity.googleapis.com, geolocation-!cn
+host-suffix, antigravity.google, geolocation-!cn
+host-suffix, antigravity-unleash.goog, geolocation-!cn
 host-suffix, googleplay.com, geolocation-!cn
 host-suffix, play-fe.googleapis.com, geolocation-!cn
 host-suffix, play-games.googleusercontent.com, geolocation-!cn

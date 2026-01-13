@@ -4480,6 +4480,9 @@ host-suffix, aistudio.google.com, category-companies
 host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies
 host-suffix, gemini.google.com, category-companies
+host, cloudaicompanion.googleapis.com, category-companies
+host, cloudcode-pa.googleapis.com, category-companies
+host, daily-cloudcode-pa.googleapis.com, category-companies
 host, notebooklm-pa.googleapis.com, category-companies
 host, notebooklm.googleapis.com, category-companies
 host-suffix, notebooklm.google, category-companies
@@ -4492,6 +4495,10 @@ host-suffix, aisandbox-pa.googleapis.com, category-companies
 host-suffix, aida.googleapis.com, category-companies
 host-suffix, opal.google, category-companies
 host-suffix, opal.google.com, category-companies
+host, antigravity-pa.googleapis.com, category-companies
+host, antigravity.googleapis.com, category-companies
+host-suffix, antigravity.google, category-companies
+host-suffix, antigravity-unleash.goog, category-companies
 host-suffix, deepmind.com, category-companies
 host-suffix, deepmind.google, category-companies
 host-suffix, geller-pa.googleapis.com, category-companies
@@ -4509,6 +4516,9 @@ host-suffix, aistudio.google.com, category-companies
 host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies
 host-suffix, gemini.google.com, category-companies
+host, cloudaicompanion.googleapis.com, category-companies
+host, cloudcode-pa.googleapis.com, category-companies
+host, daily-cloudcode-pa.googleapis.com, category-companies
 host, notebooklm-pa.googleapis.com, category-companies
 host, notebooklm.googleapis.com, category-companies
 host-suffix, notebooklm.google, category-companies
@@ -4521,6 +4531,10 @@ host-suffix, aisandbox-pa.googleapis.com, category-companies
 host-suffix, aida.googleapis.com, category-companies
 host-suffix, opal.google, category-companies
 host-suffix, opal.google.com, category-companies
+host, antigravity-pa.googleapis.com, category-companies
+host, antigravity.googleapis.com, category-companies
+host-suffix, antigravity.google, category-companies
+host-suffix, antigravity-unleash.goog, category-companies
 host-suffix, googleplay.com, category-companies
 host-suffix, play-fe.googleapis.com, category-companies
 host-suffix, play-games.googleusercontent.com, category-companies
