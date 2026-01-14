@@ -121,6 +121,7 @@ host-suffix, zyh365.com, geolocation-cn
 host-suffix, wzlib.cn, geolocation-cn
 host-suffix, 7moor-fs1.com, geolocation-cn
 host-suffix, 7moor.com, geolocation-cn
+host-suffix, alookweb.com, geolocation-cn
 host-suffix, antutu.com, geolocation-cn
 host-suffix, antutu.net, geolocation-cn
 host-suffix, bambulab.com, geolocation-cn
@@ -132,11 +133,21 @@ host-suffix, xiachufang.com, geolocation-cn
 host-suffix, clink.cn, geolocation-cn
 host-suffix, dangbei.com, geolocation-cn
 host-suffix, dangbei.net, geolocation-cn
+host-suffix, dcloud.io, geolocation-cn
+host-suffix, dcloud.net.cn, geolocation-cn
 host-suffix, deepepg.com, geolocation-cn
 host-suffix, kookong.com, geolocation-cn
 host-suffix, dida365.com, geolocation-cn
+host-suffix, dui88.com, geolocation-cn
+host-suffix, duiba.com.cn, geolocation-cn
 host-suffix, hapjs.org, geolocation-cn
 host-suffix, quickapp.cn, geolocation-cn
+host-suffix, hpplay.cn, geolocation-cn
+host-suffix, lbtp.com, geolocation-cn
+host-suffix, lebo.cn, geolocation-cn
+host-suffix, lebo.com.cn, geolocation-cn
+host-suffix, lebo.top, geolocation-cn
+host-suffix, mirrorcast.cn, geolocation-cn
 host-suffix, huolala.cn, geolocation-cn
 host-suffix, huorong.cn, geolocation-cn
 host-suffix, i8tq.com, geolocation-cn
@@ -160,6 +171,7 @@ host-suffix, sobot.com, geolocation-cn
 host-suffix, soboten.com, geolocation-cn
 host-suffix, tacool.com, geolocation-cn
 host-suffix, viayoo.com, geolocation-cn
+host-suffix, xbext.com, geolocation-cn
 host-suffix, yinxiang.com, geolocation-cn
 host-suffix, zhaopin.cn, geolocation-cn
 host-suffix, 51togic.com, geolocation-cn
@@ -1496,6 +1508,7 @@ host-suffix, miaopai.com, geolocation-cn
 host-suffix, motie.com, geolocation-cn
 host-suffix, motieimg.com, geolocation-cn
 host-suffix, pearvideo.com, geolocation-cn
+host-suffix, pipi.cn, geolocation-cn
 host-suffix, sfacg.com, geolocation-cn
 host-suffix, shuhai.com, geolocation-cn
 host-suffix, tadu.com, geolocation-cn
@@ -2641,6 +2654,8 @@ host-suffix, dandanvoice.com, geolocation-cn
 host-suffix, , geolocation-cn
 host-suffix, maimai.cn, geolocation-cn
 host-suffix, taou.com, geolocation-cn
+host-suffix, , geolocation-cn
+host-suffix, zsxq.com, geolocation-cn
 host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
 host-suffix, 404:, geolocation-cn
@@ -7303,6 +7318,7 @@ host-suffix, migu.cn, geolocation-cn
 host-suffix, migucloud.com, geolocation-cn
 host-suffix, migufun.com, geolocation-cn
 host-suffix, miguvideo.com, geolocation-cn
+host-suffix, cmft.com.cn, geolocation-cn
 host-suffix, cmcc-cs.cn, geolocation-cn
 host-suffix, online-cmcc.cn, geolocation-cn
 host-suffix, andfx.cn, geolocation-cn

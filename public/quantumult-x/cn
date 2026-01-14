@@ -163,6 +163,7 @@ host-suffix, zyh365.com, cn
 host-suffix, wzlib.cn, cn
 host-suffix, 7moor-fs1.com, cn
 host-suffix, 7moor.com, cn
+host-suffix, alookweb.com, cn
 host-suffix, antutu.com, cn
 host-suffix, antutu.net, cn
 host-suffix, bambulab.com, cn
@@ -174,11 +175,21 @@ host-suffix, xiachufang.com, cn
 host-suffix, clink.cn, cn
 host-suffix, dangbei.com, cn
 host-suffix, dangbei.net, cn
+host-suffix, dcloud.io, cn
+host-suffix, dcloud.net.cn, cn
 host-suffix, deepepg.com, cn
 host-suffix, kookong.com, cn
 host-suffix, dida365.com, cn
+host-suffix, dui88.com, cn
+host-suffix, duiba.com.cn, cn
 host-suffix, hapjs.org, cn
 host-suffix, quickapp.cn, cn
+host-suffix, hpplay.cn, cn
+host-suffix, lbtp.com, cn
+host-suffix, lebo.cn, cn
+host-suffix, lebo.com.cn, cn
+host-suffix, lebo.top, cn
+host-suffix, mirrorcast.cn, cn
 host-suffix, huolala.cn, cn
 host-suffix, huorong.cn, cn
 host-suffix, i8tq.com, cn
@@ -202,6 +213,7 @@ host-suffix, sobot.com, cn
 host-suffix, soboten.com, cn
 host-suffix, tacool.com, cn
 host-suffix, viayoo.com, cn
+host-suffix, xbext.com, cn
 host-suffix, yinxiang.com, cn
 host-suffix, zhaopin.cn, cn
 host-suffix, 51togic.com, cn
@@ -1538,6 +1550,7 @@ host-suffix, miaopai.com, cn
 host-suffix, motie.com, cn
 host-suffix, motieimg.com, cn
 host-suffix, pearvideo.com, cn
+host-suffix, pipi.cn, cn
 host-suffix, sfacg.com, cn
 host-suffix, shuhai.com, cn
 host-suffix, tadu.com, cn
@@ -2683,6 +2696,8 @@ host-suffix, dandanvoice.com, cn
 host-suffix, , cn
 host-suffix, maimai.cn, cn
 host-suffix, taou.com, cn
+host-suffix, , cn
+host-suffix, zsxq.com, cn
 host-suffix, 404:, cn
 host-suffix, 404:, cn
 host-suffix, 404:, cn
@@ -7345,6 +7360,7 @@ host-suffix, migu.cn, cn
 host-suffix, migucloud.com, cn
 host-suffix, migufun.com, cn
 host-suffix, miguvideo.com, cn
+host-suffix, cmft.com.cn, cn
 host-suffix, cmcc-cs.cn, cn
 host-suffix, online-cmcc.cn, cn
 host-suffix, andfx.cn, cn
