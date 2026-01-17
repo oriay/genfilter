@@ -5445,6 +5445,10 @@ host-suffix, playstation.com, geolocation-!cn
 host-suffix, playstation.net, geolocation-!cn
 host-suffix, sonyentertainmentnetwork.com, geolocation-!cn
 host-suffix, sekai.colorfulpalette.org, geolocation-!cn
+host-suffix, kraftonde.com, geolocation-!cn
+host-suffix, playbattlegrounds.com, geolocation-!cn
+host-suffix, pubg.com, geolocation-!cn
+host, pubg1.battleye.com, geolocation-!cn
 host-suffix, priconne-redive.jp, geolocation-!cn
 host-suffix, api-priconne-redive.cygames.jp, geolocation-!cn
 host-suffix, omotenashi.cygames.jp, geolocation-!cn

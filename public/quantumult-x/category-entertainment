@@ -549,6 +549,10 @@ host-suffix, playstation.com, category-entertainment
 host-suffix, playstation.net, category-entertainment
 host-suffix, sonyentertainmentnetwork.com, category-entertainment
 host-suffix, sekai.colorfulpalette.org, category-entertainment
+host-suffix, kraftonde.com, category-entertainment
+host-suffix, playbattlegrounds.com, category-entertainment
+host-suffix, pubg.com, category-entertainment
+host, pubg1.battleye.com, category-entertainment
 host-suffix, priconne-redive.jp, category-entertainment
 host-suffix, api-priconne-redive.cygames.jp, category-entertainment
 host-suffix, omotenashi.cygames.jp, category-entertainment
