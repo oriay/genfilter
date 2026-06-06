@@ -35,6 +35,7 @@ host-suffix, awssecworkshops.com, aws
 host-suffix, awsstatic.com, aws
 host-suffix, awsthinkbox.com, aws
 host-suffix, awstrack.me, aws
+host-suffix, awswaf.com, aws
 host-suffix, cdkworkshop.com, aws
 host-suffix, cloudfront.com, aws
 host-suffix, cloudfront.net, aws
@@ -48,6 +49,7 @@ host-suffix, amzndns.org, aws
 host-suffix, a2z.org.cn, aws
 host-suffix, amazonaws.cn, aws
 host-suffix, amazonaws.com.cn, aws
+host-suffix, amazonwebservices.cn, aws
 host-suffix, amazonwebservices.com.cn, aws
 host-suffix, amazonworkdocs.cn, aws
 host-suffix, amazonworkdocs.com.cn, aws

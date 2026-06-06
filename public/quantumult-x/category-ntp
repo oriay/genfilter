@@ -49,6 +49,11 @@ host, ntp4.ntp-servers.net, category-ntp
 host, ntp5.ntp-servers.net, category-ntp
 host, ntp6.ntp-servers.net, category-ntp
 host, ntp7.ntp-servers.net, category-ntp
+host, ntp.time.nl, category-ntp
+host, ntp1.time.nl, category-ntp
+host, ntp2.time.nl, category-ntp
+host, ntppool1.time.nl, category-ntp
+host, ntppool2.time.nl, category-ntp
 host-suffix, clock.isc.org, category-ntp
 host-suffix, ntp.fiord.ru, category-ntp
 host-suffix, ntp.nat.ms, category-ntp
@@ -69,6 +74,8 @@ host, ntp7.aliyun.com, category-ntp
 host, time.amazonaws.cn, category-ntp
 host, time.izatcloud.net, category-ntp
 host, time.xtracloud.net, category-ntp
+host, izattime.qcomgeo2.com, category-ntp
+host, xtratime.qcomgeo2.com, category-ntp
 host, ntp.tencent.com, category-ntp
 host, ntp1.tencent.com, category-ntp
 host, ntp2.tencent.com, category-ntp

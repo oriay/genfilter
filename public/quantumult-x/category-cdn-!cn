@@ -1,6 +1,11 @@
 host-suffix, b-cdn.net, category-cdn-!cn
 host-suffix, bunny.net, category-cdn-!cn
 host-suffix, bunnycdn.com, category-cdn-!cn
+host-suffix, cdnjs.com, category-cdn-!cn
+host-suffix, esm.sh, category-cdn-!cn
+host-suffix, gcdn.co, category-cdn-!cn
+host-suffix, gcore.com, category-cdn-!cn
+host-suffix, gcore.pro, category-cdn-!cn
 host-suffix, accdn.com.cn, category-cdn-!cn
 host-suffix, ak1.net, category-cdn-!cn
 host-suffix, aka-ai.com, category-cdn-!cn
@@ -124,6 +129,9 @@ host-suffix, cloudflarewarp.com, category-cdn-!cn
 host-suffix, cloudflareworkers.com, category-cdn-!cn
 host-suffix, encryptedsni.com, category-cdn-!cn
 host-suffix, every1dns.net, category-cdn-!cn
+host-suffix, foundationdns.com, category-cdn-!cn
+host-suffix, foundationdns.net, category-cdn-!cn
+host-suffix, foundationdns.org, category-cdn-!cn
 host-suffix, imagedelivery.net, category-cdn-!cn
 host-suffix, isbgpsafeyet.com, category-cdn-!cn
 host-suffix, one.one.one, category-cdn-!cn
@@ -165,6 +173,9 @@ host-suffix, fastlylb.net, category-cdn-!cn
 host-suffix, zencdn.net, category-cdn-!cn
 host-suffix, imgix.com, category-cdn-!cn
 host-suffix, imgix.net, category-cdn-!cn
+host-suffix, esm.run, category-cdn-!cn
+host-suffix, jsdelivr.com, category-cdn-!cn
+host-suffix, jsdelivr.net, category-cdn-!cn
 host-suffix, delvenetworks.com, category-cdn-!cn
 host-suffix, limelight.com, category-cdn-!cn
 host-suffix, lldns.net, category-cdn-!cn

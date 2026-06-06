@@ -426,14 +426,14 @@ host-suffix, yimg.jp, category-cas
 host-suffix, ymail.com, category-cas
 host-suffix, yusercontent.com, category-cas
 host, cdn.js7k.com, category-cas
+host-suffix, ads.yahoo.com, category-cas
+host-suffix, gemini.yahoo.com, category-cas
+host-suffix, ysm.yahoo.com, category-cas
 host-suffix, flickr, category-cas
 host-suffix, flic.kr, category-cas
 host-suffix, flickr.com, category-cas
 host-suffix, flickr.net, category-cas
 host-suffix, staticflickr.com, category-cas
-host-suffix, ads.yahoo.com, category-cas
-host-suffix, gemini.yahoo.com, category-cas
-host-suffix, ysm.yahoo.com, category-cas
 host-suffix, myvodafone.com.au, category-cas
 host-suffix, myvodafone.com.ws, category-cas
 host-suffix, vodafone.co.uk, category-cas
@@ -442,6 +442,7 @@ host-suffix, vodafone.com.au, category-cas
 host-suffix, vodafone.com.tr, category-cas
 host-suffix, vodafone.de, category-cas
 host-suffix, vodafone.it, category-cas
+host-suffix, vodafone.nl, category-cas
 host-suffix, wisecoin.com, category-cas
 host-suffix, wiseid.com, category-cas
 host-suffix, wisekey.com, category-cas

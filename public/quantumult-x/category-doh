@@ -9,15 +9,11 @@ host, dns.bebasid.com, category-doh
 host, antivirus.bebasid.com, category-doh
 host, internetsehat.bebasid.com, category-doh
 host, dns.cfiec.net, category-doh
-host, doh.opendns.com, category-doh
-host, doh.familyshield.opendns.com, category-doh
-host, doh.sandbox.opendns.com, category-doh
+host-suffix, opendns.com, category-doh
 host, doh.cleanbrowsing.org, category-doh
 host, one.one.one.one, category-doh
 host, dns.cloudflare.com, category-doh
-host, cloudflare-dns.com, category-doh
-host, security.cloudflare-dns.com, category-doh
-host, family.cloudflare-dns.com, category-doh
+host-suffix, cloudflare-dns.com, category-doh
 host, freedns.controld.com, category-doh
 host, dns.decloudus.com, category-doh
 host, futuredns.eu.org, category-doh
@@ -56,8 +52,7 @@ host, base.dns.mullvad.net, category-doh
 host, extended.dns.mullvad.net, category-doh
 host, family.dns.mullvad.net, category-doh
 host, all.dns.mullvad.net, category-doh
-host, dns.nextdns.io, category-doh
-host, anycast.dns.nextdns.io, category-doh
+host-suffix, nextdns.io, category-doh
 host, ada.openbld.net, category-doh
 host, ric.openbld.net, category-doh
 host, dns.quad9.net, category-doh
@@ -100,6 +95,8 @@ host, secondary.dns.seia.io, category-doh
 host, common.dot.dns.yandex.net, category-doh
 host, safe.dot.dns.yandex.net, category-doh
 host, family.dot.dns.yandex.net, category-doh
+host, dns.shaw.ca, category-doh
+host, doh.xfinity.com, category-doh
 host, doh.nl.ahadns.net, category-doh
 host, doh.la.ahadns.net, category-doh
 host, dns.arapurayil.com, category-doh

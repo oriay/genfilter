@@ -4,6 +4,7 @@ host-suffix, inkuai.com, kuaishou
 host-suffix, inkwai.com, kuaishou
 host-suffix, ksapisrv.com, kuaishou
 host-suffix, kskwai.com, kuaishou
+host-suffix, kspkg.com, kuaishou
 host-suffix, kuaishou.cn, kuaishou
 host-suffix, kuaishou.com, kuaishou
 host-suffix, kuaishouapps.com, kuaishou
@@ -12,6 +13,8 @@ host-suffix, kuaishouzt.com, kuaishou
 host-suffix, kwaicdn.com, kuaishou
 host-suffix, kwaizt.com, kuaishou
 host-suffix, kwimgs.com, kuaishou
+host-suffix, qingque.cn, kuaishou
+host-suffix, viviv.com, kuaishou
 host-suffix, wsukwai.com, kuaishou
 host-suffix, yximgs.com, kuaishou
 host-suffix, adbkwai.com, kuaishou

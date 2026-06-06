@@ -175,3 +175,4 @@ host-suffix, youtubemobilesupport.com, youtube
 host-suffix, yt.be, youtube
 host-suffix, ytimg.com, youtube
 host, yt3.googleusercontent.com, youtube
+host-suffix, ads.youtube.com, youtube

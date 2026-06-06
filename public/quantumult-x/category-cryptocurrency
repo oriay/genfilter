@@ -3,12 +3,14 @@ host-suffix, aave.com, category-cryptocurrency
 host-suffix, bingx.com, category-cryptocurrency
 host-suffix, bitbank.cc, category-cryptocurrency
 host-suffix, bitcoin.org, category-cryptocurrency
+host-suffix, bitcoincore.org, category-cryptocurrency
 host-suffix, bitfinex.com, category-cryptocurrency
 host-suffix, bitget.com, category-cryptocurrency
 host-suffix, bitmex.com, category-cryptocurrency
 host-suffix, bitquick.co, category-cryptocurrency
 host-suffix, bitstamp.net, category-cryptocurrency
 host-suffix, bittrex.com, category-cryptocurrency
+host-suffix, blockchain.com, category-cryptocurrency
 host-suffix, blockfrost.io, category-cryptocurrency
 host-suffix, btcbox.co.jp, category-cryptocurrency
 host-suffix, cex.io, category-cryptocurrency
@@ -30,6 +32,7 @@ host-suffix, dogecoin.com, category-cryptocurrency
 host-suffix, dydx.exchange, category-cryptocurrency
 host-suffix, fundingrates.xyz, category-cryptocurrency
 host-suffix, gemini.com, category-cryptocurrency
+host-suffix, gmgn.ai, category-cryptocurrency
 host-suffix, guardarian.com, category-cryptocurrency
 host-suffix, hashflow.com, category-cryptocurrency
 host-suffix, infura.io, category-cryptocurrency
@@ -52,6 +55,8 @@ host-suffix, truefi.io, category-cryptocurrency
 host-suffix, unisat.io, category-cryptocurrency
 host-suffix, uniswap.org, category-cryptocurrency
 host-suffix, walletconnect.com, category-cryptocurrency
+host-suffix, walletconnect.org, category-cryptocurrency
+host-suffix, web3modal.org, category-cryptocurrency
 host-suffix, wintermute.com, category-cryptocurrency
 host-suffix, zapper.fi, category-cryptocurrency
 host-suffix, asproex.com, category-cryptocurrency
@@ -84,8 +89,10 @@ host-suffix, binancezh.pro, category-cryptocurrency
 host-suffix, binancezh.sh, category-cryptocurrency
 host-suffix, binancezh.top, category-cryptocurrency
 host-suffix, binanceapi.com, category-cryptocurrency
+host-suffix, binanceru.net, category-cryptocurrency
 host-suffix, bnbstatic.com, category-cryptocurrency
 host-suffix, bntrace.com, category-cryptocurrency
+host-suffix, bsappapi.com, category-cryptocurrency
 host-suffix, nftstatic.com, category-cryptocurrency
 host-suffix, appsflayer.com, category-cryptocurrency
 host-suffix, saasexch.cc, category-cryptocurrency
@@ -146,10 +153,12 @@ host-suffix, localbitcoinschain.com, category-cryptocurrency
 host-suffix, nexo.com, category-cryptocurrency
 host-suffix, nexo.io, category-cryptocurrency
 host-suffix, okex.com, category-cryptocurrency
-host-suffix, okx.com, category-cryptocurrency
 host-suffix, okx-dns.com, category-cryptocurrency
 host-suffix, okx-dns1.com, category-cryptocurrency
 host-suffix, okx-dns2.com, category-cryptocurrency
+host-suffix, okx.cab, category-cryptocurrency
+host-suffix, okx.com, category-cryptocurrency
+host-suffix, okx.com.cdn.cloudflare.net, category-cryptocurrency
 host-suffix, oklink.com, category-cryptocurrency
 host-suffix, onekey-asset.com, category-cryptocurrency
 host-suffix, onekey.so, category-cryptocurrency

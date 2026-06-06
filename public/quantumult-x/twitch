@@ -4,10 +4,12 @@ host-suffix, live-video.net, twitch
 host-suffix, ttvnw.net, twitch
 host-suffix, twitch.tv, twitch
 host-suffix, twitchcdn.net, twitch
+host-suffix, twitchcon.com, twitch
 host-suffix, twitchsvc.net, twitch
 host, d1g1f25tn8m2e6.cloudfront.net, twitch
 host, d1m7jfoe9zdc1j.cloudfront.net, twitch
 host, d1mhjrowxxagfy.cloudfront.net, twitch
+host, d1ndex63qxojbr.cloudfront.net, twitch
 host, d1oca24q5dwo6d.cloudfront.net, twitch
 host, d1w2poirtb3as9.cloudfront.net, twitch
 host, d1xhnb4ptk05mw.cloudfront.net, twitch

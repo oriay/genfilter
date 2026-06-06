@@ -693,9 +693,11 @@ DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,amp-api-edge.music.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.music.apple.com
+DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,apptrailers.itunes.apple.com
@@ -722,6 +724,8 @@ DOMAIN,js-cdn.music.apple.com
 DOMAIN,km.support.apple.com
 DOMAIN,maps.apple.com
 DOMAIN,misc-assets.itunes.apple.com
+DOMAIN,musicstatus.music.apple.com
+DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,osxapps.itunes.apple.com
@@ -734,10 +738,12 @@ DOMAIN,se2.itunes.apple.com
 DOMAIN,search.itunes.apple.com
 DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sp.itunes.apple.com
+DOMAIN,speedysub.music.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
 DOMAIN,su.itunes.apple.com
 DOMAIN,sync.itunes.apple.com
 DOMAIN,tf-feedback.itunes.apple.com
+DOMAIN,universal-activity-service.itunes.apple.com
 DOMAIN,upp.itunes.apple.com
 DOMAIN,www.support.apple.com
 DOMAIN,a1.mzstatic.com
@@ -1709,6 +1715,7 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
+DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.de

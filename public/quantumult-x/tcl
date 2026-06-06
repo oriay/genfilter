@@ -3,3 +3,10 @@ host-suffix, tcl.com, tcl
 host-suffix, tcl.com.cn, tcl
 host-suffix, tcltech.com, tcl
 host-suffix, leiniao.com, tcl
+host-suffix, my7v.com, tcl
+host-suffix, ads-uo.api.leiniao.com, tcl
+host-suffix, ads-ut.api.leiniao.com, tcl
+host-suffix, ads.api.my7v.com, tcl
+host-suffix, euads-o.api.leiniao.com, tcl
+host-suffix, hwads-t.api.my7v.com, tcl
+host-suffix, testads.api.my7v.com, tcl

@@ -1,6 +1,10 @@
 host-suffix, 7k7k.com, category-games-cn
 host-suffix, 9xgame.com, category-games-cn
+host-suffix, arcaea.cn, category-games-cn
 host-suffix, astral-vector.com, category-games-cn
+host, end-api.shallow.ink, category-games-cn
+host, end.shallow.ink, category-games-cn
+host-suffix, feihuo.com, category-games-cn
 host-suffix, forevernine.com, category-games-cn
 host-suffix, fxt365.com, category-games-cn
 host-suffix, gameabc.com, category-games-cn
@@ -10,6 +14,9 @@ host-suffix, ledu.com, category-games-cn
 host-suffix, longtugame.com, category-games-cn
 host-suffix, morefreegame.com, category-games-cn
 host-suffix, phira.cn, category-games-cn
+host-suffix, sdo.com, category-games-cn
+host-suffix, shengqugames.com, category-games-cn
+host-suffix, zjshulong.com, category-games-cn
 host-suffix, tgpro.top, category-games-cn
 host-suffix, tgprocs.net, category-games-cn
 host-suffix, tuyoo.com, category-games-cn
@@ -82,6 +89,10 @@ host-suffix, yxhapi.com, category-games-cn
 host-suffix, yxhhdl.com, category-games-cn
 host-suffix, yxhimg.com, category-games-cn
 host-suffix, 9game.cn, category-games-cn
+host-suffix, aligames.com, category-games-cn
+host-suffix, jiaoyimao.cn, category-games-cn
+host-suffix, jiaoyimao.com, category-games-cn
+host-suffix, lingxigames.com, category-games-cn
 host-suffix, bilibiligame.cn, category-games-cn
 host-suffix, bilibiligame.co, category-games-cn
 host-suffix, bilibiligame.net, category-games-cn
@@ -97,6 +108,7 @@ host-suffix, heroesports.com, category-games-cn
 host-suffix, shyxhy.com, category-games-cn
 host-suffix, yingxiong.com, category-games-cn
 host-suffix, kurogames.com, category-games-cn
+host-suffix, kurogames.net, category-games-cn
 host-suffix, aki-game.com, category-games-cn
 host-suffix, mhystatic.com, category-games-cn
 host-suffix, mhyurl.cn, category-games-cn
@@ -113,6 +125,7 @@ host-suffix, bhsr.com, category-games-cn
 host-suffix, themisweeps.com, category-games-cn
 host-suffix, yuanshen.com, category-games-cn
 host-suffix, juequling.com, category-games-cn
+host-suffix, log-upload.mihoyo.com, category-games-cn
 host-suffix, battlecare.net, category-games-cn
 host-suffix, gameitop.com, category-games-cn
 host-suffix, gameloop.com, category-games-cn

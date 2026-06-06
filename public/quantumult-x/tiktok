@@ -20,6 +20,7 @@ host-suffix, tiktokv.eu, tiktok
 host-suffix, tiktokv.us, tiktok
 host-suffix, tiktokw.eu, tiktok
 host-suffix, tiktokw.us, tiktok
+host-suffix, ttcdn-us.com, tiktok
 host-suffix, ttlivecdn.com, tiktok
 host-suffix, ttoverseaus.net, tiktok
 host-suffix, ttwstatic.com, tiktok
@@ -33,3 +34,4 @@ host, roovza-launches.appsflyersdk.com, tiktok
 host, roovza.inapps.appsflyersdk.com, tiktok
 host, roovza.launches.appsflyersdk.com, tiktok
 host, roovza.skadsdk.appsflyersdk.com, tiktok
+host-suffix, analytics.tiktok.com, tiktok

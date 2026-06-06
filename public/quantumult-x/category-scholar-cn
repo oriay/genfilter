@@ -31,6 +31,7 @@ host-suffix, hwshu.com, category-scholar-cn
 host-suffix, hytung.cn, category-scholar-cn
 host-suffix, incopat.com, category-scholar-cn
 host-suffix, lawyee.org, category-scholar-cn
+host-suffix, libvideo.com, category-scholar-cn
 host-suffix, neohytung.com, category-scholar-cn
 host-suffix, nmrdata.com, category-scholar-cn
 host-suffix, nssd.cn, category-scholar-cn
@@ -46,7 +47,6 @@ host-suffix, unihan.com.cn, category-scholar-cn
 host-suffix, wenxin-ge.com, category-scholar-cn
 host-suffix, wind.com.cn, category-scholar-cn
 host-suffix, yiigle.com, category-scholar-cn
-host, www.libvideo.com, category-scholar-cn
 host-suffix, csdl.ac.cn, category-scholar-cn
 host-suffix, iscas.ac.cn, category-scholar-cn
 host-suffix, las.ac.cn, category-scholar-cn

@@ -1,6 +1,7 @@
-host-suffix, , bytedance-ai-!cn
-host-suffix, coze.com, bytedance-ai-!cn
-host-suffix, , bytedance-ai-!cn
-host-suffix, marscode.com, bytedance-ai-!cn
-host-suffix, trae.ai, bytedance-ai-!cn
-host-suffix, 404:, bytedance-ai-!cn
+host-suffix, coze.com, bytedance-ai-!cn
+host-suffix, marscode.com, bytedance-ai-!cn
+host-suffix, trae.ai, bytedance-ai-!cn
+host-suffix, cici.com, bytedance-ai-!cn
+host-suffix, ciciai.com, bytedance-ai-!cn
+host-suffix, ciciaicdn.com, bytedance-ai-!cn
+host-suffix, dola.com, bytedance-ai-!cn

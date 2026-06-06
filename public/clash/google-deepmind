@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -27,6 +28,7 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,opal.google
 DOMAIN-SUFFIX,opal.google.com
@@ -34,3 +36,4 @@ DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,stitch.withgoogle.com

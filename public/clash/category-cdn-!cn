@@ -1,6 +1,11 @@
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
+DOMAIN-SUFFIX,cdnjs.com
+DOMAIN-SUFFIX,esm.sh
+DOMAIN-SUFFIX,gcdn.co
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,gcore.pro
 DOMAIN-SUFFIX,accdn.com.cn
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
@@ -124,6 +129,9 @@ DOMAIN-SUFFIX,cloudflarewarp.com
 DOMAIN-SUFFIX,cloudflareworkers.com
 DOMAIN-SUFFIX,encryptedsni.com
 DOMAIN-SUFFIX,every1dns.net
+DOMAIN-SUFFIX,foundationdns.com
+DOMAIN-SUFFIX,foundationdns.net
+DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,isbgpsafeyet.com
 DOMAIN-SUFFIX,one.one.one
@@ -165,6 +173,9 @@ DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,lldns.net

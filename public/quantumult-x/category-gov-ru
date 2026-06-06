@@ -6,12 +6,20 @@ host-suffix, emias.info, category-gov-ru
 host-suffix, mgfoms.ru, category-gov-ru
 host-suffix, edu.ru, category-gov-ru
 host-suffix, cbr.ru, category-gov-ru
+host-suffix, cikrf.ru, category-gov-ru
+host-suffix, ebs.ru, category-gov-ru
+host-suffix, goskey.ru, category-gov-ru
+host-suffix, grfc.ru, category-gov-ru
+host-suffix, izbirkom.ru, category-gov-ru
+host-suffix, kremlin.ru, category-gov-ru
+host-suffix, mil.ru, category-gov-ru
 host-suffix, nalog.ru, category-gov-ru
+host-suffix, xn--80ajghhoc2aj1c8b.xn--p1ai, category-gov-ru
+host-suffix, xn--b1afabzvcegckfhg.xn--p1ai, category-gov-ru
 host-suffix, mos.ru, category-gov-ru
 host-suffix, mosreg.ru, category-gov-ru
 host-suffix, spb.ru, category-gov-ru
 host-suffix, sevastopol.ru, category-gov-ru
-host-suffix, sev.ru, category-gov-ru
 host-suffix, adygeya.ru, category-gov-ru
 host-suffix, bashkiria.ru, category-gov-ru
 host-suffix, buryatia.ru, category-gov-ru
@@ -117,3 +125,4 @@ host-suffix, chukotka.ru, category-gov-ru
 host-suffix, jamal.ru, category-gov-ru
 host-suffix, surgut.ru, category-gov-ru
 host-suffix, yamal.ru, category-gov-ru
+host-suffix, zdrav10.ru, category-gov-ru

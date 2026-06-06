@@ -5,9 +5,11 @@ host-suffix, dbankcdn.cn, huawei
 host-suffix, dbankcdn.com, huawei
 host-suffix, dbankcloud.cn, huawei
 host-suffix, dbankcloud.com, huawei
+host-suffix, dbankcloud.ru, huawei
 host-suffix, dbankedge.cn, huawei
 host-suffix, dbankedge.net, huawei
 host-suffix, hicloud.com, huawei
+host-suffix, hima.auto, huawei
 host-suffix, huawei.cn, huawei
 host-suffix, huawei.com, huawei
 host-suffix, huawei.com.cn, huawei
@@ -23,6 +25,7 @@ host-suffix, hwtrip.com, huawei
 host-suffix, shanhaitujian.com, huawei
 host-suffix, vmall.com, huawei
 host-suffix, vmallres.com, huawei
+host-suffix, domain:dt.dbankcloud.ru, huawei
 host-suffix, bisheng.cn, huawei
 host-suffix, bishengcompiler.cn, huawei
 host-suffix, devui.design, huawei
@@ -44,8 +47,8 @@ host-suffix, hisilicon.com.cn, huawei
 host-suffix, huaweiapaas.com, huawei
 host-suffix, mindspore.cn, huawei
 host-suffix, owsgo.com, huawei
-host-suffix, teleows.com, huawei
 host-suffix, saasops.tech, huawei
+host-suffix, teleows.com, huawei
 host-suffix, aadcloud.cn, huawei
 host-suffix, aadcloud.com, huawei
 host-suffix, ami-alliance.org.cn, huawei

@@ -7,7 +7,6 @@ host-suffix, test, private
 host-suffix, local, private
 host-suffix, home.arpa, private
 host-suffix, internal, private
-host-suffix, 0.in-addr.arpa, private
 host-suffix, 2.0.192.in-addr.arpa, private
 host-suffix, 10.in-addr.arpa, private
 host-suffix, 16.172.in-addr.arpa, private
@@ -32,7 +31,6 @@ host-suffix, 127.in-addr.arpa, private
 host-suffix, 168.192.in-addr.arpa, private
 host-suffix, 254.169.in-addr.arpa, private
 host-suffix, 255.255.255.255.in-addr.arpa, private
-host-suffix, 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa, private
 host-suffix, 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa, private
 host-suffix, 8.b.d.0.1.0.0.2.ip6.arpa, private
 host-suffix, 8.e.f.ip6.arpa, private
@@ -121,7 +119,6 @@ host-suffix, router.ctc, private
 host-suffix, plex.direct, private
 host-suffix, localhost.sec.qq.com, private
 host-suffix, localhost.ptlogin2.qq.com, private
-host-suffix, test.steampowered.com, private
 host-suffix, tendawifi.com, private
 host-suffix, tplinkwifi.net, private
 host, tplogin.cn, private
@@ -129,3 +126,5 @@ host, miwifi.com, private
 host, www.miwifi.com, private
 host-suffix, zte.home, private
 host-suffix, ts.net, private
+host, local.adguard.org, private
+host-suffix, kis.v2.scr.kaspersky-labs.com, private

@@ -73,6 +73,9 @@ DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,nbabot.net
+DOMAIN-SUFFIX,nicegram.app
+DOMAIN-SUFFIX,nicegram.cloud
+DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonmail.ch
@@ -101,6 +104,9 @@ DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,slackcertified.com
 DOMAIN-SUFFIX,slackdemo.com
 DOMAIN-SUFFIX,slackhq.com
+DOMAIN-SUFFIX,myteamspeak.com
+DOMAIN-SUFFIX,teamspeak.com
+DOMAIN-SUFFIX,teamspeak-services.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
@@ -118,6 +124,8 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,toncenter.com
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,temp-mail.org

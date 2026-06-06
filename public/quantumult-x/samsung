@@ -4,6 +4,7 @@ host-suffix, galaxyappstore.com, samsung
 host-suffix, galaxymobile.jp, samsung
 host-suffix, game-platform.net, samsung
 host-suffix, knoxemm.com, samsung
+host-suffix, ospserver.net, samsung
 host-suffix, samsung.com, samsung
 host-suffix, samsungads.com, samsung
 host-suffix, samsungapps.com, samsung
@@ -14,7 +15,9 @@ host-suffix, samsungeshop.com.cn, samsung
 host-suffix, samsunggalaxyfriends.com, samsung
 host-suffix, samsunghealth.com, samsung
 host-suffix, samsungiotcloud.com, samsung
+host-suffix, samsungiots.com, samsung
 host-suffix, samsungknox.com, samsung
 host-suffix, samsungosp.com, samsung
 host-suffix, samsungqbe.com, samsung
 host-suffix, samsungrs.com, samsung
+host-suffix, smartthings.com, samsung

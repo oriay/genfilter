@@ -60,6 +60,7 @@ host-suffix, shifen.com, baidu
 host-suffix, smartapps.cn, baidu
 host-suffix, tieba.com, baidu
 host-suffix, tiebaimg.com, baidu
+host-suffix, xdrtc.com, baidu
 host-suffix, xianfae.com, baidu
 host-suffix, xiaodutv.com, baidu
 host-suffix, yoojia.com, baidu
@@ -128,7 +129,6 @@ host-suffix, wangmeng.baidu.com, baidu
 host-suffix, wkctj.baidu.com, baidu
 host-suffix, wm.baidu.com, baidu
 host-suffix, zz.bdstatic.com, baidu
-host-suffix, syh.zybang.com, baidu
 host-suffix, zuoyebang.cc, baidu
 host-suffix, zuoyebang.com, baidu
 host-suffix, zybang.com, baidu

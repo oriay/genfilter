@@ -183,7 +183,6 @@ host-suffix, qa, tld-!cn
 host-suffix, re, tld-!cn
 host-suffix, ro, tld-!cn
 host-suffix, rs, tld-!cn
-host-suffix, ru, tld-!cn
 host-suffix, rw, tld-!cn
 host-suffix, sa, tld-!cn
 host-suffix, sb, tld-!cn
@@ -203,7 +202,6 @@ host-suffix, so, tld-!cn
 host-suffix, sr, tld-!cn
 host-suffix, ss, tld-!cn
 host-suffix, st, tld-!cn
-host-suffix, su, tld-!cn
 host-suffix, sv, tld-!cn
 host-suffix, sx, tld-!cn
 host-suffix, sy, tld-!cn
@@ -291,7 +289,6 @@ host-suffix, okinawa, tld-!cn
 host-suffix, osaka, tld-!cn
 host-suffix, ryukyu, tld-!cn
 host-suffix, taipei, tld-!cn
-host-suffix, tatar, tld-!cn
 host-suffix, tokyo, tld-!cn
 host-suffix, yokohama, tld-!cn
 host-suffix, alsace, tld-!cn
@@ -318,7 +315,6 @@ host-suffix, istanbul, tld-!cn
 host-suffix, koeln, tld-!cn
 host-suffix, london, tld-!cn
 host-suffix, madrid, tld-!cn
-host-suffix, moscow, tld-!cn
 host-suffix, nrw, tld-!cn
 host-suffix, paris, tld-!cn
 host-suffix, ruhr, tld-!cn
@@ -415,7 +411,6 @@ host-suffix, shell, tld-!cn
 host-suffix, shia, tld-!cn
 host-suffix, style, tld-!cn
 host-suffix, sucks, tld-!cn
-host-suffix, tatar, tld-!cn
 host-suffix, tattoo, tld-!cn
 host-suffix, vana, tld-!cn
 host-suffix, virgin, tld-!cn
@@ -494,7 +489,6 @@ host-suffix, xn--mgbai9azgqp6j, tld-!cn
 host-suffix, xn--mgbai9a5eva00b, tld-!cn
 host-suffix, xn--ygbi2ammx, tld-!cn
 host-suffix, xn--wgbl6a, tld-!cn
-host-suffix, xn--p1ai, tld-!cn
 host-suffix, xn--mgberp4a5d4ar, tld-!cn
 host-suffix, xn--mgberp4a5d4a87g, tld-!cn
 host-suffix, xn--mgbqly7c0a67fbc, tld-!cn
@@ -830,3 +824,14 @@ host-suffix, app, tld-!cn
 host-suffix, how, tld-!cn
 host-suffix, soy, tld-!cn
 host-suffix, xn--q9jyb4c, tld-!cn
+host-suffix, moscow, tld-!cn
+host-suffix, ru, tld-!cn
+host-suffix, su, tld-!cn
+host-suffix, tatar, tld-!cn
+host-suffix, xn--80adxhks, tld-!cn
+host-suffix, xn--80asehdb, tld-!cn
+host-suffix, xn--80aswg, tld-!cn
+host-suffix, xn--c1avg, tld-!cn
+host-suffix, xn--d1acj3b, tld-!cn
+host-suffix, xn--p1acf, tld-!cn
+host-suffix, xn--p1ai, tld-!cn

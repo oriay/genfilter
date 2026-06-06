@@ -38,6 +38,9 @@ host-suffix, cloudflarewarp.com, cloudflare
 host-suffix, cloudflareworkers.com, cloudflare
 host-suffix, encryptedsni.com, cloudflare
 host-suffix, every1dns.net, cloudflare
+host-suffix, foundationdns.com, cloudflare
+host-suffix, foundationdns.net, cloudflare
+host-suffix, foundationdns.org, cloudflare
 host-suffix, imagedelivery.net, cloudflare
 host-suffix, isbgpsafeyet.com, cloudflare
 host-suffix, one.one.one, cloudflare

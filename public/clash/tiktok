@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
@@ -33,3 +34,4 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
+DOMAIN-SUFFIX,analytics.tiktok.com

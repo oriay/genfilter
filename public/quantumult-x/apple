@@ -693,9 +693,11 @@ host-suffix, courier-push-apple.com.akadns.net, apple
 host, amp-api-edge-lb-cn.itunes-apple.com.akadns.net, apple
 host, amp-api-edge-lb.itunes-apple.com.akadns.net, apple
 host, amp-api-edge.apps.apple.com, apple
+host, amp-api-edge.music.apple.com, apple
 host, amp-api-search-edge.apps.apple.com, apple
 host, amp-api.apps.apple.com, apple
 host, amp-api.music.apple.com, apple
+host, aod-ssl.itunes.apple.com, apple
 host, aod.itunes.apple.com, apple
 host, api-edge.apps.apple.com, apple
 host, apptrailers.itunes.apple.com, apple
@@ -722,6 +724,8 @@ host, js-cdn.music.apple.com, apple
 host, km.support.apple.com, apple
 host, maps.apple.com, apple
 host, misc-assets.itunes.apple.com, apple
+host, musicstatus.music.apple.com, apple
+host, mvod.itunes.apple.com, apple
 host, myapp.itunes.apple.com, apple
 host, np-edge.itunes.apple.com, apple
 host, osxapps.itunes.apple.com, apple
@@ -734,10 +738,12 @@ host, se2.itunes.apple.com, apple
 host, search.itunes.apple.com, apple
 host, sf-api-token-service.itunes.apple.com, apple
 host, sp.itunes.apple.com, apple
+host, speedysub.music.apple.com, apple
 host, streamingaudio.itunes.apple.com, apple
 host, su.itunes.apple.com, apple
 host, sync.itunes.apple.com, apple
 host, tf-feedback.itunes.apple.com, apple
+host, universal-activity-service.itunes.apple.com, apple
 host, upp.itunes.apple.com, apple
 host, www.support.apple.com, apple
 host, a1.mzstatic.com, apple
@@ -1709,6 +1715,7 @@ host-suffix, icloud-content.com, apple
 host-suffix, icloud-isupport.com, apple
 host-suffix, icloud-sandbox.com, apple
 host-suffix, icloud.ch, apple
+host-suffix, icloud.cn, apple
 host-suffix, icloud.com, apple
 host-suffix, icloud.com.cn, apple
 host-suffix, icloud.de, apple

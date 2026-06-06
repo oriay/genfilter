@@ -165,11 +165,11 @@ host-suffix, yimg.jp, yahoo
 host-suffix, ymail.com, yahoo
 host-suffix, yusercontent.com, yahoo
 host, cdn.js7k.com, yahoo
+host-suffix, ads.yahoo.com, yahoo
+host-suffix, gemini.yahoo.com, yahoo
+host-suffix, ysm.yahoo.com, yahoo
 host-suffix, flickr, yahoo
 host-suffix, flic.kr, yahoo
 host-suffix, flickr.com, yahoo
 host-suffix, flickr.net, yahoo
 host-suffix, staticflickr.com, yahoo
-host-suffix, ads.yahoo.com, yahoo
-host-suffix, gemini.yahoo.com, yahoo
-host-suffix, ysm.yahoo.com, yahoo

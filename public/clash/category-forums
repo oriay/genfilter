@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,broadbandreports.com
 DOMAIN-SUFFIX,dslr.net
 DOMAIN-SUFFIX,dslreports.com
 DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN-SUFFIX,dzeninfra.ru
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
@@ -49,6 +51,7 @@ DOMAIN-SUFFIX,5i01.com
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,22112211.xyz
 DOMAIN-SUFFIX,deepflood.com
+DOMAIN-SUFFIX,nodeget.com
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodequality.com
 DOMAIN-SUFFIX,nodeseek.com
@@ -67,6 +70,7 @@ DOMAIN-SUFFIX,ptt3.cc
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+DOMAIN,www.quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,redd.it

@@ -3,12 +3,14 @@ DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,bingx.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitcoincore.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitquick.co
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,blockfrost.io
 DOMAIN-SUFFIX,btcbox.co.jp
 DOMAIN-SUFFIX,cex.io
@@ -30,6 +32,7 @@ DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,fundingrates.xyz
 DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,guardarian.com
 DOMAIN-SUFFIX,hashflow.com
 DOMAIN-SUFFIX,infura.io
@@ -52,6 +55,8 @@ DOMAIN-SUFFIX,truefi.io
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,zapper.fi
 DOMAIN-SUFFIX,asproex.com
@@ -84,8 +89,10 @@ DOMAIN-SUFFIX,binancezh.pro
 DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,saasexch.cc
@@ -146,10 +153,12 @@ DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,nexo.com
 DOMAIN-SUFFIX,nexo.io
 DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
 DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so

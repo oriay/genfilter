@@ -1,6 +1,7 @@
 host-suffix, a2z.org.cn, aws-cn
 host-suffix, amazonaws.cn, aws-cn
 host-suffix, amazonaws.com.cn, aws-cn
+host-suffix, amazonwebservices.cn, aws-cn
 host-suffix, amazonwebservices.com.cn, aws-cn
 host-suffix, amazonworkdocs.cn, aws-cn
 host-suffix, amazonworkdocs.com.cn, aws-cn

@@ -4,30 +4,54 @@ host-suffix, cohere.ai, category-ai-!cn
 host-suffix, cohere.com, category-ai-!cn
 host-suffix, clipdrop.co, category-ai-!cn
 host-suffix, jasper.ai, category-ai-!cn
+host-suffix, agentclientprotocol.com, category-ai-!cn
+host-suffix, anythingllm.com, category-ai-!cn
+host-suffix, arena.ai, category-ai-!cn
 host-suffix, chutes.ai, category-ai-!cn
+host-suffix, clawhub.ai, category-ai-!cn
 host-suffix, copilot.microsoft.com, category-ai-!cn
+host-suffix, crewai.com, category-ai-!cn
 host-suffix, devin.ai, category-ai-!cn
 host-suffix, diabrowser.com, category-ai-!cn
+host-suffix, diabrowser.engineering, category-ai-!cn
 host-suffix, dify.ai, category-ai-!cn
 host-suffix, duck.ai, category-ai-!cn
 host-suffix, gateway.ai.cloudflare.com, category-ai-!cn
+host-suffix, h2o.ai, category-ai-!cn
 host-suffix, kiro.dev, category-ai-!cn
+host-suffix, langchain.com, category-ai-!cn
+host-suffix, lmstudio.ai, category-ai-!cn
+host-suffix, lovart.ai, category-ai-!cn
 host-suffix, meta.ai, category-ai-!cn
+host-suffix, midjourney.com, category-ai-!cn
+host-suffix, minimax.io, category-ai-!cn
 host-suffix, mistral.ai, category-ai-!cn
+host-suffix, mozilla.ai, category-ai-!cn
+host-suffix, ollama.com, category-ai-!cn
 host-suffix, openart.ai, category-ai-!cn
+host-suffix, openclaw.ai, category-ai-!cn
 host-suffix, openrouter.ai, category-ai-!cn
+host-suffix, openspec.dev, category-ai-!cn
+host-suffix, plannotator.ai, category-ai-!cn
+host-suffix, qoder.com, category-ai-!cn
+host-suffix, sider.ai, category-ai-!cn
+host-suffix, spicywriter.com, category-ai-!cn
+host-suffix, tapnow.ai, category-ai-!cn
 host-suffix, anthropic.com, category-ai-!cn
+host-suffix, clau.de, category-ai-!cn
 host-suffix, claude.ai, category-ai-!cn
 host-suffix, claude.com, category-ai-!cn
-host-suffix, claudeusercontent.com, category-ai-!cn
 host-suffix, claudemcpclient.com, category-ai-!cn
+host-suffix, claudemcpcontent.com, category-ai-!cn
+host-suffix, claudeusercontent.com, category-ai-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-!cn
-host-suffix, , category-ai-!cn
-host-suffix, coze.com, category-ai-!cn
-host-suffix, , category-ai-!cn
-host-suffix, marscode.com, category-ai-!cn
-host-suffix, trae.ai, category-ai-!cn
-host-suffix, 404:, category-ai-!cn
+host-suffix, coze.com, category-ai-!cn
+host-suffix, marscode.com, category-ai-!cn
+host-suffix, trae.ai, category-ai-!cn
+host-suffix, cici.com, category-ai-!cn
+host-suffix, ciciai.com, category-ai-!cn
+host-suffix, ciciaicdn.com, category-ai-!cn
+host-suffix, dola.com, category-ai-!cn
 host-suffix, cerebras.ai, category-ai-!cn
 host-suffix, comfy.org, category-ai-!cn
 host-suffix, comfyci.org, category-ai-!cn
@@ -39,6 +63,16 @@ host-suffix, cursor.sh, category-ai-!cn
 host-suffix, cursorapi.com, category-ai-!cn
 host-suffix, elevenlabs.com, category-ai-!cn
 host-suffix, elevenlabs.io, category-ai-!cn
+host-suffix, envato-static.com, category-ai-!cn
+host-suffix, envato.com, category-ai-!cn
+host-suffix, envatousercontent.com, category-ai-!cn
+host-suffix, themeforest.net, category-ai-!cn
+host-suffix, githubcopilot.com, category-ai-!cn
+host, copilot-proxy.githubusercontent.com, category-ai-!cn
+host, copilot-workspace.githubnext.com, category-ai-!cn
+host, copilotprodattachments.blob.core.windows.net, category-ai-!cn
+host, copilot-telemetry-service.githubusercontent.com, category-ai-!cn
+host, copilot-telemetry.githubusercontent.com, category-ai-!cn
 host-suffix, deepmind.com, category-ai-!cn
 host-suffix, deepmind.google, category-ai-!cn
 host-suffix, geller-pa.googleapis.com, category-ai-!cn
@@ -56,6 +90,7 @@ host-suffix, aistudio.google.com, category-ai-!cn
 host-suffix, bard.google.com, category-ai-!cn
 host-suffix, gemini.google, category-ai-!cn
 host-suffix, gemini.google.com, category-ai-!cn
+host-suffix, gemini.gstatic.com, category-ai-!cn
 host, cloudaicompanion.googleapis.com, category-ai-!cn
 host, cloudcode-pa.googleapis.com, category-ai-!cn
 host, daily-cloudcode-pa.googleapis.com, category-ai-!cn
@@ -68,6 +103,7 @@ host-suffix, jules.google.com, category-ai-!cn
 host-suffix, labs.google, category-ai-!cn
 host-suffix, labs.google.com, category-ai-!cn
 host-suffix, aisandbox-pa.googleapis.com, category-ai-!cn
+host-suffix, aicode.googleapis.com, category-ai-!cn
 host-suffix, aida.googleapis.com, category-ai-!cn
 host-suffix, opal.google, category-ai-!cn
 host-suffix, opal.google.com, category-ai-!cn
@@ -75,23 +111,30 @@ host, antigravity-pa.googleapis.com, category-ai-!cn
 host, antigravity.googleapis.com, category-ai-!cn
 host-suffix, antigravity.google, category-ai-!cn
 host-suffix, antigravity-unleash.goog, category-ai-!cn
+host-suffix, stitch.withgoogle.com, category-ai-!cn
 host-suffix, groq.com, category-ai-!cn
 host-suffix, hf.co, category-ai-!cn
 host-suffix, hf.space, category-ai-!cn
 host-suffix, huggingface.co, category-ai-!cn
-host-suffix, chatgpt.com, category-ai-!cn
+host-suffix, liveperson.net, category-ai-!cn
+host-suffix, lpsnmedia.net, category-ai-!cn
+host-suffix, manus.im, category-ai-!cn
+host-suffix, manuscdn.com, category-ai-!cn
 host-suffix, chat.com, category-ai-!cn
+host-suffix, chatgpt.com, category-ai-!cn
+host-suffix, crixet.com, category-ai-!cn
 host-suffix, oaistatic.com, category-ai-!cn
+host-suffix, oaistatsig.com, category-ai-!cn
 host-suffix, oaiusercontent.com, category-ai-!cn
 host-suffix, openai.com, category-ai-!cn
 host-suffix, sora.com, category-ai-!cn
 host-suffix, openai.com.cdn.cloudflare.net, category-ai-!cn
 host, openaiapi-site.azureedge.net, category-ai-!cn
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-ai-!cn
+host, openaicom.imgix.net, category-ai-!cn
 host, openaicomproductionae4b.blob.core.windows.net, category-ai-!cn
 host, production-openaicom-storage.azureedge.net, category-ai-!cn
 host, o33249.ingest.sentry.io, category-ai-!cn
-host, openaicom.imgix.net, category-ai-!cn
 host, browser-intake-datadoghq.com, category-ai-!cn
 host-suffix, chatgpt.livekit.cloud, category-ai-!cn
 host-suffix, host.livekit.cloud, category-ai-!cn
@@ -99,9 +142,17 @@ host-suffix, turn.livekit.cloud, category-ai-!cn
 host-suffix, perplexity.ai, category-ai-!cn
 host-suffix, perplexity.com, category-ai-!cn
 host-suffix, pplx.ai, category-ai-!cn
+host, ppl-ai-file-upload.s3.amazonaws.com, category-ai-!cn
 host, pplx-res.cloudinary.com, category-ai-!cn
 host-suffix, poe.com, category-ai-!cn
 host-suffix, poecdn.net, category-ai-!cn
+host-suffix, codeium.com, category-ai-!cn
+host-suffix, codeiumdata.com, category-ai-!cn
+host-suffix, windsurf.build, category-ai-!cn
+host-suffix, windsurf.com, category-ai-!cn
 host-suffix, grok.com, category-ai-!cn
 host-suffix, grok.x.com, category-ai-!cn
 host-suffix, x.ai, category-ai-!cn
+host-suffix, youmind.ai, category-ai-!cn
+host-suffix, youmind.com, category-ai-!cn
+host-suffix, youmind.site, category-ai-!cn

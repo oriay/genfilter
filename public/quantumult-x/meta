@@ -395,6 +395,9 @@ host-suffix, redkix.com, meta
 host-suffix, workplace.com, meta
 host-suffix, workplaceusecases.com, meta
 host, fbcdn-a.akamaihd.net, meta
+host-suffix, analytics.facebook.com, meta
+host-suffix, facebookads.com, meta
+host-suffix, pixel.facebook.com, meta
 host-suffix, accountkit.com, meta
 host-suffix, atscaleconference.com, meta
 host-suffix, botorch.org, meta

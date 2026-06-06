@@ -1,2 +1,6 @@
+host-suffix, extendfirefox.com, firefox
 host-suffix, firefox.com, firefox
+host-suffix, firefox.hu, firefox
+host-suffix, firefoxtweetmachine.com, firefox
 host-suffix, firefoxusercontent.com, firefox
+host, mozilla-ohttp.fastly-edge.com, firefox

@@ -36,6 +36,8 @@ host-suffix, broadbandreports.com, category-forums
 host-suffix, dslr.net, category-forums
 host-suffix, dslreports.com, category-forums
 host-suffix, dzen.ru, category-forums
+host-suffix, log.dzen.ru, category-forums
+host-suffix, ms.dzen.ru, category-forums
 host-suffix, dzeninfra.ru, category-forums
 host-suffix, habr.com, category-forums
 host-suffix, habrastorage.org, category-forums
@@ -49,6 +51,7 @@ host-suffix, 5i01.com, category-forums
 host-suffix, mobile01.com, category-forums
 host-suffix, 22112211.xyz, category-forums
 host-suffix, deepflood.com, category-forums
+host-suffix, nodeget.com, category-forums
 host-suffix, nodeimage.com, category-forums
 host-suffix, nodequality.com, category-forums
 host-suffix, nodeseek.com, category-forums
@@ -67,6 +70,7 @@ host-suffix, ptt3.cc, category-forums
 host-suffix, qr.ae, category-forums
 host-suffix, quora.com, category-forums
 host-suffix, quoracdn.net, category-forums
+host, www.quora.com.cdn.cloudflare.net, category-forums
 host-suffix, poe.com, category-forums
 host-suffix, poecdn.net, category-forums
 host-suffix, redd.it, category-forums

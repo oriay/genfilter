@@ -73,6 +73,9 @@ host-suffix, fbmessenger.com, category-communication
 host-suffix, m.me, category-communication
 host-suffix, messenger.com, category-communication
 host-suffix, nbabot.net, category-communication
+host-suffix, nicegram.app, category-communication
+host-suffix, nicegram.cloud, category-communication
+host-suffix, adsgram.ai, category-communication
 host-suffix, pm.me, category-communication
 host-suffix, proton.me, category-communication
 host-suffix, protonmail.ch, category-communication
@@ -101,6 +104,9 @@ host-suffix, slackb.com, category-communication
 host-suffix, slackcertified.com, category-communication
 host-suffix, slackdemo.com, category-communication
 host-suffix, slackhq.com, category-communication
+host-suffix, myteamspeak.com, category-communication
+host-suffix, teamspeak.com, category-communication
+host-suffix, teamspeak-services.com, category-communication
 host-suffix, cdn-telegram.org, category-communication
 host-suffix, comments.app, category-communication
 host-suffix, contest.com, category-communication
@@ -118,6 +124,8 @@ host-suffix, telegram.org, category-communication
 host-suffix, telegram.space, category-communication
 host-suffix, telesco.pe, category-communication
 host-suffix, tg.dev, category-communication
+host-suffix, ton.org, category-communication
+host-suffix, toncenter.com, category-communication
 host-suffix, tx.me, category-communication
 host-suffix, usercontent.dev, category-communication
 host-suffix, temp-mail.org, category-communication

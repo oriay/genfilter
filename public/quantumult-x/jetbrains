@@ -1,13 +1,14 @@
+host-suffix, datalore.io, jetbrains
 host-suffix, intellij.com, jetbrains
 host-suffix, intellij.net, jetbrains
 host-suffix, intellij.org, jetbrains
+host-suffix, jb.gg, jetbrains
+host-suffix, jetbrains.cloud, jetbrains
 host-suffix, jetbrains.com, jetbrains
 host-suffix, jetbrains.net, jetbrains
 host-suffix, jetbrains.space, jetbrains
 host-suffix, jetbrains.team, jetbrains
-host-suffix, datalore.io, jetbrains
 host-suffix, kotlinlang.org, jetbrains
+host-suffix, youtrack.cloud, jetbrains
 host-suffix, cdn.jetbrains.com, jetbrains
 host-suffix, download-cdn.jetbrains.com.cn, jetbrains
-host-suffix, jb.gg, jetbrains
-host-suffix, youtrack.cloud, jetbrains

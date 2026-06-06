@@ -120,6 +120,8 @@ DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,scene7.com
 DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,tubemogul.com
 DOMAIN,3dns-1.adobe.com
 DOMAIN,3dns-2.adobe.com
 DOMAIN,3dns-3.adobe.com
@@ -258,7 +260,5 @@ DOMAIN,wwis-dubc1-vip96.adobe.com
 DOMAIN,wwis-dubc1-vip97.adobe.com
 DOMAIN,wwis-dubc1-vip98.adobe.com
 DOMAIN,wwis-dubc1-vip99.adobe.com
-DOMAIN-SUFFIX,advertising.adobe.com
-DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net

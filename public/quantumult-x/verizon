@@ -180,11 +180,11 @@ host-suffix, yimg.jp, verizon
 host-suffix, ymail.com, verizon
 host-suffix, yusercontent.com, verizon
 host, cdn.js7k.com, verizon
+host-suffix, ads.yahoo.com, verizon
+host-suffix, gemini.yahoo.com, verizon
+host-suffix, ysm.yahoo.com, verizon
 host-suffix, flickr, verizon
 host-suffix, flic.kr, verizon
 host-suffix, flickr.com, verizon
 host-suffix, flickr.net, verizon
 host-suffix, staticflickr.com, verizon
-host-suffix, ads.yahoo.com, verizon
-host-suffix, gemini.yahoo.com, verizon
-host-suffix, ysm.yahoo.com, verizon

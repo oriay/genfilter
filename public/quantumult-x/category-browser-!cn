@@ -24,6 +24,10 @@ host-suffix, waterfox.net, category-browser-!cn
 host-suffix, zen-browser.app, category-browser-!cn
 host-suffix, censorship.no, category-browser-!cn
 host-suffix, epicbrowser.com, category-browser-!cn
+host-suffix, extendfirefox.com, category-browser-!cn
 host-suffix, firefox.com, category-browser-!cn
+host-suffix, firefox.hu, category-browser-!cn
+host-suffix, firefoxtweetmachine.com, category-browser-!cn
 host-suffix, firefoxusercontent.com, category-browser-!cn
+host, mozilla-ohttp.fastly-edge.com, category-browser-!cn
 host-suffix, torproject.org, category-browser-!cn

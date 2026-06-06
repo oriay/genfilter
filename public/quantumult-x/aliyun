@@ -12,6 +12,7 @@ host-suffix, aliyun.com, aliyun
 host-suffix, aliyuncdn.com, aliyun
 host-suffix, aliyuncdn.net, aliyun
 host-suffix, aliyunfile.com, aliyun
+host-suffix, aliyunidaas.com, aliyun
 host-suffix, aliyunpds.com, aliyun
 host-suffix, cdngslb.com, aliyun
 host-suffix, fcapp.run, aliyun
@@ -66,3 +67,12 @@ host-suffix, oss-eu-west-1.aliyuncs.com, aliyun
 host-suffix, oss-me-east-1.aliyuncs.com, aliyun
 host-suffix, oss-us-east-1.aliyuncs.com, aliyun
 host-suffix, oss-us-west-1.aliyuncs.com, aliyun
+host-suffix, acjs.aliyun.com, aliyun
+host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, aliyun
+host-suffix, adash.man.aliyuncs.com, aliyun
+host-suffix, alimama.alicdn.com, aliyun
+host-suffix, atanx.alicdn.com, aliyun
+host-suffix, atanx2.alicdn.com, aliyun
+host-suffix, baichuan-sdk.alicdn.com, aliyun
+host-suffix, nbsdk-baichuan.alicdn.com, aliyun
+host-suffix, tce.alicdn.com, aliyun

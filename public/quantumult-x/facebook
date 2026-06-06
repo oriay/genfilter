@@ -392,3 +392,6 @@ host-suffix, redkix.com, facebook
 host-suffix, workplace.com, facebook
 host-suffix, workplaceusecases.com, facebook
 host, fbcdn-a.akamaihd.net, facebook
+host-suffix, analytics.facebook.com, facebook
+host-suffix, facebookads.com, facebook
+host-suffix, pixel.facebook.com, facebook

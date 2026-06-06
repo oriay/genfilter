@@ -15,5 +15,7 @@ host-suffix, telegram.org, telegram
 host-suffix, telegram.space, telegram
 host-suffix, telesco.pe, telegram
 host-suffix, tg.dev, telegram
+host-suffix, ton.org, telegram
+host-suffix, toncenter.com, telegram
 host-suffix, tx.me, telegram
 host-suffix, usercontent.dev, telegram

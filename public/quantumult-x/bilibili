@@ -1,6 +1,7 @@
 host-suffix, bilicomic.com, bilibili
 host-suffix, bilicomics.com, bilibili
-host, manga.bilibili.com, bilibili
+host-suffix, maoer.com, bilibili
+host-suffix, missevan.com, bilibili
 host-suffix, acg.tv, bilibili
 host-suffix, acgvideo.com, bilibili
 host-suffix, animetamashi.cn, bilibili
@@ -26,6 +27,7 @@ host-suffix, bilibilipay.com, bilibili
 host-suffix, biligo.com, bilibili
 host-suffix, biliintl.com, bilibili
 host-suffix, dreamcast.hk, bilibili
+host-suffix, huasheng.cn, bilibili
 host-suffix, im9.com, bilibili
 host-suffix, yo9.com, bilibili
 host-suffix, bilicdn1.com, bilibili

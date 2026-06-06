@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awsthinkbox.com
 DOMAIN-SUFFIX,awstrack.me
+DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,cdkworkshop.com
 DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
@@ -48,6 +49,7 @@ DOMAIN-SUFFIX,amzndns.org
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com.cn

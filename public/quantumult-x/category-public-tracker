@@ -43,7 +43,6 @@ host, bt.edwardk.info, category-public-tracker
 host, bt.firebit.org, category-public-tracker
 host, bt.hliang.com, category-public-tracker
 host, bt.ktrackers.com, category-public-tracker
-host, bt.nnm-club.info, category-public-tracker
 host, bt.okmp3.ru, category-public-tracker
 host, bt.poletracker.org, category-public-tracker
 host, bt.ptlsp.com, category-public-tracker
@@ -52,13 +51,12 @@ host, bt.rghost.net, category-public-tracker
 host, bt.sc-ol.com, category-public-tracker
 host, bt.unionpeer.org, category-public-tracker
 host, bt.zlofenix.org, category-public-tracker
-host, bt02.nnm-club.cc, category-public-tracker
-host, bt02.nnm-club.info, category-public-tracker
 host, bt1.archive.org, category-public-tracker
 host, bt1.xxxxbt.cc, category-public-tracker
 host, bt2.54new.com, category-public-tracker
 host, bt2.archive.org, category-public-tracker
 host, bt2.edwardk.info, category-public-tracker
+host, bt4.t-ru.org, category-public-tracker
 host, btfile.sdo.com, category-public-tracker
 host, btracker.top, category-public-tracker
 host, bttracker.debian.org, category-public-tracker
@@ -117,7 +115,6 @@ host, music-torrent.net, category-public-tracker
 host, mvgforumtracker.mvgroup.org, category-public-tracker
 host, mvgroup.org, category-public-tracker
 host, new-line.net, category-public-tracker
-host, nnmclub.to, category-public-tracker
 host, nyaa.tracker.wf, category-public-tracker
 host, odd-hd.fr, category-public-tracker
 host, oh.fuuuuuck.com, category-public-tracker
@@ -141,14 +138,7 @@ host, openbittorrent.com, category-public-tracker
 host, opentor.org, category-public-tracker
 host, opentracker.acgnx.com, category-public-tracker
 host, opentracker.acgnx.se, category-public-tracker
-host, opentracker.dg2.i2p, category-public-tracker
-host, opentracker.eeptorrent.i2p, category-public-tracker
-host, opentracker.fattydove.i2p, category-public-tracker
-host, opentracker.i2p.rocks, category-public-tracker
 host, opentracker.io, category-public-tracker
-host, opentracker.r4sas.i2p, category-public-tracker
-host, opentracker.simp.i2p, category-public-tracker
-host, opentracker.skank.i2p, category-public-tracker
 host, opentrackr.org, category-public-tracker
 host, oscar.reyesleon.xyz, category-public-tracker
 host, p2p.0g.cx, category-public-tracker
@@ -163,7 +153,6 @@ host, public.demonoid.ch, category-public-tracker
 host, public.tracker.vraphim.com, category-public-tracker
 host, pubt.net, category-public-tracker
 host, qg.lorzl.gq, category-public-tracker
-host, qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p, category-public-tracker
 host, retracker.ip.ncnet.ru, category-public-tracker
 host, retracker.lanta.me, category-public-tracker
 host, retracker.local, category-public-tracker
@@ -180,7 +169,6 @@ host, share.dmhy.org, category-public-tracker
 host, share.hkg-fansub.info, category-public-tracker
 host, shubt.net, category-public-tracker
 host, siambit.com, category-public-tracker
-host, sigmatracker.i2p, category-public-tracker
 host, su-data.com, category-public-tracker
 host, sugoi.pomf.se, category-public-tracker
 host, sukebei.tracker.wf, category-public-tracker
@@ -393,7 +381,6 @@ host, tracker2.ctix.cn, category-public-tracker
 host, tracker2.dler.com, category-public-tracker
 host, tracker2.dler.org, category-public-tracker
 host, tracker2.itzmx.com, category-public-tracker
-host, tracker2.postman.i2p, category-public-tracker
 host, tracker2.torrentino.com, category-public-tracker
 host, tracker3.dler.org, category-public-tracker
 host, tracker3.itzmx.com, category-public-tracker
@@ -415,7 +402,6 @@ host, xbtrutor.com, category-public-tracker
 host, xtremewrestlingtorrents.net, category-public-tracker
 host, y.paranoid.agency, category-public-tracker
 host, y.t-1.org, category-public-tracker
-host, yggtracker.i2p.rocks, category-public-tracker
 host, yolo.liberbear.com, category-public-tracker
 host, z.paranoid.agency, category-public-tracker
 host, zupix.online, category-public-tracker
@@ -431,7 +417,10 @@ host-suffix, learnbits.me, category-public-tracker
 host-suffix, legittorrents.info, category-public-tracker
 host-suffix, megatorrents.kg, category-public-tracker
 host-suffix, mvgroup.org, category-public-tracker
+host-suffix, nnm-club.cc, category-public-tracker
+host-suffix, nnm-club.info, category-public-tracker
 host-suffix, peckservers.com, category-public-tracker
+host-suffix, searchtor.to, category-public-tracker
 host-suffix, shnflac.net, category-public-tracker
 host-suffix, siambt.com, category-public-tracker
 host-suffix, thegeeks.bz, category-public-tracker

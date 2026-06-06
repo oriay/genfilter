@@ -15,6 +15,7 @@ host-suffix, aistudio.google.com, google-deepmind
 host-suffix, bard.google.com, google-deepmind
 host-suffix, gemini.google, google-deepmind
 host-suffix, gemini.google.com, google-deepmind
+host-suffix, gemini.gstatic.com, google-deepmind
 host, cloudaicompanion.googleapis.com, google-deepmind
 host, cloudcode-pa.googleapis.com, google-deepmind
 host, daily-cloudcode-pa.googleapis.com, google-deepmind
@@ -27,6 +28,7 @@ host-suffix, jules.google.com, google-deepmind
 host-suffix, labs.google, google-deepmind
 host-suffix, labs.google.com, google-deepmind
 host-suffix, aisandbox-pa.googleapis.com, google-deepmind
+host-suffix, aicode.googleapis.com, google-deepmind
 host-suffix, aida.googleapis.com, google-deepmind
 host-suffix, opal.google, google-deepmind
 host-suffix, opal.google.com, google-deepmind
@@ -34,3 +36,4 @@ host, antigravity-pa.googleapis.com, google-deepmind
 host, antigravity.googleapis.com, google-deepmind
 host-suffix, antigravity.google, google-deepmind
 host-suffix, antigravity-unleash.goog, google-deepmind
+host-suffix, stitch.withgoogle.com, google-deepmind
