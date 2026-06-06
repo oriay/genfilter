@@ -24,7 +24,6 @@ jobs:
          uv sync
          uv run genfilter -t all -g $release_tag
      - name: Commit & Push changes
-       uses: actions-js/push@master
+       uses: EndBug/add-and-commit@v10
        with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
          message: ${{ env.release_tag }}
