@@ -14,7 +14,7 @@ jobs:
      - name: Install jq
        uses: dcarbone/install-jq-action@v3
      - name: install uv
-       uses: astral-sh/setup-uv@8.2.0
+       uses: astral-sh/setup-uv@v8.2.0
      - name: get release tag
        run: |
          export release_tag=$(curl https://api.github.com/repos/v2fly/domain-list-community/releases/latest | jq -r '.tag_name')
