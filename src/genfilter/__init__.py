@@ -1,8 +1,7 @@
-import os
+__version__ = '0.1.2'
 
 from . import options
 from .convert import convert
-
 
 def main():
     parser = options.build_parser()
@@ -11,7 +10,3 @@ def main():
         print("wrong parameter!")
         return
     convert(args.target, args.tag)
-
-
-if __name__ == "__main__":
-    main()
