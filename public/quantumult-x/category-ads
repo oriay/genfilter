@@ -1876,6 +1876,7 @@ host, cds.apple.com, category-ads
 host, cds.apple.com.akadns.net, category-ads
 host, cdsassets.apple.com, category-ads
 host, cl2-cn.apple.com, category-ads
+host, cl2.apple.com.edgekey.net.globalredir.akadns.net, category-ads
 host, cl4-cn.apple.com, category-ads
 host, clientflow.apple.com, category-ads
 host, clientflow.apple.com.akadns.net, category-ads
@@ -1893,6 +1894,7 @@ host, experiments.apple.com, category-ads
 host, gs-loc-cn.apple.com, category-ads
 host, gs-loc.apple.com, category-ads
 host, gsp10-ssl-cn.ls.apple.com, category-ads
+host, gsp11-cn.ls.apple.com, category-ads
 host, gsp12-cn.ls.apple.com, category-ads
 host, gsp13-cn.ls.apple.com, category-ads
 host, gsp4-cn.ls.apple.com, category-ads
@@ -1910,8 +1912,6 @@ host, gspe79-cn-ssl.ls.apple.com, category-ads
 host, guzzoni-apple-com.v.aaplimg.com, category-ads
 host, guzzoni.apple.com, category-ads
 host, guzzoni.smoot.apple.com, category-ads
-host, icloud-cdn.icloud.com.akadns.net, category-ads
-host, icloud.cdn-apple.com, category-ads
 host, images.apple.com.edgekey.net.globalredir.akadns.net, category-ads
 host, init-kt.apple.com, category-ads
 host, init-p01md-lb.push-apple.com.akadns.net, category-ads
@@ -1938,12 +1938,10 @@ host, oscdn.apple.com, category-ads
 host, oscdn.origin-apple.com.akadns.net, category-ads
 host, osxapps.itunes.g.aaplimg.com, category-ads
 host, pancake.apple.com, category-ads
-host, pancake.cdn-apple.com.akadns.net, category-ads
 host, pba0.apple.com, category-ads
 host, probe.siri.apple.com, category-ads
 host, prod-support.apple-support.akadns.net, category-ads
 host, publicassets.cdn-apple.com, category-ads
-host, reserve-prime.apple.com, category-ads
 host, seed-sequoia.siri.apple.com, category-ads
 host, seed-swallow.siri.apple.com, category-ads
 host, seed.siri.apple.com, category-ads
@@ -2030,9 +2028,7 @@ host, certs-lb.apple.com.akadns.net, category-ads
 host, certs.apple.com, category-ads
 host, crl-lb.apple.com.akadns.net, category-ads
 host, crl.apple.com, category-ads
-host, ocsp-lb.apple.com.akadns.net, category-ads
 host, ocsp.apple.com, category-ads
-host, ocsp2-lb.apple.com.akadns.net, category-ads
 host, ocsp2.apple.com, category-ads
 host, valid.apple.com, category-ads
 host, valid.origin-apple.com.akadns.net, category-ads

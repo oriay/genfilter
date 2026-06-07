@@ -802,6 +802,7 @@ host, cds.apple.com, apple
 host, cds.apple.com.akadns.net, apple
 host, cdsassets.apple.com, apple
 host, cl2-cn.apple.com, apple
+host, cl2.apple.com.edgekey.net.globalredir.akadns.net, apple
 host, cl4-cn.apple.com, apple
 host, clientflow.apple.com, apple
 host, clientflow.apple.com.akadns.net, apple
@@ -819,6 +820,7 @@ host, experiments.apple.com, apple
 host, gs-loc-cn.apple.com, apple
 host, gs-loc.apple.com, apple
 host, gsp10-ssl-cn.ls.apple.com, apple
+host, gsp11-cn.ls.apple.com, apple
 host, gsp12-cn.ls.apple.com, apple
 host, gsp13-cn.ls.apple.com, apple
 host, gsp4-cn.ls.apple.com, apple
@@ -836,8 +838,6 @@ host, gspe79-cn-ssl.ls.apple.com, apple
 host, guzzoni-apple-com.v.aaplimg.com, apple
 host, guzzoni.apple.com, apple
 host, guzzoni.smoot.apple.com, apple
-host, icloud-cdn.icloud.com.akadns.net, apple
-host, icloud.cdn-apple.com, apple
 host, images.apple.com.edgekey.net.globalredir.akadns.net, apple
 host, init-kt.apple.com, apple
 host, init-p01md-lb.push-apple.com.akadns.net, apple
@@ -864,12 +864,10 @@ host, oscdn.apple.com, apple
 host, oscdn.origin-apple.com.akadns.net, apple
 host, osxapps.itunes.g.aaplimg.com, apple
 host, pancake.apple.com, apple
-host, pancake.cdn-apple.com.akadns.net, apple
 host, pba0.apple.com, apple
 host, probe.siri.apple.com, apple
 host, prod-support.apple-support.akadns.net, apple
 host, publicassets.cdn-apple.com, apple
-host, reserve-prime.apple.com, apple
 host, seed-sequoia.siri.apple.com, apple
 host, seed-swallow.siri.apple.com, apple
 host, seed.siri.apple.com, apple
@@ -956,9 +954,7 @@ host, certs-lb.apple.com.akadns.net, apple
 host, certs.apple.com, apple
 host, crl-lb.apple.com.akadns.net, apple
 host, crl.apple.com, apple
-host, ocsp-lb.apple.com.akadns.net, apple
 host, ocsp.apple.com, apple
-host, ocsp2-lb.apple.com.akadns.net, apple
 host, ocsp2.apple.com, apple
 host, valid.apple.com, apple
 host, valid.origin-apple.com.akadns.net, apple

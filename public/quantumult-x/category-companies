@@ -2495,6 +2495,7 @@ host, cds.apple.com, category-companies
 host, cds.apple.com.akadns.net, category-companies
 host, cdsassets.apple.com, category-companies
 host, cl2-cn.apple.com, category-companies
+host, cl2.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, cl4-cn.apple.com, category-companies
 host, clientflow.apple.com, category-companies
 host, clientflow.apple.com.akadns.net, category-companies
@@ -2512,6 +2513,7 @@ host, experiments.apple.com, category-companies
 host, gs-loc-cn.apple.com, category-companies
 host, gs-loc.apple.com, category-companies
 host, gsp10-ssl-cn.ls.apple.com, category-companies
+host, gsp11-cn.ls.apple.com, category-companies
 host, gsp12-cn.ls.apple.com, category-companies
 host, gsp13-cn.ls.apple.com, category-companies
 host, gsp4-cn.ls.apple.com, category-companies
@@ -2529,8 +2531,6 @@ host, gspe79-cn-ssl.ls.apple.com, category-companies
 host, guzzoni-apple-com.v.aaplimg.com, category-companies
 host, guzzoni.apple.com, category-companies
 host, guzzoni.smoot.apple.com, category-companies
-host, icloud-cdn.icloud.com.akadns.net, category-companies
-host, icloud.cdn-apple.com, category-companies
 host, images.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, init-kt.apple.com, category-companies
 host, init-p01md-lb.push-apple.com.akadns.net, category-companies
@@ -2557,12 +2557,10 @@ host, oscdn.apple.com, category-companies
 host, oscdn.origin-apple.com.akadns.net, category-companies
 host, osxapps.itunes.g.aaplimg.com, category-companies
 host, pancake.apple.com, category-companies
-host, pancake.cdn-apple.com.akadns.net, category-companies
 host, pba0.apple.com, category-companies
 host, probe.siri.apple.com, category-companies
 host, prod-support.apple-support.akadns.net, category-companies
 host, publicassets.cdn-apple.com, category-companies
-host, reserve-prime.apple.com, category-companies
 host, seed-sequoia.siri.apple.com, category-companies
 host, seed-swallow.siri.apple.com, category-companies
 host, seed.siri.apple.com, category-companies
@@ -2649,9 +2647,7 @@ host, certs-lb.apple.com.akadns.net, category-companies
 host, certs.apple.com, category-companies
 host, crl-lb.apple.com.akadns.net, category-companies
 host, crl.apple.com, category-companies
-host, ocsp-lb.apple.com.akadns.net, category-companies
 host, ocsp.apple.com, category-companies
-host, ocsp2-lb.apple.com.akadns.net, category-companies
 host, ocsp2.apple.com, category-companies
 host, valid.apple.com, category-companies
 host, valid.origin-apple.com.akadns.net, category-companies
