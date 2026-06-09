@@ -7,7 +7,6 @@ host-suffix, detectportal.firefox.com, connectivity-check
 host, nmcheck.gnome.org, connectivity-check
 host, connectivitycheck.gstatic.com, connectivity-check
 host, www.gstatic.com, connectivity-check
-host, www.google.com, connectivity-check
 host, connectivitycheck.platform.hihonorcloud.com, connectivity-check
 host, connectivitycheck.platform.hicloud.com, connectivity-check
 host, networkcheck.kde.org, connectivity-check

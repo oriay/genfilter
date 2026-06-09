@@ -7091,6 +7091,10 @@ host, dgeft87wbj63p.cloudfront.net, geolocation-!cn
 host, dqrpb9wgowsf5.cloudfront.net, geolocation-!cn
 host, ds0h3roq6wcgc.cloudfront.net, geolocation-!cn
 host, dykkng5hnh52u.cloudfront.net, geolocation-!cn
+host-suffix, nxtv.jp, geolocation-!cn
+host-suffix, unext-info.jp, geolocation-!cn
+host-suffix, unext.co.jp, geolocation-!cn
+host-suffix, unext.jp, geolocation-!cn
 host-suffix, vhx.tv, geolocation-!cn
 host-suffix, vhxqa1.com, geolocation-!cn
 host-suffix, vhxqa2.com, geolocation-!cn
