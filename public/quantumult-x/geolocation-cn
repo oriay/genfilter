@@ -774,9 +774,6 @@ host-suffix, imgcdc.com, geolocation-cn
 host-suffix, imooc.com, geolocation-cn
 host-suffix, indienova.com, geolocation-cn
 host-suffix, infini-fantasy.com, geolocation-cn
-host-suffix, infoq.com, geolocation-cn
-host-suffix, infoqstatic.com, geolocation-cn
-host-suffix, ip-cdn.com, geolocation-cn
 host-suffix, iranshao.com, geolocation-cn
 host-suffix, irs01.com, geolocation-cn
 host-suffix, istoreos.com, geolocation-cn
@@ -2798,6 +2795,8 @@ host-suffix, eastday.com, geolocation-cn
 host-suffix, eeo.com.cn, geolocation-cn
 host-suffix, expreview.com, geolocation-cn
 host-suffix, freebuf.com, geolocation-cn
+host-suffix, geekbang.org, geolocation-cn
+host-suffix, infoq.cn, geolocation-cn
 host-suffix, geekpark.net, geolocation-cn
 host-suffix, gmw.com, geolocation-cn
 host-suffix, guancha.cn, geolocation-cn

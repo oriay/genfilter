@@ -816,9 +816,6 @@ host-suffix, imgcdc.com, cn
 host-suffix, imooc.com, cn
 host-suffix, indienova.com, cn
 host-suffix, infini-fantasy.com, cn
-host-suffix, infoq.com, cn
-host-suffix, infoqstatic.com, cn
-host-suffix, ip-cdn.com, cn
 host-suffix, iranshao.com, cn
 host-suffix, irs01.com, cn
 host-suffix, istoreos.com, cn
@@ -2840,6 +2837,8 @@ host-suffix, eastday.com, cn
 host-suffix, eeo.com.cn, cn
 host-suffix, expreview.com, cn
 host-suffix, freebuf.com, cn
+host-suffix, geekbang.org, cn
+host-suffix, infoq.cn, cn
 host-suffix, geekpark.net, cn
 host-suffix, gmw.com, cn
 host-suffix, guancha.cn, cn

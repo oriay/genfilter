@@ -8182,6 +8182,7 @@ host-suffix, hkcnews.com, geolocation-!cn
 host-suffix, hkej.com, geolocation-!cn
 host-suffix, hkgpao.com, geolocation-!cn
 host-suffix, hongkongfp.com, geolocation-!cn
+host-suffix, infoq.com, geolocation-!cn
 host-suffix, inmediahk.net, geolocation-!cn
 host-suffix, inquirer.net, geolocation-!cn
 host-suffix, inside.com.tw, geolocation-!cn
