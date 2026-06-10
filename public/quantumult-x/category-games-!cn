@@ -4,6 +4,7 @@ host-suffix, dodi-repacks.download, category-games-!cn
 host-suffix, dodi-repacks.site, category-games-!cn
 host-suffix, fabricmc.net, category-games-!cn
 host-suffix, fanatical.com, category-games-!cn
+host-suffix, ficgs.com, category-games-!cn
 host-suffix, fitgirl-repacks.site, category-games-!cn
 host-suffix, game-repack.site, category-games-!cn
 host-suffix, joinsquad.com, category-games-!cn
@@ -247,8 +248,6 @@ host-suffix, arcraiders.com, category-games-!cn
 host-suffix, embark-studios.com, category-games-!cn
 host-suffix, embark.games, category-games-!cn
 host-suffix, reachthefinals.com, category-games-!cn
-host-suffix, eneba.com, category-games-!cn
-host-suffix, eneba.games, category-games-!cn
 host-suffix, 3lateral.com, category-games-!cn
 host-suffix, artstation.com, category-games-!cn
 host-suffix, capturingreality.com, category-games-!cn
@@ -296,6 +295,9 @@ host-suffix, modernwarships.com, category-games-!cn
 host-suffix, star-conflict.com, category-games-!cn
 host-suffix, warthunder.com, category-games-!cn
 host-suffix, wtmobile.com, category-games-!cn
+host-suffix, gamesplanet.com, category-games-!cn
+host-suffix, gametap.com, category-games-!cn
+host-suffix, gpstatic.com, category-games-!cn
 host, avatargarenanow-a.akamaihd.net, category-games-!cn
 host, cdngarenanow-a.akamaihd.net, category-games-!cn
 host, dlgarenanow-a.akamaihd.net, category-games-!cn
@@ -360,7 +362,9 @@ host-suffix, modrinth.com, category-games-!cn
 host-suffix, nexon.co.jp, category-games-!cn
 host-suffix, nexon.com, category-games-!cn
 host-suffix, nexon.io, category-games-!cn
+host-suffix, nexon.net, category-games-!cn
 host-suffix, nexoncdn.co.kr, category-games-!cn
+host-suffix, nexongames.co.kr, category-games-!cn
 host-suffix, nikke-de.com, category-games-!cn
 host-suffix, nikke-en.com, category-games-!cn
 host-suffix, nikke-fr.com, category-games-!cn

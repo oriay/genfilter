@@ -1530,6 +1530,7 @@ host-suffix, unityads.unity.cn, geolocation-cn
 host-suffix, unityads.unitychina.cn, geolocation-cn
 host-suffix, analog.com, geolocation-cn
 host-suffix, arrow.cn, geolocation-cn
+host-suffix, avermedia.cn, geolocation-cn
 host-suffix, boe.com, geolocation-cn
 host-suffix, boe.com.cn, geolocation-cn
 host-suffix, bouffalolab.com, geolocation-cn

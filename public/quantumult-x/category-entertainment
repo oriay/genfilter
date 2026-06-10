@@ -112,6 +112,7 @@ host-suffix, dodi-repacks.download, category-entertainment
 host-suffix, dodi-repacks.site, category-entertainment
 host-suffix, fabricmc.net, category-entertainment
 host-suffix, fanatical.com, category-entertainment
+host-suffix, ficgs.com, category-entertainment
 host-suffix, fitgirl-repacks.site, category-entertainment
 host-suffix, game-repack.site, category-entertainment
 host-suffix, joinsquad.com, category-entertainment
@@ -355,8 +356,6 @@ host-suffix, arcraiders.com, category-entertainment
 host-suffix, embark-studios.com, category-entertainment
 host-suffix, embark.games, category-entertainment
 host-suffix, reachthefinals.com, category-entertainment
-host-suffix, eneba.com, category-entertainment
-host-suffix, eneba.games, category-entertainment
 host-suffix, 3lateral.com, category-entertainment
 host-suffix, artstation.com, category-entertainment
 host-suffix, capturingreality.com, category-entertainment
@@ -404,6 +403,9 @@ host-suffix, modernwarships.com, category-entertainment
 host-suffix, star-conflict.com, category-entertainment
 host-suffix, warthunder.com, category-entertainment
 host-suffix, wtmobile.com, category-entertainment
+host-suffix, gamesplanet.com, category-entertainment
+host-suffix, gametap.com, category-entertainment
+host-suffix, gpstatic.com, category-entertainment
 host, avatargarenanow-a.akamaihd.net, category-entertainment
 host, cdngarenanow-a.akamaihd.net, category-entertainment
 host, dlgarenanow-a.akamaihd.net, category-entertainment
@@ -468,7 +470,9 @@ host-suffix, modrinth.com, category-entertainment
 host-suffix, nexon.co.jp, category-entertainment
 host-suffix, nexon.com, category-entertainment
 host-suffix, nexon.io, category-entertainment
+host-suffix, nexon.net, category-entertainment
 host-suffix, nexoncdn.co.kr, category-entertainment
+host-suffix, nexongames.co.kr, category-entertainment
 host-suffix, nikke-de.com, category-entertainment
 host-suffix, nikke-en.com, category-entertainment
 host-suffix, nikke-fr.com, category-entertainment

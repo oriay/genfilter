@@ -1,5 +1,7 @@
 host-suffix, ru.com, category-ru
 host-suffix, ru.net, category-ru
+host-suffix, livejournal.com, category-ru
+host-suffix, livejournal.net, category-ru
 host-suffix, credistory.ru, category-ru
 host-suffix, nbki.ru, category-ru
 host-suffix, moex.com, category-ru
@@ -690,6 +692,18 @@ host-suffix, comss.one, category-ru
 host-suffix, comss.online, category-ru
 host-suffix, comss.org, category-ru
 host-suffix, comss.ru, category-ru
+host-suffix, drweb.by, category-ru
+host-suffix, drweb.cn, category-ru
+host-suffix, drweb.co.jp, category-ru
+host-suffix, drweb.com, category-ru
+host-suffix, drweb.fr, category-ru
+host-suffix, drweb.kz, category-ru
+host-suffix, drweb.ru, category-ru
+host-suffix, drweb.uz, category-ru
+host-suffix, drweb-av.de, category-ru
+host-suffix, drweb-av.es, category-ru
+host-suffix, drweb-av.it, category-ru
+host-suffix, drweb-av.pl, category-ru
 host-suffix, bananacall.ru, category-ru
 host-suffix, beesbfl.ru, category-ru
 host-suffix, beescrm.ru, category-ru

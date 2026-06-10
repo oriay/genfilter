@@ -508,6 +508,7 @@ host-suffix, atom.io, microsoft
 host-suffix, dependabot.com, microsoft
 host-suffix, gh.io, microsoft
 host-suffix, ghcr.io, microsoft
+host-suffix, ghe.com, microsoft
 host-suffix, git.io, microsoft
 host-suffix, github.ai, microsoft
 host-suffix, github.blog, microsoft

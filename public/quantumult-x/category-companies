@@ -7248,6 +7248,7 @@ host-suffix, atom.io, category-companies
 host-suffix, dependabot.com, category-companies
 host-suffix, gh.io, category-companies
 host-suffix, ghcr.io, category-companies
+host-suffix, ghe.com, category-companies
 host-suffix, git.io, category-companies
 host-suffix, github.ai, category-companies
 host-suffix, github.blog, category-companies

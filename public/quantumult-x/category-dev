@@ -106,6 +106,10 @@ host-suffix, xposed.info, category-dev
 host-suffix, yarnpkg.com, category-dev
 host-suffix, ziglang.org, category-dev
 host-suffix, zsh.org, category-dev
+host-suffix, elegantthemes.com, category-dev
+host-suffix, hivepress.io, category-dev
+host-suffix, motopress.com, category-dev
+host-suffix, wpmailsmtp.com, category-dev
 host-suffix, anaconda.cloud, category-dev
 host-suffix, anaconda.com, category-dev
 host-suffix, anaconda.org, category-dev
@@ -193,6 +197,9 @@ host-suffix, dartlang.org, category-dev
 host-suffix, dartpad.dev, category-dev
 host-suffix, debian.org, category-dev
 host-suffix, dotdeb.org, category-dev
+host-suffix, discourse-cdn.com, category-dev
+host-suffix, discourse.group, category-dev
+host-suffix, discourse.org, category-dev
 host-suffix, compose-spec.io, category-dev
 host-suffix, docker.com, category-dev
 host-suffix, docker.io, category-dev
@@ -295,6 +302,7 @@ host-suffix, atom.io, category-dev
 host-suffix, dependabot.com, category-dev
 host-suffix, gh.io, category-dev
 host-suffix, ghcr.io, category-dev
+host-suffix, ghe.com, category-dev
 host-suffix, git.io, category-dev
 host-suffix, github.ai, category-dev
 host-suffix, github.blog, category-dev
@@ -594,3 +602,13 @@ host-suffix, iads.unity3d.com, category-dev
 host-suffix, unityads.unity3d.com, category-dev
 host-suffix, v8.dev, category-dev
 host-suffix, v8project.org, category-dev
+host-suffix, videopress.com, category-dev
+host-suffix, w.org, category-dev
+host-suffix, wordcamp.org, category-dev
+host-suffix, wordpress.com, category-dev
+host-suffix, wordpress.net, category-dev
+host-suffix, wordpress.org, category-dev
+host-suffix, wordpress.tv, category-dev
+host-suffix, wp-themes.com, category-dev
+host-suffix, wp.com, category-dev
+host-suffix, wpvip.com, category-dev

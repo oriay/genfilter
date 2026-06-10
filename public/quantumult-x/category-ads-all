@@ -7402,6 +7402,7 @@ host-suffix, atom.io, category-ads-all
 host-suffix, dependabot.com, category-ads-all
 host-suffix, gh.io, category-ads-all
 host-suffix, ghcr.io, category-ads-all
+host-suffix, ghe.com, category-ads-all
 host-suffix, git.io, category-ads-all
 host-suffix, github.ai, category-ads-all
 host-suffix, github.blog, category-ads-all

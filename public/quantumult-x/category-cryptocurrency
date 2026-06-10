@@ -18,6 +18,7 @@ host-suffix, clearpool.finance, category-cryptocurrency
 host-suffix, coinalyze.net, category-cryptocurrency
 host-suffix, coinbase.com, category-cryptocurrency
 host-suffix, coindesk.com, category-cryptocurrency
+host-suffix, coingate.com, category-cryptocurrency
 host-suffix, coingecko.com, category-cryptocurrency
 host-suffix, coinglass.com, category-cryptocurrency
 host-suffix, coinmap.org, category-cryptocurrency
@@ -35,6 +36,7 @@ host-suffix, gemini.com, category-cryptocurrency
 host-suffix, gmgn.ai, category-cryptocurrency
 host-suffix, guardarian.com, category-cryptocurrency
 host-suffix, hashflow.com, category-cryptocurrency
+host-suffix, hyperliquid.xyz, category-cryptocurrency
 host-suffix, infura.io, category-cryptocurrency
 host-suffix, invity.io, category-cryptocurrency
 host-suffix, maple.finance, category-cryptocurrency
@@ -148,6 +150,9 @@ host-suffix, kraken.com, category-cryptocurrency
 host-suffix, kraken.onl, category-cryptocurrency
 host-suffix, kucoin.com, category-cryptocurrency
 host-suffix, kucoin.plus, category-cryptocurrency
+host-suffix, lighter.exchange, category-cryptocurrency
+host-suffix, lighter.xyz, category-cryptocurrency
+host-suffix, zklighter.elliot.ai, category-cryptocurrency
 host-suffix, localbitcoins.com, category-cryptocurrency
 host-suffix, localbitcoinschain.com, category-cryptocurrency
 host-suffix, nexo.com, category-cryptocurrency

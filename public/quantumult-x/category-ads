@@ -7380,6 +7380,7 @@ host-suffix, atom.io, category-ads
 host-suffix, dependabot.com, category-ads
 host-suffix, gh.io, category-ads
 host-suffix, ghcr.io, category-ads
+host-suffix, ghe.com, category-ads
 host-suffix, git.io, category-ads
 host-suffix, github.ai, category-ads
 host-suffix, github.blog, category-ads

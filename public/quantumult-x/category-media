@@ -1131,6 +1131,10 @@ host-suffix, andysparis.com, category-media
 host-suffix, newsmax.com, category-media
 host-suffix, newsmax.in, category-media
 host-suffix, newsmaxtv.com, category-media
+host-suffix, nhk, category-media
+host-suffix, nhk.jp, category-media
+host-suffix, nhk.or.jp, category-media
+host-suffix, nhkworld.jp, category-media
 host-suffix, gendai.net, category-media
 host-suffix, nikkan-gendai.com, category-media
 host-suffix, nikkei-cnbc.co.jp, category-media
