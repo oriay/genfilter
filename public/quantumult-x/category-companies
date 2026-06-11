@@ -836,10 +836,13 @@ host-suffix, pagead.l.google.com, category-companies
 host-suffix, partnerad.l.google.com, category-companies
 host-suffix, urchin.com, category-companies
 host, analytics.google.com, category-companies
+host-suffix, 265.com, category-companies
 host-suffix, gvt1-cn.com, category-companies
 host-suffix, gvt2-cn.com, category-companies
+host, recaptcha-cn.net, category-companies
+host, recaptcha.net, category-companies
+host, www.recaptcha-cn.net, category-companies
 host, www.recaptcha.net, category-companies
-host, 265.com, category-companies
 host, 2mdn-cn.net, category-companies
 host, 2mdn.net, category-companies
 host, admob-cn.com, category-companies
@@ -864,7 +867,6 @@ host, clickserver.googleads.com, category-companies
 host, clientservices.googleapis.com, category-companies
 host, cn.widevine.com, category-companies
 host, connectivitycheck.gstatic.com, category-companies
-host, crashlyticsreports-pa.googleapis.com, category-companies
 host, csi.gstatic.com, category-companies
 host, dartsearch-cn.net, category-companies
 host, dg-meta.video.google.com, category-companies
@@ -913,8 +915,6 @@ host, prod-databe.floonet.goog, category-companies
 host, prod.databe.floonet.goog, category-companies
 host, qiao-cn.com, category-companies
 host, qpx.googleflights.net, category-companies
-host, recaptcha-cn.net, category-companies
-host, recaptcha.net, category-companies
 host, redirector.bdn.dev, category-companies
 host, redirector.c.chat.google.com, category-companies
 host, redirector.c.mail.google.com, category-companies
@@ -935,7 +935,6 @@ host, staging-databe.floonet.goog, category-companies
 host, staging.databe.floonet.goog, category-companies
 host, tac.googleapis.com, category-companies
 host, tools.google.com, category-companies
-host, update.crashlytics.com, category-companies
 host, update.googleapis.com, category-companies
 host, wear.googleapis.com, category-companies
 host, www-google-analytics.l.google.com, category-companies
@@ -1028,10 +1027,12 @@ host-suffix, dartlang.org, category-companies
 host-suffix, dartpad.dev, category-companies
 host-suffix, fastlane.ci, category-companies
 host-suffix, fastlane.tools, category-companies
+host-suffix, crashlytics.com, category-companies
 host-suffix, firebase.com, category-companies
 host-suffix, firebase.io, category-companies
 host-suffix, firebaseapp.com, category-companies
 host-suffix, firebaseio.com, category-companies
+host, crashlyticsreports-pa.googleapis.com, category-companies
 host, firebase-settings.crashlytics.com, category-companies
 host, firebase.google.com, category-companies
 host, firebase.googleapis.com, category-companies
@@ -1045,6 +1046,7 @@ host, firebaselogging-pa.googleapis.com, category-companies
 host, firebaselogging.googleapis.com, category-companies
 host, firebaseperusertopics-pa.googleapis.com, category-companies
 host, firebaseremoteconfig.googleapis.com, category-companies
+host, update.crashlytics.com, category-companies
 host-suffix, flutter.dev, category-companies
 host-suffix, flutterapp.com, category-companies
 host-suffix, pub.dev, category-companies

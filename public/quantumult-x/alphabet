@@ -543,10 +543,13 @@ host-suffix, pagead.l.google.com, alphabet
 host-suffix, partnerad.l.google.com, alphabet
 host-suffix, urchin.com, alphabet
 host, analytics.google.com, alphabet
+host-suffix, 265.com, alphabet
 host-suffix, gvt1-cn.com, alphabet
 host-suffix, gvt2-cn.com, alphabet
+host, recaptcha-cn.net, alphabet
+host, recaptcha.net, alphabet
+host, www.recaptcha-cn.net, alphabet
 host, www.recaptcha.net, alphabet
-host, 265.com, alphabet
 host, 2mdn-cn.net, alphabet
 host, 2mdn.net, alphabet
 host, admob-cn.com, alphabet
@@ -571,7 +574,6 @@ host, clickserver.googleads.com, alphabet
 host, clientservices.googleapis.com, alphabet
 host, cn.widevine.com, alphabet
 host, connectivitycheck.gstatic.com, alphabet
-host, crashlyticsreports-pa.googleapis.com, alphabet
 host, csi.gstatic.com, alphabet
 host, dartsearch-cn.net, alphabet
 host, dg-meta.video.google.com, alphabet
@@ -620,8 +622,6 @@ host, prod-databe.floonet.goog, alphabet
 host, prod.databe.floonet.goog, alphabet
 host, qiao-cn.com, alphabet
 host, qpx.googleflights.net, alphabet
-host, recaptcha-cn.net, alphabet
-host, recaptcha.net, alphabet
 host, redirector.bdn.dev, alphabet
 host, redirector.c.chat.google.com, alphabet
 host, redirector.c.mail.google.com, alphabet
@@ -642,7 +642,6 @@ host, staging-databe.floonet.goog, alphabet
 host, staging.databe.floonet.goog, alphabet
 host, tac.googleapis.com, alphabet
 host, tools.google.com, alphabet
-host, update.crashlytics.com, alphabet
 host, update.googleapis.com, alphabet
 host, wear.googleapis.com, alphabet
 host, www-google-analytics.l.google.com, alphabet
@@ -735,10 +734,12 @@ host-suffix, dartlang.org, alphabet
 host-suffix, dartpad.dev, alphabet
 host-suffix, fastlane.ci, alphabet
 host-suffix, fastlane.tools, alphabet
+host-suffix, crashlytics.com, alphabet
 host-suffix, firebase.com, alphabet
 host-suffix, firebase.io, alphabet
 host-suffix, firebaseapp.com, alphabet
 host-suffix, firebaseio.com, alphabet
+host, crashlyticsreports-pa.googleapis.com, alphabet
 host, firebase-settings.crashlytics.com, alphabet
 host, firebase.google.com, alphabet
 host, firebase.googleapis.com, alphabet
@@ -752,6 +753,7 @@ host, firebaselogging-pa.googleapis.com, alphabet
 host, firebaselogging.googleapis.com, alphabet
 host, firebaseperusertopics-pa.googleapis.com, alphabet
 host, firebaseremoteconfig.googleapis.com, alphabet
+host, update.crashlytics.com, alphabet
 host-suffix, flutter.dev, alphabet
 host-suffix, flutterapp.com, alphabet
 host-suffix, pub.dev, alphabet

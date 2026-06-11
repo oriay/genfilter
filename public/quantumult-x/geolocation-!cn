@@ -3467,6 +3467,7 @@ host-suffix, okex.com, geolocation-!cn
 host-suffix, okx-dns.com, geolocation-!cn
 host-suffix, okx-dns1.com, geolocation-!cn
 host-suffix, okx-dns2.com, geolocation-!cn
+host-suffix, okx.ac, geolocation-!cn
 host-suffix, okx.cab, geolocation-!cn
 host-suffix, okx.com, geolocation-!cn
 host-suffix, okx.com.cdn.cloudflare.net, geolocation-!cn
@@ -17610,10 +17611,12 @@ host-suffix, fedoramagazine.org, geolocation-!cn
 host-suffix, fedorapeople.org, geolocation-!cn
 host-suffix, fedoraproject.org, geolocation-!cn
 host-suffix, getfedora.org, geolocation-!cn
+host-suffix, crashlytics.com, geolocation-!cn
 host-suffix, firebase.com, geolocation-!cn
 host-suffix, firebase.io, geolocation-!cn
 host-suffix, firebaseapp.com, geolocation-!cn
 host-suffix, firebaseio.com, geolocation-!cn
+host, crashlyticsreports-pa.googleapis.com, geolocation-!cn
 host, firebase-settings.crashlytics.com, geolocation-!cn
 host, firebase.google.com, geolocation-!cn
 host, firebase.googleapis.com, geolocation-!cn
@@ -17627,6 +17630,7 @@ host, firebaselogging-pa.googleapis.com, geolocation-!cn
 host, firebaselogging.googleapis.com, geolocation-!cn
 host, firebaseperusertopics-pa.googleapis.com, geolocation-!cn
 host, firebaseremoteconfig.googleapis.com, geolocation-!cn
+host, update.crashlytics.com, geolocation-!cn
 host-suffix, flathub.org, geolocation-!cn
 host-suffix, flatpak.org, geolocation-!cn
 host-suffix, flutter.dev, geolocation-!cn
@@ -17947,7 +17951,14 @@ host-suffix, tildaapi.com, geolocation-!cn
 host-suffix, tildacdn.com, geolocation-!cn
 host-suffix, unity.com, geolocation-!cn
 host-suffix, unity3d.com, geolocation-!cn
+host-suffix, analytics.cloud.unity3d.com, geolocation-!cn
+host-suffix, api2.amplitude.com, geolocation-!cn
+host-suffix, config.uca.cloud.unity3d.com, geolocation-!cn
+host-suffix, cdp.cloud.unity3d.com, geolocation-!cn
+host-suffix, prd-lender.cdp.internal.unity3d.com, geolocation-!cn
 host-suffix, iads.unity3d.com, geolocation-!cn
+host-suffix, perf.cloud.unity3d.com, geolocation-!cn
+host-suffix, perf-events.cloud.unity3d.com, geolocation-!cn
 host-suffix, unityads.unity3d.com, geolocation-!cn
 host-suffix, v8.dev, geolocation-!cn
 host-suffix, v8project.org, geolocation-!cn
@@ -18799,10 +18810,13 @@ host-suffix, pagead.l.google.com, geolocation-!cn
 host-suffix, partnerad.l.google.com, geolocation-!cn
 host-suffix, urchin.com, geolocation-!cn
 host, analytics.google.com, geolocation-!cn
+host-suffix, 265.com, geolocation-!cn
 host-suffix, gvt1-cn.com, geolocation-!cn
 host-suffix, gvt2-cn.com, geolocation-!cn
+host, recaptcha-cn.net, geolocation-!cn
+host, recaptcha.net, geolocation-!cn
+host, www.recaptcha-cn.net, geolocation-!cn
 host, www.recaptcha.net, geolocation-!cn
-host, 265.com, geolocation-!cn
 host, 2mdn-cn.net, geolocation-!cn
 host, 2mdn.net, geolocation-!cn
 host, admob-cn.com, geolocation-!cn
@@ -18827,7 +18841,6 @@ host, clickserver.googleads.com, geolocation-!cn
 host, clientservices.googleapis.com, geolocation-!cn
 host, cn.widevine.com, geolocation-!cn
 host, connectivitycheck.gstatic.com, geolocation-!cn
-host, crashlyticsreports-pa.googleapis.com, geolocation-!cn
 host, csi.gstatic.com, geolocation-!cn
 host, dartsearch-cn.net, geolocation-!cn
 host, dg-meta.video.google.com, geolocation-!cn
@@ -18876,8 +18889,6 @@ host, prod-databe.floonet.goog, geolocation-!cn
 host, prod.databe.floonet.goog, geolocation-!cn
 host, qiao-cn.com, geolocation-!cn
 host, qpx.googleflights.net, geolocation-!cn
-host, recaptcha-cn.net, geolocation-!cn
-host, recaptcha.net, geolocation-!cn
 host, redirector.bdn.dev, geolocation-!cn
 host, redirector.c.chat.google.com, geolocation-!cn
 host, redirector.c.mail.google.com, geolocation-!cn
@@ -18898,7 +18909,6 @@ host, staging-databe.floonet.goog, geolocation-!cn
 host, staging.databe.floonet.goog, geolocation-!cn
 host, tac.googleapis.com, geolocation-!cn
 host, tools.google.com, geolocation-!cn
-host, update.crashlytics.com, geolocation-!cn
 host, update.googleapis.com, geolocation-!cn
 host, wear.googleapis.com, geolocation-!cn
 host, www-google-analytics.l.google.com, geolocation-!cn
@@ -18991,10 +19001,12 @@ host-suffix, dartlang.org, geolocation-!cn
 host-suffix, dartpad.dev, geolocation-!cn
 host-suffix, fastlane.ci, geolocation-!cn
 host-suffix, fastlane.tools, geolocation-!cn
+host-suffix, crashlytics.com, geolocation-!cn
 host-suffix, firebase.com, geolocation-!cn
 host-suffix, firebase.io, geolocation-!cn
 host-suffix, firebaseapp.com, geolocation-!cn
 host-suffix, firebaseio.com, geolocation-!cn
+host, crashlyticsreports-pa.googleapis.com, geolocation-!cn
 host, firebase-settings.crashlytics.com, geolocation-!cn
 host, firebase.google.com, geolocation-!cn
 host, firebase.googleapis.com, geolocation-!cn
@@ -19008,6 +19020,7 @@ host, firebaselogging-pa.googleapis.com, geolocation-!cn
 host, firebaselogging.googleapis.com, geolocation-!cn
 host, firebaseperusertopics-pa.googleapis.com, geolocation-!cn
 host, firebaseremoteconfig.googleapis.com, geolocation-!cn
+host, update.crashlytics.com, geolocation-!cn
 host-suffix, flutter.dev, geolocation-!cn
 host-suffix, flutterapp.com, geolocation-!cn
 host-suffix, pub.dev, geolocation-!cn

@@ -533,10 +533,13 @@ host-suffix, pagead.l.google.com, google
 host-suffix, partnerad.l.google.com, google
 host-suffix, urchin.com, google
 host, analytics.google.com, google
+host-suffix, 265.com, google
 host-suffix, gvt1-cn.com, google
 host-suffix, gvt2-cn.com, google
+host, recaptcha-cn.net, google
+host, recaptcha.net, google
+host, www.recaptcha-cn.net, google
 host, www.recaptcha.net, google
-host, 265.com, google
 host, 2mdn-cn.net, google
 host, 2mdn.net, google
 host, admob-cn.com, google
@@ -561,7 +564,6 @@ host, clickserver.googleads.com, google
 host, clientservices.googleapis.com, google
 host, cn.widevine.com, google
 host, connectivitycheck.gstatic.com, google
-host, crashlyticsreports-pa.googleapis.com, google
 host, csi.gstatic.com, google
 host, dartsearch-cn.net, google
 host, dg-meta.video.google.com, google
@@ -610,8 +612,6 @@ host, prod-databe.floonet.goog, google
 host, prod.databe.floonet.goog, google
 host, qiao-cn.com, google
 host, qpx.googleflights.net, google
-host, recaptcha-cn.net, google
-host, recaptcha.net, google
 host, redirector.bdn.dev, google
 host, redirector.c.chat.google.com, google
 host, redirector.c.mail.google.com, google
@@ -632,7 +632,6 @@ host, staging-databe.floonet.goog, google
 host, staging.databe.floonet.goog, google
 host, tac.googleapis.com, google
 host, tools.google.com, google
-host, update.crashlytics.com, google
 host, update.googleapis.com, google
 host, wear.googleapis.com, google
 host, www-google-analytics.l.google.com, google
@@ -725,10 +724,12 @@ host-suffix, dartlang.org, google
 host-suffix, dartpad.dev, google
 host-suffix, fastlane.ci, google
 host-suffix, fastlane.tools, google
+host-suffix, crashlytics.com, google
 host-suffix, firebase.com, google
 host-suffix, firebase.io, google
 host-suffix, firebaseapp.com, google
 host-suffix, firebaseio.com, google
+host, crashlyticsreports-pa.googleapis.com, google
 host, firebase-settings.crashlytics.com, google
 host, firebase.google.com, google
 host, firebase.googleapis.com, google
@@ -742,6 +743,7 @@ host, firebaselogging-pa.googleapis.com, google
 host, firebaselogging.googleapis.com, google
 host, firebaseperusertopics-pa.googleapis.com, google
 host, firebaseremoteconfig.googleapis.com, google
+host, update.crashlytics.com, google
 host-suffix, flutter.dev, google
 host-suffix, flutterapp.com, google
 host-suffix, pub.dev, google

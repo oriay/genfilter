@@ -261,10 +261,12 @@ host-suffix, fedoramagazine.org, category-dev
 host-suffix, fedorapeople.org, category-dev
 host-suffix, fedoraproject.org, category-dev
 host-suffix, getfedora.org, category-dev
+host-suffix, crashlytics.com, category-dev
 host-suffix, firebase.com, category-dev
 host-suffix, firebase.io, category-dev
 host-suffix, firebaseapp.com, category-dev
 host-suffix, firebaseio.com, category-dev
+host, crashlyticsreports-pa.googleapis.com, category-dev
 host, firebase-settings.crashlytics.com, category-dev
 host, firebase.google.com, category-dev
 host, firebase.googleapis.com, category-dev
@@ -278,6 +280,7 @@ host, firebaselogging-pa.googleapis.com, category-dev
 host, firebaselogging.googleapis.com, category-dev
 host, firebaseperusertopics-pa.googleapis.com, category-dev
 host, firebaseremoteconfig.googleapis.com, category-dev
+host, update.crashlytics.com, category-dev
 host-suffix, flathub.org, category-dev
 host-suffix, flatpak.org, category-dev
 host-suffix, flutter.dev, category-dev
@@ -598,7 +601,14 @@ host-suffix, tildaapi.com, category-dev
 host-suffix, tildacdn.com, category-dev
 host-suffix, unity.com, category-dev
 host-suffix, unity3d.com, category-dev
+host-suffix, analytics.cloud.unity3d.com, category-dev
+host-suffix, api2.amplitude.com, category-dev
+host-suffix, config.uca.cloud.unity3d.com, category-dev
+host-suffix, cdp.cloud.unity3d.com, category-dev
+host-suffix, prd-lender.cdp.internal.unity3d.com, category-dev
 host-suffix, iads.unity3d.com, category-dev
+host-suffix, perf.cloud.unity3d.com, category-dev
+host-suffix, perf-events.cloud.unity3d.com, category-dev
 host-suffix, unityads.unity3d.com, category-dev
 host-suffix, v8.dev, category-dev
 host-suffix, v8project.org, category-dev

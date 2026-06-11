@@ -4797,10 +4797,13 @@ host-suffix, pagead.l.google.com, category-ads-all
 host-suffix, partnerad.l.google.com, category-ads-all
 host-suffix, urchin.com, category-ads-all
 host, analytics.google.com, category-ads-all
+host-suffix, 265.com, category-ads-all
 host-suffix, gvt1-cn.com, category-ads-all
 host-suffix, gvt2-cn.com, category-ads-all
+host, recaptcha-cn.net, category-ads-all
+host, recaptcha.net, category-ads-all
+host, www.recaptcha-cn.net, category-ads-all
 host, www.recaptcha.net, category-ads-all
-host, 265.com, category-ads-all
 host, 2mdn-cn.net, category-ads-all
 host, 2mdn.net, category-ads-all
 host, admob-cn.com, category-ads-all
@@ -4825,7 +4828,6 @@ host, clickserver.googleads.com, category-ads-all
 host, clientservices.googleapis.com, category-ads-all
 host, cn.widevine.com, category-ads-all
 host, connectivitycheck.gstatic.com, category-ads-all
-host, crashlyticsreports-pa.googleapis.com, category-ads-all
 host, csi.gstatic.com, category-ads-all
 host, dartsearch-cn.net, category-ads-all
 host, dg-meta.video.google.com, category-ads-all
@@ -4874,8 +4876,6 @@ host, prod-databe.floonet.goog, category-ads-all
 host, prod.databe.floonet.goog, category-ads-all
 host, qiao-cn.com, category-ads-all
 host, qpx.googleflights.net, category-ads-all
-host, recaptcha-cn.net, category-ads-all
-host, recaptcha.net, category-ads-all
 host, redirector.bdn.dev, category-ads-all
 host, redirector.c.chat.google.com, category-ads-all
 host, redirector.c.mail.google.com, category-ads-all
@@ -4896,7 +4896,6 @@ host, staging-databe.floonet.goog, category-ads-all
 host, staging.databe.floonet.goog, category-ads-all
 host, tac.googleapis.com, category-ads-all
 host, tools.google.com, category-ads-all
-host, update.crashlytics.com, category-ads-all
 host, update.googleapis.com, category-ads-all
 host, wear.googleapis.com, category-ads-all
 host, www-google-analytics.l.google.com, category-ads-all
@@ -4989,10 +4988,12 @@ host-suffix, dartlang.org, category-ads-all
 host-suffix, dartpad.dev, category-ads-all
 host-suffix, fastlane.ci, category-ads-all
 host-suffix, fastlane.tools, category-ads-all
+host-suffix, crashlytics.com, category-ads-all
 host-suffix, firebase.com, category-ads-all
 host-suffix, firebase.io, category-ads-all
 host-suffix, firebaseapp.com, category-ads-all
 host-suffix, firebaseio.com, category-ads-all
+host, crashlyticsreports-pa.googleapis.com, category-ads-all
 host, firebase-settings.crashlytics.com, category-ads-all
 host, firebase.google.com, category-ads-all
 host, firebase.googleapis.com, category-ads-all
@@ -5006,6 +5007,7 @@ host, firebaselogging-pa.googleapis.com, category-ads-all
 host, firebaselogging.googleapis.com, category-ads-all
 host, firebaseperusertopics-pa.googleapis.com, category-ads-all
 host, firebaseremoteconfig.googleapis.com, category-ads-all
+host, update.crashlytics.com, category-ads-all
 host-suffix, flutter.dev, category-ads-all
 host-suffix, flutterapp.com, category-ads-all
 host-suffix, pub.dev, category-ads-all
@@ -8987,7 +8989,14 @@ host-suffix, vine.co, category-ads-all
 host-suffix, x.com, category-ads-all
 host-suffix, unity.com, category-ads-all
 host-suffix, unity3d.com, category-ads-all
+host-suffix, analytics.cloud.unity3d.com, category-ads-all
+host-suffix, api2.amplitude.com, category-ads-all
+host-suffix, config.uca.cloud.unity3d.com, category-ads-all
+host-suffix, cdp.cloud.unity3d.com, category-ads-all
+host-suffix, prd-lender.cdp.internal.unity3d.com, category-ads-all
 host-suffix, iads.unity3d.com, category-ads-all
+host-suffix, perf.cloud.unity3d.com, category-ads-all
+host-suffix, perf-events.cloud.unity3d.com, category-ads-all
 host-suffix, unityads.unity3d.com, category-ads-all
 host-suffix, u3d.cn, category-ads-all
 host-suffix, unity.cn, category-ads-all
