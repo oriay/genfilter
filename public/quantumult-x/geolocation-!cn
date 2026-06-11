@@ -6201,7 +6201,9 @@ host-suffix, steamserver.net, geolocation-!cn
 host-suffix, steamstatic.com, geolocation-!cn
 host-suffix, steamusercontent.com, geolocation-!cn
 host-suffix, underlords.com, geolocation-!cn
+host-suffix, valve.net, geolocation-!cn
 host-suffix, valvesoftware.com, geolocation-!cn
+host-suffix, dota2.com, geolocation-!cn
 host-suffix, edge.steam-dns.top.comcast.net, geolocation-!cn
 host, steamcommunity-a.akamaihd.net.edgesuite.net, geolocation-!cn
 host-suffix, steam.apac.qtlglb.com, geolocation-!cn
@@ -7439,6 +7441,8 @@ host-suffix, doom9.org, geolocation-!cn
 host-suffix, eyny.com, geolocation-!cn
 host-suffix, gab.com, geolocation-!cn
 host-suffix, hydrogenaud.io, geolocation-!cn
+host-suffix, livejournal.com, geolocation-!cn
+host-suffix, livejournal.net, geolocation-!cn
 host-suffix, mewe.com, geolocation-!cn
 host-suffix, parler.com, geolocation-!cn
 host-suffix, pincong.rocks, geolocation-!cn
@@ -26439,6 +26443,18 @@ host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
 host-suffix, wisekey.com, geolocation-!cn
 host-suffix, wisekey.com.hk, geolocation-!cn
+host-suffix, v.ps, geolocation-!cn
+host-suffix, vps.hosting, geolocation-!cn
+host-suffix, xtom.au, geolocation-!cn
+host-suffix, xtom.com, geolocation-!cn
+host-suffix, xtom.de, geolocation-!cn
+host-suffix, xtom.ee, geolocation-!cn
+host-suffix, xtom.hk, geolocation-!cn
+host-suffix, xtom.jp, geolocation-!cn
+host-suffix, xtom.nl, geolocation-!cn
+host-suffix, xtom.sg, geolocation-!cn
+host-suffix, xtom.social, geolocation-!cn
+host-suffix, xtom.us, geolocation-!cn
 host-suffix, yahoo, geolocation-!cn
 host-suffix, yahoo.ae, geolocation-!cn
 host-suffix, yahoo.am, geolocation-!cn

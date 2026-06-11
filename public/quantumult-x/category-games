@@ -882,7 +882,9 @@ host-suffix, steamserver.net, category-games
 host-suffix, steamstatic.com, category-games
 host-suffix, steamusercontent.com, category-games
 host-suffix, underlords.com, category-games
+host-suffix, valve.net, category-games
 host-suffix, valvesoftware.com, category-games
+host-suffix, dota2.com, category-games
 host-suffix, edge.steam-dns.top.comcast.net, category-games
 host, steamcommunity-a.akamaihd.net.edgesuite.net, category-games
 host-suffix, steam.apac.qtlglb.com, category-games

@@ -751,7 +751,9 @@ host-suffix, steamserver.net, category-entertainment
 host-suffix, steamstatic.com, category-entertainment
 host-suffix, steamusercontent.com, category-entertainment
 host-suffix, underlords.com, category-entertainment
+host-suffix, valve.net, category-entertainment
 host-suffix, valvesoftware.com, category-entertainment
+host-suffix, dota2.com, category-entertainment
 host-suffix, edge.steam-dns.top.comcast.net, category-entertainment
 host, steamcommunity-a.akamaihd.net.edgesuite.net, category-entertainment
 host-suffix, steam.apac.qtlglb.com, category-entertainment
