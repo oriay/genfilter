@@ -5757,7 +5757,6 @@ host-suffix, cpro.baidu.com, cn
 host-suffix, cpro.baidustatic.com, cn
 host-suffix, cpu.baidu.com, cn
 host-suffix, cstm.baidu.com, cn
-host-suffix, dlswbr.baidu.com, cn
 host-suffix, drmcmm.baidu.com, cn
 host-suffix, duiwai.baidu.com, cn
 host-suffix, dup.baidustatic.com, cn
@@ -5775,7 +5774,6 @@ host-suffix, hm.baidu.com, cn
 host-suffix, hmma.baidu.com, cn
 host-suffix, imgstat.baidu.com, cn
 host-suffix, iwanad.baidu.com, cn
-host-suffix, miao.baidu.com, cn
 host-suffix, miaowu.baidu.com, cn
 host-suffix, mipcache.bdstatic.com, cn
 host-suffix, mobads.baidu.com, cn

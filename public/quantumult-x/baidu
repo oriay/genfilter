@@ -90,7 +90,6 @@ host-suffix, cpro.baidu.com, baidu
 host-suffix, cpro.baidustatic.com, baidu
 host-suffix, cpu.baidu.com, baidu
 host-suffix, cstm.baidu.com, baidu
-host-suffix, dlswbr.baidu.com, baidu
 host-suffix, drmcmm.baidu.com, baidu
 host-suffix, duiwai.baidu.com, baidu
 host-suffix, dup.baidustatic.com, baidu
@@ -108,7 +107,6 @@ host-suffix, hm.baidu.com, baidu
 host-suffix, hmma.baidu.com, baidu
 host-suffix, imgstat.baidu.com, baidu
 host-suffix, iwanad.baidu.com, baidu
-host-suffix, miao.baidu.com, baidu
 host-suffix, miaowu.baidu.com, baidu
 host-suffix, mipcache.bdstatic.com, baidu
 host-suffix, mobads.baidu.com, baidu

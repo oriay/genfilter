@@ -3001,7 +3001,6 @@ host-suffix, cpro.baidu.com, category-ads-all
 host-suffix, cpro.baidustatic.com, category-ads-all
 host-suffix, cpu.baidu.com, category-ads-all
 host-suffix, cstm.baidu.com, category-ads-all
-host-suffix, dlswbr.baidu.com, category-ads-all
 host-suffix, drmcmm.baidu.com, category-ads-all
 host-suffix, duiwai.baidu.com, category-ads-all
 host-suffix, dup.baidustatic.com, category-ads-all
@@ -3019,7 +3018,6 @@ host-suffix, hm.baidu.com, category-ads-all
 host-suffix, hmma.baidu.com, category-ads-all
 host-suffix, imgstat.baidu.com, category-ads-all
 host-suffix, iwanad.baidu.com, category-ads-all
-host-suffix, miao.baidu.com, category-ads-all
 host-suffix, miaowu.baidu.com, category-ads-all
 host-suffix, mipcache.bdstatic.com, category-ads-all
 host-suffix, mobads.baidu.com, category-ads-all

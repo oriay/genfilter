@@ -5715,7 +5715,6 @@ host-suffix, cpro.baidu.com, geolocation-cn
 host-suffix, cpro.baidustatic.com, geolocation-cn
 host-suffix, cpu.baidu.com, geolocation-cn
 host-suffix, cstm.baidu.com, geolocation-cn
-host-suffix, dlswbr.baidu.com, geolocation-cn
 host-suffix, drmcmm.baidu.com, geolocation-cn
 host-suffix, duiwai.baidu.com, geolocation-cn
 host-suffix, dup.baidustatic.com, geolocation-cn
@@ -5733,7 +5732,6 @@ host-suffix, hm.baidu.com, geolocation-cn
 host-suffix, hmma.baidu.com, geolocation-cn
 host-suffix, imgstat.baidu.com, geolocation-cn
 host-suffix, iwanad.baidu.com, geolocation-cn
-host-suffix, miao.baidu.com, geolocation-cn
 host-suffix, miaowu.baidu.com, geolocation-cn
 host-suffix, mipcache.bdstatic.com, geolocation-cn
 host-suffix, mobads.baidu.com, geolocation-cn
