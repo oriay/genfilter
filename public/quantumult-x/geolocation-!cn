@@ -7443,8 +7443,6 @@ host-suffix, doom9.org, geolocation-!cn
 host-suffix, eyny.com, geolocation-!cn
 host-suffix, gab.com, geolocation-!cn
 host-suffix, hydrogenaud.io, geolocation-!cn
-host-suffix, livejournal.com, geolocation-!cn
-host-suffix, livejournal.net, geolocation-!cn
 host-suffix, mewe.com, geolocation-!cn
 host-suffix, parler.com, geolocation-!cn
 host-suffix, pincong.rocks, geolocation-!cn
@@ -7485,6 +7483,8 @@ host-suffix, lih.kg, geolocation-!cn
 host-suffix, lihkg.com, geolocation-!cn
 host-suffix, linux.do, geolocation-!cn
 host-suffix, ldstatic.com, geolocation-!cn
+host-suffix, livejournal.com, geolocation-!cn
+host-suffix, livejournal.net, geolocation-!cn
 host-suffix, 5i01.com, geolocation-!cn
 host-suffix, mobile01.com, geolocation-!cn
 host-suffix, 22112211.xyz, geolocation-!cn
