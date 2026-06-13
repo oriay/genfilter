@@ -107,9 +107,18 @@ host-suffix, herogame.com, category-games
 host-suffix, heroesports.com, category-games
 host-suffix, shyxhy.com, category-games
 host-suffix, yingxiong.com, category-games
+host-suffix, kurobbs.com, category-games
+host-suffix, kurogame.com, category-games
+host-suffix, kurogame.net, category-games
+host-suffix, kurogame.xyz, category-games
+host-suffix, kurogames-ads.com, category-games
 host-suffix, kurogames.com, category-games
 host-suffix, kurogames.net, category-games
 host-suffix, aki-game.com, category-games
+host-suffix, aki-game.net, category-games
+host-suffix, aki-game2.com, category-games
+host-suffix, aki-game2.net, category-games
+host-suffix, wutheringwaves.cn, category-games
 host-suffix, mhystatic.com, category-games
 host-suffix, mhyurl.cn, category-games
 host-suffix, mihayo.com, category-games
@@ -909,6 +918,7 @@ host, steamusercontent-a.akamaihd.net, category-games
 host, steamuserimages-a.akamaihd.net, category-games
 host, steamvideo-a.akamaihd.net, category-games
 host, steamcloudsweden.blob.core.windows.net, category-games
+host, steamugcquincy.blob.core.windows.net, category-games
 host-suffix, csgo.wmsj.cn, category-games
 host-suffix, dota2.wmsj.cn, category-games
 host-suffix, wmsjsteam.com, category-games

@@ -6230,6 +6230,7 @@ host, steamusercontent-a.akamaihd.net, geolocation-!cn
 host, steamuserimages-a.akamaihd.net, geolocation-!cn
 host, steamvideo-a.akamaihd.net, geolocation-!cn
 host, steamcloudsweden.blob.core.windows.net, geolocation-!cn
+host, steamugcquincy.blob.core.windows.net, geolocation-!cn
 host-suffix, csgo.wmsj.cn, geolocation-!cn
 host-suffix, dota2.wmsj.cn, geolocation-!cn
 host-suffix, wmsjsteam.com, geolocation-!cn
