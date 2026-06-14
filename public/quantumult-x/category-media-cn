@@ -15,7 +15,9 @@ host-suffix, cls.cn, category-media-cn
 host-suffix, caixin.com, category-media-cn
 host-suffix, cankaoxiaoxi.com, category-media-cn
 host-suffix, ckxx.net, category-media-cn
+host-suffix, cbinews.com, category-media-cn
 host-suffix, cfgw.net.cn, category-media-cn
+host-suffix, cheaa.com, category-media-cn
 host-suffix, chinaaet.com, category-media-cn
 host-suffix, chinabyte.com, category-media-cn
 host-suffix, tianjimedia.com, category-media-cn
@@ -76,6 +78,8 @@ host-suffix, hexin.com.cn, category-media-cn
 host-suffix, ths123.com, category-media-cn
 host-suffix, thsi.cn, category-media-cn
 host-suffix, hexun.com, category-media-cn
+host-suffix, hnol.net, category-media-cn
+host-suffix, voc.com.cn, category-media-cn
 host-suffix, hntv.tv, category-media-cn
 host-suffix, hndt.com, category-media-cn
 host-suffix, dianzhenkeji.com, category-media-cn
@@ -92,6 +96,7 @@ host-suffix, ikanchai.com, category-media-cn
 host-suffix, infzm.com, category-media-cn
 host-suffix, nfpeople.com, category-media-cn
 host-suffix, iresearch.cn, category-media-cn
+host-suffix, istv.cn, category-media-cn
 host-suffix, it168.com, category-media-cn
 host-suffix, jianyuweb.com, category-media-cn
 host-suffix, wallstcn.com, category-media-cn
@@ -173,6 +178,8 @@ host-suffix, thecover.cn, category-media-cn
 host-suffix, thepaper.cn, category-media-cn
 host-suffix, 8531.cn, category-media-cn
 host-suffix, tidenews.com.cn, category-media-cn
+host-suffix, vbdata.cn, category-media-cn
+host-suffix, vcbeat.top, category-media-cn
 host-suffix, woshipm.com, category-media-cn
 host-suffix, xhby.net, category-media-cn
 host-suffix, xilu.com, category-media-cn

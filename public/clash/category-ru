@@ -1239,6 +1239,9 @@ DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
 DOMAIN-SUFFIX,myoffice.ru
 DOMAIN-SUFFIX,myoffice.team
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru
 DOMAIN-SUFFIX,chipcore.com
 DOMAIN-SUFFIX,chipcore.ru
 DOMAIN-SUFFIX,haicomdc.com

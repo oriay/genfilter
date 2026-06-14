@@ -2,6 +2,8 @@ host-suffix, 7k7k.com, category-games-cn
 host-suffix, 9xgame.com, category-games-cn
 host-suffix, arcaea.cn, category-games-cn
 host-suffix, astral-vector.com, category-games-cn
+host-suffix, changyou.com, category-games-cn
+host-suffix, cy.com, category-games-cn
 host, end-api.shallow.ink, category-games-cn
 host, end.shallow.ink, category-games-cn
 host-suffix, feihuo.com, category-games-cn
@@ -135,6 +137,14 @@ host-suffix, themisweeps.com, category-games-cn
 host-suffix, yuanshen.com, category-games-cn
 host-suffix, juequling.com, category-games-cn
 host-suffix, log-upload.mihoyo.com, category-games-cn
+host-suffix, seasungames.cn, category-games-cn
+host-suffix, seasungames.com, category-games-cn
+host-suffix, seasunwbl.com, category-games-cn
+host-suffix, xishanju.com, category-games-cn
+host-suffix, xoyo.com, category-games-cn
+host-suffix, xoyocdn.com, category-games-cn
+host-suffix, cbjq.com, category-games-cn
+host-suffix, testplus.cn, category-games-cn
 host-suffix, battlecare.net, category-games-cn
 host-suffix, gameitop.com, category-games-cn
 host-suffix, gameloop.com, category-games-cn

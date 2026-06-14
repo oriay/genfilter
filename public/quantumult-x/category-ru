@@ -1239,6 +1239,9 @@ host, sentry.mindbox.ru, category-ru
 host, sentry.popmechanic.ru, category-ru
 host-suffix, myoffice.ru, category-ru
 host-suffix, myoffice.team, category-ru
+host-suffix, reg.cloud, category-ru
+host-suffix, reg.com, category-ru
+host-suffix, reg.ru, category-ru
 host-suffix, chipcore.com, category-ru
 host-suffix, chipcore.ru, category-ru
 host-suffix, haicomdc.com, category-ru

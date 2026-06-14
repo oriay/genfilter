@@ -5,6 +5,7 @@ host-suffix, steam-api.com, steam
 host-suffix, steam-chat.com, steam
 host-suffix, steamcommunity.com, steam
 host-suffix, steamcontent.com, steam
+host-suffix, steamconnecttest.com, steam
 host-suffix, steamdeck.com, steam
 host-suffix, steamgames.com, steam
 host-suffix, steampowered.com, steam

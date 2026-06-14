@@ -5363,6 +5363,7 @@ host-suffix, your-storageshare.de, category-ads
 host, sentry.hetzner.company, category-ads
 host-suffix, abhouses.com, category-ads
 host-suffix, agconnect.link, category-ads
+host-suffix, chaspark.com, category-ads
 host-suffix, dbank.com, category-ads
 host-suffix, dbankcdn.cn, category-ads
 host-suffix, dbankcdn.com, category-ads
@@ -5380,11 +5381,14 @@ host-suffix, huaweiacad.com, category-ads
 host-suffix, huaweiief.cn, category-ads
 host-suffix, huaweiief.com, category-ads
 host-suffix, huaweistatic.com, category-ads
+host-suffix, hwad.net, category-ads
 host-suffix, hwccpc.cn, category-ads
 host-suffix, hwccpc.com, category-ads
 host-suffix, hwht.cn, category-ads
 host-suffix, hwocloud.com, category-ads
 host-suffix, hwtrip.com, category-ads
+host-suffix, petalmail.com, category-ads
+host-suffix, petalmaps.com, category-ads
 host-suffix, shanhaitujian.com, category-ads
 host-suffix, vmall.com, category-ads
 host-suffix, vmallres.com, category-ads
@@ -9541,5 +9545,7 @@ host-suffix, kinopoisk.ru, category-ads
 host-suffix, kinopoisk-ru.clstorage.net, category-ads
 host-suffix, zhihu.com, category-ads
 host-suffix, zhimg.com, category-ads
+host-suffix, laiyagushi.com, category-ads
+host-suffix, vzuu.com, category-ads
 host-suffix, crash2.zhihu.com, category-ads
 host-suffix, zhihu-web-analytics.zhihu.com, category-ads

@@ -636,6 +636,7 @@ host-suffix, steam-api.com, category-games-!cn
 host-suffix, steam-chat.com, category-games-!cn
 host-suffix, steamcommunity.com, category-games-!cn
 host-suffix, steamcontent.com, category-games-!cn
+host-suffix, steamconnecttest.com, category-games-!cn
 host-suffix, steamdeck.com, category-games-!cn
 host-suffix, steamgames.com, category-games-!cn
 host-suffix, steampowered.com, category-games-!cn

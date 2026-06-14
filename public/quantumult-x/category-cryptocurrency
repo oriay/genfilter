@@ -1,19 +1,23 @@
 host-suffix, 1inch.io, category-cryptocurrency
 host-suffix, aave.com, category-cryptocurrency
+host-suffix, base.org, category-cryptocurrency
 host-suffix, bingx.com, category-cryptocurrency
 host-suffix, bitbank.cc, category-cryptocurrency
 host-suffix, bitcoin.org, category-cryptocurrency
 host-suffix, bitcoincore.org, category-cryptocurrency
 host-suffix, bitfinex.com, category-cryptocurrency
 host-suffix, bitget.com, category-cryptocurrency
+host-suffix, bitlayer.org, category-cryptocurrency
 host-suffix, bitmex.com, category-cryptocurrency
 host-suffix, bitquick.co, category-cryptocurrency
 host-suffix, bitstamp.net, category-cryptocurrency
 host-suffix, bittrex.com, category-cryptocurrency
+host-suffix, blast.io, category-cryptocurrency
 host-suffix, blockchain.com, category-cryptocurrency
 host-suffix, blockfrost.io, category-cryptocurrency
 host-suffix, btcbox.co.jp, category-cryptocurrency
 host-suffix, cex.io, category-cryptocurrency
+host-suffix, chainid.network, category-cryptocurrency
 host-suffix, clearpool.finance, category-cryptocurrency
 host-suffix, coinalyze.net, category-cryptocurrency
 host-suffix, coinbase.com, category-cryptocurrency
@@ -23,6 +27,7 @@ host-suffix, coingecko.com, category-cryptocurrency
 host-suffix, coinglass.com, category-cryptocurrency
 host-suffix, coinmap.org, category-cryptocurrency
 host-suffix, coinmarketcap.com, category-cryptocurrency
+host-suffix, coredao.org, category-cryptocurrency
 host-suffix, crypto.com, category-cryptocurrency
 host-suffix, cryptocompare.com, category-cryptocurrency
 host-suffix, cryptomus.com, category-cryptocurrency
@@ -30,7 +35,12 @@ host-suffix, curve.fi, category-cryptocurrency
 host-suffix, cyberx.com, category-cryptocurrency
 host-suffix, debank.com, category-cryptocurrency
 host-suffix, dogecoin.com, category-cryptocurrency
+host-suffix, drpc.org, category-cryptocurrency
 host-suffix, dydx.exchange, category-cryptocurrency
+host-suffix, fantom.foundation, category-cryptocurrency
+host-suffix, fantom.network, category-cryptocurrency
+host-suffix, fiat24.com, category-cryptocurrency
+host-suffix, flare.network, category-cryptocurrency
 host-suffix, fundingrates.xyz, category-cryptocurrency
 host-suffix, gemini.com, category-cryptocurrency
 host-suffix, gmgn.ai, category-cryptocurrency
@@ -40,18 +50,29 @@ host-suffix, hyperliquid.xyz, category-cryptocurrency
 host-suffix, infura.io, category-cryptocurrency
 host-suffix, invity.io, category-cryptocurrency
 host-suffix, maple.finance, category-cryptocurrency
+host-suffix, megaeth.com, category-cryptocurrency
+host-suffix, merkl.xyz, category-cryptocurrency
 host-suffix, metalpha.finance, category-cryptocurrency
+host-suffix, metamask.io, category-cryptocurrency
+host-suffix, mexc.co, category-cryptocurrency
 host-suffix, mexc.com, category-cryptocurrency
 host-suffix, mexcsensors.com, category-cryptocurrency
 host-suffix, mytokenapi.com, category-cryptocurrency
+host-suffix, nodereal.io, category-cryptocurrency
+host-suffix, oasis.io, category-cryptocurrency
+host-suffix, onfinality.io, category-cryptocurrency
 host-suffix, opensea.io, category-cryptocurrency
 host-suffix, osl.com, category-cryptocurrency
 host-suffix, paxful.com, category-cryptocurrency
 host-suffix, polymarket.com, category-cryptocurrency
 host-suffix, ripple.com, category-cryptocurrency
+host-suffix, rsk.co, category-cryptocurrency
 host-suffix, satoshilabs.com, category-cryptocurrency
+host-suffix, solidifi.app, category-cryptocurrency
 host-suffix, stealthex.io, category-cryptocurrency
+host-suffix, taiko.xyz, category-cryptocurrency
 host-suffix, theblock.co, category-cryptocurrency
+host-suffix, thirdweb.com, category-cryptocurrency
 host-suffix, trezor.io, category-cryptocurrency
 host-suffix, truefi.io, category-cryptocurrency
 host-suffix, unisat.io, category-cryptocurrency
@@ -92,15 +113,22 @@ host-suffix, binancezh.sh, category-cryptocurrency
 host-suffix, binancezh.top, category-cryptocurrency
 host-suffix, binanceapi.com, category-cryptocurrency
 host-suffix, binanceru.net, category-cryptocurrency
+host-suffix, bmwweb.solutions, category-cryptocurrency
+host-suffix, bnappweb.black, category-cryptocurrency
 host-suffix, bnbstatic.com, category-cryptocurrency
+host-suffix, bnbchain.org, category-cryptocurrency
 host-suffix, bntrace.com, category-cryptocurrency
+host-suffix, bsappapi.cc, category-cryptocurrency
 host-suffix, bsappapi.com, category-cryptocurrency
+host-suffix, bscdnweb.com, category-cryptocurrency
 host-suffix, nftstatic.com, category-cryptocurrency
-host-suffix, appsflayer.com, category-cryptocurrency
 host-suffix, saasexch.cc, category-cryptocurrency
 host-suffix, saasexch.co, category-cryptocurrency
 host-suffix, saasexch.com, category-cryptocurrency
+host-suffix, saasexch.info, category-cryptocurrency
 host-suffix, saasexch.io, category-cryptocurrency
+host, zftksc.cdn-settings.appsflyersdk.com, category-cryptocurrency
+host, zftksc.launches.appsflyersdk.com, category-cryptocurrency
 host-suffix, bitflyer.com, category-cryptocurrency
 host-suffix, bitflyer.jp, category-cryptocurrency
 host-suffix, bisq.io, category-cryptocurrency
@@ -165,6 +193,7 @@ host-suffix, okx.ac, category-cryptocurrency
 host-suffix, okx.cab, category-cryptocurrency
 host-suffix, okx.com, category-cryptocurrency
 host-suffix, okx.com.cdn.cloudflare.net, category-cryptocurrency
+host-suffix, xlayer.tech, category-cryptocurrency
 host-suffix, oklink.com, category-cryptocurrency
 host-suffix, onekey-asset.com, category-cryptocurrency
 host-suffix, onekey.so, category-cryptocurrency
@@ -176,6 +205,8 @@ host-suffix, redotpay.zendesk.com, category-cryptocurrency
 host-suffix, pod-15-sunco-ws.zendesk.com, category-cryptocurrency
 host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, category-cryptocurrency
 host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, category-cryptocurrency
+host-suffix, isafepal.com, category-cryptocurrency
+host-suffix, safepal.com, category-cryptocurrency
 host-suffix, straitsx.com, category-cryptocurrency
 host-suffix, , category-cryptocurrency
 host, d3r7nsslvs6aaf.cloudfront.net, category-cryptocurrency

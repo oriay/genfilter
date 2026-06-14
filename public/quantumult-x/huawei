@@ -1,5 +1,6 @@
 host-suffix, abhouses.com, huawei
 host-suffix, agconnect.link, huawei
+host-suffix, chaspark.com, huawei
 host-suffix, dbank.com, huawei
 host-suffix, dbankcdn.cn, huawei
 host-suffix, dbankcdn.com, huawei
@@ -17,11 +18,14 @@ host-suffix, huaweiacad.com, huawei
 host-suffix, huaweiief.cn, huawei
 host-suffix, huaweiief.com, huawei
 host-suffix, huaweistatic.com, huawei
+host-suffix, hwad.net, huawei
 host-suffix, hwccpc.cn, huawei
 host-suffix, hwccpc.com, huawei
 host-suffix, hwht.cn, huawei
 host-suffix, hwocloud.com, huawei
 host-suffix, hwtrip.com, huawei
+host-suffix, petalmail.com, huawei
+host-suffix, petalmaps.com, huawei
 host-suffix, shanhaitujian.com, huawei
 host-suffix, vmall.com, huawei
 host-suffix, vmallres.com, huawei

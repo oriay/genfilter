@@ -3323,20 +3323,24 @@ host-suffix, graph.whatsapp.com, geolocation-!cn
 host-suffix, graph.whatsapp.net, geolocation-!cn
 host-suffix, 1inch.io, geolocation-!cn
 host-suffix, aave.com, geolocation-!cn
+host-suffix, base.org, geolocation-!cn
 host-suffix, bingx.com, geolocation-!cn
 host-suffix, bitbank.cc, geolocation-!cn
 host-suffix, bitcoin.org, geolocation-!cn
 host-suffix, bitcoincore.org, geolocation-!cn
 host-suffix, bitfinex.com, geolocation-!cn
 host-suffix, bitget.com, geolocation-!cn
+host-suffix, bitlayer.org, geolocation-!cn
 host-suffix, bitmex.com, geolocation-!cn
 host-suffix, bitquick.co, geolocation-!cn
 host-suffix, bitstamp.net, geolocation-!cn
 host-suffix, bittrex.com, geolocation-!cn
+host-suffix, blast.io, geolocation-!cn
 host-suffix, blockchain.com, geolocation-!cn
 host-suffix, blockfrost.io, geolocation-!cn
 host-suffix, btcbox.co.jp, geolocation-!cn
 host-suffix, cex.io, geolocation-!cn
+host-suffix, chainid.network, geolocation-!cn
 host-suffix, clearpool.finance, geolocation-!cn
 host-suffix, coinalyze.net, geolocation-!cn
 host-suffix, coinbase.com, geolocation-!cn
@@ -3346,6 +3350,7 @@ host-suffix, coingecko.com, geolocation-!cn
 host-suffix, coinglass.com, geolocation-!cn
 host-suffix, coinmap.org, geolocation-!cn
 host-suffix, coinmarketcap.com, geolocation-!cn
+host-suffix, coredao.org, geolocation-!cn
 host-suffix, crypto.com, geolocation-!cn
 host-suffix, cryptocompare.com, geolocation-!cn
 host-suffix, cryptomus.com, geolocation-!cn
@@ -3353,7 +3358,12 @@ host-suffix, curve.fi, geolocation-!cn
 host-suffix, cyberx.com, geolocation-!cn
 host-suffix, debank.com, geolocation-!cn
 host-suffix, dogecoin.com, geolocation-!cn
+host-suffix, drpc.org, geolocation-!cn
 host-suffix, dydx.exchange, geolocation-!cn
+host-suffix, fantom.foundation, geolocation-!cn
+host-suffix, fantom.network, geolocation-!cn
+host-suffix, fiat24.com, geolocation-!cn
+host-suffix, flare.network, geolocation-!cn
 host-suffix, fundingrates.xyz, geolocation-!cn
 host-suffix, gemini.com, geolocation-!cn
 host-suffix, gmgn.ai, geolocation-!cn
@@ -3363,18 +3373,29 @@ host-suffix, hyperliquid.xyz, geolocation-!cn
 host-suffix, infura.io, geolocation-!cn
 host-suffix, invity.io, geolocation-!cn
 host-suffix, maple.finance, geolocation-!cn
+host-suffix, megaeth.com, geolocation-!cn
+host-suffix, merkl.xyz, geolocation-!cn
 host-suffix, metalpha.finance, geolocation-!cn
+host-suffix, metamask.io, geolocation-!cn
+host-suffix, mexc.co, geolocation-!cn
 host-suffix, mexc.com, geolocation-!cn
 host-suffix, mexcsensors.com, geolocation-!cn
 host-suffix, mytokenapi.com, geolocation-!cn
+host-suffix, nodereal.io, geolocation-!cn
+host-suffix, oasis.io, geolocation-!cn
+host-suffix, onfinality.io, geolocation-!cn
 host-suffix, opensea.io, geolocation-!cn
 host-suffix, osl.com, geolocation-!cn
 host-suffix, paxful.com, geolocation-!cn
 host-suffix, polymarket.com, geolocation-!cn
 host-suffix, ripple.com, geolocation-!cn
+host-suffix, rsk.co, geolocation-!cn
 host-suffix, satoshilabs.com, geolocation-!cn
+host-suffix, solidifi.app, geolocation-!cn
 host-suffix, stealthex.io, geolocation-!cn
+host-suffix, taiko.xyz, geolocation-!cn
 host-suffix, theblock.co, geolocation-!cn
+host-suffix, thirdweb.com, geolocation-!cn
 host-suffix, trezor.io, geolocation-!cn
 host-suffix, truefi.io, geolocation-!cn
 host-suffix, unisat.io, geolocation-!cn
@@ -3415,15 +3436,22 @@ host-suffix, binancezh.sh, geolocation-!cn
 host-suffix, binancezh.top, geolocation-!cn
 host-suffix, binanceapi.com, geolocation-!cn
 host-suffix, binanceru.net, geolocation-!cn
+host-suffix, bmwweb.solutions, geolocation-!cn
+host-suffix, bnappweb.black, geolocation-!cn
 host-suffix, bnbstatic.com, geolocation-!cn
+host-suffix, bnbchain.org, geolocation-!cn
 host-suffix, bntrace.com, geolocation-!cn
+host-suffix, bsappapi.cc, geolocation-!cn
 host-suffix, bsappapi.com, geolocation-!cn
+host-suffix, bscdnweb.com, geolocation-!cn
 host-suffix, nftstatic.com, geolocation-!cn
-host-suffix, appsflayer.com, geolocation-!cn
 host-suffix, saasexch.cc, geolocation-!cn
 host-suffix, saasexch.co, geolocation-!cn
 host-suffix, saasexch.com, geolocation-!cn
+host-suffix, saasexch.info, geolocation-!cn
 host-suffix, saasexch.io, geolocation-!cn
+host, zftksc.cdn-settings.appsflyersdk.com, geolocation-!cn
+host, zftksc.launches.appsflyersdk.com, geolocation-!cn
 host-suffix, bitflyer.com, geolocation-!cn
 host-suffix, bitflyer.jp, geolocation-!cn
 host-suffix, bisq.io, geolocation-!cn
@@ -3488,6 +3516,7 @@ host-suffix, okx.ac, geolocation-!cn
 host-suffix, okx.cab, geolocation-!cn
 host-suffix, okx.com, geolocation-!cn
 host-suffix, okx.com.cdn.cloudflare.net, geolocation-!cn
+host-suffix, xlayer.tech, geolocation-!cn
 host-suffix, oklink.com, geolocation-!cn
 host-suffix, onekey-asset.com, geolocation-!cn
 host-suffix, onekey.so, geolocation-!cn
@@ -3499,6 +3528,8 @@ host-suffix, redotpay.zendesk.com, geolocation-!cn
 host-suffix, pod-15-sunco-ws.zendesk.com, geolocation-!cn
 host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, geolocation-!cn
 host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, geolocation-!cn
+host-suffix, isafepal.com, geolocation-!cn
+host-suffix, safepal.com, geolocation-!cn
 host-suffix, straitsx.com, geolocation-!cn
 host-suffix, , geolocation-!cn
 host, d3r7nsslvs6aaf.cloudfront.net, geolocation-!cn
@@ -6212,6 +6243,7 @@ host-suffix, steam-api.com, geolocation-!cn
 host-suffix, steam-chat.com, geolocation-!cn
 host-suffix, steamcommunity.com, geolocation-!cn
 host-suffix, steamcontent.com, geolocation-!cn
+host-suffix, steamconnecttest.com, geolocation-!cn
 host-suffix, steamdeck.com, geolocation-!cn
 host-suffix, steamgames.com, geolocation-!cn
 host-suffix, steampowered.com, geolocation-!cn
@@ -25892,6 +25924,9 @@ host-suffix, razerzone.com, geolocation-!cn
 host-suffix, razerzone.jp, geolocation-!cn
 host-suffix, respawnbyrazer.com, geolocation-!cn
 host-suffix, rzr.to, geolocation-!cn
+host-suffix, reg.cloud, geolocation-!cn
+host-suffix, reg.com, geolocation-!cn
+host-suffix, reg.ru, geolocation-!cn
 host-suffix, azbukainterneta.ru, geolocation-!cn
 host-suffix, rostelecom.ru, geolocation-!cn
 host-suffix, rt.ru, geolocation-!cn

@@ -2,6 +2,8 @@ host-suffix, 7k7k.com, category-games
 host-suffix, 9xgame.com, category-games
 host-suffix, arcaea.cn, category-games
 host-suffix, astral-vector.com, category-games
+host-suffix, changyou.com, category-games
+host-suffix, cy.com, category-games
 host, end-api.shallow.ink, category-games
 host, end.shallow.ink, category-games
 host-suffix, feihuo.com, category-games
@@ -135,6 +137,14 @@ host-suffix, themisweeps.com, category-games
 host-suffix, yuanshen.com, category-games
 host-suffix, juequling.com, category-games
 host-suffix, log-upload.mihoyo.com, category-games
+host-suffix, seasungames.cn, category-games
+host-suffix, seasungames.com, category-games
+host-suffix, seasunwbl.com, category-games
+host-suffix, xishanju.com, category-games
+host-suffix, xoyo.com, category-games
+host-suffix, xoyocdn.com, category-games
+host-suffix, cbjq.com, category-games
+host-suffix, testplus.cn, category-games
 host-suffix, battlecare.net, category-games
 host-suffix, gameitop.com, category-games
 host-suffix, gameloop.com, category-games
@@ -884,6 +894,7 @@ host-suffix, steam-api.com, category-games
 host-suffix, steam-chat.com, category-games
 host-suffix, steamcommunity.com, category-games
 host-suffix, steamcontent.com, category-games
+host-suffix, steamconnecttest.com, category-games
 host-suffix, steamdeck.com, category-games
 host-suffix, steamgames.com, category-games
 host-suffix, steampowered.com, category-games

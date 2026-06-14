@@ -744,6 +744,7 @@ host-suffix, steam-api.com, category-entertainment
 host-suffix, steam-chat.com, category-entertainment
 host-suffix, steamcommunity.com, category-entertainment
 host-suffix, steamcontent.com, category-entertainment
+host-suffix, steamconnecttest.com, category-entertainment
 host-suffix, steamdeck.com, category-entertainment
 host-suffix, steamgames.com, category-entertainment
 host-suffix, steampowered.com, category-entertainment
