@@ -10,8 +10,6 @@ host-suffix, bandao.cn, category-media-cn
 host-suffix, bbtnews.com.cn, category-media-cn
 host-suffix, bianews.com, category-media-cn
 host-suffix, caijing.com.cn, category-media-cn
-host-suffix, cailianpress.com, category-media-cn
-host-suffix, cls.cn, category-media-cn
 host-suffix, caixin.com, category-media-cn
 host-suffix, cankaoxiaoxi.com, category-media-cn
 host-suffix, ckxx.net, category-media-cn
@@ -62,7 +60,9 @@ host-suffix, freebuf.com, category-media-cn
 host-suffix, geekbang.org, category-media-cn
 host-suffix, infoq.cn, category-media-cn
 host-suffix, geekpark.net, category-media-cn
-host-suffix, gmw.com, category-media-cn
+host-suffix, gmdaily.cn, category-media-cn
+host-suffix, gmw.cn, category-media-cn
+host-suffix, guangmingdaily.cn, category-media-cn
 host-suffix, guancha.cn, category-media-cn
 host-suffix, guigu.org, category-media-cn
 host-suffix, gxtv.cn, category-media-cn
@@ -124,6 +124,7 @@ host-suffix, leiphone.com, category-media-cn
 host-suffix, miercn.com, category-media-cn
 host-suffix, mnw.cn, category-media-cn
 host-suffix, mydrivers.com, category-media-cn
+host-suffix, myzaker.com, category-media-cn
 host-suffix, nanyuenews.com, category-media-cn
 host-suffix, nbd.com.cn, category-media-cn
 host-suffix, neweekly.com.cn, category-media-cn
@@ -258,8 +259,14 @@ host-suffix, ifanr.in, category-media-cn
 host-suffix, ifanrusercontent.com, category-media-cn
 host-suffix, ifanrx.com, category-media-cn
 host-suffix, minapp.com, category-media-cn
+host-suffix, cailianpress.com, category-media-cn
+host-suffix, chinastarmarket.cn, category-media-cn
+host-suffix, cls.cn, category-media-cn
 host-suffix, jiemian.com, category-media-cn
 host-suffix, jiemian.com.cn, category-media-cn
+host-suffix, jingpt.com, category-media-cn
+host-suffix, lanjinger.com, category-media-cn
+host-suffix, moer.cn, category-media-cn
 host-suffix, landian.news, category-media-cn
 host-suffix, lancdn.com, category-media-cn
 host-suffix, landiannews.com, category-media-cn

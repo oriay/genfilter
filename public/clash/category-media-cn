@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,bandao.cn
 DOMAIN-SUFFIX,bbtnews.com.cn
 DOMAIN-SUFFIX,bianews.com
 DOMAIN-SUFFIX,caijing.com.cn
-DOMAIN-SUFFIX,cailianpress.com
-DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,ckxx.net
@@ -62,7 +60,9 @@ DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,infoq.cn
 DOMAIN-SUFFIX,geekpark.net
-DOMAIN-SUFFIX,gmw.com
+DOMAIN-SUFFIX,gmdaily.cn
+DOMAIN-SUFFIX,gmw.cn
+DOMAIN-SUFFIX,guangmingdaily.cn
 DOMAIN-SUFFIX,guancha.cn
 DOMAIN-SUFFIX,guigu.org
 DOMAIN-SUFFIX,gxtv.cn
@@ -124,6 +124,7 @@ DOMAIN-SUFFIX,leiphone.com
 DOMAIN-SUFFIX,miercn.com
 DOMAIN-SUFFIX,mnw.cn
 DOMAIN-SUFFIX,mydrivers.com
+DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,nbd.com.cn
 DOMAIN-SUFFIX,neweekly.com.cn
@@ -258,8 +259,14 @@ DOMAIN-SUFFIX,ifanr.in
 DOMAIN-SUFFIX,ifanrusercontent.com
 DOMAIN-SUFFIX,ifanrx.com
 DOMAIN-SUFFIX,minapp.com
+DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,chinastarmarket.cn
+DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+DOMAIN-SUFFIX,jingpt.com
+DOMAIN-SUFFIX,lanjinger.com
+DOMAIN-SUFFIX,moer.cn
 DOMAIN-SUFFIX,landian.news
 DOMAIN-SUFFIX,lancdn.com
 DOMAIN-SUFFIX,landiannews.com

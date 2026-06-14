@@ -1,9 +1,14 @@
+host-suffix, 37.com, category-games
+host-suffix, 37.com.cn, category-games
+host-suffix, 37wan.net, category-games
+host-suffix, 37wanimg.com, category-games
 host-suffix, 7k7k.com, category-games
 host-suffix, 9xgame.com, category-games
 host-suffix, arcaea.cn, category-games
 host-suffix, astral-vector.com, category-games
 host-suffix, changyou.com, category-games
 host-suffix, cy.com, category-games
+host-suffix, playcool.com, category-games
 host, end-api.shallow.ink, category-games
 host, end.shallow.ink, category-games
 host-suffix, feihuo.com, category-games

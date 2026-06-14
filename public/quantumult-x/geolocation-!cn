@@ -25729,6 +25729,10 @@ host-suffix, lineshoppingseller.com, geolocation-!cn
 host-suffix, linetv.tw, geolocation-!cn
 host-suffix, nhncorp.jp, geolocation-!cn
 host-suffix, neuralink.com, geolocation-!cn
+host-suffix, nichost.ru, geolocation-!cn
+host-suffix, nic.ru, geolocation-!cn
+host-suffix, r01.ru, geolocation-!cn
+host-suffix, sweb.ru, geolocation-!cn
 host-suffix, geforce.cn, geolocation-!cn
 host-suffix, geforce.co.kr, geolocation-!cn
 host-suffix, geforce.co.uk, geolocation-!cn
