@@ -6771,17 +6771,23 @@ host-suffix, gimy.tv, geolocation-!cn
 host-suffix, goodreads.com, geolocation-!cn
 host-suffix, gr-assets.com, geolocation-!cn
 host, apl-hamivideo.cdn.hinet.net, geolocation-!cn
+host, chatscc-hamivideo2.cdn.hinet.net, geolocation-!cn
+host, efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net, geolocation-!cn
 host, favoritescc-hamivideo2.cdn.hinet.net, geolocation-!cn
 host, hamivideo.hinet.net, geolocation-!cn
+host, hls-hamivideo.cdn.hinet.net, geolocation-!cn
 host, lgcscc-hamivideo2.cdn.hinet.net, geolocation-!cn
 host, mobilelive-hamivideo.cdn.hinet.net, geolocation-!cn
 host, pvr-hamivideo.cdn.hinet.net, geolocation-!cn
+host, scc-hamivideo.cdn.hinet.net, geolocation-!cn
 host, scc.ott.hinet.net, geolocation-!cn
 host, static-hamivideo.cdn.hinet.net, geolocation-!cn
+host, t.ssp.hinet.net, geolocation-!cn
 host, thumbnail-hamivideo.cdn.hinet.net, geolocation-!cn
 host, tlmr-hamivideo2.cdn.hinet.net, geolocation-!cn
 host, tvcastlive-hamivideo.cdn.hinet.net, geolocation-!cn
 host, weblive-hamivideo.cdn.hinet.net, geolocation-!cn
+host, weblivea-hamivideo.cdn.hinet.net, geolocation-!cn
 host, webvodad-hamivideo.cdn.hinet.net, geolocation-!cn
 host-suffix, hbo, geolocation-!cn
 host-suffix, beforeigners.com, geolocation-!cn
@@ -11030,6 +11036,7 @@ host-suffix, ccavb.tv, geolocation-!cn
 host-suffix, celebforum.co, geolocation-!cn
 host-suffix, celebmasta.live, geolocation-!cn
 host-suffix, celebritygay.com, geolocation-!cn
+host-suffix, celebritymoviearchive.com, geolocation-!cn
 host-suffix, celebritynakeds.com, geolocation-!cn
 host-suffix, celebrityslips.com, geolocation-!cn
 host-suffix, celebritystorysite.com, geolocation-!cn
@@ -11710,6 +11717,7 @@ host-suffix, foxgay.com, geolocation-!cn
 host-suffix, foxhq.com, geolocation-!cn
 host-suffix, foxporns.com, geolocation-!cn
 host-suffix, foxtube.com, geolocation-!cn
+host-suffix, fpo.xxx, geolocation-!cn
 host-suffix, free-3d-porn.com, geolocation-!cn
 host-suffix, free-abbywinters.com, geolocation-!cn
 host-suffix, free-avx.jp, geolocation-!cn
@@ -13728,6 +13736,7 @@ host-suffix, pictoa.com, geolocation-!cn
 host-suffix, pictocum.com, geolocation-!cn
 host-suffix, pigav.com, geolocation-!cn
 host-suffix, pikabu.monster, geolocation-!cn
+host-suffix, pimpbunny.com, geolocation-!cn
 host-suffix, pinduck.com, geolocation-!cn
 host-suffix, pinflix.com, geolocation-!cn
 host-suffix, pingguotv.xyz, geolocation-!cn
@@ -14107,6 +14116,7 @@ host-suffix, postegro.it, geolocation-!cn
 host-suffix, postyourgirls.ws, geolocation-!cn
 host-suffix, povpornonly.com, geolocation-!cn
 host-suffix, povr.com, geolocation-!cn
+host-suffix, powfans.com, geolocation-!cn
 host-suffix, pp6.info, geolocation-!cn
 host-suffix, ppb-mod.buzz, geolocation-!cn
 host-suffix, ppe.lawyer, geolocation-!cn
@@ -14400,6 +14410,7 @@ host-suffix, seqing.one, geolocation-!cn
 host-suffix, seqingwangzhan.pro, geolocation-!cn
 host-suffix, seqingx.com, geolocation-!cn
 host-suffix, ser7.cc, geolocation-!cn
+host-suffix, serakon.com, geolocation-!cn
 host-suffix, serbiporno.net, geolocation-!cn
 host-suffix, serlucap.lol, geolocation-!cn
 host-suffix, serlutv258.xyz, geolocation-!cn
@@ -15276,6 +15287,7 @@ host-suffix, vrpornranked.com, geolocation-!cn
 host-suffix, vrsexgames.biz, geolocation-!cn
 host-suffix, vrsmash.com, geolocation-!cn
 host-suffix, vrsumo.com, geolocation-!cn
+host-suffix, vsex.in, geolocation-!cn
 host-suffix, vsezoo.com, geolocation-!cn
 host-suffix, vtrahe.page, geolocation-!cn
 host-suffix, vulgarx.com, geolocation-!cn
@@ -16430,6 +16442,8 @@ host-suffix, uun97.com, geolocation-!cn
 host-suffix, uun98.com, geolocation-!cn
 host-suffix, uun99.com, geolocation-!cn
 host-suffix, uux68.com, geolocation-!cn
+host-suffix, freexh.blog, geolocation-!cn
+host-suffix, freexh.live, geolocation-!cn
 host-suffix, xhamster.com, geolocation-!cn
 host-suffix, xhamster.desi, geolocation-!cn
 host-suffix, xhamster.xxx, geolocation-!cn
@@ -16439,6 +16453,7 @@ host-suffix, xhamster19.com, geolocation-!cn
 host-suffix, xhamster2.com, geolocation-!cn
 host-suffix, xhamster3.com, geolocation-!cn
 host-suffix, xhamsterlive.com, geolocation-!cn
+host-suffix, xhapp.live, geolocation-!cn
 host-suffix, xhcdn.com, geolocation-!cn
 host-suffix, xhnews.live, geolocation-!cn
 host-suffix, xhpingcdn.com, geolocation-!cn
