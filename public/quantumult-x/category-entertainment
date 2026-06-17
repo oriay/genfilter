@@ -814,13 +814,14 @@ host-suffix, mo.co, category-entertainment
 host-suffix, seeurlpcl.com, category-entertainment
 host-suffix, squadbusters.com, category-entertainment
 host-suffix, supercell.com, category-entertainment
-host-suffix, supercell.helpshift.com, category-entertainment
 host-suffix, supercell.net, category-entertainment
 host-suffix, supercellcreators.com, category-entertainment
 host-suffix, supercellgames.com, category-entertainment
 host-suffix, supercellid.com, category-entertainment
 host-suffix, supercellstore.com, category-entertainment
 host-suffix, supr.cl, category-entertainment
+host, supercell.helpshift.com, category-entertainment
+host, supercell.zendesk.com, category-entertainment
 host-suffix, take2games.com, category-entertainment
 host-suffix, 2k.com, category-entertainment
 host-suffix, 2kcoretech.online, category-entertainment

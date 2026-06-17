@@ -13,10 +13,11 @@ host-suffix, mo.co, supercell
 host-suffix, seeurlpcl.com, supercell
 host-suffix, squadbusters.com, supercell
 host-suffix, supercell.com, supercell
-host-suffix, supercell.helpshift.com, supercell
 host-suffix, supercell.net, supercell
 host-suffix, supercellcreators.com, supercell
 host-suffix, supercellgames.com, supercell
 host-suffix, supercellid.com, supercell
 host-suffix, supercellstore.com, supercell
 host-suffix, supr.cl, supercell
+host, supercell.helpshift.com, supercell
+host, supercell.zendesk.com, supercell

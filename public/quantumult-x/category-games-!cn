@@ -706,13 +706,14 @@ host-suffix, mo.co, category-games-!cn
 host-suffix, seeurlpcl.com, category-games-!cn
 host-suffix, squadbusters.com, category-games-!cn
 host-suffix, supercell.com, category-games-!cn
-host-suffix, supercell.helpshift.com, category-games-!cn
 host-suffix, supercell.net, category-games-!cn
 host-suffix, supercellcreators.com, category-games-!cn
 host-suffix, supercellgames.com, category-games-!cn
 host-suffix, supercellid.com, category-games-!cn
 host-suffix, supercellstore.com, category-games-!cn
 host-suffix, supr.cl, category-games-!cn
+host, supercell.helpshift.com, category-games-!cn
+host, supercell.zendesk.com, category-games-!cn
 host-suffix, take2games.com, category-games-!cn
 host-suffix, 2k.com, category-games-!cn
 host-suffix, 2kcoretech.online, category-games-!cn

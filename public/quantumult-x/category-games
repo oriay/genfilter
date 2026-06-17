@@ -969,13 +969,14 @@ host-suffix, mo.co, category-games
 host-suffix, seeurlpcl.com, category-games
 host-suffix, squadbusters.com, category-games
 host-suffix, supercell.com, category-games
-host-suffix, supercell.helpshift.com, category-games
 host-suffix, supercell.net, category-games
 host-suffix, supercellcreators.com, category-games
 host-suffix, supercellgames.com, category-games
 host-suffix, supercellid.com, category-games
 host-suffix, supercellstore.com, category-games
 host-suffix, supr.cl, category-games
+host, supercell.helpshift.com, category-games
+host, supercell.zendesk.com, category-games
 host-suffix, take2games.com, category-games
 host-suffix, 2k.com, category-games
 host-suffix, 2kcoretech.online, category-games
