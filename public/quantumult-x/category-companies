@@ -5039,9 +5039,11 @@ host-suffix, globalsign.nl, category-companies
 host-suffix, globalsigncdn.com, category-companies
 host, cdn.globalsigncdn.com.cdn.cloudflare.net, category-companies
 host, crl.globalsign.net, category-companies
-host-suffix, godaddy.com, category-companies
-host-suffix, x.co, category-companies
 host-suffix, godaddy, category-companies
+host-suffix, godaddy.com, category-companies
+host-suffix, godaddy.net, category-companies
+host-suffix, wsimg.com, category-companies
+host-suffix, x.co, category-companies
 host-suffix, antiphishing.nl, category-companies
 host-suffix, antiphishing.ru, category-companies
 host-suffix, cert-gib.com, category-companies
@@ -7612,7 +7614,9 @@ host-suffix, opentimetable.jp, category-companies
 host-suffix, popcornjs.org, category-companies
 host-suffix, publicsuffix.org, category-companies
 host-suffix, seamonkey-project.org, category-companies
+host-suffix, tb.pro, category-companies
 host-suffix, thunderbird.net, category-companies
+host-suffix, thundermail.com, category-companies
 host-suffix, webmademovies.org, category-companies
 host, ads-img.mozilla.org, category-companies
 host, ads.mozilla.org, category-companies

@@ -3053,9 +3053,11 @@ host-suffix, globalsign.nl, geolocation-!cn
 host-suffix, globalsigncdn.com, geolocation-!cn
 host, cdn.globalsigncdn.com.cdn.cloudflare.net, geolocation-!cn
 host, crl.globalsign.net, geolocation-!cn
-host-suffix, godaddy.com, geolocation-!cn
-host-suffix, x.co, geolocation-!cn
 host-suffix, godaddy, geolocation-!cn
+host-suffix, godaddy.com, geolocation-!cn
+host-suffix, godaddy.net, geolocation-!cn
+host-suffix, wsimg.com, geolocation-!cn
+host-suffix, x.co, geolocation-!cn
 host-suffix, pki.goog, geolocation-!cn
 host, pki-goog.l.google.com, geolocation-!cn
 host, c.pki.goog, geolocation-!cn
@@ -3541,6 +3543,7 @@ host-suffix, zb.io, geolocation-!cn
 host-suffix, zb.live, geolocation-!cn
 host-suffix, allkeyshop.com, geolocation-!cn
 host-suffix, axbdoll.com.tw, geolocation-!cn
+host-suffix, gamewtb.com, geolocation-!cn
 host-suffix, gg.deals, geolocation-!cn
 host-suffix, i69.com.tw, geolocation-!cn
 host-suffix, kinguin.net, geolocation-!cn
@@ -23087,9 +23090,11 @@ host-suffix, globalsign.nl, geolocation-!cn
 host-suffix, globalsigncdn.com, geolocation-!cn
 host, cdn.globalsigncdn.com.cdn.cloudflare.net, geolocation-!cn
 host, crl.globalsign.net, geolocation-!cn
-host-suffix, godaddy.com, geolocation-!cn
-host-suffix, x.co, geolocation-!cn
 host-suffix, godaddy, geolocation-!cn
+host-suffix, godaddy.com, geolocation-!cn
+host-suffix, godaddy.net, geolocation-!cn
+host-suffix, wsimg.com, geolocation-!cn
+host-suffix, x.co, geolocation-!cn
 host-suffix, antiphishing.nl, geolocation-!cn
 host-suffix, antiphishing.ru, geolocation-!cn
 host-suffix, cert-gib.com, geolocation-!cn
@@ -25660,7 +25665,9 @@ host-suffix, opentimetable.jp, geolocation-!cn
 host-suffix, popcornjs.org, geolocation-!cn
 host-suffix, publicsuffix.org, geolocation-!cn
 host-suffix, seamonkey-project.org, geolocation-!cn
+host-suffix, tb.pro, geolocation-!cn
 host-suffix, thunderbird.net, geolocation-!cn
+host-suffix, thundermail.com, geolocation-!cn
 host-suffix, webmademovies.org, geolocation-!cn
 host, ads-img.mozilla.org, geolocation-!cn
 host, ads.mozilla.org, geolocation-!cn
@@ -26926,6 +26933,7 @@ host-suffix, cloudn.me, geolocation-!cn
 host-suffix, conair.me, geolocation-!cn
 host-suffix, cordcloud.org, geolocation-!cn
 host-suffix, ctyun.online, geolocation-!cn
+host-suffix, dfvpn.com, geolocation-!cn
 host-suffix, geph.io, geolocation-!cn
 host-suffix, gfw.press, geolocation-!cn
 host-suffix, maying.co, geolocation-!cn

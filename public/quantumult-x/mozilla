@@ -50,7 +50,9 @@ host-suffix, opentimetable.jp, mozilla
 host-suffix, popcornjs.org, mozilla
 host-suffix, publicsuffix.org, mozilla
 host-suffix, seamonkey-project.org, mozilla
+host-suffix, tb.pro, mozilla
 host-suffix, thunderbird.net, mozilla
+host-suffix, thundermail.com, mozilla
 host-suffix, webmademovies.org, mozilla
 host, ads-img.mozilla.org, mozilla
 host, ads.mozilla.org, mozilla

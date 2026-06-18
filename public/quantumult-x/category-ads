@@ -7708,7 +7708,9 @@ host-suffix, opentimetable.jp, category-ads
 host-suffix, popcornjs.org, category-ads
 host-suffix, publicsuffix.org, category-ads
 host-suffix, seamonkey-project.org, category-ads
+host-suffix, tb.pro, category-ads
 host-suffix, thunderbird.net, category-ads
+host-suffix, thundermail.com, category-ads
 host-suffix, webmademovies.org, category-ads
 host, ads-img.mozilla.org, category-ads
 host, ads.mozilla.org, category-ads

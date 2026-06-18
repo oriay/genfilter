@@ -143,9 +143,11 @@ host-suffix, globalsign.nl, category-cas
 host-suffix, globalsigncdn.com, category-cas
 host, cdn.globalsigncdn.com.cdn.cloudflare.net, category-cas
 host, crl.globalsign.net, category-cas
-host-suffix, godaddy.com, category-cas
-host-suffix, x.co, category-cas
 host-suffix, godaddy, category-cas
+host-suffix, godaddy.com, category-cas
+host-suffix, godaddy.net, category-cas
+host-suffix, wsimg.com, category-cas
+host-suffix, x.co, category-cas
 host-suffix, pki.goog, category-cas
 host, pki-goog.l.google.com, category-cas
 host, c.pki.goog, category-cas
