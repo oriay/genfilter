@@ -317,12 +317,7 @@ host-suffix, seagroup.com, category-games-!cn
 host-suffix, gog.com, category-games-!cn
 host-suffix, gog-statics.com, category-games-!cn
 host, gog.qtlglb.com, category-games-!cn
-host, gogalaxy.gog-statics.com, category-games-!cn
-host, menu-static.gog-statics.com, category-games-!cn
-host, productcard.gog-statics.com, category-games-!cn
-host, static-login.gog-statics.com, category-games-!cn
-host, www4-static.gog-statics.com, category-games-!cn
-host, gog-cdn-fastly.gog.com, category-games-!cn
+host, gog-cdn-lumen.secure2.footprint.net, category-games-!cn
 host, gog-cdn.akamaized.net, category-games-!cn
 host-suffix, genshinimpact.com, category-games-!cn
 host-suffix, honkaiimpact3.com, category-games-!cn

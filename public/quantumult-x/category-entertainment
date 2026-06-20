@@ -425,12 +425,7 @@ host-suffix, seagroup.com, category-entertainment
 host-suffix, gog.com, category-entertainment
 host-suffix, gog-statics.com, category-entertainment
 host, gog.qtlglb.com, category-entertainment
-host, gogalaxy.gog-statics.com, category-entertainment
-host, menu-static.gog-statics.com, category-entertainment
-host, productcard.gog-statics.com, category-entertainment
-host, static-login.gog-statics.com, category-entertainment
-host, www4-static.gog-statics.com, category-entertainment
-host, gog-cdn-fastly.gog.com, category-entertainment
+host, gog-cdn-lumen.secure2.footprint.net, category-entertainment
 host, gog-cdn.akamaized.net, category-entertainment
 host-suffix, genshinimpact.com, category-entertainment
 host-suffix, honkaiimpact3.com, category-entertainment

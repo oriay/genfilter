@@ -5921,12 +5921,7 @@ host-suffix, seagroup.com, geolocation-!cn
 host-suffix, gog.com, geolocation-!cn
 host-suffix, gog-statics.com, geolocation-!cn
 host, gog.qtlglb.com, geolocation-!cn
-host, gogalaxy.gog-statics.com, geolocation-!cn
-host, menu-static.gog-statics.com, geolocation-!cn
-host, productcard.gog-statics.com, geolocation-!cn
-host, static-login.gog-statics.com, geolocation-!cn
-host, www4-static.gog-statics.com, geolocation-!cn
-host, gog-cdn-fastly.gog.com, geolocation-!cn
+host, gog-cdn-lumen.secure2.footprint.net, geolocation-!cn
 host, gog-cdn.akamaized.net, geolocation-!cn
 host-suffix, genshinimpact.com, geolocation-!cn
 host-suffix, honkaiimpact3.com, geolocation-!cn
