@@ -1,4 +1,5 @@
 host-suffix, aardio.com, category-dev-cn
+host-suffix, cocos.com, category-dev-cn
 host-suffix, ejoy.com, category-dev-cn
 host-suffix, jinrishici.com, category-dev-cn
 host-suffix, kaihong.com, category-dev-cn
@@ -137,6 +138,7 @@ host-suffix, ubuntukylin.com, category-dev-cn
 host-suffix, u3d.cn, category-dev-cn
 host-suffix, unity.cn, category-dev-cn
 host-suffix, unitychina.cn, category-dev-cn
+host-suffix, unity3dcloud.cn, category-dev-cn
 host-suffix, ads.unitychina.cn, category-dev-cn
 host-suffix, splash-ads.cdn.unity.cn, category-dev-cn
 host-suffix, splash-ads.unitychina.cn, category-dev-cn

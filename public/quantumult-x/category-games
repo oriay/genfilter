@@ -17,6 +17,10 @@ host-suffix, fxt365.com, category-games
 host-suffix, gameabc.com, category-games
 host-suffix, gamemei.com, category-games
 host-suffix, heavenlywind.cc, category-games
+host-suffix, laohu.com, category-games
+host-suffix, wanmei.com, category-games
+host-suffix, wmsj.cn, category-games
+host-suffix, wmupd.com, category-games
 host-suffix, ledu.com, category-games
 host-suffix, longtugame.com, category-games
 host-suffix, morefreegame.com, category-games
@@ -27,8 +31,6 @@ host-suffix, zjshulong.com, category-games
 host-suffix, tgpro.top, category-games
 host-suffix, tgprocs.net, category-games
 host-suffix, tuyoo.com, category-games
-host-suffix, wanmei.com, category-games
-host-suffix, wmsj.cn, category-games
 host-suffix, winegame.net, category-games
 host-suffix, wo1wan.com, category-games
 host-suffix, ycgame.com, category-games
@@ -578,10 +580,13 @@ host-suffix, garena.vn, category-games
 host-suffix, garenanow.com, category-games
 host-suffix, seagroup.com, category-games
 host-suffix, gog.com, category-games
+host-suffix, gog-services.com, category-games
 host-suffix, gog-statics.com, category-games
+host-suffix, gogalaxy.com, category-games
 host, gog.qtlglb.com, category-games
 host, gog-cdn-lumen.secure2.footprint.net, category-games
 host, gog-cdn.akamaized.net, category-games
+host-suffix, insights-collector.gog.com, category-games
 host-suffix, genshinimpact.com, category-games
 host-suffix, honkaiimpact3.com, category-games
 host-suffix, honkaistarrail.com, category-games
@@ -930,7 +935,9 @@ host, steamuserimages-a.akamaihd.net, category-games
 host, steamvideo-a.akamaihd.net, category-games
 host, steamcloudsweden.blob.core.windows.net, category-games
 host, steamugcquincy.blob.core.windows.net, category-games
+host-suffix, csgo.com.cn, category-games
 host-suffix, csgo.wmsj.cn, category-games
+host-suffix, dota2.com.cn, category-games
 host-suffix, dota2.wmsj.cn, category-games
 host-suffix, wmsjsteam.com, category-games
 host-suffix, client-update.queniuqe.com, category-games

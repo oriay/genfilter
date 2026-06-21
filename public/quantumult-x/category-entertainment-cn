@@ -12,6 +12,8 @@ host-suffix, 6.cn, category-entertainment-cn
 host-suffix, 6rooms.com, category-entertainment-cn
 host-suffix, xiu123.cn, category-entertainment-cn
 host-suffix, anitabi.cn, category-entertainment-cn
+host-suffix, b612kaji.com, category-entertainment-cn
+host-suffix, kajicam.com, category-entertainment-cn
 host-suffix, baofeng.com, category-entertainment-cn
 host-suffix, baofeng.net, category-entertainment-cn
 host-suffix, baozou.com, category-entertainment-cn
@@ -45,7 +47,6 @@ host-suffix, huajiao.com, category-entertainment-cn
 host-suffix, inke.cn, category-entertainment-cn
 host-suffix, ikstatic.cn, category-entertainment-cn
 host-suffix, jjwxc.net, category-entertainment-cn
-host-suffix, kajicam.com, category-entertainment-cn
 host-suffix, kjcdn.com, category-entertainment-cn
 host-suffix, kujiang.com, category-entertainment-cn
 host-suffix, 1905.com, category-entertainment-cn
@@ -114,6 +115,10 @@ host-suffix, fxt365.com, category-entertainment-cn
 host-suffix, gameabc.com, category-entertainment-cn
 host-suffix, gamemei.com, category-entertainment-cn
 host-suffix, heavenlywind.cc, category-entertainment-cn
+host-suffix, laohu.com, category-entertainment-cn
+host-suffix, wanmei.com, category-entertainment-cn
+host-suffix, wmsj.cn, category-entertainment-cn
+host-suffix, wmupd.com, category-entertainment-cn
 host-suffix, ledu.com, category-entertainment-cn
 host-suffix, longtugame.com, category-entertainment-cn
 host-suffix, morefreegame.com, category-entertainment-cn
@@ -124,8 +129,6 @@ host-suffix, zjshulong.com, category-entertainment-cn
 host-suffix, tgpro.top, category-entertainment-cn
 host-suffix, tgprocs.net, category-entertainment-cn
 host-suffix, tuyoo.com, category-entertainment-cn
-host-suffix, wanmei.com, category-entertainment-cn
-host-suffix, wmsj.cn, category-entertainment-cn
 host-suffix, winegame.net, category-entertainment-cn
 host-suffix, wo1wan.com, category-entertainment-cn
 host-suffix, ycgame.com, category-entertainment-cn
@@ -719,10 +722,12 @@ host-suffix, 11222.cn, category-entertainment-cn
 host-suffix, aliwx.com.cn, category-entertainment-cn
 host-suffix, aliwx.net, category-entertainment-cn
 host-suffix, ishuqi.com, category-entertainment-cn
+host-suffix, newstjk.com, category-entertainment-cn
 host-suffix, shuqi.com, category-entertainment-cn
 host-suffix, shuqiapi.com, category-entertainment-cn
 host-suffix, shuqiread.com, category-entertainment-cn
 host-suffix, shuqireader.com, category-entertainment-cn
+host-suffix, shuqistat.com, category-entertainment-cn
 host-suffix, sqreader.com, category-entertainment-cn
 host-suffix, 91q.com, category-entertainment-cn
 host-suffix, dmhmusic.com, category-entertainment-cn

@@ -315,10 +315,13 @@ host-suffix, garena.vn, category-games-!cn
 host-suffix, garenanow.com, category-games-!cn
 host-suffix, seagroup.com, category-games-!cn
 host-suffix, gog.com, category-games-!cn
+host-suffix, gog-services.com, category-games-!cn
 host-suffix, gog-statics.com, category-games-!cn
+host-suffix, gogalaxy.com, category-games-!cn
 host, gog.qtlglb.com, category-games-!cn
 host, gog-cdn-lumen.secure2.footprint.net, category-games-!cn
 host, gog-cdn.akamaized.net, category-games-!cn
+host-suffix, insights-collector.gog.com, category-games-!cn
 host-suffix, genshinimpact.com, category-games-!cn
 host-suffix, honkaiimpact3.com, category-games-!cn
 host-suffix, honkaistarrail.com, category-games-!cn
@@ -667,7 +670,9 @@ host, steamuserimages-a.akamaihd.net, category-games-!cn
 host, steamvideo-a.akamaihd.net, category-games-!cn
 host, steamcloudsweden.blob.core.windows.net, category-games-!cn
 host, steamugcquincy.blob.core.windows.net, category-games-!cn
+host-suffix, csgo.com.cn, category-games-!cn
 host-suffix, csgo.wmsj.cn, category-games-!cn
+host-suffix, dota2.com.cn, category-games-!cn
 host-suffix, dota2.wmsj.cn, category-games-!cn
 host-suffix, wmsjsteam.com, category-games-!cn
 host-suffix, client-update.queniuqe.com, category-games-!cn

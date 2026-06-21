@@ -41,7 +41,9 @@ host, steamuserimages-a.akamaihd.net, steam
 host, steamvideo-a.akamaihd.net, steam
 host, steamcloudsweden.blob.core.windows.net, steam
 host, steamugcquincy.blob.core.windows.net, steam
+host-suffix, csgo.com.cn, steam
 host-suffix, csgo.wmsj.cn, steam
+host-suffix, dota2.com.cn, steam
 host-suffix, dota2.wmsj.cn, steam
 host-suffix, wmsjsteam.com, steam
 host-suffix, client-update.queniuqe.com, steam

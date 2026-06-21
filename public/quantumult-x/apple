@@ -855,6 +855,7 @@ host, is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net, apple
 host, itunes-apple.com.akadns.net, apple
 host, itunes.apple.com, apple
 host, itunesconnect.apple.com, apple
+host, mensura.cdn-apple.com, apple
 host, mesu-cdn.apple.com.akadns.net, apple
 host, mesu-china.apple.com.akadns.net, apple
 host, mesu.apple.com, apple
