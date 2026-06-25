@@ -6,3 +6,7 @@ host-suffix, alibabacloud.com.my, alibabacloud
 host-suffix, alibabacloud.com.sg, alibabacloud
 host-suffix, alibabacloud.com.tw, alibabacloud
 host-suffix, alicloud.com, alibabacloud
+host, account-cn.alibabacloud.com, alibabacloud
+host, api.alibabacloud.com, alibabacloud
+host, cn.alibabacloud.com, alibabacloud
+host, status.alibabacloud.com, alibabacloud

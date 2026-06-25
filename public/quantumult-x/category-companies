@@ -291,6 +291,10 @@ host-suffix, alibabacloud.com.my, category-companies
 host-suffix, alibabacloud.com.sg, category-companies
 host-suffix, alibabacloud.com.tw, category-companies
 host-suffix, alicloud.com, category-companies
+host, account-cn.alibabacloud.com, category-companies
+host, api.alibabacloud.com, category-companies
+host, cn.alibabacloud.com, category-companies
+host, status.alibabacloud.com, category-companies
 host-suffix, abc.xyz, category-companies
 host-suffix, calicolabs.com, category-companies
 host-suffix, capitalg.com, category-companies
@@ -7050,7 +7054,6 @@ host, collaborateppe.download.prss.microsoft.com, category-companies
 host, ctldl.windowsupdate.com, category-companies
 host, developer.microsoft.com, category-companies
 host, download.microsoft.com, category-companies
-host, download.visualstudio.microsoft.com, category-companies
 host, dreamspark.download.prss.microsoft.com, category-companies
 host, dreamsparkuat.download.prss.microsoft.com, category-companies
 host, f.c2r.ts.cdn.office.net, category-companies

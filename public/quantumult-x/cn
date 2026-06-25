@@ -5509,6 +5509,10 @@ host-suffix, alibabacloud.com.my, cn
 host-suffix, alibabacloud.com.sg, cn
 host-suffix, alibabacloud.com.tw, cn
 host-suffix, alicloud.com, cn
+host, account-cn.alibabacloud.com, cn
+host, api.alibabacloud.com, cn
+host, cn.alibabacloud.com, cn
+host, status.alibabacloud.com, cn
 host-suffix, 9game.cn, cn
 host-suffix, aligames.com, cn
 host-suffix, jiaoyimao.cn, cn
@@ -5556,6 +5560,9 @@ host-suffix, kunlunvi.com, cn
 host-suffix, kunlunwe.com, cn
 host-suffix, mxhichina.com, cn
 host-suffix, myalicdn.com, cn
+host-suffix, ap-southeast-1.aliyuncs.com, cn
+host-suffix, cn-hangzhou.aliyuncs.com, cn
+host-suffix, cn-shanghai.aliyuncs.com, cn
 host-suffix, oss-ap-northeast-1.aliyuncs.com, cn
 host-suffix, oss-ap-northeast-2.aliyuncs.com, cn
 host-suffix, oss-ap-south-1.aliyuncs.com, cn

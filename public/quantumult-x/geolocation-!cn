@@ -18352,6 +18352,10 @@ host-suffix, alibabacloud.com.my, geolocation-!cn
 host-suffix, alibabacloud.com.sg, geolocation-!cn
 host-suffix, alibabacloud.com.tw, geolocation-!cn
 host-suffix, alicloud.com, geolocation-!cn
+host, account-cn.alibabacloud.com, geolocation-!cn
+host, api.alibabacloud.com, geolocation-!cn
+host, cn.alibabacloud.com, geolocation-!cn
+host, status.alibabacloud.com, geolocation-!cn
 host-suffix, abc.xyz, geolocation-!cn
 host-suffix, calicolabs.com, geolocation-!cn
 host-suffix, capitalg.com, geolocation-!cn
@@ -25111,7 +25115,6 @@ host, collaborateppe.download.prss.microsoft.com, geolocation-!cn
 host, ctldl.windowsupdate.com, geolocation-!cn
 host, developer.microsoft.com, geolocation-!cn
 host, download.microsoft.com, geolocation-!cn
-host, download.visualstudio.microsoft.com, geolocation-!cn
 host, dreamspark.download.prss.microsoft.com, geolocation-!cn
 host, dreamsparkuat.download.prss.microsoft.com, geolocation-!cn
 host, f.c2r.ts.cdn.office.net, geolocation-!cn

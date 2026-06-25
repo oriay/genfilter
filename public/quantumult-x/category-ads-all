@@ -641,6 +641,10 @@ host-suffix, alibabacloud.com.my, category-ads-all
 host-suffix, alibabacloud.com.sg, category-ads-all
 host-suffix, alibabacloud.com.tw, category-ads-all
 host-suffix, alicloud.com, category-ads-all
+host, account-cn.alibabacloud.com, category-ads-all
+host, api.alibabacloud.com, category-ads-all
+host, cn.alibabacloud.com, category-ads-all
+host, status.alibabacloud.com, category-ads-all
 host-suffix, 9game.cn, category-ads-all
 host-suffix, aligames.com, category-ads-all
 host-suffix, jiaoyimao.cn, category-ads-all
@@ -688,6 +692,9 @@ host-suffix, kunlunvi.com, category-ads-all
 host-suffix, kunlunwe.com, category-ads-all
 host-suffix, mxhichina.com, category-ads-all
 host-suffix, myalicdn.com, category-ads-all
+host-suffix, ap-southeast-1.aliyuncs.com, category-ads-all
+host-suffix, cn-hangzhou.aliyuncs.com, category-ads-all
+host-suffix, cn-shanghai.aliyuncs.com, category-ads-all
 host-suffix, oss-ap-northeast-1.aliyuncs.com, category-ads-all
 host-suffix, oss-ap-northeast-2.aliyuncs.com, category-ads-all
 host-suffix, oss-ap-south-1.aliyuncs.com, category-ads-all
@@ -7243,7 +7250,6 @@ host, collaborateppe.download.prss.microsoft.com, category-ads-all
 host, ctldl.windowsupdate.com, category-ads-all
 host, developer.microsoft.com, category-ads-all
 host, download.microsoft.com, category-ads-all
-host, download.visualstudio.microsoft.com, category-ads-all
 host, dreamspark.download.prss.microsoft.com, category-ads-all
 host, dreamsparkuat.download.prss.microsoft.com, category-ads-all
 host, f.c2r.ts.cdn.office.net, category-ads-all
