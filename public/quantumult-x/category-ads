@@ -1557,6 +1557,7 @@ host-suffix, apple-hk.com, category-ads
 host-suffix, apple-ibooks.cn, category-ads
 host-suffix, apple-inc.net, category-ads
 host-suffix, apple-livephotoskit.com, category-ads
+host-suffix, apple-mapkit.com, category-ads
 host-suffix, apple-maps.cn, category-ads
 host-suffix, apple-online.com, category-ads
 host-suffix, apple-usa.net, category-ads
@@ -1619,6 +1620,7 @@ host-suffix, applepremiumresellers.com.au, category-ads
 host-suffix, applereach.com, category-ads
 host-suffix, applereach.net, category-ads
 host-suffix, apples-msk.ru, category-ads
+host-suffix, appleschoolcontent.com, category-ads
 host-suffix, applescreensavers.com, category-ads
 host-suffix, applescript.info, category-ads
 host-suffix, appleshare.info, category-ads
@@ -1638,6 +1640,8 @@ host-suffix, appmediagroup.com, category-ads
 host-suffix, appule.com, category-ads
 host-suffix, appye.com, category-ads
 host-suffix, apyle.com, category-ads
+host-suffix, apzones.com, category-ads
+host-suffix, axm-usercontent-apple.com, category-ads
 host-suffix, beddit.tv, category-ads
 host-suffix, braeburncapital.com, category-ads
 host-suffix, burstly.net, category-ads
@@ -2804,6 +2808,7 @@ host-suffix, appleicloud.cn, category-ads
 host-suffix, applemx-icloud.com, category-ads
 host-suffix, icloud-apple.cn, category-ads
 host-suffix, icloud-content.com, category-ads
+host-suffix, icloud-content.com.cn, category-ads
 host-suffix, icloud-isupport.com, category-ads
 host-suffix, icloud-sandbox.com, category-ads
 host-suffix, icloud.ch, category-ads
@@ -4514,6 +4519,7 @@ host-suffix, chrome.com, category-ads
 host-suffix, chromebook.com, category-ads
 host-suffix, chromecast.com, category-ads
 host-suffix, chromeos.dev, category-ads
+host-suffix, chromestatus.com, category-ads
 host-suffix, chromium.org, category-ads
 host-suffix, chronicle.security, category-ads
 host-suffix, chroniclesec.com, category-ads
@@ -8379,6 +8385,7 @@ host-suffix, tfogc.com, category-ads
 host-suffix, wechat.com, category-ads
 host-suffix, wechatpay.cn, category-ads
 host-suffix, weishi.com, category-ads
+host-suffix, weixin.com, category-ads
 host-suffix, weiyun.com, category-ads
 host-suffix, wxaurl.cn, category-ads
 host-suffix, wxcloudrun.com, category-ads

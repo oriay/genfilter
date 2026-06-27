@@ -462,6 +462,7 @@ host-suffix, apple-hk.com, apple
 host-suffix, apple-ibooks.cn, apple
 host-suffix, apple-inc.net, apple
 host-suffix, apple-livephotoskit.com, apple
+host-suffix, apple-mapkit.com, apple
 host-suffix, apple-maps.cn, apple
 host-suffix, apple-online.com, apple
 host-suffix, apple-usa.net, apple
@@ -524,6 +525,7 @@ host-suffix, applepremiumresellers.com.au, apple
 host-suffix, applereach.com, apple
 host-suffix, applereach.net, apple
 host-suffix, apples-msk.ru, apple
+host-suffix, appleschoolcontent.com, apple
 host-suffix, applescreensavers.com, apple
 host-suffix, applescript.info, apple
 host-suffix, appleshare.info, apple
@@ -543,6 +545,8 @@ host-suffix, appmediagroup.com, apple
 host-suffix, appule.com, apple
 host-suffix, appye.com, apple
 host-suffix, apyle.com, apple
+host-suffix, apzones.com, apple
+host-suffix, axm-usercontent-apple.com, apple
 host-suffix, beddit.tv, apple
 host-suffix, braeburncapital.com, apple
 host-suffix, burstly.net, apple
@@ -1709,6 +1713,7 @@ host-suffix, appleicloud.cn, apple
 host-suffix, applemx-icloud.com, apple
 host-suffix, icloud-apple.cn, apple
 host-suffix, icloud-content.com, apple
+host-suffix, icloud-content.com.cn, apple
 host-suffix, icloud-isupport.com, apple
 host-suffix, icloud-sandbox.com, apple
 host-suffix, icloud.ch, apple

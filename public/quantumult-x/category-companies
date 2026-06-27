@@ -547,6 +547,7 @@ host-suffix, chrome.com, category-companies
 host-suffix, chromebook.com, category-companies
 host-suffix, chromecast.com, category-companies
 host-suffix, chromeos.dev, category-companies
+host-suffix, chromestatus.com, category-companies
 host-suffix, chromium.org, category-companies
 host-suffix, chronicle.security, category-companies
 host-suffix, chroniclesec.com, category-companies
@@ -2161,6 +2162,7 @@ host-suffix, apple-hk.com, category-companies
 host-suffix, apple-ibooks.cn, category-companies
 host-suffix, apple-inc.net, category-companies
 host-suffix, apple-livephotoskit.com, category-companies
+host-suffix, apple-mapkit.com, category-companies
 host-suffix, apple-maps.cn, category-companies
 host-suffix, apple-online.com, category-companies
 host-suffix, apple-usa.net, category-companies
@@ -2223,6 +2225,7 @@ host-suffix, applepremiumresellers.com.au, category-companies
 host-suffix, applereach.com, category-companies
 host-suffix, applereach.net, category-companies
 host-suffix, apples-msk.ru, category-companies
+host-suffix, appleschoolcontent.com, category-companies
 host-suffix, applescreensavers.com, category-companies
 host-suffix, applescript.info, category-companies
 host-suffix, appleshare.info, category-companies
@@ -2242,6 +2245,8 @@ host-suffix, appmediagroup.com, category-companies
 host-suffix, appule.com, category-companies
 host-suffix, appye.com, category-companies
 host-suffix, apyle.com, category-companies
+host-suffix, apzones.com, category-companies
+host-suffix, axm-usercontent-apple.com, category-companies
 host-suffix, beddit.tv, category-companies
 host-suffix, braeburncapital.com, category-companies
 host-suffix, burstly.net, category-companies
@@ -3408,6 +3413,7 @@ host-suffix, appleicloud.cn, category-companies
 host-suffix, applemx-icloud.com, category-companies
 host-suffix, icloud-apple.cn, category-companies
 host-suffix, icloud-content.com, category-companies
+host-suffix, icloud-content.com.cn, category-companies
 host-suffix, icloud-isupport.com, category-companies
 host-suffix, icloud-sandbox.com, category-companies
 host-suffix, icloud.ch, category-companies

@@ -74,6 +74,7 @@ host-suffix, qoder.com, geolocation-!cn
 host-suffix, sider.ai, geolocation-!cn
 host-suffix, spicywriter.com, geolocation-!cn
 host-suffix, tapnow.ai, geolocation-!cn
+host-suffix, tripo3d.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
 host-suffix, clau.de, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
@@ -5515,6 +5516,7 @@ host-suffix, overcast.fm, geolocation-!cn
 host-suffix, qobuz.com, geolocation-!cn
 host-suffix, sendvid.com, geolocation-!cn
 host-suffix, syosetu.com, geolocation-!cn
+host-suffix, unsplash.com, geolocation-!cn
 host-suffix, weverse.io, geolocation-!cn
 host-suffix, yande.re, geolocation-!cn
 host-suffix, amp-api.podcast.apple.com, geolocation-!cn
@@ -6567,6 +6569,8 @@ host-suffix, mangafunb.fun, geolocation-!cn
 host-suffix, dailymotion.com, geolocation-!cn
 host-suffix, dm-event.net, geolocation-!cn
 host-suffix, dmcdn.net, geolocation-!cn
+host-suffix, dandanplay.com, geolocation-!cn
+host-suffix, dandanplay.net, geolocation-!cn
 host-suffix, dandanzan.cc, geolocation-!cn
 host-suffix, nunuyy.cc, geolocation-!cn
 host-suffix, dazn.com, geolocation-!cn
@@ -18608,6 +18612,7 @@ host-suffix, chrome.com, geolocation-!cn
 host-suffix, chromebook.com, geolocation-!cn
 host-suffix, chromecast.com, geolocation-!cn
 host-suffix, chromeos.dev, geolocation-!cn
+host-suffix, chromestatus.com, geolocation-!cn
 host-suffix, chromium.org, geolocation-!cn
 host-suffix, chronicle.security, geolocation-!cn
 host-suffix, chroniclesec.com, geolocation-!cn
@@ -20222,6 +20227,7 @@ host-suffix, apple-hk.com, geolocation-!cn
 host-suffix, apple-ibooks.cn, geolocation-!cn
 host-suffix, apple-inc.net, geolocation-!cn
 host-suffix, apple-livephotoskit.com, geolocation-!cn
+host-suffix, apple-mapkit.com, geolocation-!cn
 host-suffix, apple-maps.cn, geolocation-!cn
 host-suffix, apple-online.com, geolocation-!cn
 host-suffix, apple-usa.net, geolocation-!cn
@@ -20284,6 +20290,7 @@ host-suffix, applepremiumresellers.com.au, geolocation-!cn
 host-suffix, applereach.com, geolocation-!cn
 host-suffix, applereach.net, geolocation-!cn
 host-suffix, apples-msk.ru, geolocation-!cn
+host-suffix, appleschoolcontent.com, geolocation-!cn
 host-suffix, applescreensavers.com, geolocation-!cn
 host-suffix, applescript.info, geolocation-!cn
 host-suffix, appleshare.info, geolocation-!cn
@@ -20303,6 +20310,8 @@ host-suffix, appmediagroup.com, geolocation-!cn
 host-suffix, appule.com, geolocation-!cn
 host-suffix, appye.com, geolocation-!cn
 host-suffix, apyle.com, geolocation-!cn
+host-suffix, apzones.com, geolocation-!cn
+host-suffix, axm-usercontent-apple.com, geolocation-!cn
 host-suffix, beddit.tv, geolocation-!cn
 host-suffix, braeburncapital.com, geolocation-!cn
 host-suffix, burstly.net, geolocation-!cn
@@ -21469,6 +21478,7 @@ host-suffix, appleicloud.cn, geolocation-!cn
 host-suffix, applemx-icloud.com, geolocation-!cn
 host-suffix, icloud-apple.cn, geolocation-!cn
 host-suffix, icloud-content.com, geolocation-!cn
+host-suffix, icloud-content.com.cn, geolocation-!cn
 host-suffix, icloud-isupport.com, geolocation-!cn
 host-suffix, icloud-sandbox.com, geolocation-!cn
 host-suffix, icloud.ch, geolocation-!cn

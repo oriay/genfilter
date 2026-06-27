@@ -250,6 +250,7 @@ host-suffix, chrome.com, alphabet
 host-suffix, chromebook.com, alphabet
 host-suffix, chromecast.com, alphabet
 host-suffix, chromeos.dev, alphabet
+host-suffix, chromestatus.com, alphabet
 host-suffix, chromium.org, alphabet
 host-suffix, chronicle.security, alphabet
 host-suffix, chroniclesec.com, alphabet

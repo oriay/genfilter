@@ -1579,6 +1579,7 @@ host-suffix, apple-hk.com, category-ads-all
 host-suffix, apple-ibooks.cn, category-ads-all
 host-suffix, apple-inc.net, category-ads-all
 host-suffix, apple-livephotoskit.com, category-ads-all
+host-suffix, apple-mapkit.com, category-ads-all
 host-suffix, apple-maps.cn, category-ads-all
 host-suffix, apple-online.com, category-ads-all
 host-suffix, apple-usa.net, category-ads-all
@@ -1641,6 +1642,7 @@ host-suffix, applepremiumresellers.com.au, category-ads-all
 host-suffix, applereach.com, category-ads-all
 host-suffix, applereach.net, category-ads-all
 host-suffix, apples-msk.ru, category-ads-all
+host-suffix, appleschoolcontent.com, category-ads-all
 host-suffix, applescreensavers.com, category-ads-all
 host-suffix, applescript.info, category-ads-all
 host-suffix, appleshare.info, category-ads-all
@@ -1660,6 +1662,8 @@ host-suffix, appmediagroup.com, category-ads-all
 host-suffix, appule.com, category-ads-all
 host-suffix, appye.com, category-ads-all
 host-suffix, apyle.com, category-ads-all
+host-suffix, apzones.com, category-ads-all
+host-suffix, axm-usercontent-apple.com, category-ads-all
 host-suffix, beddit.tv, category-ads-all
 host-suffix, braeburncapital.com, category-ads-all
 host-suffix, burstly.net, category-ads-all
@@ -2826,6 +2830,7 @@ host-suffix, appleicloud.cn, category-ads-all
 host-suffix, applemx-icloud.com, category-ads-all
 host-suffix, icloud-apple.cn, category-ads-all
 host-suffix, icloud-content.com, category-ads-all
+host-suffix, icloud-content.com.cn, category-ads-all
 host-suffix, icloud-isupport.com, category-ads-all
 host-suffix, icloud-sandbox.com, category-ads-all
 host-suffix, icloud.ch, category-ads-all
@@ -4536,6 +4541,7 @@ host-suffix, chrome.com, category-ads-all
 host-suffix, chromebook.com, category-ads-all
 host-suffix, chromecast.com, category-ads-all
 host-suffix, chromeos.dev, category-ads-all
+host-suffix, chromestatus.com, category-ads-all
 host-suffix, chromium.org, category-ads-all
 host-suffix, chronicle.security, category-ads-all
 host-suffix, chroniclesec.com, category-ads-all
@@ -8401,6 +8407,7 @@ host-suffix, tfogc.com, category-ads-all
 host-suffix, wechat.com, category-ads-all
 host-suffix, wechatpay.cn, category-ads-all
 host-suffix, weishi.com, category-ads-all
+host-suffix, weixin.com, category-ads-all
 host-suffix, weiyun.com, category-ads-all
 host-suffix, wxaurl.cn, category-ads-all
 host-suffix, wxcloudrun.com, category-ads-all

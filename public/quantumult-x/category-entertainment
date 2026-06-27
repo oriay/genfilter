@@ -19,6 +19,7 @@ host-suffix, overcast.fm, category-entertainment
 host-suffix, qobuz.com, category-entertainment
 host-suffix, sendvid.com, category-entertainment
 host-suffix, syosetu.com, category-entertainment
+host-suffix, unsplash.com, category-entertainment
 host-suffix, weverse.io, category-entertainment
 host-suffix, yande.re, category-entertainment
 host-suffix, amp-api.podcast.apple.com, category-entertainment
@@ -1071,6 +1072,8 @@ host-suffix, mangafunb.fun, category-entertainment
 host-suffix, dailymotion.com, category-entertainment
 host-suffix, dm-event.net, category-entertainment
 host-suffix, dmcdn.net, category-entertainment
+host-suffix, dandanplay.com, category-entertainment
+host-suffix, dandanplay.net, category-entertainment
 host-suffix, dandanzan.cc, category-entertainment
 host-suffix, nunuyy.cc, category-entertainment
 host-suffix, dazn.com, category-entertainment

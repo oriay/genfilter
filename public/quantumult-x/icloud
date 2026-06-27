@@ -3,6 +3,7 @@ host-suffix, appleicloud.cn, icloud
 host-suffix, applemx-icloud.com, icloud
 host-suffix, icloud-apple.cn, icloud
 host-suffix, icloud-content.com, icloud
+host-suffix, icloud-content.com.cn, icloud
 host-suffix, icloud-isupport.com, icloud
 host-suffix, icloud-sandbox.com, icloud
 host-suffix, icloud.ch, icloud

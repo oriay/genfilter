@@ -240,6 +240,7 @@ host-suffix, chrome.com, google
 host-suffix, chromebook.com, google
 host-suffix, chromecast.com, google
 host-suffix, chromeos.dev, google
+host-suffix, chromestatus.com, google
 host-suffix, chromium.org, google
 host-suffix, chronicle.security, google
 host-suffix, chroniclesec.com, google
