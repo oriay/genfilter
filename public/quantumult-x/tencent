@@ -9,6 +9,7 @@ host-suffix, gtimg.com, tencent
 host-suffix, gtimg.com.cn, tencent
 host-suffix, idqqimg.com, tencent
 host-suffix, imqq.com, tencent
+host-suffix, iot-tencent.com, tencent
 host-suffix, myapp.com, tencent
 host-suffix, qlivecdn.com, tencent
 host-suffix, qlogo.cn, tencent
@@ -34,11 +35,13 @@ host-suffix, wechat.com, tencent
 host-suffix, wechatpay.cn, tencent
 host-suffix, weishi.com, tencent
 host-suffix, weixin.com, tencent
+host-suffix, weixinsxy.com, tencent
 host-suffix, weiyun.com, tencent
 host-suffix, wxaurl.cn, tencent
 host-suffix, wxcloudrun.com, tencent
 host-suffix, wxgateway.com, tencent
 host-suffix, wxlivecdn.com, tencent
+host-suffix, wxmpurl.cn, tencent
 host-suffix, wetv.vip, tencent
 host-suffix, wetvinfo.com, tencent
 host, wetv.qq.com, tencent
@@ -666,6 +669,16 @@ host-suffix, xmcdn.com, tencent
 host-suffix, adbehavior.ximalaya.com, tencent
 host-suffix, adse.wsa.ximalaya.com, tencent
 host-suffix, adse.ximalaya.com, tencent
+host-suffix, aireads.cn, tencent
+host-suffix, chatdrama.cn, tencent
+host-suffix, chatdrama.net, tencent
+host-suffix, chatqidian.cn, tencent
+host-suffix, chatqidian.net, tencent
+host-suffix, chattext.cn, tencent
+host-suffix, chatwrite.net, tencent
+host-suffix, chatxiaoxiang.com, tencent
+host-suffix, chatyuewen.cn, tencent
+host-suffix, dishu3.com, tencent
 host-suffix, hongxiu.com, tencent
 host-suffix, qdmm.com, tencent
 host-suffix, qidian.com, tencent
@@ -675,5 +688,6 @@ host-suffix, tingbook.com, tencent
 host-suffix, xs.cn, tencent
 host-suffix, xs8.cn, tencent
 host-suffix, xxsy.net, tencent
+host-suffix, xxsypro.com, tencent
 host-suffix, yuewen.com, tencent
 host-suffix, webnovel.com, tencent

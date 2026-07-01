@@ -764,6 +764,7 @@ host-suffix, guoguo-app.com, category-ads-all
 host-suffix, v6-adashx.ut.cainiao.com, category-ads-all
 host-suffix, ddurl.to, category-ads-all
 host-suffix, dingding.xin, category-ads-all
+host-suffix, dingstore.cn, category-ads-all
 host-suffix, dingtalk.cn, category-ads-all
 host-suffix, dingtalk.com, category-ads-all
 host-suffix, dingtalk.net, category-ads-all
@@ -3193,6 +3194,7 @@ host-suffix, byteoversea.net, category-ads-all
 host-suffix, byteq5k.com, category-ads-all
 host-suffix, byteq8u.net, category-ads-all
 host-suffix, bytescm.com, category-ads-all
+host-suffix, bytespeech.com, category-ads-all
 host-suffix, bytesslb.net, category-ads-all
 host-suffix, bytetcc.com, category-ads-all
 host-suffix, bytetech.info, category-ads-all
@@ -3518,6 +3520,7 @@ host-suffix, ultracachenode.com, category-ads-all
 host-suffix, woaihuoshan.com, category-ads-all
 host-suffix, wohst8.com, category-ads-all
 host-suffix, douyinpay.com, category-ads-all
+host-suffix, open-douyin.com, category-ads-all
 host-suffix, activity-zhendingtech.com, category-ads-all
 host-suffix, changdunovel.com, category-ads-all
 host-suffix, fanqiecopyright.com, category-ads-all
@@ -7863,6 +7866,7 @@ host-suffix, qiyukf.com, category-ads-all
 host-suffix, qiyukf.net, category-ads-all
 host-suffix, qiyukf.net.cn, category-ads-all
 host-suffix, static163.net, category-ads-all
+host-suffix, weiyang.cn, category-ads-all
 host-suffix, ydstatic.com, category-ads-all
 host-suffix, yeah.net, category-ads-all
 host-suffix, youdao.com, category-ads-all
@@ -7870,6 +7874,8 @@ host-suffix, youdaoads.com, category-ads-all
 host-suffix, yunxindns.com, category-ads-all
 host-suffix, yunxinfw.com, category-ads-all
 host-suffix, zhuanzfx.com, category-ads-all
+host-suffix, yjwujian.cn, category-ads-all
+host-suffix, yysls.cn, category-ads-all
 host-suffix, a.youdao.com, category-ads-all
 host-suffix, admusicpic.music.126.net, category-ads-all
 host-suffix, ads.music.126.net, category-ads-all
@@ -8383,6 +8389,7 @@ host-suffix, gtimg.com, category-ads-all
 host-suffix, gtimg.com.cn, category-ads-all
 host-suffix, idqqimg.com, category-ads-all
 host-suffix, imqq.com, category-ads-all
+host-suffix, iot-tencent.com, category-ads-all
 host-suffix, myapp.com, category-ads-all
 host-suffix, qlivecdn.com, category-ads-all
 host-suffix, qlogo.cn, category-ads-all
@@ -8408,11 +8415,13 @@ host-suffix, wechat.com, category-ads-all
 host-suffix, wechatpay.cn, category-ads-all
 host-suffix, weishi.com, category-ads-all
 host-suffix, weixin.com, category-ads-all
+host-suffix, weixinsxy.com, category-ads-all
 host-suffix, weiyun.com, category-ads-all
 host-suffix, wxaurl.cn, category-ads-all
 host-suffix, wxcloudrun.com, category-ads-all
 host-suffix, wxgateway.com, category-ads-all
 host-suffix, wxlivecdn.com, category-ads-all
+host-suffix, wxmpurl.cn, category-ads-all
 host-suffix, wetv.vip, category-ads-all
 host-suffix, wetvinfo.com, category-ads-all
 host, wetv.qq.com, category-ads-all
@@ -9040,6 +9049,16 @@ host-suffix, xmcdn.com, category-ads-all
 host-suffix, adbehavior.ximalaya.com, category-ads-all
 host-suffix, adse.wsa.ximalaya.com, category-ads-all
 host-suffix, adse.ximalaya.com, category-ads-all
+host-suffix, aireads.cn, category-ads-all
+host-suffix, chatdrama.cn, category-ads-all
+host-suffix, chatdrama.net, category-ads-all
+host-suffix, chatqidian.cn, category-ads-all
+host-suffix, chatqidian.net, category-ads-all
+host-suffix, chattext.cn, category-ads-all
+host-suffix, chatwrite.net, category-ads-all
+host-suffix, chatxiaoxiang.com, category-ads-all
+host-suffix, chatyuewen.cn, category-ads-all
+host-suffix, dishu3.com, category-ads-all
 host-suffix, hongxiu.com, category-ads-all
 host-suffix, qdmm.com, category-ads-all
 host-suffix, qidian.com, category-ads-all
@@ -9049,6 +9068,7 @@ host-suffix, tingbook.com, category-ads-all
 host-suffix, xs.cn, category-ads-all
 host-suffix, xs8.cn, category-ads-all
 host-suffix, xxsy.net, category-ads-all
+host-suffix, xxsypro.com, category-ads-all
 host-suffix, yuewen.com, category-ads-all
 host-suffix, webnovel.com, category-ads-all
 host-suffix, tendcloud.com, category-ads-all

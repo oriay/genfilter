@@ -1688,6 +1688,7 @@ host-suffix, bank-credit-suisse-moscow.ru, geolocation-!cn
 host-suffix, bank131.com, geolocation-!cn
 host-suffix, bankermak.ru, geolocation-!cn
 host-suffix, bfa.ru, geolocation-!cn
+host-suffix, blanc.ru, geolocation-!cn
 host-suffix, bm-bank.ru, geolocation-!cn
 host-suffix, bspb.ru, geolocation-!cn
 host-suffix, commerzbank.ru, geolocation-!cn
@@ -3168,6 +3169,7 @@ host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
 host-suffix, wisekey.com, geolocation-!cn
 host-suffix, wisekey.com.hk, geolocation-!cn
+host-suffix, botim.me, geolocation-!cn
 host-suffix, clubhouse.com, geolocation-!cn
 host-suffix, clubhouseapi.com, geolocation-!cn
 host-suffix, joinclubhouse.com, geolocation-!cn
@@ -3369,6 +3371,7 @@ host-suffix, hashflow.com, geolocation-!cn
 host-suffix, hyperliquid.xyz, geolocation-!cn
 host-suffix, infura.io, geolocation-!cn
 host-suffix, invity.io, geolocation-!cn
+host-suffix, litecoin.org, geolocation-!cn
 host-suffix, maple.finance, geolocation-!cn
 host-suffix, megaeth.com, geolocation-!cn
 host-suffix, merkl.xyz, geolocation-!cn
@@ -8354,6 +8357,7 @@ host-suffix, macrumors.com, geolocation-!cn
 host-suffix, slashdot.org, geolocation-!cn
 host-suffix, technews.tw, geolocation-!cn
 host-suffix, techradar.com, geolocation-!cn
+host-suffix, techspot.com, geolocation-!cn
 host-suffix, theverge.com, geolocation-!cn
 host-suffix, tomsguide.com, geolocation-!cn
 host-suffix, zdnet.com, geolocation-!cn
@@ -12334,6 +12338,9 @@ host-suffix, hongkongdoll.tv, geolocation-!cn
 host-suffix, hongkongdollvideo.org, geolocation-!cn
 host-suffix, honnaka.jp, geolocation-!cn
 host-suffix, hoodamateurs.com, geolocation-!cn
+host-suffix, hornet.com, geolocation-!cn
+host-suffix, hornetapp.com, geolocation-!cn
+host-suffix, hornetx.com, geolocation-!cn
 host-suffix, hornybitches.org, geolocation-!cn
 host-suffix, hornybutt.com, geolocation-!cn
 host-suffix, hornychat.net, geolocation-!cn
@@ -17247,7 +17254,12 @@ host-suffix, mapbox.com, geolocation-!cn
 host-suffix, bitballoon.com, geolocation-!cn
 host-suffix, netlify.app, geolocation-!cn
 host-suffix, netlify.com, geolocation-!cn
+host-suffix, netlifydns.com, geolocation-!cn
 host-suffix, netlifystatus.com, geolocation-!cn
+host-suffix, netlifyusercontent.com, geolocation-!cn
+host-suffix, ntl.fyi, geolocation-!cn
+host, acd89244c803f7181.awsglobalaccelerator.com, geolocation-!cn
+host, afa7f374f51cc8991.awsglobalaccelerator.com, geolocation-!cn
 host, d33wubrfki0l68.cloudfront.net, geolocation-!cn
 host-suffix, notion-static.com, geolocation-!cn
 host-suffix, notion-status.com, geolocation-!cn

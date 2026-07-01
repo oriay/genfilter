@@ -57,6 +57,12 @@ host-suffix, rong360.com, cn
 host-suffix, pospal.cn, cn
 host-suffix, shfft.com, cn
 host-suffix, 100ycdn.com, cn
+host-suffix, admincdn.com, cn
+host-suffix, cravatar.cn, cn
+host-suffix, cravatar.com, cn
+host-suffix, wenpai.org, cn
+host-suffix, windfonts.com, cn
+host-suffix, wpcy.com, cn
 host-suffix, baijiayun.com, cn
 host-suffix, cjjd19.com, cn
 host-suffix, fdcyun.com, cn
@@ -92,6 +98,8 @@ host-suffix, azz.net, cn
 host-suffix, btghotels.com, cn
 host-suffix, bthhotels.com, cn
 host-suffix, homeinns.com, cn
+host-suffix, didachuxing.com, cn
+host-suffix, didapinche.com, cn
 host-suffix, dmall.com, cn
 host-suffix, dmallcdn.com, cn
 host-suffix, feiniu.com, cn
@@ -196,6 +204,7 @@ host-suffix, yayi360.com, cn
 host-suffix, youlai.cn, cn
 host-suffix, 12315.cn, cn
 host-suffix, 12321.cn, cn
+host-suffix, 12377.cn, cn
 host-suffix, gov.cn, cn
 host-suffix, acftu.org, cn
 host-suffix, cma.cn, cn
@@ -281,6 +290,7 @@ host-suffix, douguo.net, cn
 host-suffix, duanshu.com, cn
 host-suffix, dui88.com, cn
 host-suffix, duiba.com.cn, cn
+host-suffix, faceid.com, cn
 host-suffix, foundertype.com, cn
 host-suffix, fxbaogao.com, cn
 host-suffix, gongxiangjizhang.com, cn
@@ -329,6 +339,7 @@ host-suffix, viayoo.com, cn
 host-suffix, wenjuan.com, cn
 host-suffix, xbext.com, cn
 host-suffix, yinxiang.com, cn
+host-suffix, yunpian.com, cn
 host-suffix, zaih.com, cn
 host-suffix, zhaopin.cn, cn
 host-suffix, zhaopin.com, cn
@@ -353,6 +364,7 @@ host-suffix, cangpeng.com, cn
 host-suffix, erp198.com, cn
 host-suffix, sunrocks.cn, cn
 host-suffix, anquan.org, cn
+host-suffix, hackernews.cc, cn
 host-suffix, knownsec.com, cn
 host-suffix, yunaq.com, cn
 host-suffix, caocao.com.cn, cn
@@ -387,6 +399,7 @@ host-suffix, uzero.cn, cn
 host-suffix, xgzb.top, cn
 host-suffix, anytocopy.com, cn
 host-suffix, osbdf.com, cn
+host-suffix, boce.com, cn
 host-suffix, chaziyu.com, cn
 host-suffix, fofa.info, cn
 host-suffix, icplishi.com, cn
@@ -398,6 +411,7 @@ host-suffix, ipshu.com, cn
 host-suffix, ipshudi.com, cn
 host-suffix, itdog.cn, cn
 host-suffix, rdnsdb.com, cn
+host-suffix, tol.vip, cn
 host-suffix, webmasterhome.cn, cn
 host-suffix, 51kim.com, cn
 host-suffix, zhuye.kim, cn
@@ -724,7 +738,6 @@ host-suffix, easiu.com, cn
 host-suffix, eastsoo.com, cn
 host-suffix, eayyou.com, cn
 host-suffix, ebico.com, cn
-host-suffix, ebrun.com, cn
 host-suffix, ecjobhome.com, cn
 host-suffix, eeyy.com, cn
 host-suffix, eflycloud.com, cn
@@ -1071,6 +1084,7 @@ host-suffix, qudong.com, cn
 host-suffix, qugame.com, cn
 host-suffix, qunjielong.com, cn
 host-suffix, rockyenglish.com, cn
+host-suffix, rrmj.plus, cn
 host-suffix, rtbasia.com, cn
 host-suffix, ruan8.com, cn
 host-suffix, ruiwen.com, cn
@@ -1193,6 +1207,7 @@ host-suffix, vic18.com, cn
 host-suffix, videojj.com, cn
 host-suffix, vobao.com, cn
 host-suffix, vpgame.com, cn
+host-suffix, vpsvs.com, cn
 host-suffix, wangyangyang.vip, cn
 host-suffix, wannianli8.com, cn
 host-suffix, wanplus.com, cn
@@ -1203,6 +1218,7 @@ host-suffix, warmheart.top, cn
 host-suffix, wdzj.com, cn
 host-suffix, weand.com, cn
 host-suffix, weavatar.com, cn
+host-suffix, webportal.top, cn
 host-suffix, weicaifu.com, cn
 host-suffix, weilaicaijing.com, cn
 host-suffix, weixing.com, cn
@@ -1430,6 +1446,7 @@ host-suffix, mryys.cn, cn
 host-suffix, mryys.com, cn
 host-suffix, mysqil.com, cn
 host-suffix, pljzy.top, cn
+host-suffix, runningcheese.com, cn
 host-suffix, skywt.cn, cn
 host-suffix, soulteary.com, cn
 host-suffix, tai3.cn, cn
@@ -1460,6 +1477,7 @@ host-suffix, baltamatica.org.cn, cn
 host-suffix, baltamatica.com, cn
 host-suffix, blogjava.net, cn
 host-suffix, cnblogs.com, cn
+host-suffix, cnblogs.vip, cn
 host-suffix, cnitblog.com, cn
 host-suffix, cnweblog.com, cn
 host-suffix, cppblog.com, cn
@@ -1766,6 +1784,8 @@ host-suffix, 7k7k.com, cn
 host-suffix, 9xgame.com, cn
 host-suffix, arcaea.cn, cn
 host-suffix, astral-vector.com, cn
+host-suffix, 66rpg.com, cn
+host-suffix, cgyouxi.com, cn
 host-suffix, changyou.com, cn
 host-suffix, cy.com, cn
 host-suffix, playcool.com, cn
@@ -1784,16 +1804,19 @@ host-suffix, wmupd.com, cn
 host-suffix, ledu.com, cn
 host-suffix, longtugame.com, cn
 host-suffix, morefreegame.com, cn
+host-suffix, nalrer.cn, cn
+host-suffix, tuyoo.com, cn
 host-suffix, phira.cn, cn
 host-suffix, sdo.com, cn
 host-suffix, shengqugames.com, cn
 host-suffix, zjshulong.com, cn
 host-suffix, tgpro.top, cn
 host-suffix, tgprocs.net, cn
-host-suffix, tuyoo.com, cn
 host-suffix, winegame.net, cn
 host-suffix, wo1wan.com, cn
 host-suffix, ycgame.com, cn
+host-suffix, yjwujian.cn, cn
+host-suffix, yysls.cn, cn
 host-suffix, 3304399.com, cn
 host-suffix, 3304399.net, cn
 host-suffix, 3839.com, cn
@@ -2169,6 +2192,7 @@ host-suffix, ultracachenode.com, cn
 host-suffix, woaihuoshan.com, cn
 host-suffix, wohst8.com, cn
 host-suffix, douyinpay.com, cn
+host-suffix, open-douyin.com, cn
 host-suffix, douyu.com, cn
 host-suffix, douyu.tv, cn
 host-suffix, douyucdn.cn, cn
@@ -2490,6 +2514,16 @@ host-suffix, statis.api.3g.youku.com, cn
 host-suffix, v6-adashx.ut.youku.com, cn
 host-suffix, yk-ssp.ad.youku.com, cn
 host-suffix, ykad-data.youku.com, cn
+host-suffix, aireads.cn, cn
+host-suffix, chatdrama.cn, cn
+host-suffix, chatdrama.net, cn
+host-suffix, chatqidian.cn, cn
+host-suffix, chatqidian.net, cn
+host-suffix, chattext.cn, cn
+host-suffix, chatwrite.net, cn
+host-suffix, chatxiaoxiang.com, cn
+host-suffix, chatyuewen.cn, cn
+host-suffix, dishu3.com, cn
 host-suffix, hongxiu.com, cn
 host-suffix, qdmm.com, cn
 host-suffix, qidian.com, cn
@@ -2499,6 +2533,7 @@ host-suffix, tingbook.com, cn
 host-suffix, xs.cn, cn
 host-suffix, xs8.cn, cn
 host-suffix, xxsy.net, cn
+host-suffix, xxsypro.com, cn
 host-suffix, yuewen.com, cn
 host-suffix, webnovel.com, cn
 host-suffix, yy.com, cn
@@ -2863,6 +2898,7 @@ host-suffix, 3elife.net, cn
 host-suffix, 71shi.net, cn
 host-suffix, goodq.top, cn
 host-suffix, haowenti.net, cn
+host-suffix, 81.cn, cn
 host-suffix, admin5.com, cn
 host-suffix, ahcjw.com, cn
 host-suffix, ahcaijing.com, cn
@@ -2926,6 +2962,7 @@ host-suffix, donews.com, cn
 host-suffix, dzng.com, cn
 host-suffix, dzwww.com, cn
 host-suffix, eastday.com, cn
+host-suffix, ebrun.com, cn
 host-suffix, eeo.com.cn, cn
 host-suffix, evolife.cn, cn
 host-suffix, expreview.com, cn
@@ -2992,6 +3029,8 @@ host-suffix, kankanews.com, cn
 host-suffix, kankannews.com, cn
 host-suffix, kksmg.com, cn
 host-suffix, statickksmg.com, cn
+host-suffix, kjrb.com.cn, cn
+host-suffix, stdaily.com, cn
 host-suffix, knewsmart.com, cn
 host-suffix, latepost.com, cn
 host-suffix, leikeji.com, cn
@@ -3058,6 +3097,7 @@ host-suffix, 8531.cn, cn
 host-suffix, tidenews.com.cn, cn
 host-suffix, vbdata.cn, cn
 host-suffix, vcbeat.top, cn
+host-suffix, workercn.cn, cn
 host-suffix, woshipm.com, cn
 host-suffix, xhby.net, cn
 host-suffix, xilu.com, cn
@@ -4549,6 +4589,7 @@ host-suffix, bczcdn.com, cn
 host-suffix, bczeducation.cn, cn
 host-suffix, banxiaoer.com, cn
 host-suffix, banxiaoer.net, cn
+host-suffix, beie.org, cn
 host-suffix, biyehome.net, cn
 host-suffix, burningvocabulary.cn, cn
 host-suffix, burningvocabulary.com, cn
@@ -4566,6 +4607,7 @@ host-suffix, zggqzp.com, cn
 host-suffix, zgjsks.com, cn
 host-suffix, zgsydw.com, cn
 host-suffix, gk100.com, cn
+host-suffix, guojibk.com, cn
 host-suffix, huatu.com, cn
 host-suffix, sydw8.com, cn
 host-suffix, ictbda.cn, cn
@@ -4937,6 +4979,7 @@ host-suffix, 360doc.com, cn
 host-suffix, 51pptmoban.com, cn
 host-suffix, 51wendang.com, cn
 host-suffix, 52ppt.com, cn
+host-suffix, 777ppt.com, cn
 host-suffix, badou.com, cn
 host-suffix, book118.com, cn
 host-suffix, daodoc.com, cn
@@ -4946,6 +4989,7 @@ host-suffix, douding.cn, cn
 host-suffix, goldhoe.com, cn
 host-suffix, haohaodoc.com, cn
 host-suffix, jinchutou.com, cn
+host-suffix, keniu.com, cn
 host-suffix, lazyer.net, cn
 host-suffix, renrendoc.com, cn
 host-suffix, safewk.com, cn
@@ -5026,11 +5070,12 @@ host-suffix, 123957.com, cn
 host-suffix, 123pan.cn, cn
 host-suffix, 123pan.com, cn
 host-suffix, 123panpay.com, cn
+host-suffix, guangyacdn.com, cn
+host-suffix, guangyapan.com, cn
 host-suffix, cloud.189.cn, cn
 host-suffix, ctfile.com, cn
 host-suffix, feimaoyun.com, cn
 host-suffix, filez.com, cn
-host-suffix, guangyapan.com, cn
 host-suffix, jianguoyun.com, cn
 host-suffix, pan.baidu.com, cn
 host-suffix, pan.quark.cn, cn
@@ -5646,6 +5691,7 @@ host-suffix, guoguo-app.com, cn
 host-suffix, v6-adashx.ut.cainiao.com, cn
 host-suffix, ddurl.to, cn
 host-suffix, dingding.xin, cn
+host-suffix, dingstore.cn, cn
 host-suffix, dingtalk.cn, cn
 host-suffix, dingtalk.com, cn
 host-suffix, dingtalk.net, cn
@@ -6030,6 +6076,7 @@ host-suffix, byteoversea.net, cn
 host-suffix, byteq5k.com, cn
 host-suffix, byteq8u.net, cn
 host-suffix, bytescm.com, cn
+host-suffix, bytespeech.com, cn
 host-suffix, bytesslb.net, cn
 host-suffix, bytetcc.com, cn
 host-suffix, bytetech.info, cn
@@ -6355,6 +6402,7 @@ host-suffix, ultracachenode.com, cn
 host-suffix, woaihuoshan.com, cn
 host-suffix, wohst8.com, cn
 host-suffix, douyinpay.com, cn
+host-suffix, open-douyin.com, cn
 host-suffix, activity-zhendingtech.com, cn
 host-suffix, changdunovel.com, cn
 host-suffix, fanqiecopyright.com, cn
@@ -6717,6 +6765,7 @@ host-suffix, didiglobal.com, cn
 host-suffix, didimobility.co.jp, cn
 host-suffix, didistatic.com, cn
 host-suffix, diditaxi.com.cn, cn
+host-suffix, hongyibo.com.cn, cn
 host-suffix, udache.com, cn
 host-suffix, xiaojukeji.com, cn
 host-suffix, diiing.cn, cn
@@ -7312,6 +7361,7 @@ host-suffix, qiyukf.com, cn
 host-suffix, qiyukf.net, cn
 host-suffix, qiyukf.net.cn, cn
 host-suffix, static163.net, cn
+host-suffix, weiyang.cn, cn
 host-suffix, ydstatic.com, cn
 host-suffix, yeah.net, cn
 host-suffix, youdao.com, cn
@@ -7319,6 +7369,8 @@ host-suffix, youdaoads.com, cn
 host-suffix, yunxindns.com, cn
 host-suffix, yunxinfw.com, cn
 host-suffix, zhuanzfx.com, cn
+host-suffix, yjwujian.cn, cn
+host-suffix, yysls.cn, cn
 host-suffix, a.youdao.com, cn
 host-suffix, admusicpic.music.126.net, cn
 host-suffix, ads.music.126.net, cn
@@ -7521,6 +7573,7 @@ host-suffix, gtimg.com, cn
 host-suffix, gtimg.com.cn, cn
 host-suffix, idqqimg.com, cn
 host-suffix, imqq.com, cn
+host-suffix, iot-tencent.com, cn
 host-suffix, myapp.com, cn
 host-suffix, qlivecdn.com, cn
 host-suffix, qlogo.cn, cn
@@ -7546,11 +7599,13 @@ host-suffix, wechat.com, cn
 host-suffix, wechatpay.cn, cn
 host-suffix, weishi.com, cn
 host-suffix, weixin.com, cn
+host-suffix, weixinsxy.com, cn
 host-suffix, weiyun.com, cn
 host-suffix, wxaurl.cn, cn
 host-suffix, wxcloudrun.com, cn
 host-suffix, wxgateway.com, cn
 host-suffix, wxlivecdn.com, cn
+host-suffix, wxmpurl.cn, cn
 host-suffix, wetv.vip, cn
 host-suffix, wetvinfo.com, cn
 host, wetv.qq.com, cn
@@ -8178,6 +8233,16 @@ host-suffix, xmcdn.com, cn
 host-suffix, adbehavior.ximalaya.com, cn
 host-suffix, adse.wsa.ximalaya.com, cn
 host-suffix, adse.ximalaya.com, cn
+host-suffix, aireads.cn, cn
+host-suffix, chatdrama.cn, cn
+host-suffix, chatdrama.net, cn
+host-suffix, chatqidian.cn, cn
+host-suffix, chatqidian.net, cn
+host-suffix, chattext.cn, cn
+host-suffix, chatwrite.net, cn
+host-suffix, chatxiaoxiang.com, cn
+host-suffix, chatyuewen.cn, cn
+host-suffix, dishu3.com, cn
 host-suffix, hongxiu.com, cn
 host-suffix, qdmm.com, cn
 host-suffix, qidian.com, cn
@@ -8187,6 +8252,7 @@ host-suffix, tingbook.com, cn
 host-suffix, xs.cn, cn
 host-suffix, xs8.cn, cn
 host-suffix, xxsy.net, cn
+host-suffix, xxsypro.com, cn
 host-suffix, yuewen.com, cn
 host-suffix, webnovel.com, cn
 host-suffix, 51ssl.cn, cn
