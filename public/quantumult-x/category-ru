@@ -19,6 +19,7 @@ host-suffix, dom.ru, category-ru
 host-suffix, 3ebra.net, category-ru
 host-suffix, apptrackpets.com, category-ru
 host-suffix, flomni.com, category-ru
+host-suffix, foto-planeta.com, category-ru
 host-suffix, gazfond-pn.ru, category-ru
 host-suffix, kinescopecdn.net, category-ru
 host-suffix, litres.ru, category-ru
@@ -29,6 +30,7 @@ host-suffix, ognihome.com, category-ru
 host-suffix, pochta.ru, category-ru
 host-suffix, ponyexpress.ru, category-ru
 host-suffix, qms.ru, category-ru
+host-suffix, randomgodbot.com, category-ru
 host-suffix, srv-hub.org, category-ru
 host-suffix, t1.cloud, category-ru
 host-suffix, taxsee.com, category-ru
@@ -1243,6 +1245,9 @@ host-suffix, nichost.ru, category-ru
 host-suffix, nic.ru, category-ru
 host-suffix, r01.ru, category-ru
 host-suffix, sweb.ru, category-ru
+host-suffix, ptcloud.ru, category-ru
+host-suffix, ptsecurity.com, category-ru
+host-suffix, standoff365.com, category-ru
 host-suffix, reg.cloud, category-ru
 host-suffix, reg.com, category-ru
 host-suffix, reg.ru, category-ru
@@ -1270,6 +1275,8 @@ host-suffix, tehnodom.com, category-ru
 host-suffix, vscale.blog, category-ru
 host-suffix, vscale.io, category-ru
 host-suffix, vscale.ru, category-ru
+host-suffix, servicepipe.tech, category-ru
+host-suffix, servicepipe.ru, category-ru
 host-suffix, sky.pro, category-ru
 host-suffix, skyeng.ru, category-ru
 host-suffix, tilda.cc, category-ru

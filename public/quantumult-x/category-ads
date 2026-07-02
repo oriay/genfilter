@@ -7435,7 +7435,6 @@ host-suffix, bingsandbox.com, category-ads
 host-suffix, bingvisualsearch.com, category-ads
 host-suffix, bingworld.com, category-ads
 host-suffix, bluehatnights.com, category-ads
-host-suffix, copilot.microsoft.com, category-ads
 host-suffix, dictate.ms, category-ads
 host-suffix, flipwithsurface.com, category-ads
 host-suffix, masalladeloslimites.com, category-ads
@@ -7450,6 +7449,8 @@ host-suffix, office365love.com, category-ads
 host-suffix, office365tw.com, category-ads
 host-suffix, renovacionoffice.com, category-ads
 host-suffix, sprinklesapp.com, category-ads
+host-suffix, copilot.com, category-ads
+host-suffix, copilot.microsoft.com, category-ads
 host, location.microsoft.com, category-ads
 host-suffix, cn.bing.com, category-ads
 host-suffix, cn.bing.net, category-ads
@@ -7892,12 +7893,14 @@ host-suffix, openai.com, category-ads
 host-suffix, sora.com, category-ads
 host-suffix, openai.com.cdn.cloudflare.net, category-ads
 host, openaiapi-site.azureedge.net, category-ads
+host, openaiassets.blob.core.windows.net, category-ads
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, category-ads
 host, openaicom.imgix.net, category-ads
 host, openaicomproductionae4b.blob.core.windows.net, category-ads
 host, production-openaicom-storage.azureedge.net, category-ads
-host, o33249.ingest.sentry.io, category-ads
 host, browser-intake-datadoghq.com, category-ads
+host, o33249.ingest.sentry.io, category-ads
+host, openai.qualtrics.com, category-ads
 host-suffix, chatgpt.livekit.cloud, category-ads
 host-suffix, host.livekit.cloud, category-ads
 host-suffix, turn.livekit.cloud, category-ads

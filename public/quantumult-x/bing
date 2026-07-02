@@ -12,7 +12,6 @@ host-suffix, bingsandbox.com, bing
 host-suffix, bingvisualsearch.com, bing
 host-suffix, bingworld.com, bing
 host-suffix, bluehatnights.com, bing
-host-suffix, copilot.microsoft.com, bing
 host-suffix, dictate.ms, bing
 host-suffix, flipwithsurface.com, bing
 host-suffix, masalladeloslimites.com, bing
@@ -27,6 +26,8 @@ host-suffix, office365love.com, bing
 host-suffix, office365tw.com, bing
 host-suffix, renovacionoffice.com, bing
 host-suffix, sprinklesapp.com, bing
+host-suffix, copilot.com, bing
+host-suffix, copilot.microsoft.com, bing
 host, location.microsoft.com, bing
 host-suffix, cn.bing.com, bing
 host-suffix, cn.bing.net, bing

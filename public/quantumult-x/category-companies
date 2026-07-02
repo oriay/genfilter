@@ -7258,7 +7258,6 @@ host-suffix, bingsandbox.com, category-companies
 host-suffix, bingvisualsearch.com, category-companies
 host-suffix, bingworld.com, category-companies
 host-suffix, bluehatnights.com, category-companies
-host-suffix, copilot.microsoft.com, category-companies
 host-suffix, dictate.ms, category-companies
 host-suffix, flipwithsurface.com, category-companies
 host-suffix, masalladeloslimites.com, category-companies
@@ -7273,6 +7272,8 @@ host-suffix, office365love.com, category-companies
 host-suffix, office365tw.com, category-companies
 host-suffix, renovacionoffice.com, category-companies
 host-suffix, sprinklesapp.com, category-companies
+host-suffix, copilot.com, category-companies
+host-suffix, copilot.microsoft.com, category-companies
 host, location.microsoft.com, category-companies
 host-suffix, cn.bing.com, category-companies
 host-suffix, cn.bing.net, category-companies
