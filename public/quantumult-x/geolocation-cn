@@ -3246,6 +3246,9 @@ host-suffix, jikecdn.com, geolocation-cn
 host-suffix, okjike.com, geolocation-cn
 host-suffix, okjk.co, geolocation-cn
 host-suffix, ruguoapp.com, geolocation-cn
+host-suffix, sina, geolocation-cn
+host-suffix, weibo, geolocation-cn
+host-suffix, xn--9krt00a, geolocation-cn
 host-suffix, 97973.com, geolocation-cn
 host-suffix, hk.weibo.com, geolocation-cn
 host-suffix, my.weibo.com, geolocation-cn
@@ -7391,6 +7394,10 @@ host-suffix, qianxin.com, geolocation-cn
 host-suffix, qianxincdn.com, geolocation-cn
 host-suffix, seclab.online, geolocation-cn
 host-suffix, tianshucup.com, geolocation-cn
+host-suffix, anquan, geolocation-cn
+host-suffix, shouji, geolocation-cn
+host-suffix, xihuan, geolocation-cn
+host-suffix, yun, geolocation-cn
 host-suffix, 360.cn, geolocation-cn
 host-suffix, 360.com, geolocation-cn
 host-suffix, 360.net, geolocation-cn

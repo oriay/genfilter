@@ -356,6 +356,7 @@ host-suffix, azk8s.cn, microsoft
 host-suffix, aznbcontent.cn, microsoft
 host-suffix, aztask.cn, microsoft
 host-suffix, azure-api.cn, microsoft
+host-suffix, azure-api.net, microsoft
 host-suffix, azure-apihub.cn, microsoft
 host-suffix, azure-automation.cn, microsoft
 host-suffix, azure-connectedvehicles-stage.cn, microsoft
@@ -404,6 +405,7 @@ host-suffix, azuresandbox.cn, microsoft
 host-suffix, azureserviceprofiler.com, microsoft
 host-suffix, azuresmartspaces.net, microsoft
 host-suffix, azurestackvalidation.com, microsoft
+host-suffix, azurestaticapps.net, microsoft
 host-suffix, azurewebsites.net, microsoft
 host-suffix, b2clogin.cn, microsoft
 host-suffix, b3itech.cn, microsoft
@@ -517,6 +519,7 @@ host-suffix, office365love.com, microsoft
 host-suffix, office365tw.com, microsoft
 host-suffix, renovacionoffice.com, microsoft
 host-suffix, sprinklesapp.com, microsoft
+host-suffix, copilot.cloud.microsoft, microsoft
 host-suffix, copilot.com, microsoft
 host-suffix, copilot.microsoft.com, microsoft
 host, location.microsoft.com, microsoft

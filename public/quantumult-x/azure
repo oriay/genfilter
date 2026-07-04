@@ -13,6 +13,7 @@ host-suffix, azk8s.cn, azure
 host-suffix, aznbcontent.cn, azure
 host-suffix, aztask.cn, azure
 host-suffix, azure-api.cn, azure
+host-suffix, azure-api.net, azure
 host-suffix, azure-apihub.cn, azure
 host-suffix, azure-automation.cn, azure
 host-suffix, azure-connectedvehicles-stage.cn, azure
@@ -61,6 +62,7 @@ host-suffix, azuresandbox.cn, azure
 host-suffix, azureserviceprofiler.com, azure
 host-suffix, azuresmartspaces.net, azure
 host-suffix, azurestackvalidation.com, azure
+host-suffix, azurestaticapps.net, azure
 host-suffix, azurewebsites.net, azure
 host-suffix, b2clogin.cn, azure
 host-suffix, b3itech.cn, azure

@@ -176,7 +176,6 @@ host-suffix, pm, tld-!cn
 host-suffix, pn, tld-!cn
 host-suffix, pr, tld-!cn
 host-suffix, ps, tld-!cn
-host-suffix, ps, tld-!cn
 host-suffix, pt, tld-!cn
 host-suffix, py, tld-!cn
 host-suffix, qa, tld-!cn
@@ -197,7 +196,6 @@ host-suffix, sk, tld-!cn
 host-suffix, sl, tld-!cn
 host-suffix, sm, tld-!cn
 host-suffix, sn, tld-!cn
-host-suffix, so, tld-!cn
 host-suffix, so, tld-!cn
 host-suffix, sr, tld-!cn
 host-suffix, ss, tld-!cn
@@ -386,10 +384,8 @@ host-suffix, weber, tld-!cn
 host-suffix, weir, tld-!cn
 host-suffix, woodside, tld-!cn
 host-suffix, zara, tld-!cn
-host-suffix, africamagic, tld-!cn
 host-suffix, agakhan, tld-!cn
 host-suffix, akdn, tld-!cn
-host-suffix, bar, tld-!cn
 host-suffix, bharti, tld-!cn
 host-suffix, bingo, tld-!cn
 host-suffix, casa, tld-!cn
@@ -413,7 +409,6 @@ host-suffix, style, tld-!cn
 host-suffix, sucks, tld-!cn
 host-suffix, tattoo, tld-!cn
 host-suffix, vana, tld-!cn
-host-suffix, virgin, tld-!cn
 host-suffix, vodka, tld-!cn
 host-suffix, wine, tld-!cn
 host-suffix, wme, tld-!cn
@@ -661,6 +656,7 @@ host-suffix, amazon, tld-!cn
 host-suffix, aol, tld-!cn
 host-suffix, aws, tld-!cn
 host-suffix, azure, tld-!cn
+host-suffix, bing, tld-!cn
 host-suffix, chrome, tld-!cn
 host-suffix, cisco, tld-!cn
 host-suffix, dclk, tld-!cn
@@ -721,7 +717,6 @@ host-suffix, richardli, tld-!cn
 host-suffix, ricoh, tld-!cn
 host-suffix, rogers, tld-!cn
 host-suffix, sakura, tld-!cn
-host-suffix, sas, tld-!cn
 host-suffix, sfr, tld-!cn
 host-suffix, shaw, tld-!cn
 host-suffix, skype, tld-!cn
