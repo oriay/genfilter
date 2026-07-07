@@ -384,9 +384,8 @@ host-suffix, unrealengine.com, category-entertainment
 host-suffix, unrealtournament.com, category-entertainment
 host-suffix, egdownload.fastly-edge.com, category-entertainment
 host-suffix, fortnite-vod.akamaized.net, category-entertainment
-host-suffix, tarkov.com, category-entertainment
-host-suffix, eft-store.com, category-entertainment
-host-suffix, escapefromtarkov.com, category-entertainment
+host-suffix, 429:, category-entertainment
+host-suffix, For, category-entertainment
 host-suffix, faceit.com, category-entertainment
 host-suffix, faceit-cdn.net, category-entertainment
 host-suffix, acesofthunder.net, category-entertainment

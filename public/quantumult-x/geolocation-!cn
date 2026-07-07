@@ -3409,8 +3409,8 @@ host-suffix, walletconnect.org, geolocation-!cn
 host-suffix, web3modal.org, geolocation-!cn
 host-suffix, wintermute.com, geolocation-!cn
 host-suffix, zapper.fi, geolocation-!cn
-host-suffix, asproex.com, geolocation-!cn
-host-suffix, asproexapi.com, geolocation-!cn
+host-suffix, 429:, geolocation-!cn
+host-suffix, For, geolocation-!cn
 host-suffix, binance.cc, geolocation-!cn
 host-suffix, binance.charity, geolocation-!cn
 host-suffix, binance.cloud, geolocation-!cn
@@ -9216,11 +9216,8 @@ host-suffix, huffpostarabi.com, geolocation-!cn
 host-suffix, huffpostbrasil.com, geolocation-!cn
 host-suffix, huffpostmaghreb.com, geolocation-!cn
 host-suffix, i-cablecomm.com, geolocation-!cn
-host-suffix, cabletv.com.hk, geolocation-!cn
-host-suffix, fantv.hk, geolocation-!cn
-host-suffix, hkopentv.com, geolocation-!cn
-host-suffix, hoy.tv, geolocation-!cn
-host-suffix, i-cable.com, geolocation-!cn
+host-suffix, 429:, geolocation-!cn
+host-suffix, For, geolocation-!cn
 host-suffix, banned.video, geolocation-!cn
 host-suffix, infowars.com, geolocation-!cn
 host-suffix, infowarsmedia.com, geolocation-!cn

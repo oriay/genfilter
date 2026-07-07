@@ -79,8 +79,8 @@ host-suffix, greatfire.org, category-anticensorship
 host-suffix, greatfirevpn.com, category-anticensorship
 host-suffix, pao-pao.net, category-anticensorship
 host-suffix, wikiunblocked.org, category-anticensorship
-host-suffix, haveibeenpwned.com, category-anticensorship
-host-suffix, pwnedpasswords.com, category-anticensorship
+host-suffix, 429:, category-anticensorship
+host-suffix, For, category-anticensorship
 host-suffix, getlantern.org, category-anticensorship
 host-suffix, lantern.io, category-anticensorship
 host-suffix, paskoocheh.com, category-anticensorship
