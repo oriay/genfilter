@@ -696,6 +696,7 @@ host-suffix, myalicdn.com, category-ads-all
 host-suffix, ap-southeast-1.aliyuncs.com, category-ads-all
 host-suffix, cn-hangzhou.aliyuncs.com, category-ads-all
 host-suffix, cn-shanghai.aliyuncs.com, category-ads-all
+host-suffix, log-global.aliyuncs.com, category-ads-all
 host-suffix, oss-ap-northeast-1.aliyuncs.com, category-ads-all
 host-suffix, oss-ap-northeast-2.aliyuncs.com, category-ads-all
 host-suffix, oss-ap-south-1.aliyuncs.com, category-ads-all
@@ -3335,6 +3336,7 @@ host-suffix, zjbyte.net, category-ads-all
 host-suffix, zjcdn.com, category-ads-all
 host-suffix, zjfcdn.com, category-ads-all
 host-suffix, zjgslb.com, category-ads-all
+host-suffix, zlinkurl.cn, category-ads-all
 host, bytedance.map.fastly.net, category-ads-all
 host-suffix, toutiao.com, category-ads-all
 host-suffix, toutiaoapi.com, category-ads-all
@@ -8402,11 +8404,8 @@ host-suffix, sina, category-ads-all
 host-suffix, weibo, category-ads-all
 host-suffix, xn--9krt00a, category-ads-all
 host-suffix, 97973.com, category-ads-all
-host-suffix, hk.weibo.com, category-ads-all
-host-suffix, my.weibo.com, category-ads-all
-host-suffix, overseas.weibo.com, category-ads-all
+host-suffix, krcom.cn, category-ads-all
 host-suffix, picself.cn, category-ads-all
-host-suffix, sg.weibo.com, category-ads-all
 host-suffix, sina.cn, category-ads-all
 host-suffix, sina.com, category-ads-all
 host-suffix, sina.com.cn, category-ads-all
@@ -8418,9 +8417,6 @@ host-suffix, sinaimg.com, category-ads-all
 host-suffix, sinajs.cn, category-ads-all
 host-suffix, sinajs.com, category-ads-all
 host-suffix, t.cn, category-ads-all
-host-suffix, th.weibo.com, category-ads-all
-host-suffix, tw.weibo.com, category-ads-all
-host-suffix, us.weibo.com, category-ads-all
 host-suffix, videoself.cn, category-ads-all
 host-suffix, wbimg.cn, category-ads-all
 host-suffix, wbimg.com, category-ads-all
@@ -8431,6 +8427,13 @@ host-suffix, weibo.com.cn, category-ads-all
 host-suffix, weibocdn.com, category-ads-all
 host-suffix, weibopay.com, category-ads-all
 host-suffix, xhaiwai.com, category-ads-all
+host-suffix, hk.weibo.com, category-ads-all
+host-suffix, my.weibo.com, category-ads-all
+host-suffix, overseas.weibo.com, category-ads-all
+host-suffix, sg.weibo.com, category-ads-all
+host-suffix, th.weibo.com, category-ads-all
+host-suffix, tw.weibo.com, category-ads-all
+host-suffix, us.weibo.com, category-ads-all
 host-suffix, ad.sina.com.cn, category-ads-all
 host-suffix, ad.us.sinaimg.cn, category-ads-all
 host-suffix, adbox.sina.com.cn, category-ads-all
@@ -8486,6 +8489,13 @@ host-suffix, qpb.sohu.com, category-ads-all
 host-suffix, qpb1.sohu.com, category-ads-all
 host-suffix, reke.at.sohu.com, category-ads-all
 host-suffix, track.sohu.com, category-ads-all
+host-suffix, 17173.com, category-ads-all
+host-suffix, 17173cdn.com, category-ads-all
+host-suffix, changyou.com, category-ads-all
+host-suffix, cy.com, category-ads-all
+host-suffix, playcool.com, category-ads-all
+host-suffix, yeyou.com, category-ads-all
+host-suffix, yeyoucdn.com, category-ads-all
 host-suffix, byspotify.com, category-ads-all
 host-suffix, lifeatspotify.com, category-ads-all
 host-suffix, pscdn.co, category-ads-all

@@ -33,11 +33,8 @@ host-suffix, sina, category-social-media-cn
 host-suffix, weibo, category-social-media-cn
 host-suffix, xn--9krt00a, category-social-media-cn
 host-suffix, 97973.com, category-social-media-cn
-host-suffix, hk.weibo.com, category-social-media-cn
-host-suffix, my.weibo.com, category-social-media-cn
-host-suffix, overseas.weibo.com, category-social-media-cn
+host-suffix, krcom.cn, category-social-media-cn
 host-suffix, picself.cn, category-social-media-cn
-host-suffix, sg.weibo.com, category-social-media-cn
 host-suffix, sina.cn, category-social-media-cn
 host-suffix, sina.com, category-social-media-cn
 host-suffix, sina.com.cn, category-social-media-cn
@@ -49,9 +46,6 @@ host-suffix, sinaimg.com, category-social-media-cn
 host-suffix, sinajs.cn, category-social-media-cn
 host-suffix, sinajs.com, category-social-media-cn
 host-suffix, t.cn, category-social-media-cn
-host-suffix, th.weibo.com, category-social-media-cn
-host-suffix, tw.weibo.com, category-social-media-cn
-host-suffix, us.weibo.com, category-social-media-cn
 host-suffix, videoself.cn, category-social-media-cn
 host-suffix, wbimg.cn, category-social-media-cn
 host-suffix, wbimg.com, category-social-media-cn
@@ -62,6 +56,13 @@ host-suffix, weibo.com.cn, category-social-media-cn
 host-suffix, weibocdn.com, category-social-media-cn
 host-suffix, weibopay.com, category-social-media-cn
 host-suffix, xhaiwai.com, category-social-media-cn
+host-suffix, hk.weibo.com, category-social-media-cn
+host-suffix, my.weibo.com, category-social-media-cn
+host-suffix, overseas.weibo.com, category-social-media-cn
+host-suffix, sg.weibo.com, category-social-media-cn
+host-suffix, th.weibo.com, category-social-media-cn
+host-suffix, tw.weibo.com, category-social-media-cn
+host-suffix, us.weibo.com, category-social-media-cn
 host-suffix, ad.sina.com.cn, category-social-media-cn
 host-suffix, ad.us.sinaimg.cn, category-social-media-cn
 host-suffix, adbox.sina.com.cn, category-social-media-cn

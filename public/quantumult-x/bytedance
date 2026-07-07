@@ -256,6 +256,7 @@ host-suffix, zjbyte.net, bytedance
 host-suffix, zjcdn.com, bytedance
 host-suffix, zjfcdn.com, bytedance
 host-suffix, zjgslb.com, bytedance
+host-suffix, zlinkurl.cn, bytedance
 host, bytedance.map.fastly.net, bytedance
 host-suffix, toutiao.com, bytedance
 host-suffix, toutiaoapi.com, bytedance

@@ -338,6 +338,13 @@ host-suffix, qpb.sohu.com, category-media-cn
 host-suffix, qpb1.sohu.com, category-media-cn
 host-suffix, reke.at.sohu.com, category-media-cn
 host-suffix, track.sohu.com, category-media-cn
+host-suffix, 17173.com, category-media-cn
+host-suffix, 17173cdn.com, category-media-cn
+host-suffix, changyou.com, category-media-cn
+host-suffix, cy.com, category-media-cn
+host-suffix, playcool.com, category-media-cn
+host-suffix, yeyou.com, category-media-cn
+host-suffix, yeyoucdn.com, category-media-cn
 host-suffix, tmtpost.com, category-media-cn
 host-suffix, chaindd.com, category-media-cn
 host-suffix, 72whys.com, category-media-cn

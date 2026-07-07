@@ -3561,6 +3561,11 @@ DOMAIN-SUFFIX,redino.tw
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 DOMAIN,stats.avito.ru
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,o3.ru
 DOMAIN-SUFFIX,o3t.ru
@@ -16948,8 +16953,12 @@ DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,429:
-DOMAIN-SUFFIX,For
+DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,appconsent.io
 DOMAIN-SUFFIX,axept.io
@@ -18148,6 +18157,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com

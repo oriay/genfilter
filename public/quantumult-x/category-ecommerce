@@ -10,6 +10,11 @@ host-suffix, redino.tw, category-ecommerce
 host-suffix, avito.ru, category-ecommerce
 host-suffix, avito.st, category-ecommerce
 host, stats.avito.ru, category-ecommerce
+host-suffix, flowwow-images.com, category-ecommerce
+host-suffix, flowwow.com, category-ecommerce
+host-suffix, funpay.com, category-ecommerce
+host-suffix, funpay.ru, category-ecommerce
+host-suffix, sfunpay.com, category-ecommerce
 host-suffix, ewisdom.us.kg, category-ecommerce
 host-suffix, o3.ru, category-ecommerce
 host-suffix, o3t.ru, category-ecommerce
