@@ -17366,13 +17366,8 @@ host-suffix, ntl.fyi, geolocation-!cn
 host, acd89244c803f7181.awsglobalaccelerator.com, geolocation-!cn
 host, afa7f374f51cc8991.awsglobalaccelerator.com, geolocation-!cn
 host, d33wubrfki0l68.cloudfront.net, geolocation-!cn
-host-suffix, notion-static.com, geolocation-!cn
-host-suffix, notion-status.com, geolocation-!cn
-host-suffix, notion.com, geolocation-!cn
-host-suffix, notion.new, geolocation-!cn
-host-suffix, notion.site, geolocation-!cn
-host-suffix, notion.so, geolocation-!cn
-host-suffix, notionusercontent.com, geolocation-!cn
+host-suffix, 429:, geolocation-!cn
+host-suffix, For, geolocation-!cn
 host-suffix, domain:okaapps.com, geolocation-!cn
 host-suffix, opencollective.com, geolocation-!cn
 host-suffix, omaps.app, geolocation-!cn
