@@ -54,6 +54,7 @@ host-suffix, mariadb.org, category-dev
 host-suffix, mate-desktop.org, category-dev
 host-suffix, mingw.org, category-dev
 host-suffix, mobatek.net, category-dev
+host-suffix, motocms.com, category-dev
 host-suffix, mpv.io, category-dev
 host-suffix, msys2.org, category-dev
 host-suffix, mysql.com, category-dev
@@ -110,6 +111,7 @@ host-suffix, xposed.info, category-dev
 host-suffix, yarnpkg.com, category-dev
 host-suffix, ziglang.org, category-dev
 host-suffix, zsh.org, category-dev
+host-suffix, crocoblock.com, category-dev
 host-suffix, elegantthemes.com, category-dev
 host-suffix, hivepress.io, category-dev
 host-suffix, motopress.com, category-dev

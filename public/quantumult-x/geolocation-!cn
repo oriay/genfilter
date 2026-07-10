@@ -216,6 +216,8 @@ host-suffix, geti2p.net, geolocation-!cn
 host-suffix, getoutline.org, geolocation-!cn
 host-suffix, gfw.report, geolocation-!cn
 host-suffix, guardianproject.info, geolocation-!cn
+host-suffix, happ.info, geolocation-!cn
+host-suffix, happ.su, geolocation-!cn
 host-suffix, hiddify.com, geolocation-!cn
 host-suffix, jitsi.org, geolocation-!cn
 host-suffix, lokinet.org, geolocation-!cn
@@ -3360,6 +3362,7 @@ host-suffix, cryptomus.com, geolocation-!cn
 host-suffix, curve.fi, geolocation-!cn
 host-suffix, cyberx.com, geolocation-!cn
 host-suffix, debank.com, geolocation-!cn
+host-suffix, delets.online, geolocation-!cn
 host-suffix, dogecoin.com, geolocation-!cn
 host-suffix, drpc.org, geolocation-!cn
 host-suffix, dydx.exchange, geolocation-!cn
@@ -3387,11 +3390,16 @@ host-suffix, mexcsensors.com, geolocation-!cn
 host-suffix, mytokenapi.com, geolocation-!cn
 host-suffix, nodereal.io, geolocation-!cn
 host-suffix, oasis.io, geolocation-!cn
+host-suffix, onemoment.cc, geolocation-!cn
 host-suffix, onfinality.io, geolocation-!cn
 host-suffix, opensea.io, geolocation-!cn
 host-suffix, osl.com, geolocation-!cn
 host-suffix, paxful.com, geolocation-!cn
+host-suffix, payget.pro, geolocation-!cn
+host-suffix, platov.co, geolocation-!cn
 host-suffix, polymarket.com, geolocation-!cn
+host-suffix, ramon.cash, geolocation-!cn
+host-suffix, ramon.money, geolocation-!cn
 host-suffix, ripple.com, geolocation-!cn
 host-suffix, rsk.co, geolocation-!cn
 host-suffix, satoshilabs.com, geolocation-!cn
@@ -3411,6 +3419,9 @@ host-suffix, wintermute.com, geolocation-!cn
 host-suffix, zapper.fi, geolocation-!cn
 host-suffix, asproex.com, geolocation-!cn
 host-suffix, asproexapi.com, geolocation-!cn
+host-suffix, bestchange.com, geolocation-!cn
+host-suffix, bestchange.net, geolocation-!cn
+host-suffix, bestchange.ru, geolocation-!cn
 host-suffix, binance.cc, geolocation-!cn
 host-suffix, binance.charity, geolocation-!cn
 host-suffix, binance.cloud, geolocation-!cn
@@ -3558,6 +3569,7 @@ host-suffix, kinguin.net, geolocation-!cn
 host-suffix, pornhubapparel.com, geolocation-!cn
 host-suffix, readmoo.com, geolocation-!cn
 host-suffix, redino.tw, geolocation-!cn
+host-suffix, templatemonster.com, geolocation-!cn
 host-suffix, avito.ru, geolocation-!cn
 host-suffix, avito.st, geolocation-!cn
 host, stats.avito.ru, geolocation-!cn
@@ -17628,6 +17640,7 @@ host-suffix, mariadb.org, geolocation-!cn
 host-suffix, mate-desktop.org, geolocation-!cn
 host-suffix, mingw.org, geolocation-!cn
 host-suffix, mobatek.net, geolocation-!cn
+host-suffix, motocms.com, geolocation-!cn
 host-suffix, mpv.io, geolocation-!cn
 host-suffix, msys2.org, geolocation-!cn
 host-suffix, mysql.com, geolocation-!cn
@@ -17684,6 +17697,7 @@ host-suffix, xposed.info, geolocation-!cn
 host-suffix, yarnpkg.com, geolocation-!cn
 host-suffix, ziglang.org, geolocation-!cn
 host-suffix, zsh.org, geolocation-!cn
+host-suffix, crocoblock.com, geolocation-!cn
 host-suffix, elegantthemes.com, geolocation-!cn
 host-suffix, hivepress.io, geolocation-!cn
 host-suffix, motopress.com, geolocation-!cn

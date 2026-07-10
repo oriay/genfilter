@@ -34,6 +34,7 @@ host-suffix, cryptomus.com, category-cryptocurrency
 host-suffix, curve.fi, category-cryptocurrency
 host-suffix, cyberx.com, category-cryptocurrency
 host-suffix, debank.com, category-cryptocurrency
+host-suffix, delets.online, category-cryptocurrency
 host-suffix, dogecoin.com, category-cryptocurrency
 host-suffix, drpc.org, category-cryptocurrency
 host-suffix, dydx.exchange, category-cryptocurrency
@@ -61,11 +62,16 @@ host-suffix, mexcsensors.com, category-cryptocurrency
 host-suffix, mytokenapi.com, category-cryptocurrency
 host-suffix, nodereal.io, category-cryptocurrency
 host-suffix, oasis.io, category-cryptocurrency
+host-suffix, onemoment.cc, category-cryptocurrency
 host-suffix, onfinality.io, category-cryptocurrency
 host-suffix, opensea.io, category-cryptocurrency
 host-suffix, osl.com, category-cryptocurrency
 host-suffix, paxful.com, category-cryptocurrency
+host-suffix, payget.pro, category-cryptocurrency
+host-suffix, platov.co, category-cryptocurrency
 host-suffix, polymarket.com, category-cryptocurrency
+host-suffix, ramon.cash, category-cryptocurrency
+host-suffix, ramon.money, category-cryptocurrency
 host-suffix, ripple.com, category-cryptocurrency
 host-suffix, rsk.co, category-cryptocurrency
 host-suffix, satoshilabs.com, category-cryptocurrency
@@ -85,6 +91,9 @@ host-suffix, wintermute.com, category-cryptocurrency
 host-suffix, zapper.fi, category-cryptocurrency
 host-suffix, asproex.com, category-cryptocurrency
 host-suffix, asproexapi.com, category-cryptocurrency
+host-suffix, bestchange.com, category-cryptocurrency
+host-suffix, bestchange.net, category-cryptocurrency
+host-suffix, bestchange.ru, category-cryptocurrency
 host-suffix, binance.cc, category-cryptocurrency
 host-suffix, binance.charity, category-cryptocurrency
 host-suffix, binance.cloud, category-cryptocurrency
