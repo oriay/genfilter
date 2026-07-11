@@ -9864,6 +9864,10 @@ DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com

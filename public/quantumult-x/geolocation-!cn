@@ -18138,6 +18138,8 @@ host-suffix, redhat.com, geolocation-!cn
 host-suffix, redhat.org, geolocation-!cn
 host-suffix, scala-lang.org, geolocation-!cn
 host-suffix, scala-sbt.org, geolocation-!cn
+host-suffix, getsentry.com, geolocation-!cn
+host-suffix, sentry.dev, geolocation-!cn
 host-suffix, sentry.io, geolocation-!cn
 host-suffix, sentry-cdn.com, geolocation-!cn
 host-suffix, sourcehut.org, geolocation-!cn

@@ -9864,6 +9864,10 @@ host-suffix, segment.com, category-ads-all
 host-suffix, segment.io, category-ads-all
 host-suffix, segmenthub.com, category-ads-all
 host-suffix, segmentify.com, category-ads-all
+host-suffix, getsentry.com, category-ads-all
+host-suffix, sentry.dev, category-ads-all
+host-suffix, sentry.io, category-ads-all
+host-suffix, sentry-cdn.com, category-ads-all
 host-suffix, ssacdn.com, category-ads-all
 host-suffix, supersonic.com, category-ads-all
 host-suffix, supersonicads.com, category-ads-all
