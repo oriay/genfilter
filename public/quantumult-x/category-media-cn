@@ -26,13 +26,20 @@ host-suffix, cbinews.com, category-media-cn
 host-suffix, ce.cn, category-media-cn
 host-suffix, cfgw.net.cn, category-media-cn
 host-suffix, cheaa.com, category-media-cn
+host-suffix, chenshipin.com, category-media-cn
+host-suffix, xxcb.cn, category-media-cn
 host-suffix, chinaaet.com, category-media-cn
 host-suffix, chinabyte.com, category-media-cn
 host-suffix, tianjimedia.com, category-media-cn
 host-suffix, yesky.com, category-media-cn
 host-suffix, chinadevelopment.com.cn, category-media-cn
+host-suffix, chuanbaoguancha.cn, category-media-cn
+host-suffix, scol.com.cn, category-media-cn
+host-suffix, scdaily.cn, category-media-cn
 host-suffix, cnfol.com, category-media-cn
 host-suffix, cnfolimg.com, category-media-cn
+host-suffix, cnhubei.com, category-media-cn
+host-suffix, hubeidaily.net, category-media-cn
 host-suffix, cnr.cn, category-media-cn
 host-suffix, cnstock.com, category-media-cn
 host-suffix, cnwest.com, category-media-cn
@@ -73,6 +80,7 @@ host-suffix, evolife.cn, category-media-cn
 host-suffix, expreview.com, category-media-cn
 host-suffix, fjsen.com, category-media-cn
 host-suffix, freebuf.com, category-media-cn
+host-suffix, fromgeek.com, category-media-cn
 host-suffix, geekbang.org, category-media-cn
 host-suffix, infoq.cn, category-media-cn
 host-suffix, geekpark.net, category-media-cn
@@ -173,6 +181,7 @@ host-suffix, ql1d.com, category-media-cn
 host-suffix, qingdaonews.com, category-media-cn
 host-suffix, qianzhan.com, category-media-cn
 host-suffix, qingdaochina.org, category-media-cn
+host-suffix, qzwb.com, category-media-cn
 host-suffix, rednet.cn, category-media-cn
 host-suffix, scgchc.com, category-media-cn
 host-suffix, sctv-tf.com, category-media-cn
@@ -181,6 +190,8 @@ host-suffix, scsjb.cn, category-media-cn
 host-suffix, secrss.com, category-media-cn
 host-suffix, sfccn.com, category-media-cn
 host-suffix, shangyexinzhi.com, category-media-cn
+host-suffix, shedunews.net, category-media-cn
+host-suffix, snxw.com, category-media-cn
 host-suffix, solidot.org, category-media-cn
 host-suffix, sootoo.com, category-media-cn
 host-suffix, southcn.com, category-media-cn
@@ -322,6 +333,7 @@ host-suffix, sohu.com, category-media-cn
 host-suffix, sohucs.com, category-media-cn
 host-suffix, 56.com, category-media-cn
 host-suffix, 56img.com, category-media-cn
+host-suffix, kuaizhan.com, category-media-cn
 host-suffix, adnet.sohu.com, category-media-cn
 host-suffix, ads.sohu.com, category-media-cn
 host-suffix, adv-sv-show.focus.cn, category-media-cn

@@ -3,7 +3,6 @@ host-suffix, 51y5.net, category-ads
 host-suffix, a.adtng.com, category-ads
 host-suffix, aaxads.com, category-ads
 host-suffix, ad-srv.net, category-ads
-host-suffix, ad.api.moji.com, category-ads
 host-suffix, ad.wang502.com, category-ads
 host-suffix, adbutter.net, category-ads
 host-suffix, addthisedge.com, category-ads
@@ -3215,7 +3214,6 @@ host-suffix, icphoto.cn, category-ads
 host-suffix, iluckysf.net, category-ads
 host-suffix, itmanager.club, category-ads
 host-suffix, itoutiaoliving.com, category-ads
-host-suffix, jianying.com, category-ads
 host-suffix, jokecommunity.cn, category-ads
 host-suffix, jokecommunity.com, category-ads
 host-suffix, jokecommunity.net, category-ads
@@ -3321,6 +3319,11 @@ host-suffix, zjfcdn.com, category-ads
 host-suffix, zjgslb.com, category-ads
 host-suffix, zlinkurl.cn, category-ads
 host, bytedance.map.fastly.net, category-ads
+host-suffix, jianying.com, category-ads
+host-suffix, jimeng.com, category-ads
+host-suffix, vlabimg.com, category-ads
+host-suffix, vlabstatic.com, category-ads
+host-suffix, vlabvod.com, category-ads
 host-suffix, toutiao.com, category-ads
 host-suffix, toutiaoapi.com, category-ads
 host-suffix, toutiaocdn.com, category-ads
@@ -7873,6 +7876,13 @@ host, api.mindbox.cloud, category-ads
 host, api.mindbox.ru, category-ads
 host, sentry.mindbox.ru, category-ads
 host, sentry.popmechanic.ru, category-ads
+host-suffix, airnut.com, category-ads
+host-suffix, moji.com, category-ads
+host-suffix, moji001.com, category-ads
+host-suffix, moji002.com, category-ads
+host-suffix, mojicdn.com, category-ads
+host-suffix, mojichina.com, category-ads
+host-suffix, ad.api.moji.com, category-ads
 host-suffix, allizom.net, category-ads
 host-suffix, allizom.org, category-ads
 host-suffix, bugzilla.org, category-ads
@@ -8457,6 +8467,7 @@ host-suffix, sohu.com, category-ads
 host-suffix, sohucs.com, category-ads
 host-suffix, 56.com, category-ads
 host-suffix, 56img.com, category-ads
+host-suffix, kuaizhan.com, category-ads
 host-suffix, adnet.sohu.com, category-ads
 host-suffix, ads.sohu.com, category-ads
 host-suffix, adv-sv-show.focus.cn, category-ads

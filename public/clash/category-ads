@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,51y5.net
 DOMAIN-SUFFIX,a.adtng.com
 DOMAIN-SUFFIX,aaxads.com
 DOMAIN-SUFFIX,ad-srv.net
-DOMAIN-SUFFIX,ad.api.moji.com
 DOMAIN-SUFFIX,ad.wang502.com
 DOMAIN-SUFFIX,adbutter.net
 DOMAIN-SUFFIX,addthisedge.com
@@ -3215,7 +3214,6 @@ DOMAIN-SUFFIX,icphoto.cn
 DOMAIN-SUFFIX,iluckysf.net
 DOMAIN-SUFFIX,itmanager.club
 DOMAIN-SUFFIX,itoutiaoliving.com
-DOMAIN-SUFFIX,jianying.com
 DOMAIN-SUFFIX,jokecommunity.cn
 DOMAIN-SUFFIX,jokecommunity.com
 DOMAIN-SUFFIX,jokecommunity.net
@@ -3321,6 +3319,11 @@ DOMAIN-SUFFIX,zjfcdn.com
 DOMAIN-SUFFIX,zjgslb.com
 DOMAIN-SUFFIX,zlinkurl.cn
 DOMAIN,bytedance.map.fastly.net
+DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,jimeng.com
+DOMAIN-SUFFIX,vlabimg.com
+DOMAIN-SUFFIX,vlabstatic.com
+DOMAIN-SUFFIX,vlabvod.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,toutiaocdn.com
@@ -7873,6 +7876,13 @@ DOMAIN,api.mindbox.cloud
 DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN-SUFFIX,airnut.com
+DOMAIN-SUFFIX,moji.com
+DOMAIN-SUFFIX,moji001.com
+DOMAIN-SUFFIX,moji002.com
+DOMAIN-SUFFIX,mojicdn.com
+DOMAIN-SUFFIX,mojichina.com
+DOMAIN-SUFFIX,ad.api.moji.com
 DOMAIN-SUFFIX,allizom.net
 DOMAIN-SUFFIX,allizom.org
 DOMAIN-SUFFIX,bugzilla.org
@@ -8457,6 +8467,7 @@ DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,56img.com
+DOMAIN-SUFFIX,kuaizhan.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn

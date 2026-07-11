@@ -152,7 +152,6 @@ host-suffix, icphoto.cn, bytedance
 host-suffix, iluckysf.net, bytedance
 host-suffix, itmanager.club, bytedance
 host-suffix, itoutiaoliving.com, bytedance
-host-suffix, jianying.com, bytedance
 host-suffix, jokecommunity.cn, bytedance
 host-suffix, jokecommunity.com, bytedance
 host-suffix, jokecommunity.net, bytedance
@@ -258,6 +257,11 @@ host-suffix, zjfcdn.com, bytedance
 host-suffix, zjgslb.com, bytedance
 host-suffix, zlinkurl.cn, bytedance
 host, bytedance.map.fastly.net, bytedance
+host-suffix, jianying.com, bytedance
+host-suffix, jimeng.com, bytedance
+host-suffix, vlabimg.com, bytedance
+host-suffix, vlabstatic.com, bytedance
+host-suffix, vlabvod.com, bytedance
 host-suffix, toutiao.com, bytedance
 host-suffix, toutiaoapi.com, bytedance
 host-suffix, toutiaocdn.com, bytedance
