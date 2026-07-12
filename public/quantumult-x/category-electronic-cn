@@ -5,10 +5,6 @@ host-suffix, boe.com, category-electronic-cn
 host-suffix, boe.com.cn, category-electronic-cn
 host-suffix, bouffalolab.com, category-electronic-cn
 host-suffix, cxmt.com, category-electronic-cn
-host-suffix, esp8266.cn, category-electronic-cn
-host-suffix, esp8266.com.cn, category-electronic-cn
-host-suffix, espressif.cn, category-electronic-cn
-host-suffix, espressif.com.cn, category-electronic-cn
 host-suffix, eda.cn, category-electronic-cn
 host-suffix, elecfans.com, category-electronic-cn
 host-suffix, hqchip.com, category-electronic-cn
@@ -29,6 +25,13 @@ host-suffix, maixhub.com, category-electronic-cn
 host-suffix, ti.com.cn, category-electronic-cn
 host-suffix, wch.cn, category-electronic-cn
 host-suffix, wch-ic.com, category-electronic-cn
+host-suffix, esp32.com, category-electronic-cn
+host-suffix, esp8266.cn, category-electronic-cn
+host-suffix, esp8266.com, category-electronic-cn
+host-suffix, esp8266.com.cn, category-electronic-cn
+host-suffix, espressif.cn, category-electronic-cn
+host-suffix, espressif.com, category-electronic-cn
+host-suffix, espressif.com.cn, category-electronic-cn
 host-suffix, fa-part.com, category-electronic-cn
 host-suffix, forface3d.com, category-electronic-cn
 host-suffix, jlc-3dp.cn, category-electronic-cn

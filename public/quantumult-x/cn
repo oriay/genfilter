@@ -1648,10 +1648,6 @@ host-suffix, boe.com, cn
 host-suffix, boe.com.cn, cn
 host-suffix, bouffalolab.com, cn
 host-suffix, cxmt.com, cn
-host-suffix, esp8266.cn, cn
-host-suffix, esp8266.com.cn, cn
-host-suffix, espressif.cn, cn
-host-suffix, espressif.com.cn, cn
 host-suffix, eda.cn, cn
 host-suffix, elecfans.com, cn
 host-suffix, hqchip.com, cn
@@ -1672,6 +1668,13 @@ host-suffix, maixhub.com, cn
 host-suffix, ti.com.cn, cn
 host-suffix, wch.cn, cn
 host-suffix, wch-ic.com, cn
+host-suffix, esp32.com, cn
+host-suffix, esp8266.cn, cn
+host-suffix, esp8266.com, cn
+host-suffix, esp8266.com.cn, cn
+host-suffix, espressif.cn, cn
+host-suffix, espressif.com, cn
+host-suffix, espressif.com.cn, cn
 host-suffix, fa-part.com, cn
 host-suffix, forface3d.com, cn
 host-suffix, jlc-3dp.cn, cn

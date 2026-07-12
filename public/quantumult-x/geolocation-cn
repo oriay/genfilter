@@ -1599,10 +1599,6 @@ host-suffix, boe.com, geolocation-cn
 host-suffix, boe.com.cn, geolocation-cn
 host-suffix, bouffalolab.com, geolocation-cn
 host-suffix, cxmt.com, geolocation-cn
-host-suffix, esp8266.cn, geolocation-cn
-host-suffix, esp8266.com.cn, geolocation-cn
-host-suffix, espressif.cn, geolocation-cn
-host-suffix, espressif.com.cn, geolocation-cn
 host-suffix, eda.cn, geolocation-cn
 host-suffix, elecfans.com, geolocation-cn
 host-suffix, hqchip.com, geolocation-cn
@@ -1623,6 +1619,13 @@ host-suffix, maixhub.com, geolocation-cn
 host-suffix, ti.com.cn, geolocation-cn
 host-suffix, wch.cn, geolocation-cn
 host-suffix, wch-ic.com, geolocation-cn
+host-suffix, esp32.com, geolocation-cn
+host-suffix, esp8266.cn, geolocation-cn
+host-suffix, esp8266.com, geolocation-cn
+host-suffix, esp8266.com.cn, geolocation-cn
+host-suffix, espressif.cn, geolocation-cn
+host-suffix, espressif.com, geolocation-cn
+host-suffix, espressif.com.cn, geolocation-cn
 host-suffix, fa-part.com, geolocation-cn
 host-suffix, forface3d.com, geolocation-cn
 host-suffix, jlc-3dp.cn, geolocation-cn
