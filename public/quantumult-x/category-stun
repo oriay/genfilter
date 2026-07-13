@@ -244,7 +244,6 @@ host, stun.sippeer.dk, category-stun
 host, stun.sipthor.net, category-stun
 host, stun.siptraffic.com, category-stun
 host, stun.siptrunk.com, category-stun
-host, stun.sipus, category-stun
 host, stun.skydrone.aero, category-stun
 host, stun.skylink.ru, category-stun
 host, stun.sma.de, category-stun
@@ -265,7 +264,6 @@ host, stun.ssl7.net, category-stun
 host, stun.stochastix.de, category-stun
 host, stun.streamnow.ch, category-stun
 host, stun.stunprotocol.org, category-stun
-host, stun.stunprotocol.prg, category-stun
 host, stun.symform.com, category-stun
 host, stun.symplicity.com, category-stun
 host, stun.sysadminman.net, category-stun

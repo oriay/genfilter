@@ -442,7 +442,6 @@ host-suffix, humblebundle.com, category-entertainment
 host, hb.imgix.net, category-entertainment
 host-suffix, itch.io, category-entertainment
 host-suffix, itch.zone, category-entertainment
-host-suffix, konami, category-entertainment
 host-suffix, 573.jp, category-entertainment
 host-suffix, kgisystems.com, category-entertainment
 host-suffix, kiwi.jp, category-entertainment
@@ -1531,6 +1530,7 @@ host, itunesconnect.apple.com, category-entertainment
 host, osxapps.itunes.g.aaplimg.com, category-entertainment
 host-suffix, iyf.tv, category-entertainment
 host-suffix, yfsp.tv, category-entertainment
+host-suffix, kick.com, category-entertainment
 host-suffix, kingkong.com.tw, category-entertainment
 host-suffix, kingkongapp.com, category-entertainment
 host-suffix, kfs.io, category-entertainment

@@ -296,11 +296,7 @@ host, lm.licenses.adobe.com, category-ads
 host, lmlicenses.wip4.adobe.com, category-ads
 host, na1r.services.adobe.com, category-ads
 host, ood.opsource.net, category-ads
-host, practivate.adobe, category-ads
 host, practivate.adobe.com, category-ads
-host, practivate.adobe.ipp, category-ads
-host, practivate.adobe.newoa, category-ads
-host, practivate.adobe.ntp, category-ads
 host, wip.adobe.com, category-ads
 host, wip1.adobe.com, category-ads
 host, wip2.adobe.com, category-ads
@@ -4430,7 +4426,6 @@ host-suffix, dclk, category-ads
 host-suffix, gbiz, category-ads
 host-suffix, gle, category-ads
 host-suffix, gmail, category-ads
-host-suffix, goo, category-ads
 host-suffix, goog, category-ads
 host-suffix, google, category-ads
 host-suffix, guge, category-ads

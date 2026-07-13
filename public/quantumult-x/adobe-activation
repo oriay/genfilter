@@ -30,11 +30,7 @@ host, lm.licenses.adobe.com, adobe-activation
 host, lmlicenses.wip4.adobe.com, adobe-activation
 host, na1r.services.adobe.com, adobe-activation
 host, ood.opsource.net, adobe-activation
-host, practivate.adobe, adobe-activation
 host, practivate.adobe.com, adobe-activation
-host, practivate.adobe.ipp, adobe-activation
-host, practivate.adobe.newoa, adobe-activation
-host, practivate.adobe.ntp, adobe-activation
 host, wip.adobe.com, adobe-activation
 host, wip1.adobe.com, adobe-activation
 host, wip2.adobe.com, adobe-activation

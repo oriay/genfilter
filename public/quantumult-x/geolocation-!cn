@@ -1639,7 +1639,6 @@ host-suffix, alfabank.ru, geolocation-!cn
 host-suffix, alfabank.st, geolocation-!cn
 host-suffix, alfadirect.ru, geolocation-!cn
 host-suffix, myapelsin.ru, geolocation-!cn
-host-suffix, domain:alfabank.oavdo.amc, geolocation-!cn
 host-suffix, bbr.ru, geolocation-!cn
 host-suffix, bcs.ru, geolocation-!cn
 host-suffix, bcs-bank.ru, geolocation-!cn
@@ -5965,7 +5964,6 @@ host-suffix, humblebundle.com, geolocation-!cn
 host, hb.imgix.net, geolocation-!cn
 host-suffix, itch.io, geolocation-!cn
 host-suffix, itch.zone, geolocation-!cn
-host-suffix, konami, geolocation-!cn
 host-suffix, 573.jp, geolocation-!cn
 host-suffix, kgisystems.com, geolocation-!cn
 host-suffix, kiwi.jp, geolocation-!cn
@@ -7054,6 +7052,7 @@ host, itunesconnect.apple.com, geolocation-!cn
 host, osxapps.itunes.g.aaplimg.com, geolocation-!cn
 host-suffix, iyf.tv, geolocation-!cn
 host-suffix, yfsp.tv, geolocation-!cn
+host-suffix, kick.com, geolocation-!cn
 host-suffix, kingkong.com.tw, geolocation-!cn
 host-suffix, kingkongapp.com, geolocation-!cn
 host-suffix, kfs.io, geolocation-!cn
@@ -18400,11 +18399,7 @@ host, lm.licenses.adobe.com, geolocation-!cn
 host, lmlicenses.wip4.adobe.com, geolocation-!cn
 host, na1r.services.adobe.com, geolocation-!cn
 host, ood.opsource.net, geolocation-!cn
-host, practivate.adobe, geolocation-!cn
 host, practivate.adobe.com, geolocation-!cn
-host, practivate.adobe.ipp, geolocation-!cn
-host, practivate.adobe.newoa, geolocation-!cn
-host, practivate.adobe.ntp, geolocation-!cn
 host, wip.adobe.com, geolocation-!cn
 host, wip1.adobe.com, geolocation-!cn
 host, wip2.adobe.com, geolocation-!cn
@@ -18535,7 +18530,6 @@ host-suffix, dclk, geolocation-!cn
 host-suffix, gbiz, geolocation-!cn
 host-suffix, gle, geolocation-!cn
 host-suffix, gmail, geolocation-!cn
-host-suffix, goo, geolocation-!cn
 host-suffix, goog, geolocation-!cn
 host-suffix, google, geolocation-!cn
 host-suffix, guge, geolocation-!cn
@@ -23580,7 +23574,6 @@ host-suffix, idecosoftware.ru, geolocation-!cn
 host-suffix, inshot.cc, geolocation-!cn
 host-suffix, inshot.com, geolocation-!cn
 host-suffix, inshotapp.com, geolocation-!cn
-host-suffix, intel, geolocation-!cn
 host-suffix, intel.ac, geolocation-!cn
 host-suffix, intel.ae, geolocation-!cn
 host-suffix, intel.af, geolocation-!cn

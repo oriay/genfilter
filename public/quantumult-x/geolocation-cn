@@ -3,6 +3,7 @@ host-suffix, sensorsdata.cn, geolocation-cn
 host-suffix, baicaf.com, geolocation-cn
 host-suffix, cc-pay.cn, geolocation-cn
 host-suffix, daikuan.com, geolocation-cn
+host-suffix, dulupay.com, geolocation-cn
 host-suffix, helipay.com, geolocation-cn
 host-suffix, hsqh.net, geolocation-cn
 host-suffix, iboxpay.com, geolocation-cn
@@ -4943,6 +4944,7 @@ host-suffix, skillhub.cn, geolocation-cn
 host-suffix, safeskill.cn, geolocation-cn
 host-suffix, zhiexa.com, geolocation-cn
 host-suffix, linka2a.net, geolocation-cn
+host-suffix, yzsgo.com, geolocation-cn
 host-suffix, askdiandian.com, geolocation-cn
 host-suffix, diandianlife.top, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn

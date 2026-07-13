@@ -175,11 +175,7 @@ host, lm.licenses.adobe.com, category-companies
 host, lmlicenses.wip4.adobe.com, category-companies
 host, na1r.services.adobe.com, category-companies
 host, ood.opsource.net, category-companies
-host, practivate.adobe, category-companies
 host, practivate.adobe.com, category-companies
-host, practivate.adobe.ipp, category-companies
-host, practivate.adobe.newoa, category-companies
-host, practivate.adobe.ntp, category-companies
 host, wip.adobe.com, category-companies
 host, wip1.adobe.com, category-companies
 host, wip2.adobe.com, category-companies
@@ -310,7 +306,6 @@ host-suffix, dclk, category-companies
 host-suffix, gbiz, category-companies
 host-suffix, gle, category-companies
 host-suffix, gmail, category-companies
-host-suffix, goo, category-companies
 host-suffix, goog, category-companies
 host-suffix, google, category-companies
 host-suffix, guge, category-companies
@@ -5355,7 +5350,6 @@ host-suffix, idecosoftware.ru, category-companies
 host-suffix, inshot.cc, category-companies
 host-suffix, inshot.com, category-companies
 host-suffix, inshotapp.com, category-companies
-host-suffix, intel, category-companies
 host-suffix, intel.ac, category-companies
 host-suffix, intel.ae, category-companies
 host-suffix, intel.af, category-companies
