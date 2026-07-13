@@ -8041,6 +8041,7 @@ host, www.speedtest.net.cdn.cloudflare.net, category-ads
 host-suffix, ookla-speedtest-central.hgconair.hgc.com.hk, category-ads
 host-suffix, chat.com, category-ads
 host-suffix, chatgpt.com, category-ads
+host-suffix, chatgpt.site, category-ads
 host-suffix, crixet.com, category-ads
 host-suffix, oaistatic.com, category-ads
 host-suffix, oaistatsig.com, category-ads

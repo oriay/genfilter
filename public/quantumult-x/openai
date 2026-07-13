@@ -1,5 +1,6 @@
 host-suffix, chat.com, openai
 host-suffix, chatgpt.com, openai
+host-suffix, chatgpt.site, openai
 host-suffix, crixet.com, openai
 host-suffix, oaistatic.com, openai
 host-suffix, oaistatsig.com, openai

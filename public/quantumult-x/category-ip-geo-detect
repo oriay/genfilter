@@ -65,6 +65,7 @@ host-suffix, ipapi.is, category-ip-geo-detect
 host-suffix, ipbase.com, category-ip-geo-detect
 host-suffix, ipbot.com, category-ip-geo-detect
 host-suffix, ipcalf.com, category-ip-geo-detect
+host-suffix, ipcheck.ing, category-ip-geo-detect
 host-suffix, ipchicken.com, category-ip-geo-detect
 host-suffix, ipdata.co, category-ip-geo-detect
 host-suffix, ipecho.net, category-ip-geo-detect

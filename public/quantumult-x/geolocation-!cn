@@ -162,6 +162,7 @@ host-suffix, manus.im, geolocation-!cn
 host-suffix, manuscdn.com, geolocation-!cn
 host-suffix, chat.com, geolocation-!cn
 host-suffix, chatgpt.com, geolocation-!cn
+host-suffix, chatgpt.site, geolocation-!cn
 host-suffix, crixet.com, geolocation-!cn
 host-suffix, oaistatic.com, geolocation-!cn
 host-suffix, oaistatsig.com, geolocation-!cn
