@@ -738,27 +738,27 @@ host-suffix, tubi.io, category-media
 host-suffix, tubi.tv, category-media
 host-suffix, tubi.video, category-media
 host-suffix, tubitv.com, category-media
-host-suffix, agendaweek.com, category-media
-host-suffix, excedo.com, category-media
-host-suffix, exec-appointments.com, category-media
-host-suffix, fdiintelligence.com, category-media
-host-suffix, financialadvisoriq.com, category-media
-host-suffix, ft.com, category-media
-host-suffix, ftadviser.com, category-media
-host-suffix, ftchinese.com, category-media
-host-suffix, ftiecla.com, category-media
-host-suffix, fundfire.com, category-media
-host-suffix, gisplanning.com, category-media
-host-suffix, globalriskregulator.com, category-media
-host-suffix, ignites.com, category-media
-host-suffix, ignitesasia.com, category-media
-host-suffix, igniteseurope.com, category-media
-host-suffix, investorschronicle.co.uk, category-media
-host-suffix, mandatewire.com, category-media
-host-suffix, pensions-expert.com, category-media
-host-suffix, pwmnet.com, category-media
-host-suffix, thebanker.com, category-media
-host-suffix, thebankerdatabase.com, category-media
+host-suffix, agendaweek.com, category-media
+host-suffix, excedo.com, category-media
+host-suffix, exec-appointments.com, category-media
+host-suffix, fdiintelligence.com, category-media
+host-suffix, financialadvisoriq.com, category-media
+host-suffix, ft.com, category-media
+host-suffix, ftadviser.com, category-media
+host-suffix, ftchinese.com, category-media
+host-suffix, ftiecla.com, category-media
+host-suffix, fundfire.com, category-media
+host-suffix, gisplanning.com, category-media
+host-suffix, globalriskregulator.com, category-media
+host-suffix, ignites.com, category-media
+host-suffix, ignitesasia.com, category-media
+host-suffix, igniteseurope.com, category-media
+host-suffix, investorschronicle.co.uk, category-media
+host-suffix, mandatewire.com, category-media
+host-suffix, pensions-expert.com, category-media
+host-suffix, pwmnet.com, category-media
+host-suffix, thebanker.com, category-media
+host-suffix, thebankerdatabase.com, category-media
 host-suffix, thenextweb.com, category-media
 host-suffix, 4gtv.tv, category-media
 host-suffix, ftv.com.tw, category-media
@@ -889,31 +889,29 @@ host-suffix, businessinsider.sg, category-media
 host-suffix, insider-intelligence.com, category-media
 host-suffix, insider.com, category-media
 host-suffix, insiderintelligence.com, category-media
-host-suffix, 47gyosei.jp, category-media
-host-suffix, 47news.jp, category-media
-host-suffix, kyodo-d.info, category-media
-host-suffix, kyodo-d.jp, category-media
-host-suffix, kyodoimages.jp, category-media
-host-suffix, kyodonews.jp, category-media
-host-suffix, kyodonews.net, category-media
-host-suffix, newsmart.jp, category-media
-host-suffix, nna.jp, category-media
+host-suffix, 47gyosei.jp, category-media
+host-suffix, 47news.jp, category-media
+host-suffix, kyodo-d.info, category-media
+host-suffix, kyodo-d.jp, category-media
+host-suffix, kyodoimages.jp, category-media
+host-suffix, kyodonews.jp, category-media
+host-suffix, kyodonews.net, category-media
+host-suffix, newsmart.jp, category-media
+host-suffix, nna.jp, category-media
 host-suffix, freedomplatform.tv, category-media
 host-suffix, londonreal.tv, category-media
 host-suffix, ltn.com.tw, category-media
 host-suffix, yes123.com.tw, category-media
-host-suffix, machigoto.jp, category-media
-host-suffix, mainichi-athletepartners.jp, category-media
-host-suffix, mainichi.jp, category-media
-host-suffix, mainichibooks.com, category-media
-host-suffix, , category-media
-host-suffix, meijinsen.jp, category-media
-host-suffix, mirailab.tech, category-media
-host-suffix, mottainai.info, category-media
-host-suffix, newsgawakaru.com, category-media
-host-suffix, , category-media
-host-suffix, sponichi.co.jp, category-media
-host-suffix, weekly-economist.com, category-media
+host-suffix, machigoto.jp, category-media
+host-suffix, mainichi-athletepartners.jp, category-media
+host-suffix, mainichi.jp, category-media
+host-suffix, mainichibooks.com, category-media
+host-suffix, meijinsen.jp, category-media
+host-suffix, mirailab.tech, category-media
+host-suffix, mottainai.info, category-media
+host-suffix, newsgawakaru.com, category-media
+host-suffix, sponichi.co.jp, category-media
+host-suffix, weekly-economist.com, category-media
 host-suffix, malayalamanorama.com, category-media
 host-suffix, manorama.com, category-media
 host-suffix, manoramanews.com, category-media
@@ -1136,7 +1134,7 @@ host-suffix, nhk, category-media
 host-suffix, nhk.jp, category-media
 host-suffix, nhk.or.jp, category-media
 host-suffix, nhkworld.jp, category-media
-host-suffix, gendai.net, category-media
+host-suffix, gendai.net, category-media
 host-suffix, nikkan-gendai.com, category-media
 host-suffix, nikkei-cnbc.co.jp, category-media
 host-suffix, nikkei.co.jp, category-media
@@ -1343,36 +1341,36 @@ host-suffix, ruptly.tv, category-media
 host-suffix, ruptly.video, category-media
 host-suffix, etvonline.hk, category-media
 host-suffix, rthk.hk, category-media
-host-suffix, business-i.jp, category-media
-host-suffix, ign.jp, category-media
-host-suffix, innovations-i.com, category-media
-host-suffix, ironna.jp, category-media
-host-suffix, iza.ne.jp, category-media
-host-suffix, japan-forward.com, category-media
-host-suffix, keiba.net, category-media
-host-suffix, knowswho.co.jp, category-media
-host-suffix, metropolitana.tokyo, category-media
-host-suffix, mostly.jp, category-media
-host-suffix, sankei-ad-info.com, category-media
-host-suffix, sankei-ad.net, category-media
-host-suffix, sankei-books.co.jp, category-media
-host-suffix, sankei-call.jp, category-media
-host-suffix, sankei-digital.co.jp, category-media
-host-suffix, sankei-eiga.co.jp, category-media
-host-suffix, sankei-kaihatsu.co.jp, category-media
-host-suffix, sankei-kurashi.com, category-media
-host-suffix, sankei-shougakukai.jp, category-media
-host-suffix, sankei-tours.com, category-media
-host-suffix, sankei.co.jp, category-media
-host-suffix, sankei.com, category-media
-host-suffix, sankei.jp, category-media
-host-suffix, sankeibiz.jp, category-media
-host-suffix, sankeishop.jp, category-media
-host-suffix, sanspo.com, category-media
-host-suffix, seasidestory.tokyo, category-media
-host-suffix, seiron-sankei.com, category-media
-host-suffix, tvnaviweb.jp, category-media
-host-suffix, zakzak.co.jp, category-media
+host-suffix, business-i.jp, category-media
+host-suffix, ign.jp, category-media
+host-suffix, innovations-i.com, category-media
+host-suffix, ironna.jp, category-media
+host-suffix, iza.ne.jp, category-media
+host-suffix, japan-forward.com, category-media
+host-suffix, keiba.net, category-media
+host-suffix, knowswho.co.jp, category-media
+host-suffix, metropolitana.tokyo, category-media
+host-suffix, mostly.jp, category-media
+host-suffix, sankei-ad-info.com, category-media
+host-suffix, sankei-ad.net, category-media
+host-suffix, sankei-books.co.jp, category-media
+host-suffix, sankei-call.jp, category-media
+host-suffix, sankei-digital.co.jp, category-media
+host-suffix, sankei-eiga.co.jp, category-media
+host-suffix, sankei-kaihatsu.co.jp, category-media
+host-suffix, sankei-kurashi.com, category-media
+host-suffix, sankei-shougakukai.jp, category-media
+host-suffix, sankei-tours.com, category-media
+host-suffix, sankei.co.jp, category-media
+host-suffix, sankei.com, category-media
+host-suffix, sankei.jp, category-media
+host-suffix, sankeibiz.jp, category-media
+host-suffix, sankeishop.jp, category-media
+host-suffix, sanspo.com, category-media
+host-suffix, seasidestory.tokyo, category-media
+host-suffix, seiron-sankei.com, category-media
+host-suffix, tvnaviweb.jp, category-media
+host-suffix, zakzak.co.jp, category-media
 host-suffix, scmp.com, category-media
 host-suffix, i-scmp.com, category-media
 host-suffix, setn.com, category-media
@@ -1451,7 +1449,7 @@ host-suffix, reut.rs, category-media
 host-suffix, reuters.com, category-media
 host-suffix, reuters.tv, category-media
 host-suffix, reutersmedia.net, category-media
-host-suffix, tokyo-sports.co.jp, category-media
+host-suffix, tokyo-sports.co.jp, category-media
 host-suffix, tospo-keiba.jp, category-media
 host-suffix, bigbigchannel.com.hk, category-media
 host-suffix, bigbigshop.com, category-media
@@ -1551,20 +1549,20 @@ host-suffix, loveparents.org, category-media
 host-suffix, superstation.com.tw, category-media
 host-suffix, watchout.tw, category-media
 host-suffix, waa.tw, category-media
-host-suffix, chuokoron.jp, category-media
-host-suffix, fujinkoron.jp, category-media
-host-suffix, hochi.news, category-media
-host-suffix, ryokoyomiuri.co.jp, category-media
-host-suffix, the-japan-news.com, category-media
-host-suffix, ync.ne.jp, category-media
-host-suffix, yomikyo.or.jp, category-media
-host-suffix, yomilogi.com, category-media
-host-suffix, yomiuri-johkai.co.jp, category-media
-host-suffix, yomiuri-johkai.co.jp, category-media
-host-suffix, yomiuri-ryokou.co.jp, category-media
-host-suffix, yomiuri-shimbun.pressreader.com, category-media
-host-suffix, yomiuri-systec.co.jp, category-media
-host-suffix, yomiuri.co.jp, category-media
+host-suffix, chuokoron.jp, category-media
+host-suffix, fujinkoron.jp, category-media
+host-suffix, hochi.news, category-media
+host-suffix, ryokoyomiuri.co.jp, category-media
+host-suffix, the-japan-news.com, category-media
+host-suffix, ync.ne.jp, category-media
+host-suffix, yomikyo.or.jp, category-media
+host-suffix, yomilogi.com, category-media
+host-suffix, yomiuri-johkai.co.jp, category-media
+host-suffix, yomiuri-johkai.co.jp, category-media
+host-suffix, yomiuri-ryokou.co.jp, category-media
+host-suffix, yomiuri-shimbun.pressreader.com, category-media
+host-suffix, yomiuri-systec.co.jp, category-media
+host-suffix, yomiuri.co.jp, category-media
 host-suffix, zaobao.com, category-media
 host-suffix, zaobao.com.sg, category-media
 host-suffix, zaobao.sg, category-media

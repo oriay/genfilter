@@ -3039,7 +3039,7 @@ host-suffix, atos.net, geolocation-!cn
 host-suffix, myatos.net, geolocation-!cn
 host-suffix, certificat2.com, geolocation-!cn
 host-suffix, trendmicro.com, geolocation-!cn
-host-suffix, gandi.net, geolocation-!cn
+host-suffix, gandi.net, geolocation-!cn
 host-suffix, alphassl.com, geolocation-!cn
 host-suffix, easy-signing.com, geolocation-!cn
 host-suffix, globalsign-media.com, geolocation-!cn
@@ -3533,11 +3533,10 @@ host-suffix, okx.com, geolocation-!cn
 host-suffix, okx.com.cdn.cloudflare.net, geolocation-!cn
 host-suffix, xlayer.tech, geolocation-!cn
 host-suffix, oklink.com, geolocation-!cn
-host-suffix, onekey-asset.com, geolocation-!cn
-host-suffix, onekey.so, geolocation-!cn
-host-suffix, onekeycn.com, geolocation-!cn
-host-suffix, , geolocation-!cn
-host, onekey.zendesk.com, geolocation-!cn
+host-suffix, onekey-asset.com, geolocation-!cn
+host-suffix, onekey.so, geolocation-!cn
+host-suffix, onekeycn.com, geolocation-!cn
+host, onekey.zendesk.com, geolocation-!cn
 host-suffix, redotpay.com, geolocation-!cn
 host-suffix, redotpay.zendesk.com, geolocation-!cn
 host-suffix, pod-15-sunco-ws.zendesk.com, geolocation-!cn
@@ -3545,10 +3544,9 @@ host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, geolocation-!cn
 host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, geolocation-!cn
 host-suffix, isafepal.com, geolocation-!cn
 host-suffix, safepal.com, geolocation-!cn
-host-suffix, straitsx.com, geolocation-!cn
-host-suffix, , geolocation-!cn
-host, d3r7nsslvs6aaf.cloudfront.net, geolocation-!cn
-host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com, geolocation-!cn
+host-suffix, straitsx.com, geolocation-!cn
+host, d3r7nsslvs6aaf.cloudfront.net, geolocation-!cn
+host, straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com, geolocation-!cn
 host-suffix, trustwallet.com, geolocation-!cn
 host-suffix, wisecoin.com, geolocation-!cn
 host-suffix, wiseid.com, geolocation-!cn
@@ -7079,6 +7077,41 @@ host, ntdofifreemobile-tgc.cdn.hinet.net, geolocation-!cn
 host, ntdofifreepc-tgc.cdn.hinet.net, geolocation-!cn
 host, ntdofifreetv-tgc.cdn.hinet.net, geolocation-!cn
 host, ntdofifreevcpc-tgc.cdn.hinet.net, geolocation-!cn
+host-suffix, likee.com, geolocation-!cn
+host-suffix, likeeapp.ru, geolocation-!cn
+host-suffix, likeevideo.com, geolocation-!cn
+host-suffix, likeevideo.ru, geolocation-!cn
+host-suffix, like-video.com, geolocation-!cn
+host-suffix, likee.video, geolocation-!cn
+host-suffix, like.video, geolocation-!cn
+host-suffix, bnxz.net, geolocation-!cn
+host-suffix, bystys.tech, geolocation-!cn
+host-suffix, owxd.xyz, geolocation-!cn
+host-suffix, yucf.top, geolocation-!cn
+host-suffix, uxzw.club, geolocation-!cn
+host, d1nu566dreq9vj.cloudfront.net, geolocation-!cn
+host, d28odxiw1asdj8.cloudfront.net, geolocation-!cn
+host, d31dormfno8pk4.cloudfront.net, geolocation-!cn
+host, d3lh5kkip965lj.cloudfront.net, geolocation-!cn
+host, d2v9yioq9zuuq2.cloudfront.net, geolocation-!cn
+host, d2fg91fzjsrcv1.cloudfront.net, geolocation-!cn
+host, d26rnz3bwp7rlk.cloudfront.net, geolocation-!cn
+host, ddpjwstwtpszg.cloudfront.net, geolocation-!cn
+host, d96jfp62lg3kj.cloudfront.net, geolocation-!cn
+host, d1ugi9qonif2a2.cloudfront.net, geolocation-!cn
+host, d2j7e8uopcv07.cloudfront.net, geolocation-!cn
+host, d2be40xdoc0in8.cloudfront.net, geolocation-!cn
+host, d1d0w7op819ely.cloudfront.net, geolocation-!cn
+host, d1fijc56o1fzod.cloudfront.net, geolocation-!cn
+host, dcb0z5ovq92mz.cloudfront.net, geolocation-!cn
+host, d20g4xwarzxagx.cloudfront.net, geolocation-!cn
+host, d3nwj80emtnjeo.cloudfront.net, geolocation-!cn
+host, d3ucl0eqgl80l5.cloudfront.net, geolocation-!cn
+host, dstnzhnatv9pz.cloudfront.net, geolocation-!cn
+host, hb4bbbbb.pmhcjk.com, geolocation-!cn
+host, nbbb1bb7.pmhcjk.com, geolocation-!cn
+host, q676790b.pmhcjk.com, geolocation-!cn
+host, agb9r0ad.qllfkl.com, geolocation-!cn
 host-suffix, manhuagui.com, geolocation-!cn
 host-suffix, metacritic.com, geolocation-!cn
 host-suffix, mubi.com, geolocation-!cn
@@ -9126,27 +9159,27 @@ host-suffix, tubi.io, geolocation-!cn
 host-suffix, tubi.tv, geolocation-!cn
 host-suffix, tubi.video, geolocation-!cn
 host-suffix, tubitv.com, geolocation-!cn
-host-suffix, agendaweek.com, geolocation-!cn
-host-suffix, excedo.com, geolocation-!cn
-host-suffix, exec-appointments.com, geolocation-!cn
-host-suffix, fdiintelligence.com, geolocation-!cn
-host-suffix, financialadvisoriq.com, geolocation-!cn
-host-suffix, ft.com, geolocation-!cn
-host-suffix, ftadviser.com, geolocation-!cn
-host-suffix, ftchinese.com, geolocation-!cn
-host-suffix, ftiecla.com, geolocation-!cn
-host-suffix, fundfire.com, geolocation-!cn
-host-suffix, gisplanning.com, geolocation-!cn
-host-suffix, globalriskregulator.com, geolocation-!cn
-host-suffix, ignites.com, geolocation-!cn
-host-suffix, ignitesasia.com, geolocation-!cn
-host-suffix, igniteseurope.com, geolocation-!cn
-host-suffix, investorschronicle.co.uk, geolocation-!cn
-host-suffix, mandatewire.com, geolocation-!cn
-host-suffix, pensions-expert.com, geolocation-!cn
-host-suffix, pwmnet.com, geolocation-!cn
-host-suffix, thebanker.com, geolocation-!cn
-host-suffix, thebankerdatabase.com, geolocation-!cn
+host-suffix, agendaweek.com, geolocation-!cn
+host-suffix, excedo.com, geolocation-!cn
+host-suffix, exec-appointments.com, geolocation-!cn
+host-suffix, fdiintelligence.com, geolocation-!cn
+host-suffix, financialadvisoriq.com, geolocation-!cn
+host-suffix, ft.com, geolocation-!cn
+host-suffix, ftadviser.com, geolocation-!cn
+host-suffix, ftchinese.com, geolocation-!cn
+host-suffix, ftiecla.com, geolocation-!cn
+host-suffix, fundfire.com, geolocation-!cn
+host-suffix, gisplanning.com, geolocation-!cn
+host-suffix, globalriskregulator.com, geolocation-!cn
+host-suffix, ignites.com, geolocation-!cn
+host-suffix, ignitesasia.com, geolocation-!cn
+host-suffix, igniteseurope.com, geolocation-!cn
+host-suffix, investorschronicle.co.uk, geolocation-!cn
+host-suffix, mandatewire.com, geolocation-!cn
+host-suffix, pensions-expert.com, geolocation-!cn
+host-suffix, pwmnet.com, geolocation-!cn
+host-suffix, thebanker.com, geolocation-!cn
+host-suffix, thebankerdatabase.com, geolocation-!cn
 host-suffix, thenextweb.com, geolocation-!cn
 host-suffix, 4gtv.tv, geolocation-!cn
 host-suffix, ftv.com.tw, geolocation-!cn
@@ -9277,31 +9310,29 @@ host-suffix, businessinsider.sg, geolocation-!cn
 host-suffix, insider-intelligence.com, geolocation-!cn
 host-suffix, insider.com, geolocation-!cn
 host-suffix, insiderintelligence.com, geolocation-!cn
-host-suffix, 47gyosei.jp, geolocation-!cn
-host-suffix, 47news.jp, geolocation-!cn
-host-suffix, kyodo-d.info, geolocation-!cn
-host-suffix, kyodo-d.jp, geolocation-!cn
-host-suffix, kyodoimages.jp, geolocation-!cn
-host-suffix, kyodonews.jp, geolocation-!cn
-host-suffix, kyodonews.net, geolocation-!cn
-host-suffix, newsmart.jp, geolocation-!cn
-host-suffix, nna.jp, geolocation-!cn
+host-suffix, 47gyosei.jp, geolocation-!cn
+host-suffix, 47news.jp, geolocation-!cn
+host-suffix, kyodo-d.info, geolocation-!cn
+host-suffix, kyodo-d.jp, geolocation-!cn
+host-suffix, kyodoimages.jp, geolocation-!cn
+host-suffix, kyodonews.jp, geolocation-!cn
+host-suffix, kyodonews.net, geolocation-!cn
+host-suffix, newsmart.jp, geolocation-!cn
+host-suffix, nna.jp, geolocation-!cn
 host-suffix, freedomplatform.tv, geolocation-!cn
 host-suffix, londonreal.tv, geolocation-!cn
 host-suffix, ltn.com.tw, geolocation-!cn
 host-suffix, yes123.com.tw, geolocation-!cn
-host-suffix, machigoto.jp, geolocation-!cn
-host-suffix, mainichi-athletepartners.jp, geolocation-!cn
-host-suffix, mainichi.jp, geolocation-!cn
-host-suffix, mainichibooks.com, geolocation-!cn
-host-suffix, , geolocation-!cn
-host-suffix, meijinsen.jp, geolocation-!cn
-host-suffix, mirailab.tech, geolocation-!cn
-host-suffix, mottainai.info, geolocation-!cn
-host-suffix, newsgawakaru.com, geolocation-!cn
-host-suffix, , geolocation-!cn
-host-suffix, sponichi.co.jp, geolocation-!cn
-host-suffix, weekly-economist.com, geolocation-!cn
+host-suffix, machigoto.jp, geolocation-!cn
+host-suffix, mainichi-athletepartners.jp, geolocation-!cn
+host-suffix, mainichi.jp, geolocation-!cn
+host-suffix, mainichibooks.com, geolocation-!cn
+host-suffix, meijinsen.jp, geolocation-!cn
+host-suffix, mirailab.tech, geolocation-!cn
+host-suffix, mottainai.info, geolocation-!cn
+host-suffix, newsgawakaru.com, geolocation-!cn
+host-suffix, sponichi.co.jp, geolocation-!cn
+host-suffix, weekly-economist.com, geolocation-!cn
 host-suffix, malayalamanorama.com, geolocation-!cn
 host-suffix, manorama.com, geolocation-!cn
 host-suffix, manoramanews.com, geolocation-!cn
@@ -9524,7 +9555,7 @@ host-suffix, nhk, geolocation-!cn
 host-suffix, nhk.jp, geolocation-!cn
 host-suffix, nhk.or.jp, geolocation-!cn
 host-suffix, nhkworld.jp, geolocation-!cn
-host-suffix, gendai.net, geolocation-!cn
+host-suffix, gendai.net, geolocation-!cn
 host-suffix, nikkan-gendai.com, geolocation-!cn
 host-suffix, nikkei-cnbc.co.jp, geolocation-!cn
 host-suffix, nikkei.co.jp, geolocation-!cn
@@ -9731,36 +9762,36 @@ host-suffix, ruptly.tv, geolocation-!cn
 host-suffix, ruptly.video, geolocation-!cn
 host-suffix, etvonline.hk, geolocation-!cn
 host-suffix, rthk.hk, geolocation-!cn
-host-suffix, business-i.jp, geolocation-!cn
-host-suffix, ign.jp, geolocation-!cn
-host-suffix, innovations-i.com, geolocation-!cn
-host-suffix, ironna.jp, geolocation-!cn
-host-suffix, iza.ne.jp, geolocation-!cn
-host-suffix, japan-forward.com, geolocation-!cn
-host-suffix, keiba.net, geolocation-!cn
-host-suffix, knowswho.co.jp, geolocation-!cn
-host-suffix, metropolitana.tokyo, geolocation-!cn
-host-suffix, mostly.jp, geolocation-!cn
-host-suffix, sankei-ad-info.com, geolocation-!cn
-host-suffix, sankei-ad.net, geolocation-!cn
-host-suffix, sankei-books.co.jp, geolocation-!cn
-host-suffix, sankei-call.jp, geolocation-!cn
-host-suffix, sankei-digital.co.jp, geolocation-!cn
-host-suffix, sankei-eiga.co.jp, geolocation-!cn
-host-suffix, sankei-kaihatsu.co.jp, geolocation-!cn
-host-suffix, sankei-kurashi.com, geolocation-!cn
-host-suffix, sankei-shougakukai.jp, geolocation-!cn
-host-suffix, sankei-tours.com, geolocation-!cn
-host-suffix, sankei.co.jp, geolocation-!cn
-host-suffix, sankei.com, geolocation-!cn
-host-suffix, sankei.jp, geolocation-!cn
-host-suffix, sankeibiz.jp, geolocation-!cn
-host-suffix, sankeishop.jp, geolocation-!cn
-host-suffix, sanspo.com, geolocation-!cn
-host-suffix, seasidestory.tokyo, geolocation-!cn
-host-suffix, seiron-sankei.com, geolocation-!cn
-host-suffix, tvnaviweb.jp, geolocation-!cn
-host-suffix, zakzak.co.jp, geolocation-!cn
+host-suffix, business-i.jp, geolocation-!cn
+host-suffix, ign.jp, geolocation-!cn
+host-suffix, innovations-i.com, geolocation-!cn
+host-suffix, ironna.jp, geolocation-!cn
+host-suffix, iza.ne.jp, geolocation-!cn
+host-suffix, japan-forward.com, geolocation-!cn
+host-suffix, keiba.net, geolocation-!cn
+host-suffix, knowswho.co.jp, geolocation-!cn
+host-suffix, metropolitana.tokyo, geolocation-!cn
+host-suffix, mostly.jp, geolocation-!cn
+host-suffix, sankei-ad-info.com, geolocation-!cn
+host-suffix, sankei-ad.net, geolocation-!cn
+host-suffix, sankei-books.co.jp, geolocation-!cn
+host-suffix, sankei-call.jp, geolocation-!cn
+host-suffix, sankei-digital.co.jp, geolocation-!cn
+host-suffix, sankei-eiga.co.jp, geolocation-!cn
+host-suffix, sankei-kaihatsu.co.jp, geolocation-!cn
+host-suffix, sankei-kurashi.com, geolocation-!cn
+host-suffix, sankei-shougakukai.jp, geolocation-!cn
+host-suffix, sankei-tours.com, geolocation-!cn
+host-suffix, sankei.co.jp, geolocation-!cn
+host-suffix, sankei.com, geolocation-!cn
+host-suffix, sankei.jp, geolocation-!cn
+host-suffix, sankeibiz.jp, geolocation-!cn
+host-suffix, sankeishop.jp, geolocation-!cn
+host-suffix, sanspo.com, geolocation-!cn
+host-suffix, seasidestory.tokyo, geolocation-!cn
+host-suffix, seiron-sankei.com, geolocation-!cn
+host-suffix, tvnaviweb.jp, geolocation-!cn
+host-suffix, zakzak.co.jp, geolocation-!cn
 host-suffix, scmp.com, geolocation-!cn
 host-suffix, i-scmp.com, geolocation-!cn
 host-suffix, setn.com, geolocation-!cn
@@ -9839,7 +9870,7 @@ host-suffix, reut.rs, geolocation-!cn
 host-suffix, reuters.com, geolocation-!cn
 host-suffix, reuters.tv, geolocation-!cn
 host-suffix, reutersmedia.net, geolocation-!cn
-host-suffix, tokyo-sports.co.jp, geolocation-!cn
+host-suffix, tokyo-sports.co.jp, geolocation-!cn
 host-suffix, tospo-keiba.jp, geolocation-!cn
 host-suffix, bigbigchannel.com.hk, geolocation-!cn
 host-suffix, bigbigshop.com, geolocation-!cn
@@ -9939,20 +9970,20 @@ host-suffix, loveparents.org, geolocation-!cn
 host-suffix, superstation.com.tw, geolocation-!cn
 host-suffix, watchout.tw, geolocation-!cn
 host-suffix, waa.tw, geolocation-!cn
-host-suffix, chuokoron.jp, geolocation-!cn
-host-suffix, fujinkoron.jp, geolocation-!cn
-host-suffix, hochi.news, geolocation-!cn
-host-suffix, ryokoyomiuri.co.jp, geolocation-!cn
-host-suffix, the-japan-news.com, geolocation-!cn
-host-suffix, ync.ne.jp, geolocation-!cn
-host-suffix, yomikyo.or.jp, geolocation-!cn
-host-suffix, yomilogi.com, geolocation-!cn
-host-suffix, yomiuri-johkai.co.jp, geolocation-!cn
-host-suffix, yomiuri-johkai.co.jp, geolocation-!cn
-host-suffix, yomiuri-ryokou.co.jp, geolocation-!cn
-host-suffix, yomiuri-shimbun.pressreader.com, geolocation-!cn
-host-suffix, yomiuri-systec.co.jp, geolocation-!cn
-host-suffix, yomiuri.co.jp, geolocation-!cn
+host-suffix, chuokoron.jp, geolocation-!cn
+host-suffix, fujinkoron.jp, geolocation-!cn
+host-suffix, hochi.news, geolocation-!cn
+host-suffix, ryokoyomiuri.co.jp, geolocation-!cn
+host-suffix, the-japan-news.com, geolocation-!cn
+host-suffix, ync.ne.jp, geolocation-!cn
+host-suffix, yomikyo.or.jp, geolocation-!cn
+host-suffix, yomilogi.com, geolocation-!cn
+host-suffix, yomiuri-johkai.co.jp, geolocation-!cn
+host-suffix, yomiuri-johkai.co.jp, geolocation-!cn
+host-suffix, yomiuri-ryokou.co.jp, geolocation-!cn
+host-suffix, yomiuri-shimbun.pressreader.com, geolocation-!cn
+host-suffix, yomiuri-systec.co.jp, geolocation-!cn
+host-suffix, yomiuri.co.jp, geolocation-!cn
 host-suffix, zaobao.com, geolocation-!cn
 host-suffix, zaobao.com.sg, geolocation-!cn
 host-suffix, zaobao.sg, geolocation-!cn
@@ -23111,8 +23142,8 @@ host-suffix, genotek.ru, geolocation-!cn
 host-suffix, eligens.cl, geolocation-!cn
 host-suffix, eligens.com.br, geolocation-!cn
 host-suffix, eligens.io, geolocation-!cn
-host-suffix, giffgaff.com, geolocation-!cn
-host-suffix, giffgaff.design, geolocation-!cn
+host-suffix, giffgaff.com, geolocation-!cn
+host-suffix, giffgaff.design, geolocation-!cn
 host-suffix, aorus.com, geolocation-!cn
 host-suffix, aoruszone.cn, geolocation-!cn
 host-suffix, gigabyte.cn, geolocation-!cn
