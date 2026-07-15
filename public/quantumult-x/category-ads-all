@@ -7486,6 +7486,7 @@ host-suffix, azuredns-prd.info, category-ads-all
 host-suffix, azuredns-prd.org, category-ads-all
 host-suffix, azureedge-test.net, category-ads-all
 host-suffix, azureedge.net, category-ads-all
+host-suffix, azureedge.us, category-ads-all
 host-suffix, azurefd.net, category-ads-all
 host-suffix, azurehdinsight.cn, category-ads-all
 host-suffix, azureiotcentral.com, category-ads-all
@@ -7615,6 +7616,7 @@ host-suffix, office365love.com, category-ads-all
 host-suffix, office365tw.com, category-ads-all
 host-suffix, renovacionoffice.com, category-ads-all
 host-suffix, sprinklesapp.com, category-ads-all
+host-suffix, copilot-stg.com, category-ads-all
 host-suffix, copilot.cloud.microsoft, category-ads-all
 host-suffix, copilot.com, category-ads-all
 host-suffix, copilot.microsoft.com, category-ads-all

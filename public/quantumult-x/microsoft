@@ -390,6 +390,7 @@ host-suffix, azuredns-prd.info, microsoft
 host-suffix, azuredns-prd.org, microsoft
 host-suffix, azureedge-test.net, microsoft
 host-suffix, azureedge.net, microsoft
+host-suffix, azureedge.us, microsoft
 host-suffix, azurefd.net, microsoft
 host-suffix, azurehdinsight.cn, microsoft
 host-suffix, azureiotcentral.com, microsoft
@@ -519,6 +520,7 @@ host-suffix, office365love.com, microsoft
 host-suffix, office365tw.com, microsoft
 host-suffix, renovacionoffice.com, microsoft
 host-suffix, sprinklesapp.com, microsoft
+host-suffix, copilot-stg.com, microsoft
 host-suffix, copilot.cloud.microsoft, microsoft
 host-suffix, copilot.com, microsoft
 host-suffix, copilot.microsoft.com, microsoft

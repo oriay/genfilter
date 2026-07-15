@@ -39,6 +39,7 @@ host-suffix, coderabbit.ai, geolocation-!cn
 host-suffix, coderabbit.gallery.vsassets.io, geolocation-!cn
 host-suffix, cohere.ai, geolocation-!cn
 host-suffix, cohere.com, geolocation-!cn
+host-suffix, copilot-stg.com, geolocation-!cn
 host-suffix, copilot.cloud.microsoft, geolocation-!cn
 host-suffix, copilot.com, geolocation-!cn
 host-suffix, copilot.microsoft.com, geolocation-!cn
@@ -1272,8 +1273,6 @@ host-suffix, teslamotors.com, geolocation-!cn
 host-suffix, teslamotors.com.cn, geolocation-!cn
 host-suffix, teslazta.net, geolocation-!cn
 host-suffix, ts.la, geolocation-!cn
-host, tesla-cdn.thron.cn, geolocation-!cn
-host, tesla-cdn.thron.com, geolocation-!cn
 host-suffix, volvo, geolocation-!cn
 host-suffix, dynafleetonline.com, geolocation-!cn
 host-suffix, escandinavia-arg.com, geolocation-!cn
@@ -7114,6 +7113,7 @@ host, nbbb1bb7.pmhcjk.com, geolocation-!cn
 host, q676790b.pmhcjk.com, geolocation-!cn
 host, agb9r0ad.qllfkl.com, geolocation-!cn
 host-suffix, manhuagui.com, geolocation-!cn
+host-suffix, mhgui.com, geolocation-!cn
 host-suffix, metacritic.com, geolocation-!cn
 host-suffix, mubi.com, geolocation-!cn
 host-suffix, mubicdn.net, geolocation-!cn
@@ -25405,6 +25405,7 @@ host-suffix, azuredns-prd.info, geolocation-!cn
 host-suffix, azuredns-prd.org, geolocation-!cn
 host-suffix, azureedge-test.net, geolocation-!cn
 host-suffix, azureedge.net, geolocation-!cn
+host-suffix, azureedge.us, geolocation-!cn
 host-suffix, azurefd.net, geolocation-!cn
 host-suffix, azurehdinsight.cn, geolocation-!cn
 host-suffix, azureiotcentral.com, geolocation-!cn
@@ -25534,6 +25535,7 @@ host-suffix, office365love.com, geolocation-!cn
 host-suffix, office365tw.com, geolocation-!cn
 host-suffix, renovacionoffice.com, geolocation-!cn
 host-suffix, sprinklesapp.com, geolocation-!cn
+host-suffix, copilot-stg.com, geolocation-!cn
 host-suffix, copilot.cloud.microsoft, geolocation-!cn
 host-suffix, copilot.com, geolocation-!cn
 host-suffix, copilot.microsoft.com, geolocation-!cn
@@ -26459,6 +26461,7 @@ host-suffix, wheelpop.com, geolocation-!cn
 host-suffix, wwtbam.com, geolocation-!cn
 host-suffix, yourfantasybeginsnow.com, geolocation-!cn
 host-suffix, spacex.com, geolocation-!cn
+host-suffix, starlink.com, geolocation-!cn
 host-suffix, spaceship.com, geolocation-!cn
 host-suffix, spacemail.com, geolocation-!cn
 host-suffix, st.com, geolocation-!cn

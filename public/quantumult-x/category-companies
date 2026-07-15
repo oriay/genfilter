@@ -7149,6 +7149,7 @@ host-suffix, azuredns-prd.info, category-companies
 host-suffix, azuredns-prd.org, category-companies
 host-suffix, azureedge-test.net, category-companies
 host-suffix, azureedge.net, category-companies
+host-suffix, azureedge.us, category-companies
 host-suffix, azurefd.net, category-companies
 host-suffix, azurehdinsight.cn, category-companies
 host-suffix, azureiotcentral.com, category-companies
@@ -7278,6 +7279,7 @@ host-suffix, office365love.com, category-companies
 host-suffix, office365tw.com, category-companies
 host-suffix, renovacionoffice.com, category-companies
 host-suffix, sprinklesapp.com, category-companies
+host-suffix, copilot-stg.com, category-companies
 host-suffix, copilot.cloud.microsoft, category-companies
 host-suffix, copilot.com, category-companies
 host-suffix, copilot.microsoft.com, category-companies
@@ -8203,6 +8205,7 @@ host-suffix, wheelpop.com, category-companies
 host-suffix, wwtbam.com, category-companies
 host-suffix, yourfantasybeginsnow.com, category-companies
 host-suffix, spacex.com, category-companies
+host-suffix, starlink.com, category-companies
 host-suffix, spaceship.com, category-companies
 host-suffix, spacemail.com, category-companies
 host-suffix, st.com, category-companies
