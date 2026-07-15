@@ -794,6 +794,7 @@ host-suffix, jules.google, alphabet
 host-suffix, jules.google.com, alphabet
 host-suffix, labs.google, alphabet
 host-suffix, labs.google.com, alphabet
+host-suffix, flow.google, alphabet
 host-suffix, aisandbox-pa.googleapis.com, alphabet
 host-suffix, aicode.googleapis.com, alphabet
 host-suffix, aida.googleapis.com, alphabet

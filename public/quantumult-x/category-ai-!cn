@@ -105,6 +105,7 @@ host-suffix, jules.google, category-ai-!cn
 host-suffix, jules.google.com, category-ai-!cn
 host-suffix, labs.google, category-ai-!cn
 host-suffix, labs.google.com, category-ai-!cn
+host-suffix, flow.google, category-ai-!cn
 host-suffix, aisandbox-pa.googleapis.com, category-ai-!cn
 host-suffix, aicode.googleapis.com, category-ai-!cn
 host-suffix, aida.googleapis.com, category-ai-!cn

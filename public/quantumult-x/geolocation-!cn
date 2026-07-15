@@ -142,6 +142,7 @@ host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, labs.google.com, geolocation-!cn
+host-suffix, flow.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aicode.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
@@ -19342,6 +19343,7 @@ host-suffix, jules.google, geolocation-!cn
 host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, labs.google.com, geolocation-!cn
+host-suffix, flow.google, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aicode.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn

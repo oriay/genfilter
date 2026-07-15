@@ -5229,6 +5229,7 @@ host-suffix, jules.google, category-ads-all
 host-suffix, jules.google.com, category-ads-all
 host-suffix, labs.google, category-ads-all
 host-suffix, labs.google.com, category-ads-all
+host-suffix, flow.google, category-ads-all
 host-suffix, aisandbox-pa.googleapis.com, category-ads-all
 host-suffix, aicode.googleapis.com, category-ads-all
 host-suffix, aida.googleapis.com, category-ads-all
