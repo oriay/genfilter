@@ -237,6 +237,7 @@ host-suffix, zyh365.com, geolocation-cn
 host-suffix, 7moor-fs1.com, geolocation-cn
 host-suffix, 7moor.com, geolocation-cn
 host-suffix, air-matters.com, geolocation-cn
+host, api.blipsandchitz.me, geolocation-cn
 host-suffix, alookweb.com, geolocation-cn
 host-suffix, anixplayer.net, geolocation-cn
 host-suffix, antutu.com, geolocation-cn
@@ -1381,6 +1382,7 @@ host-suffix, taichuan.net, geolocation-cn
 host-suffix, vhengdata.com, geolocation-cn
 host-suffix, wanji.net.cn, geolocation-cn
 host-suffix, yebinnet.com, geolocation-cn
+host-suffix, hrsecn.com, geolocation-cn
 host-suffix, 12365auto.com, geolocation-cn
 host-suffix, autohome.com, geolocation-cn
 host-suffix, autohome.com.cn, geolocation-cn
