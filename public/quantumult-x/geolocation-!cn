@@ -26148,6 +26148,8 @@ host-suffix, telerik.com, geolocation-!cn
 host-suffix, myqnapcloud.com, geolocation-!cn
 host-suffix, qlink.to, geolocation-!cn
 host-suffix, qnap.com, geolocation-!cn
+host-suffix, qnapsupport.net, geolocation-!cn
+host-suffix, mycloudnas.com, geolocation-!cn
 host-suffix, myqnapcloud.cn, geolocation-!cn
 host-suffix, qlinkto.cn, geolocation-!cn
 host-suffix, qnap.com.cn, geolocation-!cn
