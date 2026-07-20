@@ -1,8 +1,11 @@
+host, trojan-gfw.github.io, category-anticensorship
+host, xtls.github.io, category-anticensorship
 host-suffix, ahmia.fi, category-anticensorship
 host-suffix, akasha.world, category-anticensorship
 host-suffix, browserleaks.com, category-anticensorship
 host-suffix, bypasscensorship.org, category-anticensorship
 host-suffix, censorship.ai, category-anticensorship
+host-suffix, clashyun.com, category-anticensorship
 host-suffix, dat.foundation, category-anticensorship
 host-suffix, democracy.earth, category-anticensorship
 host-suffix, eff.org, category-anticensorship
@@ -18,6 +21,7 @@ host-suffix, happ.su, category-anticensorship
 host-suffix, hiddify.com, category-anticensorship
 host-suffix, jitsi.org, category-anticensorship
 host-suffix, lokinet.org, category-anticensorship
+host-suffix, metacubex.one, category-anticensorship
 host-suffix, ntc.party, category-anticensorship
 host-suffix, onionshare.org, category-anticensorship
 host-suffix, ooni.org, category-anticensorship
@@ -27,8 +31,8 @@ host-suffix, proxifier.com, category-anticensorship
 host-suffix, psiphon.ca, category-anticensorship
 host-suffix, psiphon3.com, category-anticensorship
 host-suffix, sagernet.org, category-anticensorship
-host-suffix, sing-box.app, category-anticensorship
 host-suffix, shadowsocks.org, category-anticensorship
+host-suffix, sing-box.app, category-anticensorship
 host-suffix, sspanel.net, category-anticensorship
 host-suffix, stunnel.org, category-anticensorship
 host-suffix, telex.cc, category-anticensorship
@@ -42,10 +46,7 @@ host-suffix, vuvuzela.io, category-anticensorship
 host-suffix, whonix.org, category-anticensorship
 host-suffix, wikileaks.org, category-anticensorship
 host-suffix, wireguard.com, category-anticensorship
-host-suffix, xtls.github.io, category-anticensorship
-host-suffix, trojan-gfw.github.io, category-anticensorship
 host-suffix, zeronet.io, category-anticensorship
-host-suffix, metacubex.one, category-anticensorship
 host-suffix, 4everland.io, category-anticensorship
 host-suffix, c4rex.co, category-anticensorship
 host-suffix, crustwebsites.net, category-anticensorship

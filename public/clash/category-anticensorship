@@ -1,8 +1,11 @@
+DOMAIN,trojan-gfw.github.io
+DOMAIN,xtls.github.io
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,censorship.ai
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,democracy.earth
 DOMAIN-SUFFIX,eff.org
@@ -18,6 +21,7 @@ DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,lokinet.org
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
@@ -27,8 +31,8 @@ DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,sagernet.org
-DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
@@ -42,10 +46,7 @@ DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
-DOMAIN-SUFFIX,xtls.github.io
-DOMAIN-SUFFIX,trojan-gfw.github.io
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,crustwebsites.net

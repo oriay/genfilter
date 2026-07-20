@@ -204,11 +204,14 @@ host-suffix, youmind.site, geolocation-!cn
 host-suffix, pubmatic.com, geolocation-!cn
 host-suffix, pubmatic.co.jp, geolocation-!cn
 host-suffix, taboola.com, geolocation-!cn
+host, trojan-gfw.github.io, geolocation-!cn
+host, xtls.github.io, geolocation-!cn
 host-suffix, ahmia.fi, geolocation-!cn
 host-suffix, akasha.world, geolocation-!cn
 host-suffix, browserleaks.com, geolocation-!cn
 host-suffix, bypasscensorship.org, geolocation-!cn
 host-suffix, censorship.ai, geolocation-!cn
+host-suffix, clashyun.com, geolocation-!cn
 host-suffix, dat.foundation, geolocation-!cn
 host-suffix, democracy.earth, geolocation-!cn
 host-suffix, eff.org, geolocation-!cn
@@ -224,6 +227,7 @@ host-suffix, happ.su, geolocation-!cn
 host-suffix, hiddify.com, geolocation-!cn
 host-suffix, jitsi.org, geolocation-!cn
 host-suffix, lokinet.org, geolocation-!cn
+host-suffix, metacubex.one, geolocation-!cn
 host-suffix, ntc.party, geolocation-!cn
 host-suffix, onionshare.org, geolocation-!cn
 host-suffix, ooni.org, geolocation-!cn
@@ -233,8 +237,8 @@ host-suffix, proxifier.com, geolocation-!cn
 host-suffix, psiphon.ca, geolocation-!cn
 host-suffix, psiphon3.com, geolocation-!cn
 host-suffix, sagernet.org, geolocation-!cn
-host-suffix, sing-box.app, geolocation-!cn
 host-suffix, shadowsocks.org, geolocation-!cn
+host-suffix, sing-box.app, geolocation-!cn
 host-suffix, sspanel.net, geolocation-!cn
 host-suffix, stunnel.org, geolocation-!cn
 host-suffix, telex.cc, geolocation-!cn
@@ -248,10 +252,7 @@ host-suffix, vuvuzela.io, geolocation-!cn
 host-suffix, whonix.org, geolocation-!cn
 host-suffix, wikileaks.org, geolocation-!cn
 host-suffix, wireguard.com, geolocation-!cn
-host-suffix, xtls.github.io, geolocation-!cn
-host-suffix, trojan-gfw.github.io, geolocation-!cn
 host-suffix, zeronet.io, geolocation-!cn
-host-suffix, metacubex.one, geolocation-!cn
 host-suffix, 4everland.io, geolocation-!cn
 host-suffix, c4rex.co, geolocation-!cn
 host-suffix, crustwebsites.net, geolocation-!cn
@@ -1693,6 +1694,7 @@ host-suffix, bank-arzamas.ru, geolocation-!cn
 host-suffix, bank-credit-suisse-moscow.ru, geolocation-!cn
 host-suffix, bank131.com, geolocation-!cn
 host-suffix, bankermak.ru, geolocation-!cn
+host-suffix, best2pay.net, geolocation-!cn
 host-suffix, bfa.ru, geolocation-!cn
 host-suffix, blanc.ru, geolocation-!cn
 host-suffix, bm-bank.ru, geolocation-!cn
@@ -1701,6 +1703,7 @@ host-suffix, commerzbank.ru, geolocation-!cn
 host-suffix, finambank.ru, geolocation-!cn
 host-suffix, forshtadt.ru, geolocation-!cn
 host-suffix, homecredit.ru, geolocation-!cn
+host-suffix, hva.im, geolocation-!cn
 host-suffix, ibamoscow.ru, geolocation-!cn
 host-suffix, jpmorgan.ru, geolocation-!cn
 host-suffix, korona.com, geolocation-!cn
@@ -1712,6 +1715,8 @@ host-suffix, primbank.ru, geolocation-!cn
 host-suffix, prvbank.ru, geolocation-!cn
 host-suffix, pskb.ru, geolocation-!cn
 host-suffix, pvubank.com, geolocation-!cn
+host-suffix, rbsgate.com, geolocation-!cn
+host-suffix, rbsuat.com, geolocation-!cn
 host-suffix, rencapbank.ru, geolocation-!cn
 host-suffix, rencredit.ru, geolocation-!cn
 host-suffix, rncoluminis.ru, geolocation-!cn
@@ -6808,6 +6813,9 @@ host-suffix, ficador.com, geolocation-!cn
 host-suffix, ficbook.net, geolocation-!cn
 host-suffix, ficmania.com, geolocation-!cn
 host-suffix, teinon.net, geolocation-!cn
+host-suffix, formula1.com, geolocation-!cn
+host-suffix, f1.com, geolocation-!cn
+host-suffix, f1tv.com, geolocation-!cn
 host-suffix, gimy.cc, geolocation-!cn
 host-suffix, gimy.co, geolocation-!cn
 host-suffix, gimy.to, geolocation-!cn
