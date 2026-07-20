@@ -1,1 +1,16 @@
-host-suffix, techtimes.com, techtimes
+host-suffix, <?xml, techtimes
+host-suffix, <!DOCTYPE, techtimes
+host-suffix, , techtimes
+host-suffix, <html>, techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, , techtimes
+host-suffix, </html>, techtimes
