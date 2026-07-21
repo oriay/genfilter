@@ -718,6 +718,7 @@ host-suffix, a-map.link, category-ads
 host-suffix, a-map.vip, category-ads
 host-suffix, acloudrender.com, category-ads
 host-suffix, amap.com, category-ads
+host-suffix, amap.net, category-ads
 host-suffix, amapauto.com, category-ads
 host-suffix, anav.com, category-ads
 host-suffix, autonavi.com, category-ads
@@ -4056,6 +4057,7 @@ host-suffix, brighticecream.com, category-ads
 host-suffix, chinacow.com, category-ads
 host-suffix, yili.com, category-ads
 host-suffix, mengniu.com.cn, category-ads
+host-suffix, telunsu.net, category-ads
 host-suffix, junlebaoruye.com, category-ads
 host-suffix, yihaikerry.net.cn, category-ads
 host-suffix, luhua.cn, category-ads
@@ -5935,6 +5937,7 @@ host-suffix, 360top.com, category-ads
 host-suffix, 7fresh.com, category-ads
 host-suffix, baitiao.com, category-ads
 host-suffix, blackdragon.com, category-ads
+host-suffix, buyjingxi.com, category-ads
 host-suffix, caiyu.com, category-ads
 host-suffix, chicalot.cn, category-ads
 host-suffix, chinabank.com.cn, category-ads
@@ -6103,6 +6106,7 @@ host-suffix, jdcloudwaf.com, category-ads
 host-suffix, jddapeigou.com, category-ads
 host-suffix, jddebug.com, category-ads
 host-suffix, jddglobal.com, category-ads
+host-suffix, jddj.com, category-ads
 host-suffix, jdemall.com, category-ads
 host-suffix, jdfw1.com, category-ads
 host-suffix, jdgslb.com, category-ads
@@ -6119,6 +6123,7 @@ host-suffix, jdwl.com, category-ads
 host-suffix, jdx.com, category-ads
 host-suffix, jhscm.com, category-ads
 host-suffix, jingdong.com, category-ads
+host-suffix, jingdonghealth.cn, category-ads
 host-suffix, jingdongjinrong.com, category-ads
 host-suffix, jingpinhui.com, category-ads
 host-suffix, jingxi.com, category-ads
@@ -8217,6 +8222,7 @@ host-suffix, so.com, category-ads
 host-suffix, sou.cn, category-ads
 host-suffix, sou.com, category-ads
 host-suffix, urlqh.cn, category-ads
+host-suffix, wukongsafe.cn, category-ads
 host-suffix, xiaoluyouxuan.com, category-ads
 host-suffix, xiaoluzhidian.com, category-ads
 host-suffix, xjietiao.com, category-ads
@@ -8725,6 +8731,7 @@ host-suffix, isd.com, category-ads
 host-suffix, ispqcloud.com, category-ads
 host-suffix, itopsdk.com, category-ads
 host-suffix, jrzk.net.cn, category-ads
+host-suffix, my-imcloud.com, category-ads
 host-suffix, my-qcloud.com, category-ads
 host-suffix, myelasticsearch.com, category-ads
 host-suffix, myqcloud.com, category-ads

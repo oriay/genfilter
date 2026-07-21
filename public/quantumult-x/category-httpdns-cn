@@ -18,6 +18,7 @@ host-suffix, doh.iqiyi.com, category-httpdns-cn
 host-suffix, hdns.ksyun.com, category-httpdns-cn
 host-suffix, kuaishou.httpdns.pro, category-httpdns-cn
 host-suffix, httpdns.meituan.com, category-httpdns-cn
+host-suffix, httpdnsmultiapivip.meituan.com, category-httpdns-cn
 host-suffix, httpdnsvip.meituan.com, category-httpdns-cn
 host-suffix, httpdns-sdk.n.netease.com, category-httpdns-cn
 host-suffix, httpdns.music.163.com, category-httpdns-cn

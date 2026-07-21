@@ -740,6 +740,7 @@ host-suffix, a-map.link, category-ads-all
 host-suffix, a-map.vip, category-ads-all
 host-suffix, acloudrender.com, category-ads-all
 host-suffix, amap.com, category-ads-all
+host-suffix, amap.net, category-ads-all
 host-suffix, amapauto.com, category-ads-all
 host-suffix, anav.com, category-ads-all
 host-suffix, autonavi.com, category-ads-all
@@ -4078,6 +4079,7 @@ host-suffix, brighticecream.com, category-ads-all
 host-suffix, chinacow.com, category-ads-all
 host-suffix, yili.com, category-ads-all
 host-suffix, mengniu.com.cn, category-ads-all
+host-suffix, telunsu.net, category-ads-all
 host-suffix, junlebaoruye.com, category-ads-all
 host-suffix, yihaikerry.net.cn, category-ads-all
 host-suffix, luhua.cn, category-ads-all
@@ -5957,6 +5959,7 @@ host-suffix, 360top.com, category-ads-all
 host-suffix, 7fresh.com, category-ads-all
 host-suffix, baitiao.com, category-ads-all
 host-suffix, blackdragon.com, category-ads-all
+host-suffix, buyjingxi.com, category-ads-all
 host-suffix, caiyu.com, category-ads-all
 host-suffix, chicalot.cn, category-ads-all
 host-suffix, chinabank.com.cn, category-ads-all
@@ -6125,6 +6128,7 @@ host-suffix, jdcloudwaf.com, category-ads-all
 host-suffix, jddapeigou.com, category-ads-all
 host-suffix, jddebug.com, category-ads-all
 host-suffix, jddglobal.com, category-ads-all
+host-suffix, jddj.com, category-ads-all
 host-suffix, jdemall.com, category-ads-all
 host-suffix, jdfw1.com, category-ads-all
 host-suffix, jdgslb.com, category-ads-all
@@ -6141,6 +6145,7 @@ host-suffix, jdwl.com, category-ads-all
 host-suffix, jdx.com, category-ads-all
 host-suffix, jhscm.com, category-ads-all
 host-suffix, jingdong.com, category-ads-all
+host-suffix, jingdonghealth.cn, category-ads-all
 host-suffix, jingdongjinrong.com, category-ads-all
 host-suffix, jingpinhui.com, category-ads-all
 host-suffix, jingxi.com, category-ads-all
@@ -8239,6 +8244,7 @@ host-suffix, so.com, category-ads-all
 host-suffix, sou.cn, category-ads-all
 host-suffix, sou.com, category-ads-all
 host-suffix, urlqh.cn, category-ads-all
+host-suffix, wukongsafe.cn, category-ads-all
 host-suffix, xiaoluyouxuan.com, category-ads-all
 host-suffix, xiaoluzhidian.com, category-ads-all
 host-suffix, xjietiao.com, category-ads-all
@@ -8747,6 +8753,7 @@ host-suffix, isd.com, category-ads-all
 host-suffix, ispqcloud.com, category-ads-all
 host-suffix, itopsdk.com, category-ads-all
 host-suffix, jrzk.net.cn, category-ads-all
+host-suffix, my-imcloud.com, category-ads-all
 host-suffix, my-qcloud.com, category-ads-all
 host-suffix, myelasticsearch.com, category-ads-all
 host-suffix, myqcloud.com, category-ads-all

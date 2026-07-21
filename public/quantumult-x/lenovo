@@ -2,7 +2,6 @@ host-suffix, lenovo.net, lenovo
 host-suffix, baiying.cn, lenovo
 host-suffix, baiying.com.cn, lenovo
 host-suffix, cftsupport.com, lenovo
-host-suffix, con-c-hybris.lenovo.com, lenovo
 host-suffix, ileapcloud.com, lenovo
 host-suffix, lenovocloudos.com, lenovo
 host-suffix, lenovo.cn, lenovo
@@ -15,6 +14,7 @@ host-suffix, lxzjjt.com, lenovo
 host-suffix, thinkcloudlab.com, lenovo
 host-suffix, thinkpad.com, lenovo
 host-suffix, zhiliaowenda.com.cn, lenovo
+host-suffix, lecoo.com, lenovo
 host-suffix, blurdev.com, lenovo
 host-suffix, chainedbox.com, lenovo
 host-suffix, fm365.com, lenovo

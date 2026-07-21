@@ -14,6 +14,7 @@ host-suffix, anzhuo.cn, category-media-cn
 host-suffix, bandao.cn, category-media-cn
 host-suffix, bbtnews.com.cn, category-media-cn
 host-suffix, bianews.com, category-media-cn
+host-suffix, bjd.com.cn, category-media-cn
 host-suffix, bjnews.com.cn, category-media-cn
 host-suffix, bkeconomy.com, category-media-cn
 host-suffix, qianlong.com, category-media-cn
@@ -33,6 +34,7 @@ host-suffix, chinabyte.com, category-media-cn
 host-suffix, tianjimedia.com, category-media-cn
 host-suffix, yesky.com, category-media-cn
 host-suffix, chinadevelopment.com.cn, category-media-cn
+host-suffix, chinapp.com, category-media-cn
 host-suffix, chuanbaoguancha.cn, category-media-cn
 host-suffix, scol.com.cn, category-media-cn
 host-suffix, scdaily.cn, category-media-cn
@@ -62,6 +64,8 @@ host-suffix, cztvcdn.com, category-media-cn
 host-suffix, cztvcloud.com, category-media-cn
 host-suffix, zjstv.com, category-media-cn
 host-suffix, dahe.cn, category-media-cn
+host-suffix, dingxinwen.cn, category-media-cn
+host-suffix, topnews.cn, category-media-cn
 host-suffix, daheapp.com, category-media-cn
 host-suffix, dahebao.cn, category-media-cn
 host-suffix, dayoo.com, category-media-cn
@@ -108,6 +112,9 @@ host-suffix, voc.com.cn, category-media-cn
 host-suffix, hntv.tv, category-media-cn
 host-suffix, hndt.com, category-media-cn
 host-suffix, dianzhenkeji.com, category-media-cn
+host-suffix, huashangtop.com, category-media-cn
+host-suffix, hsw.cn, category-media-cn
+host-suffix, myhsw.cn, category-media-cn
 host-suffix, huanqiu.com, category-media-cn
 host-suffix, huanqiucdn.cn, category-media-cn
 host-suffix, huxiu.com, category-media-cn
@@ -120,6 +127,7 @@ host-suffix, igao7.com, category-media-cn
 host-suffix, ikanchai.com, category-media-cn
 host-suffix, infzm.com, category-media-cn
 host-suffix, nfpeople.com, category-media-cn
+host-suffix, iqilu.com, category-media-cn
 host-suffix, iresearch.cn, category-media-cn
 host-suffix, istv.cn, category-media-cn
 host-suffix, it168.com, category-media-cn
@@ -142,6 +150,7 @@ host-suffix, kankanews.com, category-media-cn
 host-suffix, kankannews.com, category-media-cn
 host-suffix, kksmg.com, category-media-cn
 host-suffix, statickksmg.com, category-media-cn
+host-suffix, kf.cn, category-media-cn
 host-suffix, kjrb.com.cn, category-media-cn
 host-suffix, stdaily.com, category-media-cn
 host-suffix, knewsmart.com, category-media-cn
