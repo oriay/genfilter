@@ -96,3 +96,6 @@ host-suffix, v2fly.org, category-anticensorship
 host-suffix, opengw.net, category-anticensorship
 host-suffix, vpngate.jp, category-anticensorship
 host-suffix, vpngate.net, category-anticensorship
+host-suffix, docs.rw, category-anticensorship
+host-suffix, log.rw, category-anticensorship
+host-suffix, try.rw, category-anticensorship
