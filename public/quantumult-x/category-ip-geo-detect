@@ -102,6 +102,7 @@ host-suffix, my.ipinfo.app, category-ip-geo-detect
 host-suffix, myexternalip.com, category-ip-geo-detect
 host-suffix, myip.com, category-ip-geo-detect
 host-suffix, myip.expert, category-ip-geo-detect
+host-suffix, myip.link, category-ip-geo-detect
 host-suffix, myip.ms, category-ip-geo-detect
 host-suffix, myip.ru, category-ip-geo-detect
 host-suffix, myip.wtf, category-ip-geo-detect
