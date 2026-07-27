@@ -17957,6 +17957,7 @@ host-suffix, githubhackathon.com, geolocation-!cn
 host-suffix, githubnext.com, geolocation-!cn
 host-suffix, githubpreview.dev, geolocation-!cn
 host-suffix, githubstatus.com, geolocation-!cn
+host-suffix, githubsupport.com, geolocation-!cn
 host-suffix, githubuniverse.com, geolocation-!cn
 host-suffix, githubusercontent.com, geolocation-!cn
 host-suffix, myoctocat.com, geolocation-!cn
@@ -25579,6 +25580,7 @@ host-suffix, githubhackathon.com, geolocation-!cn
 host-suffix, githubnext.com, geolocation-!cn
 host-suffix, githubpreview.dev, geolocation-!cn
 host-suffix, githubstatus.com, geolocation-!cn
+host-suffix, githubsupport.com, geolocation-!cn
 host-suffix, githubuniverse.com, geolocation-!cn
 host-suffix, githubusercontent.com, geolocation-!cn
 host-suffix, myoctocat.com, geolocation-!cn
