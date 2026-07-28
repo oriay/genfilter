@@ -197,6 +197,7 @@ host-suffix, windsurf.build, geolocation-!cn
 host-suffix, windsurf.com, geolocation-!cn
 host-suffix, grok.com, geolocation-!cn
 host-suffix, grok.x.com, geolocation-!cn
+host-suffix, grokipedia.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
 host-suffix, youmind.ai, geolocation-!cn
 host-suffix, youmind.com, geolocation-!cn
@@ -274,6 +275,7 @@ host-suffix, nftstorage.link, geolocation-!cn
 host-suffix, via0.com, geolocation-!cn
 host-suffix, cf-ipfs.com, geolocation-!cn
 host-suffix, cloudflare-ipfs.com, geolocation-!cn
+host-suffix, ceno.app, geolocation-!cn
 host-suffix, censorship.no, geolocation-!cn
 host-suffix, citizenlab.ca, geolocation-!cn
 host-suffix, citizenlab.org, geolocation-!cn
@@ -1761,15 +1763,16 @@ host-suffix, megamarket.ru, geolocation-!cn
 host-suffix, megamarket.tech, geolocation-!cn
 host-suffix, sberauto.com, geolocation-!cn
 host-suffix, sberbank-insurance.ru, geolocation-!cn
+host-suffix, sberbank-tele.com, geolocation-!cn
+host-suffix, sberbankaktivno.ru, geolocation-!cn
+host-suffix, sberbankins.ru, geolocation-!cn
 host-suffix, sbercloud.ru, geolocation-!cn
 host-suffix, sbercloud.tech, geolocation-!cn
 host-suffix, sberdevices.ru, geolocation-!cn
 host-suffix, sberdisk.ru, geolocation-!cn
 host-suffix, sberfactoring.ru, geolocation-!cn
-host-suffix, sberindex.ru, geolocation-!cn
-host-suffix, sberbankaktivno.ru, geolocation-!cn
-host-suffix, sberbankins.ru, geolocation-!cn
 host-suffix, sberhealth.ru, geolocation-!cn
+host-suffix, sberindex.ru, geolocation-!cn
 host-suffix, sberleasing.ru, geolocation-!cn
 host-suffix, sberlogistics.ru, geolocation-!cn
 host-suffix, sbermegamarket.ru, geolocation-!cn
@@ -5607,12 +5610,14 @@ host-suffix, snowmiku.com, geolocation-!cn
 host-suffix, bowlroll.net, geolocation-!cn
 host-suffix, cdnvideo.ru, geolocation-!cn
 host-suffix, cdnvideohub.com, geolocation-!cn
+host-suffix, kinescopecdn.net, geolocation-!cn
 host-suffix, trbcdn.net, geolocation-!cn
 host-suffix, kinorium.com, geolocation-!cn
 host-suffix, 24h.tv, geolocation-!cn
 host-suffix, amediateka.ru, geolocation-!cn
 host-suffix, beeline.tv, geolocation-!cn
 host-suffix, ivi.ru, geolocation-!cn
+host-suffix, ivicdn.tv, geolocation-!cn
 host-suffix, premier.one, geolocation-!cn
 host-suffix, smotreshka.tv, geolocation-!cn
 host-suffix, start.ru, geolocation-!cn
@@ -17032,6 +17037,7 @@ host-suffix, qutebrowser.org, geolocation-!cn
 host-suffix, vivaldi.com, geolocation-!cn
 host-suffix, waterfox.net, geolocation-!cn
 host-suffix, zen-browser.app, geolocation-!cn
+host-suffix, ceno.app, geolocation-!cn
 host-suffix, censorship.no, geolocation-!cn
 host-suffix, epicbrowser.com, geolocation-!cn
 host-suffix, extendfirefox.com, geolocation-!cn
@@ -22504,6 +22510,7 @@ host-suffix, bwh89.net, geolocation-!cn
 host-suffix, bwhstatus.com, geolocation-!cn
 host-suffix, beget.com, geolocation-!cn
 host-suffix, beget.ru, geolocation-!cn
+host-suffix, blurams.app, geolocation-!cn
 host-suffix, blurams.com, geolocation-!cn
 host-suffix, broadcom.com, geolocation-!cn
 host-suffix, cfblob.com, geolocation-!cn

@@ -87,6 +87,7 @@ host-suffix, ipqualityscore.com, category-ip-geo-detect
 host-suffix, ipquery.io, category-ip-geo-detect
 host-suffix, ipregistry.co, category-ip-geo-detect
 host-suffix, iproyal.com, category-ip-geo-detect
+host-suffix, ipsimple.org, category-ip-geo-detect
 host-suffix, ipstack.com, category-ip-geo-detect
 host-suffix, ipverify.com, category-ip-geo-detect
 host-suffix, ipw.cn, category-ip-geo-detect
@@ -110,6 +111,7 @@ host-suffix, myipaddress.com, category-ip-geo-detect
 host-suffix, myiplookup.com, category-ip-geo-detect
 host-suffix, mylocation.org, category-ip-geo-detect
 host-suffix, nodedata.io, category-ip-geo-detect
+host-suffix, nossl.sh, category-ip-geo-detect
 host-suffix, osint.sh, category-ip-geo-detect
 host-suffix, proxycheck.io, category-ip-geo-detect
 host-suffix, realip.cc, category-ip-geo-detect
@@ -145,6 +147,7 @@ host, checkip.dyn.com, category-ip-geo-detect
 host, ip.comss.net, category-ip-geo-detect
 host, ipv4-check-perf.radar.cloudflare.com, category-ip-geo-detect
 host, ipv6-check-perf.radar.cloudflare.com, category-ip-geo-detect
+host, myip.dnsomatic.com, category-ip-geo-detect
 host, whatismyip.akamai.com, category-ip-geo-detect
 host-suffix, geoip.noc.gov.ru, category-ip-geo-detect
 host-suffix, ip.hetzner.com, category-ip-geo-detect
