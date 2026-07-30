@@ -64,6 +64,7 @@ host-suffix, firefox.hu, mozilla
 host-suffix, firefoxtweetmachine.com, mozilla
 host-suffix, firefoxusercontent.com, mozilla
 host, mozilla-ohttp.fastly-edge.com, mozilla
+host, mozilla.map.fastly.net, mozilla
 host-suffix, developer.allizom.org, mozilla
 host-suffix, developer.mozilla.org, mozilla
 host-suffix, mdn.allizom.net, mozilla

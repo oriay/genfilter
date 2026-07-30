@@ -6345,13 +6345,16 @@ host-suffix, algoritmika.org, category-ads
 host-suffix, code-class.ru, category-ads
 host-suffix, gb.ru, category-ads
 host-suffix, lerna.ru, category-ads
+host-suffix, o-uchi.ru, category-ads
 host-suffix, skbx.pro, category-ads
 host-suffix, skillbox.pro, category-ads
 host-suffix, skillbox.ru, category-ads
 host-suffix, skillfactory.ru, category-ads
 host-suffix, tetrika-school.ru, category-ads
 host-suffix, uchi.ru, category-ads
+host-suffix, uchilk.ru, category-ads
 host-suffix, umschool.net, category-ads
+host-suffix, xn----otbzjdu.xn--p1ai, category-ads
 host-suffix, yaklass.ru, category-ads
 host-suffix, cybersport.ru, category-ads
 host-suffix, epicevents.gg, category-ads
@@ -6370,8 +6373,8 @@ host-suffix, icq.at, category-ads
 host-suffix, icq.biz, category-ads
 host-suffix, icq.com, category-ads
 host-suffix, icq.de, category-ads
-host-suffix, icq.fr, category-ads
 host-suffix, icq.eu, category-ads
+host-suffix, icq.fr, category-ads
 host-suffix, icq.im, category-ads
 host-suffix, icq.lt, category-ads
 host-suffix, icq.mobi, category-ads
@@ -7953,6 +7956,7 @@ host-suffix, firefox.hu, category-ads
 host-suffix, firefoxtweetmachine.com, category-ads
 host-suffix, firefoxusercontent.com, category-ads
 host, mozilla-ohttp.fastly-edge.com, category-ads
+host, mozilla.map.fastly.net, category-ads
 host-suffix, developer.allizom.org, category-ads
 host-suffix, developer.mozilla.org, category-ads
 host-suffix, mdn.allizom.net, category-ads
@@ -9714,6 +9718,7 @@ host-suffix, hayya.ae, category-ads
 host-suffix, meteum.ai, category-ads
 host-suffix, my-manager-account.com, category-ads
 host-suffix, naydex.net, category-ads
+host-suffix, realtyverif.ru, category-ads
 host-suffix, rostaxi.org, category-ads
 host-suffix, shedevrum.ai, category-ads
 host-suffix, sourcecraft.dev, category-ads
@@ -9786,6 +9791,7 @@ host-suffix, yastat.net, category-ads
 host-suffix, yastatic-net.ru, category-ads
 host-suffix, yastatic.net, category-ads
 host-suffix, yccdn.ru, category-ads
+host-suffix, yndx.net, category-ads
 host-suffix, adfox.ru, category-ads
 host-suffix, adfox.yandex.ru, category-ads
 host-suffix, admetrica.ru, category-ads

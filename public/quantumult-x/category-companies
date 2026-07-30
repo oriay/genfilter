@@ -6014,13 +6014,16 @@ host-suffix, algoritmika.org, category-companies
 host-suffix, code-class.ru, category-companies
 host-suffix, gb.ru, category-companies
 host-suffix, lerna.ru, category-companies
+host-suffix, o-uchi.ru, category-companies
 host-suffix, skbx.pro, category-companies
 host-suffix, skillbox.pro, category-companies
 host-suffix, skillbox.ru, category-companies
 host-suffix, skillfactory.ru, category-companies
 host-suffix, tetrika-school.ru, category-companies
 host-suffix, uchi.ru, category-companies
+host-suffix, uchilk.ru, category-companies
 host-suffix, umschool.net, category-companies
+host-suffix, xn----otbzjdu.xn--p1ai, category-companies
 host-suffix, yaklass.ru, category-companies
 host-suffix, cybersport.ru, category-companies
 host-suffix, epicevents.gg, category-companies
@@ -6039,8 +6042,8 @@ host-suffix, icq.at, category-companies
 host-suffix, icq.biz, category-companies
 host-suffix, icq.com, category-companies
 host-suffix, icq.de, category-companies
-host-suffix, icq.fr, category-companies
 host-suffix, icq.eu, category-companies
+host-suffix, icq.fr, category-companies
 host-suffix, icq.im, category-companies
 host-suffix, icq.lt, category-companies
 host-suffix, icq.mobi, category-companies
@@ -7678,6 +7681,7 @@ host-suffix, firefox.hu, category-companies
 host-suffix, firefoxtweetmachine.com, category-companies
 host-suffix, firefoxusercontent.com, category-companies
 host, mozilla-ohttp.fastly-edge.com, category-companies
+host, mozilla.map.fastly.net, category-companies
 host-suffix, developer.allizom.org, category-companies
 host-suffix, developer.mozilla.org, category-companies
 host-suffix, mdn.allizom.net, category-companies
@@ -8751,6 +8755,7 @@ host-suffix, hayya.ae, category-companies
 host-suffix, meteum.ai, category-companies
 host-suffix, my-manager-account.com, category-companies
 host-suffix, naydex.net, category-companies
+host-suffix, realtyverif.ru, category-companies
 host-suffix, rostaxi.org, category-companies
 host-suffix, shedevrum.ai, category-companies
 host-suffix, sourcecraft.dev, category-companies
@@ -8823,6 +8828,7 @@ host-suffix, yastat.net, category-companies
 host-suffix, yastatic-net.ru, category-companies
 host-suffix, yastatic.net, category-companies
 host-suffix, yccdn.ru, category-companies
+host-suffix, yndx.net, category-companies
 host-suffix, adfox.ru, category-companies
 host-suffix, adfox.yandex.ru, category-companies
 host-suffix, admetrica.ru, category-companies

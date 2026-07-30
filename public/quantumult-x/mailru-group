@@ -118,13 +118,16 @@ host-suffix, algoritmika.org, mailru-group
 host-suffix, code-class.ru, mailru-group
 host-suffix, gb.ru, mailru-group
 host-suffix, lerna.ru, mailru-group
+host-suffix, o-uchi.ru, mailru-group
 host-suffix, skbx.pro, mailru-group
 host-suffix, skillbox.pro, mailru-group
 host-suffix, skillbox.ru, mailru-group
 host-suffix, skillfactory.ru, mailru-group
 host-suffix, tetrika-school.ru, mailru-group
 host-suffix, uchi.ru, mailru-group
+host-suffix, uchilk.ru, mailru-group
 host-suffix, umschool.net, mailru-group
+host-suffix, xn----otbzjdu.xn--p1ai, mailru-group
 host-suffix, yaklass.ru, mailru-group
 host-suffix, cybersport.ru, mailru-group
 host-suffix, epicevents.gg, mailru-group
@@ -143,8 +146,8 @@ host-suffix, icq.at, mailru-group
 host-suffix, icq.biz, mailru-group
 host-suffix, icq.com, mailru-group
 host-suffix, icq.de, mailru-group
-host-suffix, icq.fr, mailru-group
 host-suffix, icq.eu, mailru-group
+host-suffix, icq.fr, mailru-group
 host-suffix, icq.im, mailru-group
 host-suffix, icq.lt, mailru-group
 host-suffix, icq.mobi, mailru-group

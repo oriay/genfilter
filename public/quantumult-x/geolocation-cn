@@ -2394,6 +2394,16 @@ host-suffix, lizhifm.com, geolocation-cn
 host-suffix, lizhiinc.com, geolocation-cn
 host-suffix, lz310.com, geolocation-cn
 host-suffix, lzpipi.com, geolocation-cn
+host-suffix, 1kkk.com, geolocation-cn
+host-suffix, cdndm5.com, geolocation-cn
+host-suffix, dm5.cn, geolocation-cn
+host-suffix, dm5.com, geolocation-cn
+host-suffix, dm9.com, geolocation-cn
+host-suffix, gmanhua.com, geolocation-cn
+host-suffix, hkmanga.com, geolocation-cn
+host-suffix, manben.com, geolocation-cn
+host-suffix, manbenapi.com, geolocation-cn
+host-suffix, manhuaren.com, geolocation-cn
 host-suffix, pplive.cn, geolocation-cn
 host-suffix, pplive.com, geolocation-cn
 host-suffix, pptv.com, geolocation-cn

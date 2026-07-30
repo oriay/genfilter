@@ -31,4 +31,5 @@ host-suffix, firefox.hu, category-browser-!cn
 host-suffix, firefoxtweetmachine.com, category-browser-!cn
 host-suffix, firefoxusercontent.com, category-browser-!cn
 host, mozilla-ohttp.fastly-edge.com, category-browser-!cn
+host, mozilla.map.fastly.net, category-browser-!cn
 host-suffix, torproject.org, category-browser-!cn

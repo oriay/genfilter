@@ -6367,13 +6367,16 @@ host-suffix, algoritmika.org, category-ads-all
 host-suffix, code-class.ru, category-ads-all
 host-suffix, gb.ru, category-ads-all
 host-suffix, lerna.ru, category-ads-all
+host-suffix, o-uchi.ru, category-ads-all
 host-suffix, skbx.pro, category-ads-all
 host-suffix, skillbox.pro, category-ads-all
 host-suffix, skillbox.ru, category-ads-all
 host-suffix, skillfactory.ru, category-ads-all
 host-suffix, tetrika-school.ru, category-ads-all
 host-suffix, uchi.ru, category-ads-all
+host-suffix, uchilk.ru, category-ads-all
 host-suffix, umschool.net, category-ads-all
+host-suffix, xn----otbzjdu.xn--p1ai, category-ads-all
 host-suffix, yaklass.ru, category-ads-all
 host-suffix, cybersport.ru, category-ads-all
 host-suffix, epicevents.gg, category-ads-all
@@ -6392,8 +6395,8 @@ host-suffix, icq.at, category-ads-all
 host-suffix, icq.biz, category-ads-all
 host-suffix, icq.com, category-ads-all
 host-suffix, icq.de, category-ads-all
-host-suffix, icq.fr, category-ads-all
 host-suffix, icq.eu, category-ads-all
+host-suffix, icq.fr, category-ads-all
 host-suffix, icq.im, category-ads-all
 host-suffix, icq.lt, category-ads-all
 host-suffix, icq.mobi, category-ads-all
@@ -7975,6 +7978,7 @@ host-suffix, firefox.hu, category-ads-all
 host-suffix, firefoxtweetmachine.com, category-ads-all
 host-suffix, firefoxusercontent.com, category-ads-all
 host, mozilla-ohttp.fastly-edge.com, category-ads-all
+host, mozilla.map.fastly.net, category-ads-all
 host-suffix, developer.allizom.org, category-ads-all
 host-suffix, developer.mozilla.org, category-ads-all
 host-suffix, mdn.allizom.net, category-ads-all
@@ -9736,6 +9740,7 @@ host-suffix, hayya.ae, category-ads-all
 host-suffix, meteum.ai, category-ads-all
 host-suffix, my-manager-account.com, category-ads-all
 host-suffix, naydex.net, category-ads-all
+host-suffix, realtyverif.ru, category-ads-all
 host-suffix, rostaxi.org, category-ads-all
 host-suffix, shedevrum.ai, category-ads-all
 host-suffix, sourcecraft.dev, category-ads-all
@@ -9808,6 +9813,7 @@ host-suffix, yastat.net, category-ads-all
 host-suffix, yastatic-net.ru, category-ads-all
 host-suffix, yastatic.net, category-ads-all
 host-suffix, yccdn.ru, category-ads-all
+host-suffix, yndx.net, category-ads-all
 host-suffix, adfox.ru, category-ads-all
 host-suffix, adfox.yandex.ru, category-ads-all
 host-suffix, admetrica.ru, category-ads-all
