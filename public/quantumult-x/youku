@@ -1,6 +1,5 @@
 host-suffix, 9xsecndns.cn, youku
 host-suffix, kumiao.com, youku
-host-suffix, mmstat.com, youku
 host-suffix, soku.com, youku
 host-suffix, tudou.com, youku
 host-suffix, ykimg.com, youku
@@ -8,6 +7,7 @@ host-suffix, youku.com, youku
 host-suffix, youku.tv, youku
 host-suffix, youkuhonor.com, youku
 host-suffix, youkuplay.com, youku
+host, ykimg.alicdn.com, youku
 host-suffix, ad.api.3g.youku.com, youku
 host-suffix, ad.api.mobile.youku.com, youku
 host-suffix, ad.mobile.youku.com, youku

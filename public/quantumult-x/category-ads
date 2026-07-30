@@ -413,9 +413,12 @@ host-suffix, alibaba-inc.com, category-ads
 host-suffix, alibaba.com, category-ads
 host-suffix, alibabacapital.com, category-ads
 host-suffix, alibabachengdun.com, category-ads
+host-suffix, alibabachengdun.net, category-ads
 host-suffix, alibabacorp.com, category-ads
 host-suffix, alibabadesign.com, category-ads
 host-suffix, alibabadoctor.com, category-ads
+host-suffix, alibabafonts.com, category-ads
+host-suffix, alibabafoundation.com, category-ads
 host-suffix, alibabafuturehotel.com, category-ads
 host-suffix, alibabagroup.com, category-ads
 host-suffix, alibabapictures.com, category-ads
@@ -454,6 +457,7 @@ host-suffix, aliwork.com, category-ads
 host-suffix, alixiaomi.com, category-ads
 host-suffix, alizhaopin.com, category-ads
 host-suffix, alyms.cn, category-ads
+host-suffix, alysm.cn, category-ads
 host-suffix, asczwa.com, category-ads
 host-suffix, asczxcefsv.com, category-ads
 host-suffix, asmlink.cn, category-ads
@@ -473,6 +477,8 @@ host-suffix, dratio.com, category-ads
 host-suffix, emas-poc.com, category-ads
 host-suffix, gongyi.xin, category-ads
 host-suffix, hupan.com, category-ads
+host-suffix, hzchengdun.com, category-ads
+host-suffix, hzchengdun.net, category-ads
 host-suffix, ialicdn.com, category-ads
 host-suffix, iconfont.cn, category-ads
 host-suffix, ics.design, category-ads
@@ -489,6 +495,7 @@ host-suffix, mdeer.com, category-ads
 host-suffix, mei.com, category-ads
 host-suffix, miaostreet.com, category-ads
 host-suffix, miaoya.cn, category-ads
+host-suffix, mmstat.com, category-ads
 host-suffix, mshare.cc, category-ads
 host-suffix, nic.xin, category-ads
 host-suffix, philanthropy.xin, category-ads
@@ -506,6 +513,7 @@ host-suffix, tanx.com, category-ads
 host-suffix, ttpod.com, category-ads
 host-suffix, xin.xin, category-ads
 host-suffix, xinlingshou.cn, category-ads
+host-suffix, xixikf.cn, category-ads
 host-suffix, yowhale.com, category-ads
 host-suffix, yunos-inc.com, category-ads
 host-suffix, yunos.com, category-ads
@@ -534,6 +542,7 @@ host-suffix, antfin.com, category-ads
 host-suffix, antgroup.com, category-ads
 host-suffix, antgroup-inc.cn, category-ads
 host-suffix, sm.cn, category-ads
+host-suffix, yisou.com, category-ads
 host-suffix, 1688.com, category-ads
 host-suffix, duanqu.com, category-ads
 host-suffix, etao.com, category-ads
@@ -547,11 +556,13 @@ host-suffix, taobao.org, category-ads
 host-suffix, taobaocdn.com, category-ads
 host-suffix, taobizhong.com, category-ads
 host-suffix, taopiaopiao.com, category-ads
+host-suffix, taotian.com, category-ads
 host-suffix, tb.cn, category-ads
 host-suffix, tbcache.com, category-ads
 host-suffix, tbcdn.cn, category-ads
 host-suffix, tburl.in, category-ads
 host-suffix, tmall.com, category-ads
+host-suffix, tmall.hk, category-ads
 host-suffix, tmall.ru, category-ads
 host-suffix, tmalltv.com, category-ads
 host-suffix, tmjl.ai, category-ads
@@ -757,6 +768,7 @@ host-suffix, eleme.io, category-ads
 host-suffix, elemecdn.cn, category-ads
 host-suffix, elemecdn.com, category-ads
 host-suffix, elenet.me, category-ads
+host-suffix, fengniaojipei.net, category-ads
 host-suffix, adashx.ut.ele.me, category-ads
 host-suffix, h-adashx.ut.ele.me, category-ads
 host-suffix, v6-adashx.ut.ele.me, category-ads
@@ -817,7 +829,6 @@ host-suffix, w.cnzz.com, category-ads
 host-suffix, z.gds.cnzz.com, category-ads
 host-suffix, 9xsecndns.cn, category-ads
 host-suffix, kumiao.com, category-ads
-host-suffix, mmstat.com, category-ads
 host-suffix, soku.com, category-ads
 host-suffix, tudou.com, category-ads
 host-suffix, ykimg.com, category-ads
@@ -825,6 +836,7 @@ host-suffix, youku.com, category-ads
 host-suffix, youku.tv, category-ads
 host-suffix, youkuhonor.com, category-ads
 host-suffix, youkuplay.com, category-ads
+host, ykimg.alicdn.com, category-ads
 host-suffix, ad.api.3g.youku.com, category-ads
 host-suffix, ad.api.mobile.youku.com, category-ads
 host-suffix, ad.mobile.youku.com, category-ads
@@ -3289,6 +3301,7 @@ host-suffix, volcdns-test.net, category-ads
 host-suffix, voleai.com, category-ads
 host-suffix, wtturl.cn, category-ads
 host-suffix, xsgtvacct.com, category-ads
+host-suffix, yhgfb-cn-static.com, category-ads
 host-suffix, zijieapi.cn, category-ads
 host-suffix, zijieapi.com, category-ads
 host-suffix, zijieapi.net, category-ads
@@ -3380,12 +3393,14 @@ host-suffix, rsproxy.cn, category-ads
 host-suffix, ad.toutiao.com, category-ads
 host-suffix, bds.snssdk.com, category-ads
 host-suffix, byteadverts.com, category-ads
+host-suffix, csjplatform.com, category-ads
 host-suffix, ctobsnssdk.com, category-ads
 host-suffix, dig.bdurl.net, category-ads
 host-suffix, extlog.snssdk.com, category-ads
 host-suffix, i.snssdk.com, category-ads
 host-suffix, log.zijieapi.com, category-ads
 host-suffix, mcs.snssdk.com, category-ads
+host-suffix, pangle.cn, category-ads
 host-suffix, pangolin-dsp-toutiao-b.com, category-ads
 host-suffix, pangolin-dsp-toutiao.com, category-ads
 host-suffix, pangolin-hl.snssdk.com, category-ads
@@ -4201,6 +4216,7 @@ host-suffix, cnms.net.cn, category-ads
 host-suffix, cntv.cn, category-ads
 host-suffix, cntv.com.cn, category-ads
 host-suffix, cntvwb.cn, category-ads
+host-suffix, cri.cn, category-ads
 host-suffix, gjgbdszt.cn, category-ads
 host-suffix, gjgbdszt.com.cn, category-ads
 host-suffix, gjgbdszt.net.cn, category-ads
@@ -7997,6 +8013,7 @@ host-suffix, 321fenx.com, category-ads
 host-suffix, easebar.com, category-ads
 host-suffix, haowu.link, category-ads
 host-suffix, icourse163.org, category-ads
+host-suffix, kada.com, category-ads
 host-suffix, lf126.net, category-ads
 host-suffix, lf127.net, category-ads
 host-suffix, lofter.com, category-ads

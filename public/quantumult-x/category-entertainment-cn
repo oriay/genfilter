@@ -843,7 +843,6 @@ host-suffix, xiaoyuzhoufm.com, category-entertainment-cn
 host-suffix, podcast.xyz, category-entertainment-cn
 host-suffix, 9xsecndns.cn, category-entertainment-cn
 host-suffix, kumiao.com, category-entertainment-cn
-host-suffix, mmstat.com, category-entertainment-cn
 host-suffix, soku.com, category-entertainment-cn
 host-suffix, tudou.com, category-entertainment-cn
 host-suffix, ykimg.com, category-entertainment-cn
@@ -851,6 +850,7 @@ host-suffix, youku.com, category-entertainment-cn
 host-suffix, youku.tv, category-entertainment-cn
 host-suffix, youkuhonor.com, category-entertainment-cn
 host-suffix, youkuplay.com, category-entertainment-cn
+host, ykimg.alicdn.com, category-entertainment-cn
 host-suffix, ad.api.3g.youku.com, category-entertainment-cn
 host-suffix, ad.api.mobile.youku.com, category-entertainment-cn
 host-suffix, ad.mobile.youku.com, category-entertainment-cn

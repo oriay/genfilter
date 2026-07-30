@@ -230,6 +230,7 @@ host-suffix, volcdns-test.net, bytedance
 host-suffix, voleai.com, bytedance
 host-suffix, wtturl.cn, bytedance
 host-suffix, xsgtvacct.com, bytedance
+host-suffix, yhgfb-cn-static.com, bytedance
 host-suffix, zijieapi.cn, bytedance
 host-suffix, zijieapi.com, bytedance
 host-suffix, zijieapi.net, bytedance
@@ -321,12 +322,14 @@ host-suffix, rsproxy.cn, bytedance
 host-suffix, ad.toutiao.com, bytedance
 host-suffix, bds.snssdk.com, bytedance
 host-suffix, byteadverts.com, bytedance
+host-suffix, csjplatform.com, bytedance
 host-suffix, ctobsnssdk.com, bytedance
 host-suffix, dig.bdurl.net, bytedance
 host-suffix, extlog.snssdk.com, bytedance
 host-suffix, i.snssdk.com, bytedance
 host-suffix, log.zijieapi.com, bytedance
 host-suffix, mcs.snssdk.com, bytedance
+host-suffix, pangle.cn, bytedance
 host-suffix, pangolin-dsp-toutiao-b.com, bytedance
 host-suffix, pangolin-dsp-toutiao.com, bytedance
 host-suffix, pangolin-hl.snssdk.com, bytedance
