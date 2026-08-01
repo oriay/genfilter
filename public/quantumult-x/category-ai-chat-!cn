@@ -100,6 +100,7 @@ host, cloudcode-pa.googleapis.com, category-ai-chat-!cn
 host, daily-cloudcode-pa.googleapis.com, category-ai-chat-!cn
 host, notebooklm-pa.googleapis.com, category-ai-chat-!cn
 host, notebooklm.googleapis.com, category-ai-chat-!cn
+host-suffix, notebook.google.com, category-ai-chat-!cn
 host-suffix, notebooklm.google, category-ai-chat-!cn
 host-suffix, notebooklm.google.com, category-ai-chat-!cn
 host-suffix, jules.google, category-ai-chat-!cn
@@ -121,6 +122,9 @@ host-suffix, groq.com, category-ai-chat-!cn
 host-suffix, hf.co, category-ai-chat-!cn
 host-suffix, hf.space, category-ai-chat-!cn
 host-suffix, huggingface.co, category-ai-chat-!cn
+host-suffix, grazie.ai, category-ai-chat-!cn
+host-suffix, grazie.aws.intellij.net, category-ai-chat-!cn
+host-suffix, jetbrains.ai, category-ai-chat-!cn
 host-suffix, liveperson.net, category-ai-chat-!cn
 host-suffix, lpsnmedia.net, category-ai-chat-!cn
 host-suffix, manus.im, category-ai-chat-!cn

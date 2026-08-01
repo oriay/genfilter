@@ -137,6 +137,7 @@ host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
+host-suffix, notebook.google.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn
@@ -158,6 +159,9 @@ host-suffix, groq.com, geolocation-!cn
 host-suffix, hf.co, geolocation-!cn
 host-suffix, hf.space, geolocation-!cn
 host-suffix, huggingface.co, geolocation-!cn
+host-suffix, grazie.ai, geolocation-!cn
+host-suffix, grazie.aws.intellij.net, geolocation-!cn
+host-suffix, jetbrains.ai, geolocation-!cn
 host-suffix, liveperson.net, geolocation-!cn
 host-suffix, lpsnmedia.net, geolocation-!cn
 host-suffix, manus.im, geolocation-!cn
@@ -17883,10 +17887,18 @@ host-suffix, jb.gg, geolocation-!cn
 host-suffix, jetbrains.cloud, geolocation-!cn
 host-suffix, jetbrains.com, geolocation-!cn
 host-suffix, jetbrains.com.cn, geolocation-!cn
+host-suffix, jetbrains.dev, geolocation-!cn
 host-suffix, jetbrains.net, geolocation-!cn
+host-suffix, jetbrains.org, geolocation-!cn
+host-suffix, jetbrains.ru, geolocation-!cn
 host-suffix, jetbrains.space, geolocation-!cn
 host-suffix, jetbrains.team, geolocation-!cn
+host-suffix, kotl.in, geolocation-!cn
+host-suffix, kotlinconf.com, geolocation-!cn
 host-suffix, kotlinlang.org, geolocation-!cn
+host-suffix, ktor.io, geolocation-!cn
+host-suffix, myjetbrains.com, geolocation-!cn
+host-suffix, talkingkotlin.com, geolocation-!cn
 host-suffix, youtrack.cloud, geolocation-!cn
 host-suffix, cdn.jetbrains.com, geolocation-!cn
 host-suffix, grazie.ai, geolocation-!cn
@@ -18602,6 +18614,7 @@ host-suffix, 0emm.com, geolocation-!cn
 host-suffix, 1e100.net, geolocation-!cn
 host-suffix, 1ucrs.com, geolocation-!cn
 host-suffix, 466453.com, geolocation-!cn
+host-suffix, actifio.com, geolocation-!cn
 host-suffix, adgoogle.net, geolocation-!cn
 host-suffix, admeld.com, geolocation-!cn
 host-suffix, angulardart.org, geolocation-!cn
@@ -18785,6 +18798,7 @@ host-suffix, onefifteen.org, geolocation-!cn
 host-suffix, oneworldmanystories.com, geolocation-!cn
 host-suffix, openthread.io, geolocation-!cn
 host-suffix, openweave.io, geolocation-!cn
+host-suffix, openxla.org, geolocation-!cn
 host-suffix, orbitera.com, geolocation-!cn
 host-suffix, page.link, geolocation-!cn
 host-suffix, pagespeedmobilizer.com, geolocation-!cn
@@ -18893,6 +18907,7 @@ host-suffix, adwords-community.com, geolocation-!cn
 host-suffix, adwords.com, geolocation-!cn
 host-suffix, adwordsexpress.com, geolocation-!cn
 host-suffix, analytics-alv.google.com, geolocation-!cn
+host-suffix, app-ads-services.com, geolocation-!cn
 host-suffix, app-analytics-services.com, geolocation-!cn
 host-suffix, app-analytics-services-att.com, geolocation-!cn
 host-suffix, app-measurement-cn.com, geolocation-!cn
@@ -19175,6 +19190,7 @@ host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
+host-suffix, notebook.google.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
 host-suffix, jules.google, geolocation-!cn

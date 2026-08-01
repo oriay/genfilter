@@ -215,6 +215,7 @@ host-suffix, 0emm.com, alphabet
 host-suffix, 1e100.net, alphabet
 host-suffix, 1ucrs.com, alphabet
 host-suffix, 466453.com, alphabet
+host-suffix, actifio.com, alphabet
 host-suffix, adgoogle.net, alphabet
 host-suffix, admeld.com, alphabet
 host-suffix, angulardart.org, alphabet
@@ -398,6 +399,7 @@ host-suffix, onefifteen.org, alphabet
 host-suffix, oneworldmanystories.com, alphabet
 host-suffix, openthread.io, alphabet
 host-suffix, openweave.io, alphabet
+host-suffix, openxla.org, alphabet
 host-suffix, orbitera.com, alphabet
 host-suffix, page.link, alphabet
 host-suffix, pagespeedmobilizer.com, alphabet
@@ -506,6 +508,7 @@ host-suffix, adwords-community.com, alphabet
 host-suffix, adwords.com, alphabet
 host-suffix, adwordsexpress.com, alphabet
 host-suffix, analytics-alv.google.com, alphabet
+host-suffix, app-ads-services.com, alphabet
 host-suffix, app-analytics-services.com, alphabet
 host-suffix, app-analytics-services-att.com, alphabet
 host-suffix, app-measurement-cn.com, alphabet
@@ -788,6 +791,7 @@ host, cloudcode-pa.googleapis.com, alphabet
 host, daily-cloudcode-pa.googleapis.com, alphabet
 host, notebooklm-pa.googleapis.com, alphabet
 host, notebooklm.googleapis.com, alphabet
+host-suffix, notebook.google.com, alphabet
 host-suffix, notebooklm.google, alphabet
 host-suffix, notebooklm.google.com, alphabet
 host-suffix, jules.google, alphabet

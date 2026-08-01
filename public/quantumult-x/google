@@ -205,6 +205,7 @@ host-suffix, 0emm.com, google
 host-suffix, 1e100.net, google
 host-suffix, 1ucrs.com, google
 host-suffix, 466453.com, google
+host-suffix, actifio.com, google
 host-suffix, adgoogle.net, google
 host-suffix, admeld.com, google
 host-suffix, angulardart.org, google
@@ -388,6 +389,7 @@ host-suffix, onefifteen.org, google
 host-suffix, oneworldmanystories.com, google
 host-suffix, openthread.io, google
 host-suffix, openweave.io, google
+host-suffix, openxla.org, google
 host-suffix, orbitera.com, google
 host-suffix, page.link, google
 host-suffix, pagespeedmobilizer.com, google
@@ -496,6 +498,7 @@ host-suffix, adwords-community.com, google
 host-suffix, adwords.com, google
 host-suffix, adwordsexpress.com, google
 host-suffix, analytics-alv.google.com, google
+host-suffix, app-ads-services.com, google
 host-suffix, app-analytics-services.com, google
 host-suffix, app-analytics-services-att.com, google
 host-suffix, app-measurement-cn.com, google
@@ -778,6 +781,7 @@ host, cloudcode-pa.googleapis.com, google
 host, daily-cloudcode-pa.googleapis.com, google
 host, notebooklm-pa.googleapis.com, google
 host, notebooklm.googleapis.com, google
+host-suffix, notebook.google.com, google
 host-suffix, notebooklm.google, google
 host-suffix, notebooklm.google.com, google
 host-suffix, jules.google, google

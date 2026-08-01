@@ -100,6 +100,7 @@ host, cloudcode-pa.googleapis.com, category-ai-!cn
 host, daily-cloudcode-pa.googleapis.com, category-ai-!cn
 host, notebooklm-pa.googleapis.com, category-ai-!cn
 host, notebooklm.googleapis.com, category-ai-!cn
+host-suffix, notebook.google.com, category-ai-!cn
 host-suffix, notebooklm.google, category-ai-!cn
 host-suffix, notebooklm.google.com, category-ai-!cn
 host-suffix, jules.google, category-ai-!cn
@@ -121,6 +122,9 @@ host-suffix, groq.com, category-ai-!cn
 host-suffix, hf.co, category-ai-!cn
 host-suffix, hf.space, category-ai-!cn
 host-suffix, huggingface.co, category-ai-!cn
+host-suffix, grazie.ai, category-ai-!cn
+host-suffix, grazie.aws.intellij.net, category-ai-!cn
+host-suffix, jetbrains.ai, category-ai-!cn
 host-suffix, liveperson.net, category-ai-!cn
 host-suffix, lpsnmedia.net, category-ai-!cn
 host-suffix, manus.im, category-ai-!cn

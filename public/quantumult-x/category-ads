@@ -4646,6 +4646,7 @@ host-suffix, 0emm.com, category-ads
 host-suffix, 1e100.net, category-ads
 host-suffix, 1ucrs.com, category-ads
 host-suffix, 466453.com, category-ads
+host-suffix, actifio.com, category-ads
 host-suffix, adgoogle.net, category-ads
 host-suffix, admeld.com, category-ads
 host-suffix, angulardart.org, category-ads
@@ -4829,6 +4830,7 @@ host-suffix, onefifteen.org, category-ads
 host-suffix, oneworldmanystories.com, category-ads
 host-suffix, openthread.io, category-ads
 host-suffix, openweave.io, category-ads
+host-suffix, openxla.org, category-ads
 host-suffix, orbitera.com, category-ads
 host-suffix, page.link, category-ads
 host-suffix, pagespeedmobilizer.com, category-ads
@@ -4937,6 +4939,7 @@ host-suffix, adwords-community.com, category-ads
 host-suffix, adwords.com, category-ads
 host-suffix, adwordsexpress.com, category-ads
 host-suffix, analytics-alv.google.com, category-ads
+host-suffix, app-ads-services.com, category-ads
 host-suffix, app-analytics-services.com, category-ads
 host-suffix, app-analytics-services-att.com, category-ads
 host-suffix, app-measurement-cn.com, category-ads
@@ -5219,6 +5222,7 @@ host, cloudcode-pa.googleapis.com, category-ads
 host, daily-cloudcode-pa.googleapis.com, category-ads
 host, notebooklm-pa.googleapis.com, category-ads
 host, notebooklm.googleapis.com, category-ads
+host-suffix, notebook.google.com, category-ads
 host-suffix, notebooklm.google, category-ads
 host-suffix, notebooklm.google.com, category-ads
 host-suffix, jules.google, category-ads
