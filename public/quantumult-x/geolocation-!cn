@@ -7255,6 +7255,12 @@ host-suffix, slinginternational.com, geolocation-!cn
 host-suffix, sling.com, geolocation-!cn
 host-suffix, movenetworks.com, geolocation-!cn
 host-suffix, movetv.com, geolocation-!cn
+host-suffix, glitchwave.com, geolocation-!cn
+host-suffix, rateyourmusic.com, geolocation-!cn
+host-suffix, rym.fm, geolocation-!cn
+host-suffix, snmc.io, geolocation-!cn
+host-suffix, sonematic.net, geolocation-!cn
+host-suffix, sonemic.com, geolocation-!cn
 host-suffix, imageworks.com, geolocation-!cn
 host-suffix, motionpictureser.com, geolocation-!cn
 host-suffix, playshow.io, geolocation-!cn
