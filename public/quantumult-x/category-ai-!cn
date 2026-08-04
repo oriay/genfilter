@@ -6,6 +6,8 @@ host-suffix, copilot-stg.com, category-ai-!cn
 host-suffix, copilot.cloud.microsoft, category-ai-!cn
 host-suffix, copilot.com, category-ai-!cn
 host-suffix, copilot.microsoft.com, category-ai-!cn
+host-suffix, deepwiki.com, category-ai-!cn
+host-suffix, deepwiki.org, category-ai-!cn
 host-suffix, clipdrop.co, category-ai-!cn
 host-suffix, jasper.ai, category-ai-!cn
 host-suffix, agentclientprotocol.com, category-ai-!cn

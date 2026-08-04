@@ -2397,6 +2397,9 @@ host, init.gc-lb.apple.com.akadns.net, category-companies
 host, init.gc.apple.com, category-companies
 host, km.support.apple.com, category-companies
 host, maps.apple.com, category-companies
+host, tj-pod1-smp-device.apple.com, category-companies
+host, tj-pod2-smp-device.apple.com, category-companies
+host, tj-pod3-smp-device.apple.com, category-companies
 host, www.support.apple.com, category-companies
 host, a1.mzstatic.com, category-companies
 host, a2.mzstatic.com, category-companies
@@ -2541,7 +2544,6 @@ host, swdist.apple.com.akadns.net, category-companies
 host, swscan-cdn.apple.com.akadns.net, category-companies
 host, swscan.apple.com, category-companies
 host, sylvan.apple.com, category-companies
-host, tj-pod1-smp-device.apple.com, category-companies
 host, updates-http.cdn-apple.com, category-companies
 host, updates-http.cdn-apple.com.akadns.net, category-companies
 host, updates.cdn-apple.com, category-companies

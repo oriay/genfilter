@@ -1825,6 +1825,9 @@ host, init.gc-lb.apple.com.akadns.net, category-ads-all
 host, init.gc.apple.com, category-ads-all
 host, km.support.apple.com, category-ads-all
 host, maps.apple.com, category-ads-all
+host, tj-pod1-smp-device.apple.com, category-ads-all
+host, tj-pod2-smp-device.apple.com, category-ads-all
+host, tj-pod3-smp-device.apple.com, category-ads-all
 host, www.support.apple.com, category-ads-all
 host, a1.mzstatic.com, category-ads-all
 host, a2.mzstatic.com, category-ads-all
@@ -1969,7 +1972,6 @@ host, swdist.apple.com.akadns.net, category-ads-all
 host, swscan-cdn.apple.com.akadns.net, category-ads-all
 host, swscan.apple.com, category-ads-all
 host, sylvan.apple.com, category-ads-all
-host, tj-pod1-smp-device.apple.com, category-ads-all
 host, updates-http.cdn-apple.com, category-ads-all
 host, updates-http.cdn-apple.com.akadns.net, category-ads-all
 host, updates.cdn-apple.com, category-ads-all
@@ -8121,14 +8123,17 @@ host-suffix, ocourier.ru, category-ads-all
 host-suffix, ozon-dostavka.ru, category-ads-all
 host-suffix, ozon-credit.ru, category-ads-all
 host-suffix, ozon-tech.ru, category-ads-all
+host-suffix, ozon.app, category-ads-all
 host-suffix, ozon.by, category-ads-all
 host-suffix, ozon.com, category-ads-all
 host-suffix, ozon.com.by, category-ads-all
 host-suffix, ozon.com.kz, category-ads-all
 host-suffix, ozon.dev, category-ads-all
 host-suffix, ozon.express, category-ads-all
+host-suffix, ozon.global, category-ads-all
 host-suffix, ozon.kz, category-ads-all
 host-suffix, ozon.li, category-ads-all
+host-suffix, ozon.market, category-ads-all
 host-suffix, ozon.ru, category-ads-all
 host-suffix, ozon.tech, category-ads-all
 host-suffix, ozon.tm, category-ads-all

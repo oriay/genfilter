@@ -43,6 +43,8 @@ host-suffix, copilot-stg.com, geolocation-!cn
 host-suffix, copilot.cloud.microsoft, geolocation-!cn
 host-suffix, copilot.com, geolocation-!cn
 host-suffix, copilot.microsoft.com, geolocation-!cn
+host-suffix, deepwiki.com, geolocation-!cn
+host-suffix, deepwiki.org, geolocation-!cn
 host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
 host-suffix, agentclientprotocol.com, geolocation-!cn
@@ -3598,14 +3600,17 @@ host-suffix, ocourier.ru, geolocation-!cn
 host-suffix, ozon-dostavka.ru, geolocation-!cn
 host-suffix, ozon-credit.ru, geolocation-!cn
 host-suffix, ozon-tech.ru, geolocation-!cn
+host-suffix, ozon.app, geolocation-!cn
 host-suffix, ozon.by, geolocation-!cn
 host-suffix, ozon.com, geolocation-!cn
 host-suffix, ozon.com.by, geolocation-!cn
 host-suffix, ozon.com.kz, geolocation-!cn
 host-suffix, ozon.dev, geolocation-!cn
 host-suffix, ozon.express, geolocation-!cn
+host-suffix, ozon.global, geolocation-!cn
 host-suffix, ozon.kz, geolocation-!cn
 host-suffix, ozon.li, geolocation-!cn
+host-suffix, ozon.market, geolocation-!cn
 host-suffix, ozon.ru, geolocation-!cn
 host-suffix, ozon.tech, geolocation-!cn
 host-suffix, ozon.tm, geolocation-!cn
@@ -5636,6 +5641,7 @@ host-suffix, wink.ru, geolocation-!cn
 host-suffix, rutube.ru, geolocation-!cn
 host-suffix, rutubelist.ru, geolocation-!cn
 host-suffix, rtbcdn.ru, geolocation-!cn
+host-suffix, rutube.sport, geolocation-!cn
 host-suffix, chunkbase.com, geolocation-!cn
 host-suffix, dinopoloclub.com, geolocation-!cn
 host-suffix, dodi-repacks.download, geolocation-!cn
@@ -17231,6 +17237,9 @@ host-suffix, evernote.com, geolocation-!cn
 host-suffix, faststone.org, geolocation-!cn
 host-suffix, feedly.com, geolocation-!cn
 host-suffix, figma.com, geolocation-!cn
+host-suffix, fly.dev, geolocation-!cn
+host-suffix, fly.io, geolocation-!cn
+host-suffix, flyio.net, geolocation-!cn
 host-suffix, gofundme.com, geolocation-!cn
 host-suffix, gravatar.com, geolocation-!cn
 host-suffix, botstop.com, geolocation-!cn
@@ -20503,6 +20512,9 @@ host, init.gc-lb.apple.com.akadns.net, geolocation-!cn
 host, init.gc.apple.com, geolocation-!cn
 host, km.support.apple.com, geolocation-!cn
 host, maps.apple.com, geolocation-!cn
+host, tj-pod1-smp-device.apple.com, geolocation-!cn
+host, tj-pod2-smp-device.apple.com, geolocation-!cn
+host, tj-pod3-smp-device.apple.com, geolocation-!cn
 host, www.support.apple.com, geolocation-!cn
 host, a1.mzstatic.com, geolocation-!cn
 host, a2.mzstatic.com, geolocation-!cn
@@ -20647,7 +20659,6 @@ host, swdist.apple.com.akadns.net, geolocation-!cn
 host, swscan-cdn.apple.com.akadns.net, geolocation-!cn
 host, swscan.apple.com, geolocation-!cn
 host, sylvan.apple.com, geolocation-!cn
-host, tj-pod1-smp-device.apple.com, geolocation-!cn
 host, updates-http.cdn-apple.com, geolocation-!cn
 host, updates-http.cdn-apple.com.akadns.net, geolocation-!cn
 host, updates.cdn-apple.com, geolocation-!cn
