@@ -140,6 +140,16 @@ host-suffix, macruby.com, category-dev
 host-suffix, macruby.net, category-dev
 host-suffix, macruby.org, category-dev
 host-suffix, apple-mapkit.com, category-dev
+host, cdn.apple-mapkit.com, category-dev
+host, cdn1.apple-mapkit.com, category-dev
+host, cdn2.apple-mapkit.com, category-dev
+host, cdn3.apple-mapkit.com, category-dev
+host, cdn4.apple-mapkit.com, category-dev
+host, cdn-cn.apple-mapkit.com, category-dev
+host, cdn-cn1.apple-mapkit.com, category-dev
+host, cdn-cn2.apple-mapkit.com, category-dev
+host, cdn-cn3.apple-mapkit.com, category-dev
+host, cdn-cn4.apple-mapkit.com, category-dev
 host-suffix, playgrounds-cdn.apple.com, category-dev
 host-suffix, carekit.org, category-dev
 host-suffix, researchandcare.org, category-dev

@@ -370,10 +370,8 @@ host-suffix, bejewled-stars.com, category-games
 host-suffix, bejeweledstars.com, category-games
 host-suffix, capitalgames.com, category-games
 host-suffix, chillingo.com, category-games
-host-suffix, commandandconquer.com, category-games
 host-suffix, conquerwithcharacter.com, category-games
 host-suffix, crysis.jp, category-games
-host-suffix, dawngate.com, category-games
 host-suffix, dawngatechronicles.com, category-games
 host-suffix, dicela.com, category-games
 host-suffix, dicela.net, category-games
@@ -413,15 +411,11 @@ host-suffix, playapex.com, category-games
 host-suffix, pogo.com, category-games
 host-suffix, pogobeta.com, category-games
 host-suffix, popcap.com, category-games
-host-suffix, projectapex.com, category-games
-host-suffix, pvzheroes.com, category-games
-host-suffix, spearhead.kr, category-games
 host-suffix, speedhunters.com, category-games
 host-suffix, spore.com, category-games
 host-suffix, ssx3.com, category-games
 host-suffix, starwarsbattlefront.com, category-games
 host-suffix, starwarsbattlefront2.com, category-games
-host-suffix, tiberiumalliances.com, category-games
 host-suffix, tiburon.com, category-games
 host-suffix, tnt-ea.com, category-games
 host-suffix, ultimaforever.com, category-games
@@ -538,7 +532,6 @@ host-suffix, embark-studios.com, category-games
 host-suffix, embark.games, category-games
 host-suffix, reachthefinals.com, category-games
 host-suffix, 3lateral.com, category-games
-host-suffix, artstation.com, category-games
 host-suffix, capturingreality.com, category-games
 host-suffix, cubicmotion.com, category-games
 host-suffix, battlebreakers.com, category-games
@@ -566,6 +559,8 @@ host-suffix, unrealengine.com, category-games
 host-suffix, unrealtournament.com, category-games
 host-suffix, egdownload.fastly-edge.com, category-games
 host-suffix, fortnite-vod.akamaized.net, category-games
+host-suffix, artstation.com, category-games
+host-suffix, artstationmedia.com, category-games
 host-suffix, tarkov.com, category-games
 host-suffix, eft-store.com, category-games
 host-suffix, escapefromtarkov.com, category-games

@@ -660,8 +660,6 @@ host-suffix, foxuv.com, category-media
 host-suffix, foxweatherwatch.com, category-media
 host-suffix, fssta.com, category-media
 host-suffix, fxn.ws, category-media
-host-suffix, fxnetwork.com, category-media
-host-suffix, fxnetworks.com, category-media
 host-suffix, bentobox.tv, category-media
 host-suffix, kicu.tv, category-media
 host-suffix, ktvu.com, category-media
@@ -844,8 +842,6 @@ host-suffix, hket.com, category-media
 host-suffix, hketgroup.com, category-media
 host-suffix, ulifestyle.com.hk, category-media
 host-suffix, umagazine.com.hk, category-media
-host-suffix, hkopentv.com, category-media
-host-suffix, fantv.hk, category-media
 host-suffix, huffingtonpost.ca, category-media
 host-suffix, huffingtonpost.co.uk, category-media
 host-suffix, huffingtonpost.co.za, category-media
@@ -1454,6 +1450,7 @@ host-suffix, tospo-keiba.jp, category-media
 host-suffix, bigbigchannel.com.hk, category-media
 host-suffix, bigbigshop.com, category-media
 host-suffix, encoretvb.com, category-media
+host-suffix, neigbuy.com, category-media
 host-suffix, tvb.com, category-media
 host-suffix, tvb.com.au, category-media
 host-suffix, tvbanywhere.com, category-media
@@ -1464,7 +1461,6 @@ host-suffix, tvbusa.com, category-media
 host-suffix, tvbweekly.com, category-media
 host-suffix, tvmedia.net.au, category-media
 host-suffix, mytvsuper.com, category-media
-host-suffix, tvb.com, category-media
 host-suffix, udn.com, category-media
 host-suffix, udn.com.tw, category-media
 host-suffix, udndata.com, category-media
@@ -1557,7 +1553,6 @@ host-suffix, the-japan-news.com, category-media
 host-suffix, ync.ne.jp, category-media
 host-suffix, yomikyo.or.jp, category-media
 host-suffix, yomilogi.com, category-media
-host-suffix, yomiuri-johkai.co.jp, category-media
 host-suffix, yomiuri-johkai.co.jp, category-media
 host-suffix, yomiuri-ryokou.co.jp, category-media
 host-suffix, yomiuri-shimbun.pressreader.com, category-media

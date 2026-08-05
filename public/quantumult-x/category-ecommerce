@@ -623,7 +623,6 @@ host-suffix, ebaycareers.com, category-ecommerce
 host-suffix, ebaycbt.co.kr, category-ecommerce
 host-suffix, ebaycdn.net, category-ecommerce
 host-suffix, ebaychina.net, category-ecommerce
-host-suffix, ebayclassifiedsgroup.com, category-ecommerce
 host-suffix, ebayclassifieds.cn, category-ecommerce
 host-suffix, ebayclassifieds.com, category-ecommerce
 host-suffix, ebayclassifieds.com.cn, category-ecommerce
@@ -786,8 +785,8 @@ host-suffix, theebayshop.com, category-ecommerce
 host-suffix, theopportunityproject.org, category-ecommerce
 host-suffix, towerauction.com, category-ecommerce
 host-suffix, vendu.com, category-ecommerce
-host-suffix, weareebay.com, category-ecommerce
 host-suffix, watch-ebay.org, category-ecommerce
+host-suffix, weareebay.com, category-ecommerce
 host-suffix, wwwdecide.com, category-ecommerce
 host-suffix, wwwebay.com, category-ecommerce
 host-suffix, wwwebay.net, category-ecommerce

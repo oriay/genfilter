@@ -66,7 +66,6 @@ host-suffix, authorxml.com, category-companies
 host-suffix, businesscatalyst.com, category-companies
 host-suffix, ccnsite.com, category-companies
 host-suffix, ccpsx.com, category-companies
-host-suffix, demdex.net, category-companies
 host-suffix, dollarfotoclub.com, category-companies
 host-suffix, dollarphotoclub.com, category-companies
 host-suffix, dollarphotosclub.com, category-companies
@@ -142,6 +141,7 @@ host-suffix, sign.new, category-companies
 host-suffix, scene7.com, category-companies
 host-suffix, adobestats.io, category-companies
 host-suffix, advertising.adobe.com, category-companies
+host-suffix, demdex.net, category-companies
 host-suffix, tubemogul.com, category-companies
 host, 3dns-1.adobe.com, category-companies
 host, 3dns-2.adobe.com, category-companies
@@ -2155,7 +2155,6 @@ host-suffix, apple-hk.com, category-companies
 host-suffix, apple-ibooks.cn, category-companies
 host-suffix, apple-inc.net, category-companies
 host-suffix, apple-livephotoskit.com, category-companies
-host-suffix, apple-mapkit.com, category-companies
 host-suffix, apple-maps.cn, category-companies
 host-suffix, apple-online.com, category-companies
 host-suffix, apple-studies.com, category-companies
@@ -2406,16 +2405,6 @@ host, a2.mzstatic.com, category-companies
 host, a3.mzstatic.com, category-companies
 host, a4.mzstatic.com, category-companies
 host, a5.mzstatic.com, category-companies
-host, cdn.apple-mapkit.com, category-companies
-host, cdn1.apple-mapkit.com, category-companies
-host, cdn2.apple-mapkit.com, category-companies
-host, cdn3.apple-mapkit.com, category-companies
-host, cdn4.apple-mapkit.com, category-companies
-host, cdn-cn.apple-mapkit.com, category-companies
-host, cdn-cn1.apple-mapkit.com, category-companies
-host, cdn-cn2.apple-mapkit.com, category-companies
-host, cdn-cn3.apple-mapkit.com, category-companies
-host, cdn-cn4.apple-mapkit.com, category-companies
 host, cl1-cdn.origin-apple.com.akadns.net, category-companies
 host, cl2-cdn.origin-apple.com.akadns.net, category-companies
 host, cl3-cdn.origin-apple.com.akadns.net, category-companies
@@ -2576,6 +2565,16 @@ host-suffix, macruby.com, category-companies
 host-suffix, macruby.net, category-companies
 host-suffix, macruby.org, category-companies
 host-suffix, apple-mapkit.com, category-companies
+host, cdn.apple-mapkit.com, category-companies
+host, cdn1.apple-mapkit.com, category-companies
+host, cdn2.apple-mapkit.com, category-companies
+host, cdn3.apple-mapkit.com, category-companies
+host, cdn4.apple-mapkit.com, category-companies
+host, cdn-cn.apple-mapkit.com, category-companies
+host, cdn-cn1.apple-mapkit.com, category-companies
+host, cdn-cn2.apple-mapkit.com, category-companies
+host, cdn-cn3.apple-mapkit.com, category-companies
+host, cdn-cn4.apple-mapkit.com, category-companies
 host-suffix, playgrounds-cdn.apple.com, category-companies
 host-suffix, carekit.org, category-companies
 host-suffix, researchandcare.org, category-companies
@@ -3552,7 +3551,6 @@ host-suffix, att.cn, category-companies
 host-suffix, att.com, category-companies
 host-suffix, att.jobs, category-companies
 host-suffix, att.net, category-companies
-host-suffix, att.tv, category-companies
 host-suffix, attalascom.com, category-companies
 host-suffix, attbelieves.com, category-companies
 host-suffix, attbusiness.net, category-companies
@@ -3574,7 +3572,6 @@ host-suffix, attspecial.com, category-companies
 host-suffix, attssl.com, category-companies
 host-suffix, attstadium.com, category-companies
 host-suffix, attsuppliers.com, category-companies
-host-suffix, atttvnow.com, category-companies
 host-suffix, attuverseoffers.com, category-companies
 host-suffix, attuverseonline.com, category-companies
 host-suffix, attvoip.com, category-companies
@@ -3592,7 +3589,6 @@ host-suffix, enterprisepaging.com, category-companies
 host-suffix, itcanwait.com, category-companies
 host-suffix, mymmode.com, category-companies
 host-suffix, naturalvoices.com, category-companies
-host-suffix, nettyinternet.com, category-companies
 host-suffix, openapiplatform.com, category-companies
 host-suffix, openapiservice.com, category-companies
 host-suffix, patentgold.net, category-companies
@@ -3674,6 +3670,11 @@ host-suffix, mydirectvchannels.com, category-companies
 host-suffix, redzonechannel.com, category-companies
 host-suffix, txdirectv.com, category-companies
 host-suffix, xandr.com, category-companies
+host-suffix, att.tv, category-companies
+host-suffix, atttvnow.com, category-companies
+host-suffix, attwatchtv.com, category-companies
+host-suffix, dtvce.com, category-companies
+host-suffix, nettyinternet.com, category-companies
 host-suffix, 123dapp.com, category-companies
 host-suffix, 123dappipad.com, category-companies
 host-suffix, 123dartisan.com, category-companies
@@ -5588,7 +5589,6 @@ host-suffix, niosii.net, category-companies
 host-suffix, omekinteractive.com, category-companies
 host-suffix, omnitek.tv, category-companies
 host-suffix, openamt.com, category-companies
-host-suffix, opendroneid.org, category-companies
 host-suffix, optanedifference.com, category-companies
 host-suffix, passwordday.org, category-companies
 host-suffix, pc.com, category-companies
@@ -5753,7 +5753,6 @@ host-suffix, kaspersky.co.za, category-companies
 host-suffix, kaspersky.com.au, category-companies
 host-suffix, kaspersky.com.br, category-companies
 host-suffix, kaspersky.com.cn, category-companies
-host-suffix, kaspersky.com.hk, category-companies
 host-suffix, kaspersky.com.hk, category-companies
 host-suffix, kaspersky.com.pl, category-companies
 host-suffix, kaspersky.com.tr, category-companies
@@ -6586,7 +6585,6 @@ host-suffix, nextstop.com, category-companies
 host-suffix, online-deals.net, category-companies
 host-suffix, opencreate.org, category-companies
 host-suffix, reachtheworldonfacebook.com, category-companies
-host-suffix, rocksdb.org, category-companies
 host-suffix, shopfacebook.com, category-companies
 host-suffix, sportsfacebook.com, category-companies
 host-suffix, sportstream.com, category-companies

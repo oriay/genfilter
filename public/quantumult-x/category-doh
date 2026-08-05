@@ -116,6 +116,12 @@ host, jp.tiar.app, category-doh
 host, rx.techomespace.com, category-doh
 host, public.ns.nwps.fi, category-doh
 host, kids.ns.nwps.fi, category-doh
+host, dns.astracat.ru, category-doh
 host, frd4wvnobp.cloudflare-gateway.com, category-doh
 host, dnsguard.pub, category-doh
 host, doh.18bit.cn, category-doh
+host, 5u35p8m9i7.cloudflare-gateway.com, category-doh
+host, dns.malw.link, category-doh
+host, dns.mafioznik.xyz, category-doh
+host, dns.geohide.ru, category-doh
+host, xbox-dns.ru, category-doh

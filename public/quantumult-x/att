@@ -9,7 +9,6 @@ host-suffix, att.cn, att
 host-suffix, att.com, att
 host-suffix, att.jobs, att
 host-suffix, att.net, att
-host-suffix, att.tv, att
 host-suffix, attalascom.com, att
 host-suffix, attbelieves.com, att
 host-suffix, attbusiness.net, att
@@ -31,7 +30,6 @@ host-suffix, attspecial.com, att
 host-suffix, attssl.com, att
 host-suffix, attstadium.com, att
 host-suffix, attsuppliers.com, att
-host-suffix, atttvnow.com, att
 host-suffix, attuverseoffers.com, att
 host-suffix, attuverseonline.com, att
 host-suffix, attvoip.com, att
@@ -49,7 +47,6 @@ host-suffix, enterprisepaging.com, att
 host-suffix, itcanwait.com, att
 host-suffix, mymmode.com, att
 host-suffix, naturalvoices.com, att
-host-suffix, nettyinternet.com, att
 host-suffix, openapiplatform.com, att
 host-suffix, openapiservice.com, att
 host-suffix, patentgold.net, att
@@ -131,3 +128,8 @@ host-suffix, mydirectvchannels.com, att
 host-suffix, redzonechannel.com, att
 host-suffix, txdirectv.com, att
 host-suffix, xandr.com, att
+host-suffix, att.tv, att
+host-suffix, atttvnow.com, att
+host-suffix, attwatchtv.com, att
+host-suffix, dtvce.com, att
+host-suffix, nettyinternet.com, att

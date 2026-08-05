@@ -45,7 +45,6 @@ host-suffix, authorxml.com, adobe
 host-suffix, businesscatalyst.com, adobe
 host-suffix, ccnsite.com, adobe
 host-suffix, ccpsx.com, adobe
-host-suffix, demdex.net, adobe
 host-suffix, dollarfotoclub.com, adobe
 host-suffix, dollarphotoclub.com, adobe
 host-suffix, dollarphotosclub.com, adobe
@@ -121,6 +120,7 @@ host-suffix, sign.new, adobe
 host-suffix, scene7.com, adobe
 host-suffix, adobestats.io, adobe
 host-suffix, advertising.adobe.com, adobe
+host-suffix, demdex.net, adobe
 host-suffix, tubemogul.com, adobe
 host, 3dns-1.adobe.com, adobe
 host, 3dns-2.adobe.com, adobe

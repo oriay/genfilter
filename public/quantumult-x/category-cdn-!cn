@@ -100,9 +100,11 @@ host-suffix, cloudflare-esni.com, category-cdn-!cn
 host-suffix, cloudflare-gateway.com, category-cdn-!cn
 host-suffix, cloudflare-quic.com, category-cdn-!cn
 host-suffix, cloudflare-terms-of-service-abuse.com, category-cdn-!cn
+host-suffix, cloudflare.app, category-cdn-!cn
 host-suffix, cloudflare.com, category-cdn-!cn
 host-suffix, cloudflare.dev, category-cdn-!cn
 host-suffix, cloudflare.net, category-cdn-!cn
+host-suffix, cloudflare.pay, category-cdn-!cn
 host-suffix, cloudflare.tv, category-cdn-!cn
 host-suffix, cloudflareaccess.com, category-cdn-!cn
 host-suffix, cloudflareapps.com, category-cdn-!cn
@@ -170,7 +172,6 @@ host-suffix, fastly.io, category-cdn-!cn
 host-suffix, fastly.net, category-cdn-!cn
 host-suffix, fastlylabs.com, category-cdn-!cn
 host-suffix, fastlylb.net, category-cdn-!cn
-host-suffix, zencdn.net, category-cdn-!cn
 host-suffix, imgix.com, category-cdn-!cn
 host-suffix, imgix.net, category-cdn-!cn
 host-suffix, esm.run, category-cdn-!cn

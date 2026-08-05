@@ -348,6 +348,14 @@ host-suffix, zmtqsh.com, geolocation-cn
 host-suffix, zuimeitianqi.com, geolocation-cn
 host-suffix, ewdcloud.com, geolocation-cn
 host-suffix, webterren.com, geolocation-cn
+host-suffix, 95598.cn, geolocation-cn
+host-suffix, 95598pay.com, geolocation-cn
+host-suffix, echargenet.com, geolocation-cn
+host-suffix, esgcc.com.cn, geolocation-cn
+host-suffix, sgcc.com.cn, geolocation-cn
+host-suffix, csg.cn, geolocation-cn
+host-suffix, ecsg.com.cn, geolocation-cn
+host-suffix, poweremarket.com, geolocation-cn
 host-suffix, 51togic.com, geolocation-cn
 host-suffix, avlyun.com, geolocation-cn
 host-suffix, dreame.tech, geolocation-cn
@@ -3342,6 +3350,7 @@ host-suffix, 36dianping.com, geolocation-cn
 host-suffix, 36kr.com, geolocation-cn
 host-suffix, 36krcdn.com, geolocation-cn
 host-suffix, 36krcnd.com, geolocation-cn
+host-suffix, adx.36kr.com, geolocation-cn
 host-suffix, cctv.cn, geolocation-cn
 host-suffix, cctv.com, geolocation-cn
 host-suffix, cctv4g.com, geolocation-cn
@@ -6545,6 +6554,8 @@ host-suffix, jimeng.com, geolocation-cn
 host-suffix, vlabimg.com, geolocation-cn
 host-suffix, vlabstatic.com, geolocation-cn
 host-suffix, vlabvod.com, geolocation-cn
+host-suffix, capcut.com, geolocation-cn
+host-suffix, capcutcdn-us.com, geolocation-cn
 host-suffix, toutiao.com, geolocation-cn
 host-suffix, toutiaoapi.com, geolocation-cn
 host-suffix, toutiaocdn.com, geolocation-cn
@@ -6884,7 +6895,6 @@ host-suffix, larkvc.com, geolocation-cn
 host-suffix, statuslarkoffice.com, geolocation-cn
 host-suffix, thelarkcloud.com, geolocation-cn
 host-suffix, bytedapm.com, geolocation-cn
-host-suffix, byteoversea.com, geolocation-cn
 host-suffix, muscdn.com, geolocation-cn
 host-suffix, musical.ly, geolocation-cn
 host-suffix, tik-tokapi.com, geolocation-cn
@@ -7246,6 +7256,11 @@ host-suffix, djiops.com, geolocation-cn
 host-suffix, djiservice.org, geolocation-cn
 host-suffix, skypixel.com, geolocation-cn
 host-suffix, robomaster.com, geolocation-cn
+host-suffix, focuschina.com, geolocation-cn
+host-suffix, made-in-china.com, geolocation-cn
+host-suffix, micstatic.com, geolocation-cn
+host-suffix, trademessenger.com, geolocation-cn
+host-suffix, vemic.com, geolocation-cn
 host-suffix, gree.cn, geolocation-cn
 host-suffix, gree.com, geolocation-cn
 host-suffix, gree.com.cn, geolocation-cn

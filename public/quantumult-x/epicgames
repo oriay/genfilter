@@ -1,5 +1,4 @@
 host-suffix, 3lateral.com, epicgames
-host-suffix, artstation.com, epicgames
 host-suffix, capturingreality.com, epicgames
 host-suffix, cubicmotion.com, epicgames
 host-suffix, battlebreakers.com, epicgames
@@ -27,3 +26,5 @@ host-suffix, unrealengine.com, epicgames
 host-suffix, unrealtournament.com, epicgames
 host-suffix, egdownload.fastly-edge.com, epicgames
 host-suffix, fortnite-vod.akamaized.net, epicgames
+host-suffix, artstation.com, epicgames
+host-suffix, artstationmedia.com, epicgames

@@ -181,8 +181,6 @@ host, oneocsp.microsoft.com, category-cas
 host, www.microsoft.com, category-cas
 host-suffix, secom.co.jp, category-cas
 host-suffix, secomtrust.net, category-cas
-host-suffix, cybertrust.co.jp, category-cas
-host-suffix, cybertrust.ne.jp, category-cas
 host-suffix, managedpki.ne.jp, category-cas
 host-suffix, enterprisessl.com, category-cas
 host-suffix, hackerguardian.com, category-cas

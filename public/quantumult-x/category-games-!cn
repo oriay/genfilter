@@ -81,10 +81,8 @@ host-suffix, bejewled-stars.com, category-games-!cn
 host-suffix, bejeweledstars.com, category-games-!cn
 host-suffix, capitalgames.com, category-games-!cn
 host-suffix, chillingo.com, category-games-!cn
-host-suffix, commandandconquer.com, category-games-!cn
 host-suffix, conquerwithcharacter.com, category-games-!cn
 host-suffix, crysis.jp, category-games-!cn
-host-suffix, dawngate.com, category-games-!cn
 host-suffix, dawngatechronicles.com, category-games-!cn
 host-suffix, dicela.com, category-games-!cn
 host-suffix, dicela.net, category-games-!cn
@@ -124,15 +122,11 @@ host-suffix, playapex.com, category-games-!cn
 host-suffix, pogo.com, category-games-!cn
 host-suffix, pogobeta.com, category-games-!cn
 host-suffix, popcap.com, category-games-!cn
-host-suffix, projectapex.com, category-games-!cn
-host-suffix, pvzheroes.com, category-games-!cn
-host-suffix, spearhead.kr, category-games-!cn
 host-suffix, speedhunters.com, category-games-!cn
 host-suffix, spore.com, category-games-!cn
 host-suffix, ssx3.com, category-games-!cn
 host-suffix, starwarsbattlefront.com, category-games-!cn
 host-suffix, starwarsbattlefront2.com, category-games-!cn
-host-suffix, tiberiumalliances.com, category-games-!cn
 host-suffix, tiburon.com, category-games-!cn
 host-suffix, tnt-ea.com, category-games-!cn
 host-suffix, ultimaforever.com, category-games-!cn
@@ -249,7 +243,6 @@ host-suffix, embark-studios.com, category-games-!cn
 host-suffix, embark.games, category-games-!cn
 host-suffix, reachthefinals.com, category-games-!cn
 host-suffix, 3lateral.com, category-games-!cn
-host-suffix, artstation.com, category-games-!cn
 host-suffix, capturingreality.com, category-games-!cn
 host-suffix, cubicmotion.com, category-games-!cn
 host-suffix, battlebreakers.com, category-games-!cn
@@ -277,6 +270,8 @@ host-suffix, unrealengine.com, category-games-!cn
 host-suffix, unrealtournament.com, category-games-!cn
 host-suffix, egdownload.fastly-edge.com, category-games-!cn
 host-suffix, fortnite-vod.akamaized.net, category-games-!cn
+host-suffix, artstation.com, category-games-!cn
+host-suffix, artstationmedia.com, category-games-!cn
 host-suffix, tarkov.com, category-games-!cn
 host-suffix, eft-store.com, category-games-!cn
 host-suffix, escapefromtarkov.com, category-games-!cn

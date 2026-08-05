@@ -397,6 +397,14 @@ host-suffix, zmtqsh.com, cn
 host-suffix, zuimeitianqi.com, cn
 host-suffix, ewdcloud.com, cn
 host-suffix, webterren.com, cn
+host-suffix, 95598.cn, cn
+host-suffix, 95598pay.com, cn
+host-suffix, echargenet.com, cn
+host-suffix, esgcc.com.cn, cn
+host-suffix, sgcc.com.cn, cn
+host-suffix, csg.cn, cn
+host-suffix, ecsg.com.cn, cn
+host-suffix, poweremarket.com, cn
 host-suffix, 51togic.com, cn
 host-suffix, avlyun.com, cn
 host-suffix, dreame.tech, cn
@@ -3391,6 +3399,7 @@ host-suffix, 36dianping.com, cn
 host-suffix, 36kr.com, cn
 host-suffix, 36krcdn.com, cn
 host-suffix, 36krcnd.com, cn
+host-suffix, adx.36kr.com, cn
 host-suffix, cctv.cn, cn
 host-suffix, cctv.com, cn
 host-suffix, cctv4g.com, cn
@@ -6594,6 +6603,8 @@ host-suffix, jimeng.com, cn
 host-suffix, vlabimg.com, cn
 host-suffix, vlabstatic.com, cn
 host-suffix, vlabvod.com, cn
+host-suffix, capcut.com, cn
+host-suffix, capcutcdn-us.com, cn
 host-suffix, toutiao.com, cn
 host-suffix, toutiaoapi.com, cn
 host-suffix, toutiaocdn.com, cn
@@ -6933,7 +6944,6 @@ host-suffix, larkvc.com, cn
 host-suffix, statuslarkoffice.com, cn
 host-suffix, thelarkcloud.com, cn
 host-suffix, bytedapm.com, cn
-host-suffix, byteoversea.com, cn
 host-suffix, muscdn.com, cn
 host-suffix, musical.ly, cn
 host-suffix, tik-tokapi.com, cn
@@ -7295,6 +7305,11 @@ host-suffix, djiops.com, cn
 host-suffix, djiservice.org, cn
 host-suffix, skypixel.com, cn
 host-suffix, robomaster.com, cn
+host-suffix, focuschina.com, cn
+host-suffix, made-in-china.com, cn
+host-suffix, micstatic.com, cn
+host-suffix, trademessenger.com, cn
+host-suffix, vemic.com, cn
 host-suffix, gree.cn, cn
 host-suffix, gree.com, cn
 host-suffix, gree.com.cn, cn
