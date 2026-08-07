@@ -276,8 +276,13 @@ host-suffix, kunlunwe.com, alibaba
 host-suffix, mxhichina.com, alibaba
 host-suffix, myalicdn.com, alibaba
 host-suffix, ap-southeast-1.aliyuncs.com, alibaba
+host-suffix, cn-beijing.aliyuncs.com, alibaba
+host-suffix, cn-chengdu.aliyuncs.com, alibaba
+host-suffix, cn-guangzhou.aliyuncs.com, alibaba
 host-suffix, cn-hangzhou.aliyuncs.com, alibaba
+host-suffix, cn-hongkong.aliyuncs.com, alibaba
 host-suffix, cn-shanghai.aliyuncs.com, alibaba
+host-suffix, hotfix-api.aliyuncs.com, alibaba
 host-suffix, log-global.aliyuncs.com, alibaba
 host-suffix, oss-ap-northeast-1.aliyuncs.com, alibaba
 host-suffix, oss-ap-northeast-2.aliyuncs.com, alibaba
@@ -306,6 +311,7 @@ host-suffix, oss-eu-west-1.aliyuncs.com, alibaba
 host-suffix, oss-me-east-1.aliyuncs.com, alibaba
 host-suffix, oss-us-east-1.aliyuncs.com, alibaba
 host-suffix, oss-us-west-1.aliyuncs.com, alibaba
+host-suffix, registry.aliyuncs.com, alibaba
 host-suffix, acjs.aliyun.com, alibaba
 host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, alibaba
 host-suffix, adash.man.aliyuncs.com, alibaba

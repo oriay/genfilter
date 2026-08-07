@@ -663,8 +663,13 @@ host-suffix, kunlunwe.com, category-ads
 host-suffix, mxhichina.com, category-ads
 host-suffix, myalicdn.com, category-ads
 host-suffix, ap-southeast-1.aliyuncs.com, category-ads
+host-suffix, cn-beijing.aliyuncs.com, category-ads
+host-suffix, cn-chengdu.aliyuncs.com, category-ads
+host-suffix, cn-guangzhou.aliyuncs.com, category-ads
 host-suffix, cn-hangzhou.aliyuncs.com, category-ads
+host-suffix, cn-hongkong.aliyuncs.com, category-ads
 host-suffix, cn-shanghai.aliyuncs.com, category-ads
+host-suffix, hotfix-api.aliyuncs.com, category-ads
 host-suffix, log-global.aliyuncs.com, category-ads
 host-suffix, oss-ap-northeast-1.aliyuncs.com, category-ads
 host-suffix, oss-ap-northeast-2.aliyuncs.com, category-ads
@@ -693,6 +698,7 @@ host-suffix, oss-eu-west-1.aliyuncs.com, category-ads
 host-suffix, oss-me-east-1.aliyuncs.com, category-ads
 host-suffix, oss-us-east-1.aliyuncs.com, category-ads
 host-suffix, oss-us-west-1.aliyuncs.com, category-ads
+host-suffix, registry.aliyuncs.com, category-ads
 host-suffix, acjs.aliyun.com, category-ads
 host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, category-ads
 host-suffix, adash.man.aliyuncs.com, category-ads
