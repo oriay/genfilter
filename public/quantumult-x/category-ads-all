@@ -3204,6 +3204,7 @@ host-suffix, bytetos.com, category-ads-all
 host-suffix, bytetraffic.net, category-ads-all
 host-suffix, bytetstatic.com, category-ads-all
 host-suffix, bytetstatic.net, category-ads-all
+host-suffix, byteurl.cn, category-ads-all
 host-suffix, bytevalk.com, category-ads-all
 host-suffix, bytevcloudapi.com, category-ads-all
 host-suffix, bytevcloudvod.com, category-ads-all
@@ -3340,6 +3341,7 @@ host-suffix, jimeng.com, category-ads-all
 host-suffix, vlabimg.com, category-ads-all
 host-suffix, vlabstatic.com, category-ads-all
 host-suffix, vlabvod.com, category-ads-all
+host-suffix, capcut.cn, category-ads-all
 host-suffix, capcut.com, category-ads-all
 host-suffix, capcutcdn-us.com, category-ads-all
 host-suffix, toutiao.com, category-ads-all
@@ -3391,13 +3393,19 @@ host-suffix, ppximg.com, category-ads-all
 host-suffix, ppxstatic.com, category-ads-all
 host-suffix, ppxvod.com, category-ads-all
 host-suffix, xiaoxiaapi.com, category-ads-all
-host-suffix, douyinec.com, category-ads-all
+host-suffix, dailygn.com, category-ads-all
+host-suffix, nvsgames.cn, category-ads-all
+host-suffix, buydouke.com, category-ads-all
 host-suffix, ecombdapi.com, category-ads-all
+host-suffix, ecombdimg.com, category-ads-all
 host-suffix, ecombdstatic.com, category-ads-all
+host-suffix, ecombdvod.com, category-ads-all
 host-suffix, jinritemai.com, category-ads-all
 host-suffix, faceu.com, category-ads-all
+host-suffix, faceu.mobi, category-ads-all
 host-suffix, ulikecam.com, category-ads-all
 host-suffix, rsproxy.cn, category-ads-all
+host-suffix, oceanengine.com, category-ads-all
 host-suffix, ad.toutiao.com, category-ads-all
 host-suffix, bds.snssdk.com, category-ads-all
 host-suffix, byteadverts.com, category-ads-all
@@ -3531,7 +3539,10 @@ host-suffix, supercachenode.com, category-ads-all
 host-suffix, ultracachenode.com, category-ads-all
 host-suffix, woaihuoshan.com, category-ads-all
 host-suffix, wohst8.com, category-ads-all
+host-suffix, douyinec.com, category-ads-all
 host-suffix, douyinpay.com, category-ads-all
+host-suffix, ulpay.com, category-ads-all
+host-suffix, lifexue.com, category-ads-all
 host-suffix, open-douyin.com, category-ads-all
 host-suffix, activity-zhendingtech.com, category-ads-all
 host-suffix, changdunovel.com, category-ads-all

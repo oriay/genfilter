@@ -127,6 +127,7 @@ host-suffix, bytetos.com, bytedance
 host-suffix, bytetraffic.net, bytedance
 host-suffix, bytetstatic.com, bytedance
 host-suffix, bytetstatic.net, bytedance
+host-suffix, byteurl.cn, bytedance
 host-suffix, bytevalk.com, bytedance
 host-suffix, bytevcloudapi.com, bytedance
 host-suffix, bytevcloudvod.com, bytedance
@@ -263,6 +264,7 @@ host-suffix, jimeng.com, bytedance
 host-suffix, vlabimg.com, bytedance
 host-suffix, vlabstatic.com, bytedance
 host-suffix, vlabvod.com, bytedance
+host-suffix, capcut.cn, bytedance
 host-suffix, capcut.com, bytedance
 host-suffix, capcutcdn-us.com, bytedance
 host-suffix, toutiao.com, bytedance
@@ -314,13 +316,19 @@ host-suffix, ppximg.com, bytedance
 host-suffix, ppxstatic.com, bytedance
 host-suffix, ppxvod.com, bytedance
 host-suffix, xiaoxiaapi.com, bytedance
-host-suffix, douyinec.com, bytedance
+host-suffix, dailygn.com, bytedance
+host-suffix, nvsgames.cn, bytedance
+host-suffix, buydouke.com, bytedance
 host-suffix, ecombdapi.com, bytedance
+host-suffix, ecombdimg.com, bytedance
 host-suffix, ecombdstatic.com, bytedance
+host-suffix, ecombdvod.com, bytedance
 host-suffix, jinritemai.com, bytedance
 host-suffix, faceu.com, bytedance
+host-suffix, faceu.mobi, bytedance
 host-suffix, ulikecam.com, bytedance
 host-suffix, rsproxy.cn, bytedance
+host-suffix, oceanengine.com, bytedance
 host-suffix, ad.toutiao.com, bytedance
 host-suffix, bds.snssdk.com, bytedance
 host-suffix, byteadverts.com, bytedance
@@ -454,7 +462,10 @@ host-suffix, supercachenode.com, bytedance
 host-suffix, ultracachenode.com, bytedance
 host-suffix, woaihuoshan.com, bytedance
 host-suffix, wohst8.com, bytedance
+host-suffix, douyinec.com, bytedance
 host-suffix, douyinpay.com, bytedance
+host-suffix, ulpay.com, bytedance
+host-suffix, lifexue.com, bytedance
 host-suffix, open-douyin.com, bytedance
 host-suffix, activity-zhendingtech.com, bytedance
 host-suffix, changdunovel.com, bytedance

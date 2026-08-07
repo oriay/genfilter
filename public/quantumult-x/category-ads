@@ -3184,6 +3184,7 @@ host-suffix, bytetos.com, category-ads
 host-suffix, bytetraffic.net, category-ads
 host-suffix, bytetstatic.com, category-ads
 host-suffix, bytetstatic.net, category-ads
+host-suffix, byteurl.cn, category-ads
 host-suffix, bytevalk.com, category-ads
 host-suffix, bytevcloudapi.com, category-ads
 host-suffix, bytevcloudvod.com, category-ads
@@ -3320,6 +3321,7 @@ host-suffix, jimeng.com, category-ads
 host-suffix, vlabimg.com, category-ads
 host-suffix, vlabstatic.com, category-ads
 host-suffix, vlabvod.com, category-ads
+host-suffix, capcut.cn, category-ads
 host-suffix, capcut.com, category-ads
 host-suffix, capcutcdn-us.com, category-ads
 host-suffix, toutiao.com, category-ads
@@ -3371,13 +3373,19 @@ host-suffix, ppximg.com, category-ads
 host-suffix, ppxstatic.com, category-ads
 host-suffix, ppxvod.com, category-ads
 host-suffix, xiaoxiaapi.com, category-ads
-host-suffix, douyinec.com, category-ads
+host-suffix, dailygn.com, category-ads
+host-suffix, nvsgames.cn, category-ads
+host-suffix, buydouke.com, category-ads
 host-suffix, ecombdapi.com, category-ads
+host-suffix, ecombdimg.com, category-ads
 host-suffix, ecombdstatic.com, category-ads
+host-suffix, ecombdvod.com, category-ads
 host-suffix, jinritemai.com, category-ads
 host-suffix, faceu.com, category-ads
+host-suffix, faceu.mobi, category-ads
 host-suffix, ulikecam.com, category-ads
 host-suffix, rsproxy.cn, category-ads
+host-suffix, oceanengine.com, category-ads
 host-suffix, ad.toutiao.com, category-ads
 host-suffix, bds.snssdk.com, category-ads
 host-suffix, byteadverts.com, category-ads
@@ -3511,7 +3519,10 @@ host-suffix, supercachenode.com, category-ads
 host-suffix, ultracachenode.com, category-ads
 host-suffix, woaihuoshan.com, category-ads
 host-suffix, wohst8.com, category-ads
+host-suffix, douyinec.com, category-ads
 host-suffix, douyinpay.com, category-ads
+host-suffix, ulpay.com, category-ads
+host-suffix, lifexue.com, category-ads
 host-suffix, open-douyin.com, category-ads
 host-suffix, activity-zhendingtech.com, category-ads
 host-suffix, changdunovel.com, category-ads
