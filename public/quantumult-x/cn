@@ -8200,10 +8200,12 @@ host-suffix, weishi.com, cn
 host-suffix, weixin.com, cn
 host-suffix, weixinsxy.com, cn
 host-suffix, weiyun.com, cn
-host-suffix, wxaurl.cn, cn
 host-suffix, wxcloudrun.com, cn
 host-suffix, wxgateway.com, cn
 host-suffix, wxlivecdn.com, cn
+host-suffix, mmbizurl.cn, cn
+host-suffix, url.cn, cn
+host-suffix, wxaurl.cn, cn
 host-suffix, wxmpurl.cn, cn
 host-suffix, wetv.vip, cn
 host-suffix, wetvinfo.com, cn

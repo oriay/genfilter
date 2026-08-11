@@ -37,10 +37,12 @@ host-suffix, weishi.com, tencent
 host-suffix, weixin.com, tencent
 host-suffix, weixinsxy.com, tencent
 host-suffix, weiyun.com, tencent
-host-suffix, wxaurl.cn, tencent
 host-suffix, wxcloudrun.com, tencent
 host-suffix, wxgateway.com, tencent
 host-suffix, wxlivecdn.com, tencent
+host-suffix, mmbizurl.cn, tencent
+host-suffix, url.cn, tencent
+host-suffix, wxaurl.cn, tencent
 host-suffix, wxmpurl.cn, tencent
 host-suffix, wetv.vip, tencent
 host-suffix, wetvinfo.com, tencent

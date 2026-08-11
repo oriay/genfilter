@@ -8151,10 +8151,12 @@ host-suffix, weishi.com, geolocation-cn
 host-suffix, weixin.com, geolocation-cn
 host-suffix, weixinsxy.com, geolocation-cn
 host-suffix, weiyun.com, geolocation-cn
-host-suffix, wxaurl.cn, geolocation-cn
 host-suffix, wxcloudrun.com, geolocation-cn
 host-suffix, wxgateway.com, geolocation-cn
 host-suffix, wxlivecdn.com, geolocation-cn
+host-suffix, mmbizurl.cn, geolocation-cn
+host-suffix, url.cn, geolocation-cn
+host-suffix, wxaurl.cn, geolocation-cn
 host-suffix, wxmpurl.cn, geolocation-cn
 host-suffix, wetv.vip, geolocation-cn
 host-suffix, wetvinfo.com, geolocation-cn

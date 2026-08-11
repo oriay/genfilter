@@ -8695,10 +8695,12 @@ host-suffix, weishi.com, category-ads-all
 host-suffix, weixin.com, category-ads-all
 host-suffix, weixinsxy.com, category-ads-all
 host-suffix, weiyun.com, category-ads-all
-host-suffix, wxaurl.cn, category-ads-all
 host-suffix, wxcloudrun.com, category-ads-all
 host-suffix, wxgateway.com, category-ads-all
 host-suffix, wxlivecdn.com, category-ads-all
+host-suffix, mmbizurl.cn, category-ads-all
+host-suffix, url.cn, category-ads-all
+host-suffix, wxaurl.cn, category-ads-all
 host-suffix, wxmpurl.cn, category-ads-all
 host-suffix, wetv.vip, category-ads-all
 host-suffix, wetvinfo.com, category-ads-all
