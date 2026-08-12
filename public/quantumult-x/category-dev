@@ -62,7 +62,6 @@ host-suffix, neovim.io, category-dev
 host-suffix, netfilter.org, category-dev
 host-suffix, newpipe.net, category-dev
 host-suffix, nftables.org, category-dev
-host-suffix, nixos.org, category-dev
 host-suffix, nodesource.com, category-dev
 host-suffix, notepad-plus-plus.org, category-dev
 host-suffix, openresty.org, category-dev
@@ -538,6 +537,18 @@ host-suffix, mongodb.com, category-dev
 host-suffix, mongodb.org, category-dev
 host-suffix, nginx.com, category-dev
 host-suffix, nginx.org, category-dev
+host-suffix, nix.dev, category-dev
+host-suffix, nix.store, category-dev
+host-suffix, nixcon.org, category-dev
+host-suffix, nixcon2017.org, category-dev
+host-suffix, nixlang.com, category-dev
+host-suffix, nixos.org, category-dev
+host-suffix, nixpkgs.org, category-dev
+host, nix-community.github.io, category-dev
+host-suffix, builtwithnix.org, category-dev
+host-suffix, mynixos.com, category-dev
+host-suffix, nix-community.org, category-dev
+host-suffix, nixos.wiki, category-dev
 host-suffix, openwrt.org, category-dev
 host-suffix, lede-project.org, category-dev
 host-suffix, perl.apache.org, category-dev

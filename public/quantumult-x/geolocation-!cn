@@ -17587,7 +17587,6 @@ host-suffix, neovim.io, geolocation-!cn
 host-suffix, netfilter.org, geolocation-!cn
 host-suffix, newpipe.net, geolocation-!cn
 host-suffix, nftables.org, geolocation-!cn
-host-suffix, nixos.org, geolocation-!cn
 host-suffix, nodesource.com, geolocation-!cn
 host-suffix, notepad-plus-plus.org, geolocation-!cn
 host-suffix, openresty.org, geolocation-!cn
@@ -18063,6 +18062,18 @@ host-suffix, mongodb.com, geolocation-!cn
 host-suffix, mongodb.org, geolocation-!cn
 host-suffix, nginx.com, geolocation-!cn
 host-suffix, nginx.org, geolocation-!cn
+host-suffix, nix.dev, geolocation-!cn
+host-suffix, nix.store, geolocation-!cn
+host-suffix, nixcon.org, geolocation-!cn
+host-suffix, nixcon2017.org, geolocation-!cn
+host-suffix, nixlang.com, geolocation-!cn
+host-suffix, nixos.org, geolocation-!cn
+host-suffix, nixpkgs.org, geolocation-!cn
+host, nix-community.github.io, geolocation-!cn
+host-suffix, builtwithnix.org, geolocation-!cn
+host-suffix, mynixos.com, geolocation-!cn
+host-suffix, nix-community.org, geolocation-!cn
+host-suffix, nixos.wiki, geolocation-!cn
 host-suffix, openwrt.org, geolocation-!cn
 host-suffix, lede-project.org, geolocation-!cn
 host-suffix, perl.apache.org, geolocation-!cn
@@ -26971,6 +26982,7 @@ host-suffix, yandex.ee, geolocation-!cn
 host-suffix, yandex.eu, geolocation-!cn
 host-suffix, yandex.fi, geolocation-!cn
 host-suffix, yandex.fr, geolocation-!cn
+host-suffix, yandex.it, geolocation-!cn
 host-suffix, yandex.jobs, geolocation-!cn
 host-suffix, yandex.kg, geolocation-!cn
 host-suffix, yandex.kz, geolocation-!cn

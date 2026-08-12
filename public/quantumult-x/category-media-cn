@@ -12,6 +12,7 @@ host-suffix, anhuinews.com, category-media-cn
 host-suffix, anhuiyun.com, category-media-cn
 host-suffix, anzhuo.cn, category-media-cn
 host-suffix, bandao.cn, category-media-cn
+host-suffix, banyuetan.org, category-media-cn
 host-suffix, bbtnews.com.cn, category-media-cn
 host-suffix, bianews.com, category-media-cn
 host-suffix, bjd.com.cn, category-media-cn
@@ -25,6 +26,10 @@ host-suffix, cankaoxiaoxi.com, category-media-cn
 host-suffix, ckxx.net, category-media-cn
 host-suffix, cbinews.com, category-media-cn
 host-suffix, ccidcom.com, category-media-cn
+host-suffix, ccreports.com.cn, category-media-cn
+host-suffix, tfcaijing.com, category-media-cn
+host-suffix, time-weekly.com, category-media-cn
+host-suffix, timesmedia.com.cn, category-media-cn
 host-suffix, ce.cn, category-media-cn
 host-suffix, cfgw.net.cn, category-media-cn
 host-suffix, cheaa.com, category-media-cn
@@ -39,6 +44,7 @@ host-suffix, chinapp.com, category-media-cn
 host-suffix, chuanbaoguancha.cn, category-media-cn
 host-suffix, scol.com.cn, category-media-cn
 host-suffix, scdaily.cn, category-media-cn
+host-suffix, cih-index.com, category-media-cn
 host-suffix, cnfol.com, category-media-cn
 host-suffix, cnfolimg.com, category-media-cn
 host-suffix, cnhubei.com, category-media-cn
@@ -159,6 +165,7 @@ host-suffix, kankanews.com, category-media-cn
 host-suffix, kankannews.com, category-media-cn
 host-suffix, kksmg.com, category-media-cn
 host-suffix, statickksmg.com, category-media-cn
+host-suffix, kanshangjie.com, category-media-cn
 host-suffix, kf.cn, category-media-cn
 host-suffix, kjrb.com.cn, category-media-cn
 host-suffix, stdaily.com, category-media-cn
@@ -252,6 +259,7 @@ host-suffix, zol-img.com.cn, category-media-cn
 host-suffix, zol.com.cn, category-media-cn
 host-suffix, zqrb.cn, category-media-cn
 host-suffix, 36dianping.com, category-media-cn
+host-suffix, 36linkr.com, category-media-cn
 host-suffix, 36kr.com, category-media-cn
 host-suffix, 36krcdn.com, category-media-cn
 host-suffix, 36krcnd.com, category-media-cn
