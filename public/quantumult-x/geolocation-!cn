@@ -6406,6 +6406,7 @@ host-suffix, 2ksports.com, geolocation-!cn
 host-suffix, 2kweb.online, geolocation-!cn
 host-suffix, rockstargames.com, geolocation-!cn
 host-suffix, rockstarnorth.com, geolocation-!cn
+host-suffix, rsg.ms, geolocation-!cn
 host-suffix, rsg.sc, geolocation-!cn
 host, gamedownloads-rockstargames-com.akamaized.net, geolocation-!cn
 host, media-rockstargames-com.akamaized.net, geolocation-!cn
@@ -26288,6 +26289,8 @@ host-suffix, valuegb.com, geolocation-!cn
 host-suffix, wise-research.com, geolocation-!cn
 host-suffix, snapads.com, geolocation-!cn
 host-suffix, sc-cdn.net, geolocation-!cn
+host-suffix, sc-gw.com, geolocation-!cn
+host-suffix, sc-static.net, geolocation-!cn
 host-suffix, snap-dev.net, geolocation-!cn
 host-suffix, snap.com, geolocation-!cn
 host-suffix, snapchat.com, geolocation-!cn

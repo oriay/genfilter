@@ -8580,6 +8580,8 @@ host-suffix, wapwbclick.mobile.sina.cn, category-ads-all
 host-suffix, wbclick.mobile.sina.cn, category-ads-all
 host-suffix, snapads.com, category-ads-all
 host-suffix, sc-cdn.net, category-ads-all
+host-suffix, sc-gw.com, category-ads-all
+host-suffix, sc-static.net, category-ads-all
 host-suffix, snap-dev.net, category-ads-all
 host-suffix, snap.com, category-ads-all
 host-suffix, snapchat.com, category-ads-all
