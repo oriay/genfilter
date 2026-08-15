@@ -6,6 +6,7 @@ host-suffix, app-pay.jp, geolocation-!cn
 host-suffix, ankiuser.net, geolocation-!cn
 host-suffix, ankiweb.net, geolocation-!cn
 host-suffix, chemequations.com, geolocation-!cn
+host-suffix, divdyn.com, geolocation-!cn
 host-suffix, geogebra.org, geolocation-!cn
 host-suffix, wolframalpha.com, geolocation-!cn
 host-suffix, auroraoss.com, geolocation-!cn
@@ -7853,6 +7854,7 @@ host-suffix, rutracker.me, geolocation-!cn
 host-suffix, rutracker.net, geolocation-!cn
 host-suffix, rutracker.nl, geolocation-!cn
 host-suffix, rutracker.org, geolocation-!cn
+host-suffix, rutracker.wiki, geolocation-!cn
 host-suffix, rutrk.org, geolocation-!cn
 host-suffix, soyjak.party, geolocation-!cn
 host-suffix, soyjak.st, geolocation-!cn

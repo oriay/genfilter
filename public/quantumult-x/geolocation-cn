@@ -6414,6 +6414,7 @@ host-suffix, ali-api-test.net, geolocation-cn
 host-suffix, ali-gtm-01.net, geolocation-cn
 host-suffix, ali-gtm-pressure.com, geolocation-cn
 host-suffix, ali-restore.net, geolocation-cn
+host-suffix, applogcdn.com, geolocation-cn
 host-suffix, arco.design, geolocation-cn
 host-suffix, baikevod.com, geolocation-cn
 host-suffix, bdactivity.com, geolocation-cn
@@ -6582,6 +6583,7 @@ host-suffix, pstatp.com, geolocation-cn
 host-suffix, qingfuwucdn.net, geolocation-cn
 host-suffix, qualitycloud.top, geolocation-cn
 host-suffix, samasty.com, geolocation-cn
+host-suffix, searchpstatp.com, geolocation-cn
 host-suffix, searchstatic.com, geolocation-cn
 host-suffix, searchtoutiaolive.com, geolocation-cn
 host-suffix, shidianguji.com, geolocation-cn

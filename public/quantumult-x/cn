@@ -6463,6 +6463,7 @@ host-suffix, ali-api-test.net, cn
 host-suffix, ali-gtm-01.net, cn
 host-suffix, ali-gtm-pressure.com, cn
 host-suffix, ali-restore.net, cn
+host-suffix, applogcdn.com, cn
 host-suffix, arco.design, cn
 host-suffix, baikevod.com, cn
 host-suffix, bdactivity.com, cn
@@ -6631,6 +6632,7 @@ host-suffix, pstatp.com, cn
 host-suffix, qingfuwucdn.net, cn
 host-suffix, qualitycloud.top, cn
 host-suffix, samasty.com, cn
+host-suffix, searchpstatp.com, cn
 host-suffix, searchstatic.com, cn
 host-suffix, searchtoutiaolive.com, cn
 host-suffix, shidianguji.com, cn

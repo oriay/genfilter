@@ -11,6 +11,7 @@ host-suffix, ali-api-test.net, bytedance
 host-suffix, ali-gtm-01.net, bytedance
 host-suffix, ali-gtm-pressure.com, bytedance
 host-suffix, ali-restore.net, bytedance
+host-suffix, applogcdn.com, bytedance
 host-suffix, arco.design, bytedance
 host-suffix, baikevod.com, bytedance
 host-suffix, bdactivity.com, bytedance
@@ -179,6 +180,7 @@ host-suffix, pstatp.com, bytedance
 host-suffix, qingfuwucdn.net, bytedance
 host-suffix, qualitycloud.top, bytedance
 host-suffix, samasty.com, bytedance
+host-suffix, searchpstatp.com, bytedance
 host-suffix, searchstatic.com, bytedance
 host-suffix, searchtoutiaolive.com, bytedance
 host-suffix, shidianguji.com, bytedance
