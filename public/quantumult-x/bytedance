@@ -159,6 +159,7 @@ host-suffix, jokecommunity.com, bytedance
 host-suffix, jokecommunity.net, bytedance
 host-suffix, jstti.com, bytedance
 host-suffix, jtamac.com, bytedance
+host-suffix, letsign.com, bytedance
 host-suffix, livecdnstatic.com, bytedance
 host-suffix, local-ip.online, bytedance
 host-suffix, luckysf.net, bytedance
@@ -232,6 +233,8 @@ host-suffix, volcdns-test.com, bytedance
 host-suffix, volcdns-test.net, bytedance
 host-suffix, voleai.com, bytedance
 host-suffix, wtturl.cn, bytedance
+host-suffix, xiaohe.cn, bytedance
+host-suffix, xingtu.cn, bytedance
 host-suffix, xsgtvacct.com, bytedance
 host-suffix, yhgfb-cn-static.com, bytedance
 host-suffix, zijieapi.cn, bytedance
@@ -328,6 +331,7 @@ host-suffix, ecombdvod.com, bytedance
 host-suffix, jinritemai.com, bytedance
 host-suffix, faceu.com, bytedance
 host-suffix, faceu.mobi, bytedance
+host-suffix, kesong.co, bytedance
 host-suffix, ulikecam.com, bytedance
 host-suffix, rsproxy.cn, bytedance
 host-suffix, oceanengine.com, bytedance
@@ -416,6 +420,7 @@ host-suffix, douyinact.net, bytedance
 host-suffix, douyincdn.com, bytedance
 host-suffix, douyinfe.com, bytedance
 host-suffix, douyinliving.com, bytedance
+host-suffix, douyinmusicpromotion.com, bytedance
 host-suffix, douyinpic.com, bytedance
 host-suffix, douyinstatic.com, bytedance
 host-suffix, douyinvod.com, bytedance
@@ -450,7 +455,6 @@ host-suffix, ihuoshanimg.com, bytedance
 host-suffix, ihuoshanlive.com, bytedance
 host-suffix, ihuoshanstatic.com, bytedance
 host-suffix, ihuoshanvod.com, bytedance
-host-suffix, kesong.co, bytedance
 host-suffix, kolbuyer.cn, bytedance
 host-suffix, nextvid.net, bytedance
 host-suffix, ppkankan01.com, bytedance

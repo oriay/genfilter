@@ -118,14 +118,6 @@ DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
 DOMAIN-SUFFIX,adx.36kr.com
-DOMAIN-SUFFIX,ac.fun
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,acfun.net
-DOMAIN-SUFFIX,acfunchina.cn
-DOMAIN-SUFFIX,acfunchina.com
-DOMAIN-SUFFIX,acfunchina.net
-DOMAIN-SUFFIX,aixifan.com
-DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,10xfotolia.com
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,acrobat.com
@@ -3223,6 +3215,7 @@ DOMAIN-SUFFIX,jokecommunity.com
 DOMAIN-SUFFIX,jokecommunity.net
 DOMAIN-SUFFIX,jstti.com
 DOMAIN-SUFFIX,jtamac.com
+DOMAIN-SUFFIX,letsign.com
 DOMAIN-SUFFIX,livecdnstatic.com
 DOMAIN-SUFFIX,local-ip.online
 DOMAIN-SUFFIX,luckysf.net
@@ -3296,6 +3289,8 @@ DOMAIN-SUFFIX,volcdns-test.com
 DOMAIN-SUFFIX,volcdns-test.net
 DOMAIN-SUFFIX,voleai.com
 DOMAIN-SUFFIX,wtturl.cn
+DOMAIN-SUFFIX,xiaohe.cn
+DOMAIN-SUFFIX,xingtu.cn
 DOMAIN-SUFFIX,xsgtvacct.com
 DOMAIN-SUFFIX,yhgfb-cn-static.com
 DOMAIN-SUFFIX,zijieapi.cn
@@ -3392,6 +3387,7 @@ DOMAIN-SUFFIX,ecombdvod.com
 DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.mobi
+DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,rsproxy.cn
 DOMAIN-SUFFIX,oceanengine.com
@@ -3480,6 +3476,7 @@ DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinmusicpromotion.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
@@ -3514,7 +3511,6 @@ DOMAIN-SUFFIX,ihuoshanimg.com
 DOMAIN-SUFFIX,ihuoshanlive.com
 DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanvod.com
-DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,nextvid.net
 DOMAIN-SUFFIX,ppkankan01.com
@@ -6267,6 +6263,7 @@ DOMAIN-SUFFIX,kontur.host
 DOMAIN-SUFFIX,kontur-inc.com
 DOMAIN,metrika.kontur.ru
 DOMAIN,sentry.kontur.host
+DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,inkuai.com
@@ -6280,10 +6277,15 @@ DOMAIN-SUFFIX,kuaishouapps.com
 DOMAIN-SUFFIX,kuaishoupay.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaishop.com
+DOMAIN-SUFFIX,kwaixiaodian.com
+DOMAIN-SUFFIX,kwaiying.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,mojidoc.com
 DOMAIN-SUFFIX,qingque.cn
 DOMAIN-SUFFIX,viviv.com
+DOMAIN-SUFFIX,wskwai.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,adbkwai.com
@@ -6293,6 +6295,14 @@ DOMAIN-SUFFIX,e.kuaishou.cn
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
+DOMAIN-SUFFIX,ac.fun
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.net
+DOMAIN-SUFFIX,acfunchina.cn
+DOMAIN-SUFFIX,acfunchina.com
+DOMAIN-SUFFIX,acfunchina.net
+DOMAIN-SUFFIX,aixifan.com
+DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,kurobbs.com
 DOMAIN-SUFFIX,kurogame-service.com
 DOMAIN-SUFFIX,kurogame.com

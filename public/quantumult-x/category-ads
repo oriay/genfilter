@@ -118,14 +118,6 @@ host-suffix, 36kr.com, category-ads
 host-suffix, 36krcdn.com, category-ads
 host-suffix, 36krcnd.com, category-ads
 host-suffix, adx.36kr.com, category-ads
-host-suffix, ac.fun, category-ads
-host-suffix, acfun.cn, category-ads
-host-suffix, acfun.net, category-ads
-host-suffix, acfunchina.cn, category-ads
-host-suffix, acfunchina.com, category-ads
-host-suffix, acfunchina.net, category-ads
-host-suffix, aixifan.com, category-ads
-host, apilog-web.acfun.cn, category-ads
 host-suffix, 10xfotolia.com, category-ads
 host-suffix, 2o7.net, category-ads
 host-suffix, acrobat.com, category-ads
@@ -3223,6 +3215,7 @@ host-suffix, jokecommunity.com, category-ads
 host-suffix, jokecommunity.net, category-ads
 host-suffix, jstti.com, category-ads
 host-suffix, jtamac.com, category-ads
+host-suffix, letsign.com, category-ads
 host-suffix, livecdnstatic.com, category-ads
 host-suffix, local-ip.online, category-ads
 host-suffix, luckysf.net, category-ads
@@ -3296,6 +3289,8 @@ host-suffix, volcdns-test.com, category-ads
 host-suffix, volcdns-test.net, category-ads
 host-suffix, voleai.com, category-ads
 host-suffix, wtturl.cn, category-ads
+host-suffix, xiaohe.cn, category-ads
+host-suffix, xingtu.cn, category-ads
 host-suffix, xsgtvacct.com, category-ads
 host-suffix, yhgfb-cn-static.com, category-ads
 host-suffix, zijieapi.cn, category-ads
@@ -3392,6 +3387,7 @@ host-suffix, ecombdvod.com, category-ads
 host-suffix, jinritemai.com, category-ads
 host-suffix, faceu.com, category-ads
 host-suffix, faceu.mobi, category-ads
+host-suffix, kesong.co, category-ads
 host-suffix, ulikecam.com, category-ads
 host-suffix, rsproxy.cn, category-ads
 host-suffix, oceanengine.com, category-ads
@@ -3480,6 +3476,7 @@ host-suffix, douyinact.net, category-ads
 host-suffix, douyincdn.com, category-ads
 host-suffix, douyinfe.com, category-ads
 host-suffix, douyinliving.com, category-ads
+host-suffix, douyinmusicpromotion.com, category-ads
 host-suffix, douyinpic.com, category-ads
 host-suffix, douyinstatic.com, category-ads
 host-suffix, douyinvod.com, category-ads
@@ -3514,7 +3511,6 @@ host-suffix, ihuoshanimg.com, category-ads
 host-suffix, ihuoshanlive.com, category-ads
 host-suffix, ihuoshanstatic.com, category-ads
 host-suffix, ihuoshanvod.com, category-ads
-host-suffix, kesong.co, category-ads
 host-suffix, kolbuyer.cn, category-ads
 host-suffix, nextvid.net, category-ads
 host-suffix, ppkankan01.com, category-ads
@@ -6267,6 +6263,7 @@ host-suffix, kontur.host, category-ads
 host-suffix, kontur-inc.com, category-ads
 host, metrika.kontur.ru, category-ads
 host, sentry.kontur.host, category-ads
+host-suffix, eckwai.com, category-ads
 host-suffix, ecukwai.com, category-ads
 host-suffix, gifshow.com, category-ads
 host-suffix, inkuai.com, category-ads
@@ -6280,10 +6277,15 @@ host-suffix, kuaishouapps.com, category-ads
 host-suffix, kuaishoupay.com, category-ads
 host-suffix, kuaishouzt.com, category-ads
 host-suffix, kwaicdn.com, category-ads
+host-suffix, kwaishop.com, category-ads
+host-suffix, kwaixiaodian.com, category-ads
+host-suffix, kwaiying.com, category-ads
 host-suffix, kwaizt.com, category-ads
 host-suffix, kwimgs.com, category-ads
+host-suffix, mojidoc.com, category-ads
 host-suffix, qingque.cn, category-ads
 host-suffix, viviv.com, category-ads
+host-suffix, wskwai.com, category-ads
 host-suffix, wsukwai.com, category-ads
 host-suffix, yximgs.com, category-ads
 host-suffix, adbkwai.com, category-ads
@@ -6293,6 +6295,14 @@ host-suffix, e.kuaishou.cn, category-ads
 host-suffix, e.kuaishou.com, category-ads
 host, log-sdk.gifshow.com, category-ads
 host, wlog.kuaishou.com, category-ads
+host-suffix, ac.fun, category-ads
+host-suffix, acfun.cn, category-ads
+host-suffix, acfun.net, category-ads
+host-suffix, acfunchina.cn, category-ads
+host-suffix, acfunchina.com, category-ads
+host-suffix, acfunchina.net, category-ads
+host-suffix, aixifan.com, category-ads
+host, apilog-web.acfun.cn, category-ads
 host-suffix, kurobbs.com, category-ads
 host-suffix, kurogame-service.com, category-ads
 host-suffix, kurogame.com, category-ads

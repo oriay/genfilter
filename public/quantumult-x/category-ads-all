@@ -138,14 +138,6 @@ host-suffix, 36kr.com, category-ads-all
 host-suffix, 36krcdn.com, category-ads-all
 host-suffix, 36krcnd.com, category-ads-all
 host-suffix, adx.36kr.com, category-ads-all
-host-suffix, ac.fun, category-ads-all
-host-suffix, acfun.cn, category-ads-all
-host-suffix, acfun.net, category-ads-all
-host-suffix, acfunchina.cn, category-ads-all
-host-suffix, acfunchina.com, category-ads-all
-host-suffix, acfunchina.net, category-ads-all
-host-suffix, aixifan.com, category-ads-all
-host, apilog-web.acfun.cn, category-ads-all
 host-suffix, 10xfotolia.com, category-ads-all
 host-suffix, 2o7.net, category-ads-all
 host-suffix, acrobat.com, category-ads-all
@@ -3243,6 +3235,7 @@ host-suffix, jokecommunity.com, category-ads-all
 host-suffix, jokecommunity.net, category-ads-all
 host-suffix, jstti.com, category-ads-all
 host-suffix, jtamac.com, category-ads-all
+host-suffix, letsign.com, category-ads-all
 host-suffix, livecdnstatic.com, category-ads-all
 host-suffix, local-ip.online, category-ads-all
 host-suffix, luckysf.net, category-ads-all
@@ -3316,6 +3309,8 @@ host-suffix, volcdns-test.com, category-ads-all
 host-suffix, volcdns-test.net, category-ads-all
 host-suffix, voleai.com, category-ads-all
 host-suffix, wtturl.cn, category-ads-all
+host-suffix, xiaohe.cn, category-ads-all
+host-suffix, xingtu.cn, category-ads-all
 host-suffix, xsgtvacct.com, category-ads-all
 host-suffix, yhgfb-cn-static.com, category-ads-all
 host-suffix, zijieapi.cn, category-ads-all
@@ -3412,6 +3407,7 @@ host-suffix, ecombdvod.com, category-ads-all
 host-suffix, jinritemai.com, category-ads-all
 host-suffix, faceu.com, category-ads-all
 host-suffix, faceu.mobi, category-ads-all
+host-suffix, kesong.co, category-ads-all
 host-suffix, ulikecam.com, category-ads-all
 host-suffix, rsproxy.cn, category-ads-all
 host-suffix, oceanengine.com, category-ads-all
@@ -3500,6 +3496,7 @@ host-suffix, douyinact.net, category-ads-all
 host-suffix, douyincdn.com, category-ads-all
 host-suffix, douyinfe.com, category-ads-all
 host-suffix, douyinliving.com, category-ads-all
+host-suffix, douyinmusicpromotion.com, category-ads-all
 host-suffix, douyinpic.com, category-ads-all
 host-suffix, douyinstatic.com, category-ads-all
 host-suffix, douyinvod.com, category-ads-all
@@ -3534,7 +3531,6 @@ host-suffix, ihuoshanimg.com, category-ads-all
 host-suffix, ihuoshanlive.com, category-ads-all
 host-suffix, ihuoshanstatic.com, category-ads-all
 host-suffix, ihuoshanvod.com, category-ads-all
-host-suffix, kesong.co, category-ads-all
 host-suffix, kolbuyer.cn, category-ads-all
 host-suffix, nextvid.net, category-ads-all
 host-suffix, ppkankan01.com, category-ads-all
@@ -6287,6 +6283,7 @@ host-suffix, kontur.host, category-ads-all
 host-suffix, kontur-inc.com, category-ads-all
 host, metrika.kontur.ru, category-ads-all
 host, sentry.kontur.host, category-ads-all
+host-suffix, eckwai.com, category-ads-all
 host-suffix, ecukwai.com, category-ads-all
 host-suffix, gifshow.com, category-ads-all
 host-suffix, inkuai.com, category-ads-all
@@ -6300,10 +6297,15 @@ host-suffix, kuaishouapps.com, category-ads-all
 host-suffix, kuaishoupay.com, category-ads-all
 host-suffix, kuaishouzt.com, category-ads-all
 host-suffix, kwaicdn.com, category-ads-all
+host-suffix, kwaishop.com, category-ads-all
+host-suffix, kwaixiaodian.com, category-ads-all
+host-suffix, kwaiying.com, category-ads-all
 host-suffix, kwaizt.com, category-ads-all
 host-suffix, kwimgs.com, category-ads-all
+host-suffix, mojidoc.com, category-ads-all
 host-suffix, qingque.cn, category-ads-all
 host-suffix, viviv.com, category-ads-all
+host-suffix, wskwai.com, category-ads-all
 host-suffix, wsukwai.com, category-ads-all
 host-suffix, yximgs.com, category-ads-all
 host-suffix, adbkwai.com, category-ads-all
@@ -6313,6 +6315,14 @@ host-suffix, e.kuaishou.cn, category-ads-all
 host-suffix, e.kuaishou.com, category-ads-all
 host, log-sdk.gifshow.com, category-ads-all
 host, wlog.kuaishou.com, category-ads-all
+host-suffix, ac.fun, category-ads-all
+host-suffix, acfun.cn, category-ads-all
+host-suffix, acfun.net, category-ads-all
+host-suffix, acfunchina.cn, category-ads-all
+host-suffix, acfunchina.com, category-ads-all
+host-suffix, acfunchina.net, category-ads-all
+host-suffix, aixifan.com, category-ads-all
+host, apilog-web.acfun.cn, category-ads-all
 host-suffix, kurobbs.com, category-ads-all
 host-suffix, kurogame-service.com, category-ads-all
 host-suffix, kurogame.com, category-ads-all

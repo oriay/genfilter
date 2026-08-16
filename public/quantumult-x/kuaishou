@@ -1,3 +1,4 @@
+host-suffix, eckwai.com, kuaishou
 host-suffix, ecukwai.com, kuaishou
 host-suffix, gifshow.com, kuaishou
 host-suffix, inkuai.com, kuaishou
@@ -11,10 +12,15 @@ host-suffix, kuaishouapps.com, kuaishou
 host-suffix, kuaishoupay.com, kuaishou
 host-suffix, kuaishouzt.com, kuaishou
 host-suffix, kwaicdn.com, kuaishou
+host-suffix, kwaishop.com, kuaishou
+host-suffix, kwaixiaodian.com, kuaishou
+host-suffix, kwaiying.com, kuaishou
 host-suffix, kwaizt.com, kuaishou
 host-suffix, kwimgs.com, kuaishou
+host-suffix, mojidoc.com, kuaishou
 host-suffix, qingque.cn, kuaishou
 host-suffix, viviv.com, kuaishou
+host-suffix, wskwai.com, kuaishou
 host-suffix, wsukwai.com, kuaishou
 host-suffix, yximgs.com, kuaishou
 host-suffix, adbkwai.com, kuaishou
@@ -24,3 +30,11 @@ host-suffix, e.kuaishou.cn, kuaishou
 host-suffix, e.kuaishou.com, kuaishou
 host, log-sdk.gifshow.com, kuaishou
 host, wlog.kuaishou.com, kuaishou
+host-suffix, ac.fun, kuaishou
+host-suffix, acfun.cn, kuaishou
+host-suffix, acfun.net, kuaishou
+host-suffix, acfunchina.cn, kuaishou
+host-suffix, acfunchina.com, kuaishou
+host-suffix, acfunchina.net, kuaishou
+host-suffix, aixifan.com, kuaishou
+host, apilog-web.acfun.cn, kuaishou
