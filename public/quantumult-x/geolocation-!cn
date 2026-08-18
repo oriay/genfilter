@@ -27183,6 +27183,8 @@ host-suffix, n3ro.wtf, geolocation-!cn
 host-suffix, nexitally.com, geolocation-!cn
 host-suffix, nexitallysafe.com, geolocation-!cn
 host-suffix, nexitcore.com, geolocation-!cn
+host-suffix, nordcdn.com, geolocation-!cn
+host-suffix, nordvpn.com, geolocation-!cn
 host-suffix, paofu.cloud, geolocation-!cn
 host-suffix, paofuyun.me, geolocation-!cn
 host-suffix, shadowsocks.com, geolocation-!cn
