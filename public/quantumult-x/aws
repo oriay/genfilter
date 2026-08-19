@@ -12,10 +12,13 @@ host-suffix, amazonaws.org, aws
 host-suffix, amazonaws.tv, aws
 host-suffix, amazoncognito.com, aws
 host-suffix, amazonses.com, aws
+host-suffix, amazonwebservices.com, aws
 host-suffix, amazonworkdocs.com, aws
 host-suffix, amplifyapp.com, aws
 host-suffix, amplifyframework.com, aws
 host-suffix, aws-iot-hackathon.com, aws
+host-suffix, aws.a2z.com, aws
+host-suffix, aws.amazon.com, aws
 host-suffix, aws.com, aws
 host-suffix, aws.dev, aws
 host-suffix, awsapprunner.com, aws

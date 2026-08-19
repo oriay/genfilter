@@ -48,6 +48,8 @@ host-suffix, deepwiki.com, geolocation-!cn
 host-suffix, deepwiki.org, geolocation-!cn
 host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
+host-suffix, kimi.ai, geolocation-!cn
+host-suffix, moonshot.ai, geolocation-!cn
 host-suffix, agentclientprotocol.com, geolocation-!cn
 host-suffix, anythingllm.com, geolocation-!cn
 host-suffix, arena.ai, geolocation-!cn
@@ -58,6 +60,7 @@ host-suffix, devin.ai, geolocation-!cn
 host-suffix, diabrowser.com, geolocation-!cn
 host-suffix, diabrowser.engineering, geolocation-!cn
 host-suffix, dify.ai, geolocation-!cn
+host-suffix, dreamgen.com, geolocation-!cn
 host-suffix, duck.ai, geolocation-!cn
 host-suffix, gateway.ai.cloudflare.com, geolocation-!cn
 host-suffix, h2o.ai, geolocation-!cn
@@ -70,6 +73,8 @@ host-suffix, midjourney.com, geolocation-!cn
 host-suffix, minimax.io, geolocation-!cn
 host-suffix, mistral.ai, geolocation-!cn
 host-suffix, mozilla.ai, geolocation-!cn
+host-suffix, notegpt.io, geolocation-!cn
+host-suffix, novelai.net, geolocation-!cn
 host-suffix, ollama.com, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
 host-suffix, openclaw.ai, geolocation-!cn
@@ -79,6 +84,7 @@ host-suffix, plannotator.ai, geolocation-!cn
 host-suffix, qoder.com, geolocation-!cn
 host-suffix, sider.ai, geolocation-!cn
 host-suffix, spicywriter.com, geolocation-!cn
+host-suffix, talkai.info, geolocation-!cn
 host-suffix, tapnow.ai, geolocation-!cn
 host-suffix, tripo3d.ai, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
@@ -6446,7 +6452,6 @@ host, ubistatic22-a.akamaihd.net, geolocation-!cn
 host, ubistatic23-a.akamaihd.net, geolocation-!cn
 host, ubistatic24-a.akamaihd.net, geolocation-!cn
 host, ubisoft.siteintercept.qualtrics.com, geolocation-!cn
-host, uplaypc-s-ubisoft.cdn.ubi.com, geolocation-!cn
 host-suffix, vrchat.cloud, geolocation-!cn
 host-suffix, vrchat.com, geolocation-!cn
 host-suffix, vrchat.net, geolocation-!cn
@@ -7233,6 +7238,8 @@ host-suffix, netflixdnstest9.com, geolocation-!cn
 host-suffix, netflixdnstest10.com, geolocation-!cn
 host, netflix.com.edgesuite.net, geolocation-!cn
 host-suffix, nico, geolocation-!cn
+host-suffix, nico.ms, geolocation-!cn
+host-suffix, nicochannel.jp, geolocation-!cn
 host-suffix, nicodic.jp, geolocation-!cn
 host-suffix, nicomanga.jp, geolocation-!cn
 host-suffix, niconico.com, geolocation-!cn
@@ -7777,6 +7784,7 @@ host-suffix, 4cdn.org, geolocation-!cn
 host-suffix, 4chan.org, geolocation-!cn
 host-suffix, 4channel.org, geolocation-!cn
 host-suffix, 2ch.net, geolocation-!cn
+host-suffix, 5ch.io, geolocation-!cn
 host-suffix, 5ch.net, geolocation-!cn
 host-suffix, 6park.com, geolocation-!cn
 host-suffix, 6parkbbs.com, geolocation-!cn
@@ -7862,6 +7870,7 @@ host-suffix, xda-cdn.com, geolocation-!cn
 host-suffix, xda-developers.com, geolocation-!cn
 host-suffix, xdaforums.com, geolocation-!cn
 host-suffix, xdaimages.com, geolocation-!cn
+host-suffix, fansly.com, geolocation-!cn
 host-suffix, onlyfans.com, geolocation-!cn
 host-suffix, truthsocial.com, geolocation-!cn
 host-suffix, joinmastodon.org, geolocation-!cn
@@ -19739,10 +19748,13 @@ host-suffix, amazonaws.org, geolocation-!cn
 host-suffix, amazonaws.tv, geolocation-!cn
 host-suffix, amazoncognito.com, geolocation-!cn
 host-suffix, amazonses.com, geolocation-!cn
+host-suffix, amazonwebservices.com, geolocation-!cn
 host-suffix, amazonworkdocs.com, geolocation-!cn
 host-suffix, amplifyapp.com, geolocation-!cn
 host-suffix, amplifyframework.com, geolocation-!cn
 host-suffix, aws-iot-hackathon.com, geolocation-!cn
+host-suffix, aws.a2z.com, geolocation-!cn
+host-suffix, aws.amazon.com, geolocation-!cn
 host-suffix, aws.com, geolocation-!cn
 host-suffix, aws.dev, geolocation-!cn
 host-suffix, awsapprunner.com, geolocation-!cn
@@ -19859,7 +19871,6 @@ host-suffix, amd.com.cn, geolocation-!cn
 host-suffix, amdfanstore.com, geolocation-!cn
 host-suffix, amdgaming.com, geolocation-!cn
 host-suffix, radeon.com, geolocation-!cn
-host, www.amd.com, geolocation-!cn
 host-suffix, anexia.at, geolocation-!cn
 host-suffix, anexia.com, geolocation-!cn
 host-suffix, anexia-engine.com, geolocation-!cn
@@ -22992,32 +23003,6 @@ host-suffix, solutionstation.com, geolocation-!cn
 host-suffix, studiodell.com, geolocation-!cn
 host-suffix, vce.com, geolocation-!cn
 host, dell.my.site.com, geolocation-!cn
-host, afcs.dell.com, geolocation-!cn
-host, clientperipherals.dell.com, geolocation-!cn
-host, customization-cdn.dell.com, geolocation-!cn
-host, dds.dell.com, geolocation-!cn
-host, dl.dell.com, geolocation-!cn
-host, ea2cn-dev-outlet.dell.com, geolocation-!cn
-host, ea2cn-prod-outlet.dell.com, geolocation-!cn
-host, ea2cn-staging-outlet.dell.com, geolocation-!cn
-host, fcs.dell.com, geolocation-!cn
-host, fta.dell.com, geolocation-!cn
-host, ftaapj.dell.com, geolocation-!cn
-host, ftaemea.dell.com, geolocation-!cn
-host, ftasitapj.dell.com, geolocation-!cn
-host, gbxgateway-dev.dell.com, geolocation-!cn
-host, gbxgateway.dell.com, geolocation-!cn
-host, i.dell.com, geolocation-!cn
-host, nexus.dell.com, geolocation-!cn
-host, p.cdn.persaas.dell.com, geolocation-!cn
-host, scene7-cdn.dell.com, geolocation-!cn
-host, si.cdn.dell.com, geolocation-!cn
-host, sm.dell.com, geolocation-!cn
-host, snp.cdn.dell.com, geolocation-!cn
-host, snpi.dell.com, geolocation-!cn
-host, supportassist.dell.com, geolocation-!cn
-host, www-csb.dell.com, geolocation-!cn
-host, www.dell.com, geolocation-!cn
 host-suffix, digitalocean.com, geolocation-!cn
 host-suffix, digitalocean-ui.com, geolocation-!cn
 host-suffix, digitaloceanspaces.com, geolocation-!cn
@@ -24093,7 +24078,6 @@ host-suffix, worldsfastestgamer.net, geolocation-!cn
 host-suffix, louisvuitton.cn, geolocation-!cn
 host-suffix, louisvuitton.com, geolocation-!cn
 host-suffix, lvcampaign.com, geolocation-!cn
-host, tp.louisvuitton.com, geolocation-!cn
 host-suffix, armgs.team, geolocation-!cn
 host-suffix, bargipsy.com, geolocation-!cn
 host-suffix, boom.ru, geolocation-!cn
@@ -25494,7 +25478,6 @@ host-suffix, ditu.live.com, geolocation-!cn
 host-suffix, r.bing.com, geolocation-!cn
 host-suffix, th.bing.com, geolocation-!cn
 host, bj1.api.bing.com, geolocation-!cn
-host, emoi-cncdn.bing.com, geolocation-!cn
 host-suffix, atom.io, geolocation-!cn
 host-suffix, dependabot.com, geolocation-!cn
 host-suffix, gh.io, geolocation-!cn

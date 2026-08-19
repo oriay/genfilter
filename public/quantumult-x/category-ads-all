@@ -993,10 +993,13 @@ host-suffix, amazonaws.org, category-ads-all
 host-suffix, amazonaws.tv, category-ads-all
 host-suffix, amazoncognito.com, category-ads-all
 host-suffix, amazonses.com, category-ads-all
+host-suffix, amazonwebservices.com, category-ads-all
 host-suffix, amazonworkdocs.com, category-ads-all
 host-suffix, amplifyapp.com, category-ads-all
 host-suffix, amplifyframework.com, category-ads-all
 host-suffix, aws-iot-hackathon.com, category-ads-all
+host-suffix, aws.a2z.com, category-ads-all
+host-suffix, aws.amazon.com, category-ads-all
 host-suffix, aws.com, category-ads-all
 host-suffix, aws.dev, category-ads-all
 host-suffix, awsapprunner.com, category-ads-all
@@ -7737,7 +7740,6 @@ host-suffix, ditu.live.com, category-ads-all
 host-suffix, r.bing.com, category-ads-all
 host-suffix, th.bing.com, category-ads-all
 host, bj1.api.bing.com, category-ads-all
-host, emoi-cncdn.bing.com, category-ads-all
 host-suffix, atom.io, category-ads-all
 host-suffix, dependabot.com, category-ads-all
 host-suffix, gh.io, category-ads-all

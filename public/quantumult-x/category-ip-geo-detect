@@ -144,6 +144,7 @@ host-suffix, wtfismyip.com, category-ip-geo-detect
 host, checkip.amazonaws.com, category-ip-geo-detect
 host, checkip.dyndns.org, category-ip-geo-detect
 host, checkip.dyn.com, category-ip-geo-detect
+host, checkip.global.api.aws, category-ip-geo-detect
 host, ip-check-perf.radar.cloudflare.com, category-ip-geo-detect
 host, ip.comss.net, category-ip-geo-detect
 host, ipv4-check-perf.radar.cloudflare.com, category-ip-geo-detect

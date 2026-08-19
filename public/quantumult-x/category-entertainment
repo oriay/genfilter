@@ -895,7 +895,6 @@ host, ubistatic22-a.akamaihd.net, category-entertainment
 host, ubistatic23-a.akamaihd.net, category-entertainment
 host, ubistatic24-a.akamaihd.net, category-entertainment
 host, ubisoft.siteintercept.qualtrics.com, category-entertainment
-host, uplaypc-s-ubisoft.cdn.ubi.com, category-entertainment
 host-suffix, vrchat.cloud, category-entertainment
 host-suffix, vrchat.com, category-entertainment
 host-suffix, vrchat.net, category-entertainment
@@ -1682,6 +1681,8 @@ host-suffix, netflixdnstest9.com, category-entertainment
 host-suffix, netflixdnstest10.com, category-entertainment
 host, netflix.com.edgesuite.net, category-entertainment
 host-suffix, nico, category-entertainment
+host-suffix, nico.ms, category-entertainment
+host-suffix, nicochannel.jp, category-entertainment
 host-suffix, nicodic.jp, category-entertainment
 host-suffix, nicomanga.jp, category-entertainment
 host-suffix, niconico.com, category-entertainment
