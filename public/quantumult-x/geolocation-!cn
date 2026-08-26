@@ -7027,6 +7027,7 @@ host-suffix, homeboxoffice.com, geolocation-!cn
 host-suffix, max.com, geolocation-!cn
 host-suffix, maxgo.com, geolocation-!cn
 host-suffix, redbyhbo.com, geolocation-!cn
+host-suffix, h264.io, geolocation-!cn
 host-suffix, hbo.com.c.footprint.net, geolocation-!cn
 host-suffix, hbo.com.edgesuite.net, geolocation-!cn
 host-suffix, hbo.map.fastly.net, geolocation-!cn
@@ -13707,7 +13708,6 @@ host-suffix, new-redtube.com, geolocation-!cn
 host-suffix, new3dcomics.com, geolocation-!cn
 host-suffix, newbienudes.com, geolocation-!cn
 host-suffix, newbrazz.com, geolocation-!cn
-host-suffix, newgrounds.com, geolocation-!cn
 host-suffix, newhentai.org, geolocation-!cn
 host-suffix, newlineporn.com, geolocation-!cn
 host-suffix, newsensations.com, geolocation-!cn
@@ -16503,6 +16503,8 @@ host-suffix, moxing.news, geolocation-!cn
 host-suffix, netflav.com, geolocation-!cn
 host-suffix, netflav1.com, geolocation-!cn
 host-suffix, netflav5.com, geolocation-!cn
+host-suffix, newgrounds.com, geolocation-!cn
+host-suffix, ngfiles.com, geolocation-!cn
 host-suffix, nudevista.com, geolocation-!cn
 host-suffix, nudevista.es, geolocation-!cn
 host-suffix, nudevista.net, geolocation-!cn
