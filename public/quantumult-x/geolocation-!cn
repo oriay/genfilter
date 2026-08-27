@@ -340,6 +340,7 @@ host-suffix, vpngate.jp, geolocation-!cn
 host-suffix, vpngate.net, geolocation-!cn
 host-suffix, docs.rw, geolocation-!cn
 host-suffix, log.rw, geolocation-!cn
+host-suffix, remna.st, geolocation-!cn
 host-suffix, try.rw, geolocation-!cn
 host-suffix, equinox.io, geolocation-!cn
 host-suffix, ngrok-agent.com, geolocation-!cn
