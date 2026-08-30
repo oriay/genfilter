@@ -6,6 +6,8 @@ host-suffix, abstractapi.com, category-ip-geo-detect
 host-suffix, addr.tools, category-ip-geo-detect
 host-suffix, apiip.net, category-ip-geo-detect
 host-suffix, apivoid.com, category-ip-geo-detect
+host-suffix, bgp.he.net, category-ip-geo-detect
+host-suffix, bgp.tools, category-ip-geo-detect
 host-suffix, bigdatacloud.net, category-ip-geo-detect
 host-suffix, browserleaks.com, category-ip-geo-detect
 host-suffix, check-host.net, category-ip-geo-detect

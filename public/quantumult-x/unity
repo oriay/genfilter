@@ -1,7 +1,6 @@
 host-suffix, unity.com, unity
 host-suffix, unity3d.com, unity
 host-suffix, analytics.cloud.unity3d.com, unity
-host-suffix, api2.amplitude.com, unity
 host-suffix, config.uca.cloud.unity3d.com, unity
 host-suffix, cdp.cloud.unity3d.com, unity
 host-suffix, prd-lender.cdp.internal.unity3d.com, unity

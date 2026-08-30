@@ -18186,7 +18186,6 @@ host-suffix, tildacdn.net, geolocation-!cn
 host-suffix, unity.com, geolocation-!cn
 host-suffix, unity3d.com, geolocation-!cn
 host-suffix, analytics.cloud.unity3d.com, geolocation-!cn
-host-suffix, api2.amplitude.com, geolocation-!cn
 host-suffix, config.uca.cloud.unity3d.com, geolocation-!cn
 host-suffix, cdp.cloud.unity3d.com, geolocation-!cn
 host-suffix, prd-lender.cdp.internal.unity3d.com, geolocation-!cn
