@@ -29,6 +29,8 @@ host-suffix, tencent.com.cn, tencent
 host-suffix, tencent.com.hk, tencent
 host-suffix, tencent.net, tencent
 host-suffix, tencent.net.cn, tencent
+host-suffix, tencentmiying.com, tencent
+host-suffix, tengmed.com, tencent
 host-suffix, tenpay.com, tencent
 host-suffix, tfogc.com, tencent
 host-suffix, wechat.com, tencent
@@ -277,7 +279,9 @@ host-suffix, tencentbyod.com, tencent
 host-suffix, tencentcdb.cn, tencent
 host-suffix, tencentcdb.com, tencent
 host-suffix, tencentcdb.com.cn, tencent
+host-suffix, tencentclb.cn, tencent
 host-suffix, tencentclb.com, tencent
+host-suffix, tencentclb.com.cn, tencent
 host-suffix, tencentcloud-aiot.com, tencent
 host-suffix, tencentcloudapi.com, tencent
 host-suffix, tencentcloudclub.com, tencent

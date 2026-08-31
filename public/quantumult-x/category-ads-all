@@ -8330,6 +8330,7 @@ host-suffix, 360os.com, category-ads-all
 host-suffix, 360panyun.cn, category-ads-all
 host-suffix, 360qhcdn.com, category-ads-all
 host-suffix, 360safe.com, category-ads-all
+host-suffix, 360scdn.com, category-ads-all
 host-suffix, 360shouji.com, category-ads-all
 host-suffix, 360so.com, category-ads-all
 host-suffix, 360sou.cn, category-ads-all
@@ -8726,6 +8727,8 @@ host-suffix, tencent.com.cn, category-ads-all
 host-suffix, tencent.com.hk, category-ads-all
 host-suffix, tencent.net, category-ads-all
 host-suffix, tencent.net.cn, category-ads-all
+host-suffix, tencentmiying.com, category-ads-all
+host-suffix, tengmed.com, category-ads-all
 host-suffix, tenpay.com, category-ads-all
 host-suffix, tfogc.com, category-ads-all
 host-suffix, wechat.com, category-ads-all
@@ -8974,7 +8977,9 @@ host-suffix, tencentbyod.com, category-ads-all
 host-suffix, tencentcdb.cn, category-ads-all
 host-suffix, tencentcdb.com, category-ads-all
 host-suffix, tencentcdb.com.cn, category-ads-all
+host-suffix, tencentclb.cn, category-ads-all
 host-suffix, tencentclb.com, category-ads-all
+host-suffix, tencentclb.com.cn, category-ads-all
 host-suffix, tencentcloud-aiot.com, category-ads-all
 host-suffix, tencentcloudapi.com, category-ads-all
 host-suffix, tencentcloudclub.com, category-ads-all

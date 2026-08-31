@@ -3823,6 +3823,8 @@ host-suffix, kcbebank.com, geolocation-cn
 host-suffix, shrbank.com, geolocation-cn
 host-suffix, mybank.cn, geolocation-cn
 host-suffix, ms-bank.cn, geolocation-cn
+host-suffix, tctpwebankcdn.net, geolocation-cn
+host-suffix, wbweilicai.com, geolocation-cn
 host-suffix, webank.com, geolocation-cn
 host-suffix, webankcdn.net, geolocation-cn
 host-suffix, csxbank.com, geolocation-cn
@@ -5313,6 +5315,7 @@ host-suffix, hailuoai.com, geolocation-cn
 host-suffix, minimaxi.com, geolocation-cn
 host-suffix, xingyeai.com, geolocation-cn
 host-suffix, codebuddy.cn, geolocation-cn
+host-suffix, workbuddy.cn, geolocation-cn
 host-suffix, hunyuan.tencent.com, geolocation-cn
 host-suffix, yuanbao.tencent.com, geolocation-cn
 host-suffix, yuanqi.tencent.com, geolocation-cn
@@ -5343,6 +5346,7 @@ host-suffix, shunjing.xin, geolocation-cn
 host-suffix, askdiandian.com, geolocation-cn
 host-suffix, diandianlife.top, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn
+host-suffix, deepseeksvc.com, geolocation-cn
 host-suffix, butterfly-static.cn, geolocation-cn
 host-suffix, butterflyai.cn, geolocation-cn
 host-suffix, coze-dns-01.com, geolocation-cn
@@ -8123,6 +8127,7 @@ host-suffix, 360os.com, geolocation-cn
 host-suffix, 360panyun.cn, geolocation-cn
 host-suffix, 360qhcdn.com, geolocation-cn
 host-suffix, 360safe.com, geolocation-cn
+host-suffix, 360scdn.com, geolocation-cn
 host-suffix, 360shouji.com, geolocation-cn
 host-suffix, 360so.com, geolocation-cn
 host-suffix, 360sou.cn, geolocation-cn
@@ -8268,6 +8273,8 @@ host-suffix, tencent.com.cn, geolocation-cn
 host-suffix, tencent.com.hk, geolocation-cn
 host-suffix, tencent.net, geolocation-cn
 host-suffix, tencent.net.cn, geolocation-cn
+host-suffix, tencentmiying.com, geolocation-cn
+host-suffix, tengmed.com, geolocation-cn
 host-suffix, tenpay.com, geolocation-cn
 host-suffix, tfogc.com, geolocation-cn
 host-suffix, wechat.com, geolocation-cn
@@ -8516,7 +8523,9 @@ host-suffix, tencentbyod.com, geolocation-cn
 host-suffix, tencentcdb.cn, geolocation-cn
 host-suffix, tencentcdb.com, geolocation-cn
 host-suffix, tencentcdb.com.cn, geolocation-cn
+host-suffix, tencentclb.cn, geolocation-cn
 host-suffix, tencentclb.com, geolocation-cn
+host-suffix, tencentclb.com.cn, geolocation-cn
 host-suffix, tencentcloud-aiot.com, geolocation-cn
 host-suffix, tencentcloudapi.com, geolocation-cn
 host-suffix, tencentcloudclub.com, geolocation-cn

@@ -3872,6 +3872,8 @@ host-suffix, kcbebank.com, cn
 host-suffix, shrbank.com, cn
 host-suffix, mybank.cn, cn
 host-suffix, ms-bank.cn, cn
+host-suffix, tctpwebankcdn.net, cn
+host-suffix, wbweilicai.com, cn
 host-suffix, webank.com, cn
 host-suffix, webankcdn.net, cn
 host-suffix, csxbank.com, cn
@@ -5362,6 +5364,7 @@ host-suffix, hailuoai.com, cn
 host-suffix, minimaxi.com, cn
 host-suffix, xingyeai.com, cn
 host-suffix, codebuddy.cn, cn
+host-suffix, workbuddy.cn, cn
 host-suffix, hunyuan.tencent.com, cn
 host-suffix, yuanbao.tencent.com, cn
 host-suffix, yuanqi.tencent.com, cn
@@ -5392,6 +5395,7 @@ host-suffix, shunjing.xin, cn
 host-suffix, askdiandian.com, cn
 host-suffix, diandianlife.top, cn
 host-suffix, deepseek.com, cn
+host-suffix, deepseeksvc.com, cn
 host-suffix, butterfly-static.cn, cn
 host-suffix, butterflyai.cn, cn
 host-suffix, coze-dns-01.com, cn
@@ -8172,6 +8176,7 @@ host-suffix, 360os.com, cn
 host-suffix, 360panyun.cn, cn
 host-suffix, 360qhcdn.com, cn
 host-suffix, 360safe.com, cn
+host-suffix, 360scdn.com, cn
 host-suffix, 360shouji.com, cn
 host-suffix, 360so.com, cn
 host-suffix, 360sou.cn, cn
@@ -8317,6 +8322,8 @@ host-suffix, tencent.com.cn, cn
 host-suffix, tencent.com.hk, cn
 host-suffix, tencent.net, cn
 host-suffix, tencent.net.cn, cn
+host-suffix, tencentmiying.com, cn
+host-suffix, tengmed.com, cn
 host-suffix, tenpay.com, cn
 host-suffix, tfogc.com, cn
 host-suffix, wechat.com, cn
@@ -8565,7 +8572,9 @@ host-suffix, tencentbyod.com, cn
 host-suffix, tencentcdb.cn, cn
 host-suffix, tencentcdb.com, cn
 host-suffix, tencentcdb.com.cn, cn
+host-suffix, tencentclb.cn, cn
 host-suffix, tencentclb.com, cn
+host-suffix, tencentclb.com.cn, cn
 host-suffix, tencentcloud-aiot.com, cn
 host-suffix, tencentcloudapi.com, cn
 host-suffix, tencentcloudclub.com, cn

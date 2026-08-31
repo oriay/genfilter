@@ -144,7 +144,9 @@ host-suffix, tencentbyod.com, qcloud
 host-suffix, tencentcdb.cn, qcloud
 host-suffix, tencentcdb.com, qcloud
 host-suffix, tencentcdb.com.cn, qcloud
+host-suffix, tencentclb.cn, qcloud
 host-suffix, tencentclb.com, qcloud
+host-suffix, tencentclb.com.cn, qcloud
 host-suffix, tencentcloud-aiot.com, qcloud
 host-suffix, tencentcloudapi.com, qcloud
 host-suffix, tencentcloudclub.com, qcloud

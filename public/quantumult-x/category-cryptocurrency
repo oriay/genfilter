@@ -169,7 +169,10 @@ host-suffix, devcon.org, category-cryptocurrency
 host-suffix, ethereum.foundation, category-cryptocurrency
 host-suffix, ethereum.org, category-cryptocurrency
 host-suffix, etherscan.io, category-cryptocurrency
+host-suffix, gate.com, category-cryptocurrency
 host-suffix, gate.io, category-cryptocurrency
+host-suffix, gate.tv, category-cryptocurrency
+host-suffix, gateapi.io, category-cryptocurrency
 host-suffix, gatedata.org, category-cryptocurrency
 host-suffix, gateimg.com, category-cryptocurrency
 host-suffix, gateio.live, category-cryptocurrency

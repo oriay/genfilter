@@ -34,6 +34,7 @@ host-suffix, hailuoai.com, category-ai-cn
 host-suffix, minimaxi.com, category-ai-cn
 host-suffix, xingyeai.com, category-ai-cn
 host-suffix, codebuddy.cn, category-ai-cn
+host-suffix, workbuddy.cn, category-ai-cn
 host-suffix, hunyuan.tencent.com, category-ai-cn
 host-suffix, yuanbao.tencent.com, category-ai-cn
 host-suffix, yuanqi.tencent.com, category-ai-cn
@@ -64,6 +65,7 @@ host-suffix, shunjing.xin, category-ai-cn
 host-suffix, askdiandian.com, category-ai-cn
 host-suffix, diandianlife.top, category-ai-cn
 host-suffix, deepseek.com, category-ai-cn
+host-suffix, deepseeksvc.com, category-ai-cn
 host-suffix, butterfly-static.cn, category-ai-cn
 host-suffix, butterflyai.cn, category-ai-cn
 host-suffix, coze-dns-01.com, category-ai-cn
