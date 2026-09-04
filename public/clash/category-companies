@@ -7808,6 +7808,9 @@ DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN,nvidia.custhelp.com
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,cn.download.nvidia.com
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,openweather.co.uk
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,oracle

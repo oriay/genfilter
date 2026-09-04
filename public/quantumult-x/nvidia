@@ -61,3 +61,6 @@ host-suffix, tegrazone.kr, nvidia
 host, nvidia.custhelp.com, nvidia
 host, nvidia.tt.omtrdc.net, nvidia
 host, cn.download.nvidia.com, nvidia
+host-suffix, hf.co, nvidia
+host-suffix, hf.space, nvidia
+host-suffix, huggingface.co, nvidia

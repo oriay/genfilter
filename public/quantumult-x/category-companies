@@ -7808,6 +7808,9 @@ host-suffix, tegrazone.kr, category-companies
 host, nvidia.custhelp.com, category-companies
 host, nvidia.tt.omtrdc.net, category-companies
 host, cn.download.nvidia.com, category-companies
+host-suffix, hf.co, category-companies
+host-suffix, hf.space, category-companies
+host-suffix, huggingface.co, category-companies
 host-suffix, openweather.co.uk, category-companies
 host-suffix, openweathermap.org, category-companies
 host-suffix, oracle, category-companies

@@ -26023,6 +26023,9 @@ host-suffix, tegrazone.kr, geolocation-!cn
 host, nvidia.custhelp.com, geolocation-!cn
 host, nvidia.tt.omtrdc.net, geolocation-!cn
 host, cn.download.nvidia.com, geolocation-!cn
+host-suffix, hf.co, geolocation-!cn
+host-suffix, hf.space, geolocation-!cn
+host-suffix, huggingface.co, geolocation-!cn
 host-suffix, openweather.co.uk, geolocation-!cn
 host-suffix, openweathermap.org, geolocation-!cn
 host-suffix, oracle, geolocation-!cn
