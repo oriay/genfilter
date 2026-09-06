@@ -1594,6 +1594,7 @@ host-suffix, kktv.me, category-entertainment
 host-suffix, theater-kktv.cdn.hinet.net, category-entertainment
 host-suffix, last.fm, category-entertainment
 host, lastfm.freetls.fastly.net, category-entertainment
+host, lastfm-img.freetls.fastly.net, category-entertainment
 host, ws.audioscrobbler.com, category-entertainment
 host-suffix, litv.tv, category-entertainment
 host-suffix, litvfreepc.akamaized.net, category-entertainment

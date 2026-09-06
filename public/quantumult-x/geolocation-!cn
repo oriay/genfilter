@@ -7155,6 +7155,7 @@ host-suffix, kktv.me, geolocation-!cn
 host-suffix, theater-kktv.cdn.hinet.net, geolocation-!cn
 host-suffix, last.fm, geolocation-!cn
 host, lastfm.freetls.fastly.net, geolocation-!cn
+host, lastfm-img.freetls.fastly.net, geolocation-!cn
 host, ws.audioscrobbler.com, geolocation-!cn
 host-suffix, litv.tv, geolocation-!cn
 host-suffix, litvfreepc.akamaized.net, geolocation-!cn
