@@ -606,6 +606,9 @@ host, standchartbank.tt.omtrdc.net, category-finance
 host-suffix, link.com, category-finance
 host-suffix, stripe-terminal-local-reader.net, category-finance
 host-suffix, stripe.com, category-finance
+host-suffix, stripe.dev, category-finance
+host-suffix, stripe.events, category-finance
+host-suffix, stripe.global, category-finance
 host-suffix, stripe.network, category-finance
 host-suffix, stripecdn.com, category-finance
 host-suffix, transferwise.com, category-finance

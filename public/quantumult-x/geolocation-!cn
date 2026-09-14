@@ -2124,6 +2124,9 @@ host, standchartbank.tt.omtrdc.net, geolocation-!cn
 host-suffix, link.com, geolocation-!cn
 host-suffix, stripe-terminal-local-reader.net, geolocation-!cn
 host-suffix, stripe.com, geolocation-!cn
+host-suffix, stripe.dev, geolocation-!cn
+host-suffix, stripe.events, geolocation-!cn
+host-suffix, stripe.global, geolocation-!cn
 host-suffix, stripe.network, geolocation-!cn
 host-suffix, stripecdn.com, geolocation-!cn
 host-suffix, transferwise.com, geolocation-!cn
@@ -7412,6 +7415,7 @@ host-suffix, tiktokcdn.com.edgesuite.net, geolocation-!cn
 host-suffix, tiktokv.com.edgekey.net, geolocation-!cn
 host-suffix, tiktokv.com.edgesuite.net, geolocation-!cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-!cn
+host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, geolocation-!cn
 host, roovza-launches.appsflyersdk.com, geolocation-!cn
 host, roovza.inapps.appsflyersdk.com, geolocation-!cn
 host, roovza.launches.appsflyersdk.com, geolocation-!cn

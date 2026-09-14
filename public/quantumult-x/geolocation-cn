@@ -7116,6 +7116,7 @@ host-suffix, tiktokcdn.com.edgesuite.net, geolocation-cn
 host-suffix, tiktokv.com.edgekey.net, geolocation-cn
 host-suffix, tiktokv.com.edgesuite.net, geolocation-cn
 host, p16-tiktokcdn-com.akamaized.net, geolocation-cn
+host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, geolocation-cn
 host, roovza-launches.appsflyersdk.com, geolocation-cn
 host, roovza.inapps.appsflyersdk.com, geolocation-cn
 host, roovza.launches.appsflyersdk.com, geolocation-cn

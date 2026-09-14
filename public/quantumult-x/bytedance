@@ -651,6 +651,7 @@ host-suffix, tiktokcdn.com.edgesuite.net, bytedance
 host-suffix, tiktokv.com.edgekey.net, bytedance
 host-suffix, tiktokv.com.edgesuite.net, bytedance
 host, p16-tiktokcdn-com.akamaized.net, bytedance
+host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, bytedance
 host, roovza-launches.appsflyersdk.com, bytedance
 host, roovza.inapps.appsflyersdk.com, bytedance
 host, roovza.launches.appsflyersdk.com, bytedance
