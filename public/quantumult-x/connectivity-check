@@ -4,6 +4,7 @@ host, redirect.archlinux.org, connectivity-check
 host-suffix, cp.cloudflare.com, connectivity-check
 host-suffix, network-test.debian.org, connectivity-check
 host-suffix, detectportal.firefox.com, connectivity-check
+host-suffix, firefox-portal-detection.com, connectivity-check
 host, nmcheck.gnome.org, connectivity-check
 host, connectivitycheck.gstatic.com, connectivity-check
 host, www.gstatic.com, connectivity-check

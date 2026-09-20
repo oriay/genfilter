@@ -7,6 +7,8 @@ host-suffix, 360buy.com.cn, jd
 host-suffix, 360buyimg.com, jd
 host-suffix, 360buyinternational.com, jd
 host-suffix, 360top.com, jd
+host-suffix, 51epei.com, jd
+host-suffix, 51yipei.com, jd
 host-suffix, 7fresh.com, jd
 host-suffix, baitiao.com, jd
 host-suffix, blackdragon.com, jd
@@ -90,6 +92,7 @@ host-suffix, cloudyuxi.com, jd
 host-suffix, cloudzhongshan.com, jd
 host-suffix, cloudzhuhai.com, jd
 host-suffix, dao123.com, jd
+host-suffix, dd-advisor.com, jd
 host-suffix, duiou.com.cn, jd
 host-suffix, goselling.com, jd
 host-suffix, healthjd.com, jd
@@ -140,6 +143,7 @@ host-suffix, jd.hk, jd
 host-suffix, jd.id, jd
 host-suffix, jd.ru, jd
 host-suffix, jd.shop, jd
+host-suffix, jdallianz.com, jd
 host-suffix, jdbusiness.com, jd
 host-suffix, jdcache.com, jd
 host-suffix, jdcdn.com, jd
@@ -185,6 +189,7 @@ host-suffix, jdfw1.com, jd
 host-suffix, jdgslb.com, jd
 host-suffix, jdgslb.net, jd
 host-suffix, jdh.com, jd
+host-suffix, jdindustry.com, jd
 host-suffix, jdjinrong.com, jd
 host-suffix, jdl.cn, jd
 host-suffix, jdl.com, jd
@@ -195,12 +200,15 @@ host-suffix, jdpaydns.com, jd
 host-suffix, jdwl.com, jd
 host-suffix, jdx.com, jd
 host-suffix, jhscm.com, jd
+host-suffix, jingbantong.com, jd
 host-suffix, jingdong.com, jd
 host-suffix, jingdonghealth.cn, jd
 host-suffix, jingdongjinrong.com, jd
 host-suffix, jingpinhui.com, jd
 host-suffix, jingxi.com, jd
+host-suffix, jingxiaoling.com, jd
 host-suffix, jkcsjd.com, jd
+host-suffix, joyai.com, jd
 host-suffix, joybuy.com, jd
 host-suffix, joybuy.es, jd
 host-suffix, linglonglife.com, jd
@@ -211,8 +219,8 @@ host-suffix, missjia.net, jd
 host-suffix, ocwms.com, jd
 host-suffix, paidaojia.cn, jd
 host-suffix, paipai.com, jd
-host-suffix, prestodb.net.cn, jd
 host-suffix, prestodb-china.com, jd
+host-suffix, prestodb.net.cn, jd
 host-suffix, qianxun.com, jd
 host-suffix, qingzhouip.com, jd
 host-suffix, sgsic.com, jd
@@ -226,11 +234,15 @@ host-suffix, wuliujie.cn, jd
 host-suffix, wuliujie.com, jd
 host-suffix, xianjiqun.com, jd
 host-suffix, xjoycity.com, jd
+host-suffix, ybscjp.com, jd
 host-suffix, yhd.com, jd
 host-suffix, yihaodian.com, jd
 host-suffix, yihaodianimg.com, jd
 host-suffix, yiyaojd.com, jd
 host-suffix, yizhitou.com, jd
+host-suffix, yunpei.com, jd
+host-suffix, yunxiu.com, jd
+host-suffix, zhongyouex.com, jd
 host-suffix, imdada.cn, jd
 host-suffix, duolabao.com, jd
 host-suffix, ads-union.jd.com, jd

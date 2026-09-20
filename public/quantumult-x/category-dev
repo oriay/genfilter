@@ -278,14 +278,17 @@ host-suffix, fedoraproject.org, category-dev
 host-suffix, getfedora.org, category-dev
 host-suffix, crashlytics.com, category-dev
 host-suffix, firebase.com, category-dev
+host-suffix, firebase.dev, category-dev
 host-suffix, firebase.io, category-dev
 host-suffix, firebaseapp.com, category-dev
 host-suffix, firebaseio.com, category-dev
+host-suffix, firebase.google.com, category-dev
 host, crashlyticsreports-pa.googleapis.com, category-dev
 host, firebase-settings.crashlytics.com, category-dev
-host, firebase.google.com, category-dev
 host, firebase.googleapis.com, category-dev
 host, firebaseappcheck.googleapis.com, category-dev
+host, firebaseappdistribution.googleapis.com, category-dev
+host, firebaseapptesters.googleapis.com, category-dev
 host, firebasedynamiclinks-ipv4.googleapis.com, category-dev
 host, firebasedynamiclinks-ipv6.googleapis.com, category-dev
 host, firebasedynamiclinks.googleapis.com, category-dev
@@ -308,6 +311,8 @@ host-suffix, framer.website, category-dev
 host-suffix, framercanvas.com, category-dev
 host-suffix, framerstatic.com, category-dev
 host-suffix, framerusercontent.com, category-dev
+host-suffix, codebuff.com, category-dev
+host-suffix, freebuff.com, category-dev
 host-suffix, fury.blog, category-dev
 host-suffix, fury.co, category-dev
 host-suffix, fury.dev, category-dev

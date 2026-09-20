@@ -3075,10 +3075,6 @@ host-suffix, wangmeng.baidu.com, category-ads
 host-suffix, wkctj.baidu.com, category-ads
 host-suffix, wm.baidu.com, category-ads
 host-suffix, zz.bdstatic.com, category-ads
-host-suffix, zuoyebang.cc, category-ads
-host-suffix, zuoyebang.com, category-ads
-host-suffix, zybang.com, category-ads
-host-suffix, syh.zybang.com, category-ads
 host-suffix, 99uri.cn, category-ads
 host-suffix, 99uri.com, category-ads
 host-suffix, activity-dy.com, category-ads
@@ -5266,14 +5262,17 @@ host-suffix, fastlane.ci, category-ads
 host-suffix, fastlane.tools, category-ads
 host-suffix, crashlytics.com, category-ads
 host-suffix, firebase.com, category-ads
+host-suffix, firebase.dev, category-ads
 host-suffix, firebase.io, category-ads
 host-suffix, firebaseapp.com, category-ads
 host-suffix, firebaseio.com, category-ads
+host-suffix, firebase.google.com, category-ads
 host, crashlyticsreports-pa.googleapis.com, category-ads
 host, firebase-settings.crashlytics.com, category-ads
-host, firebase.google.com, category-ads
 host, firebase.googleapis.com, category-ads
 host, firebaseappcheck.googleapis.com, category-ads
+host, firebaseappdistribution.googleapis.com, category-ads
+host, firebaseapptesters.googleapis.com, category-ads
 host, firebasedynamiclinks-ipv4.googleapis.com, category-ads
 host, firebasedynamiclinks-ipv6.googleapis.com, category-ads
 host, firebasedynamiclinks.googleapis.com, category-ads
@@ -5318,6 +5317,7 @@ host, cloudcode-pa.googleapis.com, category-ads
 host, daily-cloudcode-pa.googleapis.com, category-ads
 host, notebooklm-pa.googleapis.com, category-ads
 host, notebooklm.googleapis.com, category-ads
+host-suffix, notebook.google, category-ads
 host-suffix, notebook.google.com, category-ads
 host-suffix, notebooklm.google, category-ads
 host-suffix, notebooklm.google.com, category-ads
@@ -5326,6 +5326,7 @@ host-suffix, jules.google.com, category-ads
 host-suffix, labs.google, category-ads
 host-suffix, labs.google.com, category-ads
 host-suffix, flow.google, category-ads
+host-suffix, flow.google.com, category-ads
 host-suffix, aisandbox-pa.googleapis.com, category-ads
 host-suffix, aicode.googleapis.com, category-ads
 host-suffix, aida.googleapis.com, category-ads
@@ -6050,6 +6051,8 @@ host-suffix, 360buy.com.cn, category-ads
 host-suffix, 360buyimg.com, category-ads
 host-suffix, 360buyinternational.com, category-ads
 host-suffix, 360top.com, category-ads
+host-suffix, 51epei.com, category-ads
+host-suffix, 51yipei.com, category-ads
 host-suffix, 7fresh.com, category-ads
 host-suffix, baitiao.com, category-ads
 host-suffix, blackdragon.com, category-ads
@@ -6133,6 +6136,7 @@ host-suffix, cloudyuxi.com, category-ads
 host-suffix, cloudzhongshan.com, category-ads
 host-suffix, cloudzhuhai.com, category-ads
 host-suffix, dao123.com, category-ads
+host-suffix, dd-advisor.com, category-ads
 host-suffix, duiou.com.cn, category-ads
 host-suffix, goselling.com, category-ads
 host-suffix, healthjd.com, category-ads
@@ -6183,6 +6187,7 @@ host-suffix, jd.hk, category-ads
 host-suffix, jd.id, category-ads
 host-suffix, jd.ru, category-ads
 host-suffix, jd.shop, category-ads
+host-suffix, jdallianz.com, category-ads
 host-suffix, jdbusiness.com, category-ads
 host-suffix, jdcache.com, category-ads
 host-suffix, jdcdn.com, category-ads
@@ -6228,6 +6233,7 @@ host-suffix, jdfw1.com, category-ads
 host-suffix, jdgslb.com, category-ads
 host-suffix, jdgslb.net, category-ads
 host-suffix, jdh.com, category-ads
+host-suffix, jdindustry.com, category-ads
 host-suffix, jdjinrong.com, category-ads
 host-suffix, jdl.cn, category-ads
 host-suffix, jdl.com, category-ads
@@ -6238,12 +6244,15 @@ host-suffix, jdpaydns.com, category-ads
 host-suffix, jdwl.com, category-ads
 host-suffix, jdx.com, category-ads
 host-suffix, jhscm.com, category-ads
+host-suffix, jingbantong.com, category-ads
 host-suffix, jingdong.com, category-ads
 host-suffix, jingdonghealth.cn, category-ads
 host-suffix, jingdongjinrong.com, category-ads
 host-suffix, jingpinhui.com, category-ads
 host-suffix, jingxi.com, category-ads
+host-suffix, jingxiaoling.com, category-ads
 host-suffix, jkcsjd.com, category-ads
+host-suffix, joyai.com, category-ads
 host-suffix, joybuy.com, category-ads
 host-suffix, joybuy.es, category-ads
 host-suffix, linglonglife.com, category-ads
@@ -6254,8 +6263,8 @@ host-suffix, missjia.net, category-ads
 host-suffix, ocwms.com, category-ads
 host-suffix, paidaojia.cn, category-ads
 host-suffix, paipai.com, category-ads
-host-suffix, prestodb.net.cn, category-ads
 host-suffix, prestodb-china.com, category-ads
+host-suffix, prestodb.net.cn, category-ads
 host-suffix, qianxun.com, category-ads
 host-suffix, qingzhouip.com, category-ads
 host-suffix, sgsic.com, category-ads
@@ -6269,11 +6278,15 @@ host-suffix, wuliujie.cn, category-ads
 host-suffix, wuliujie.com, category-ads
 host-suffix, xianjiqun.com, category-ads
 host-suffix, xjoycity.com, category-ads
+host-suffix, ybscjp.com, category-ads
 host-suffix, yhd.com, category-ads
 host-suffix, yihaodian.com, category-ads
 host-suffix, yihaodianimg.com, category-ads
 host-suffix, yiyaojd.com, category-ads
 host-suffix, yizhitou.com, category-ads
+host-suffix, yunpei.com, category-ads
+host-suffix, yunxiu.com, category-ads
+host-suffix, zhongyouex.com, category-ads
 host-suffix, imdada.cn, category-ads
 host-suffix, duolabao.com, category-ads
 host-suffix, ads-union.jd.com, category-ads
@@ -6755,10 +6768,9 @@ host-suffix, facebook.ca, category-ads
 host-suffix, facebook.cc, category-ads
 host-suffix, facebook.com, category-ads
 host-suffix, facebook.design, category-ads
-host-suffix, facebook.net, category-ads
 host-suffix, facebook.hu, category-ads
 host-suffix, facebook.in, category-ads
-host-suffix, fecebook.net, category-ads
+host-suffix, facebook.net, category-ads
 host-suffix, facebook.nl, category-ads
 host-suffix, facebook.org, category-ads
 host-suffix, facebook.se, category-ads
@@ -6965,6 +6977,7 @@ host-suffix, fecbbok.com, category-ads
 host-suffix, fecbooc.com, category-ads
 host-suffix, fecbook.com, category-ads
 host-suffix, feceboock.com, category-ads
+host-suffix, fecebook.net, category-ads
 host-suffix, feceboox.com, category-ads
 host-suffix, fececbook.com, category-ads
 host-suffix, feook.com, category-ads
@@ -7034,6 +7047,7 @@ host-suffix, sportsfacebook.com, category-ads
 host-suffix, sportstream.com, category-ads
 host-suffix, supportfacebook.com, category-ads
 host-suffix, terragraph.com, category-ads
+host-suffix, tfbnw.net, category-ads
 host-suffix, thefacebook.com, category-ads
 host-suffix, thefacebook.net, category-ads
 host-suffix, thefind.com, category-ads
@@ -8079,6 +8093,7 @@ host, ads.mozilla.org, category-ads
 host, incoming.telemetry.mozilla.org, category-ads
 host, incoming-telemetry.thunderbird.net, category-ads
 host-suffix, extendfirefox.com, category-ads
+host-suffix, firefox-portal-detection.com, category-ads
 host-suffix, firefox.com, category-ads
 host-suffix, firefox.hu, category-ads
 host-suffix, firefoxtweetmachine.com, category-ads
@@ -9986,3 +10001,8 @@ host-suffix, laiyagushi.com, category-ads
 host-suffix, vzuu.com, category-ads
 host-suffix, crash2.zhihu.com, category-ads
 host-suffix, zhihu-web-analytics.zhihu.com, category-ads
+host-suffix, zuoyebang.cc, category-ads
+host-suffix, zuoyebang.com, category-ads
+host-suffix, zybang.com, category-ads
+host-suffix, kuaiduizuoye.com, category-ads
+host-suffix, syh.zybang.com, category-ads

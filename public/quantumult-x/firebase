@@ -1,13 +1,16 @@
 host-suffix, crashlytics.com, firebase
 host-suffix, firebase.com, firebase
+host-suffix, firebase.dev, firebase
 host-suffix, firebase.io, firebase
 host-suffix, firebaseapp.com, firebase
 host-suffix, firebaseio.com, firebase
+host-suffix, firebase.google.com, firebase
 host, crashlyticsreports-pa.googleapis.com, firebase
 host, firebase-settings.crashlytics.com, firebase
-host, firebase.google.com, firebase
 host, firebase.googleapis.com, firebase
 host, firebaseappcheck.googleapis.com, firebase
+host, firebaseappdistribution.googleapis.com, firebase
+host, firebaseapptesters.googleapis.com, firebase
 host, firebasedynamiclinks-ipv4.googleapis.com, firebase
 host, firebasedynamiclinks-ipv6.googleapis.com, firebase
 host, firebasedynamiclinks.googleapis.com, firebase

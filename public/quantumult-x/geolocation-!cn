@@ -146,6 +146,7 @@ host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
+host-suffix, notebook.google, geolocation-!cn
 host-suffix, notebook.google.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
@@ -154,6 +155,7 @@ host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, labs.google.com, geolocation-!cn
 host-suffix, flow.google, geolocation-!cn
+host-suffix, flow.google.com, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aicode.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
@@ -7987,10 +7989,9 @@ host-suffix, facebook.ca, geolocation-!cn
 host-suffix, facebook.cc, geolocation-!cn
 host-suffix, facebook.com, geolocation-!cn
 host-suffix, facebook.design, geolocation-!cn
-host-suffix, facebook.net, geolocation-!cn
 host-suffix, facebook.hu, geolocation-!cn
 host-suffix, facebook.in, geolocation-!cn
-host-suffix, fecebook.net, geolocation-!cn
+host-suffix, facebook.net, geolocation-!cn
 host-suffix, facebook.nl, geolocation-!cn
 host-suffix, facebook.org, geolocation-!cn
 host-suffix, facebook.se, geolocation-!cn
@@ -8197,6 +8198,7 @@ host-suffix, fecbbok.com, geolocation-!cn
 host-suffix, fecbooc.com, geolocation-!cn
 host-suffix, fecbook.com, geolocation-!cn
 host-suffix, feceboock.com, geolocation-!cn
+host-suffix, fecebook.net, geolocation-!cn
 host-suffix, feceboox.com, geolocation-!cn
 host-suffix, fececbook.com, geolocation-!cn
 host-suffix, feook.com, geolocation-!cn
@@ -8266,6 +8268,7 @@ host-suffix, sportsfacebook.com, geolocation-!cn
 host-suffix, sportstream.com, geolocation-!cn
 host-suffix, supportfacebook.com, geolocation-!cn
 host-suffix, terragraph.com, geolocation-!cn
+host-suffix, tfbnw.net, geolocation-!cn
 host-suffix, thefacebook.com, geolocation-!cn
 host-suffix, thefacebook.net, geolocation-!cn
 host-suffix, thefind.com, geolocation-!cn
@@ -16971,6 +16974,7 @@ host-suffix, ceno.app, geolocation-!cn
 host-suffix, censorship.no, geolocation-!cn
 host-suffix, epicbrowser.com, geolocation-!cn
 host-suffix, extendfirefox.com, geolocation-!cn
+host-suffix, firefox-portal-detection.com, geolocation-!cn
 host-suffix, firefox.com, geolocation-!cn
 host-suffix, firefox.hu, geolocation-!cn
 host-suffix, firefoxtweetmachine.com, geolocation-!cn
@@ -17833,14 +17837,17 @@ host-suffix, fedoraproject.org, geolocation-!cn
 host-suffix, getfedora.org, geolocation-!cn
 host-suffix, crashlytics.com, geolocation-!cn
 host-suffix, firebase.com, geolocation-!cn
+host-suffix, firebase.dev, geolocation-!cn
 host-suffix, firebase.io, geolocation-!cn
 host-suffix, firebaseapp.com, geolocation-!cn
 host-suffix, firebaseio.com, geolocation-!cn
+host-suffix, firebase.google.com, geolocation-!cn
 host, crashlyticsreports-pa.googleapis.com, geolocation-!cn
 host, firebase-settings.crashlytics.com, geolocation-!cn
-host, firebase.google.com, geolocation-!cn
 host, firebase.googleapis.com, geolocation-!cn
 host, firebaseappcheck.googleapis.com, geolocation-!cn
+host, firebaseappdistribution.googleapis.com, geolocation-!cn
+host, firebaseapptesters.googleapis.com, geolocation-!cn
 host, firebasedynamiclinks-ipv4.googleapis.com, geolocation-!cn
 host, firebasedynamiclinks-ipv6.googleapis.com, geolocation-!cn
 host, firebasedynamiclinks.googleapis.com, geolocation-!cn
@@ -17863,6 +17870,8 @@ host-suffix, framer.website, geolocation-!cn
 host-suffix, framercanvas.com, geolocation-!cn
 host-suffix, framerstatic.com, geolocation-!cn
 host-suffix, framerusercontent.com, geolocation-!cn
+host-suffix, codebuff.com, geolocation-!cn
+host-suffix, freebuff.com, geolocation-!cn
 host-suffix, fury.blog, geolocation-!cn
 host-suffix, fury.co, geolocation-!cn
 host-suffix, fury.dev, geolocation-!cn
@@ -19253,14 +19262,17 @@ host-suffix, fastlane.ci, geolocation-!cn
 host-suffix, fastlane.tools, geolocation-!cn
 host-suffix, crashlytics.com, geolocation-!cn
 host-suffix, firebase.com, geolocation-!cn
+host-suffix, firebase.dev, geolocation-!cn
 host-suffix, firebase.io, geolocation-!cn
 host-suffix, firebaseapp.com, geolocation-!cn
 host-suffix, firebaseio.com, geolocation-!cn
+host-suffix, firebase.google.com, geolocation-!cn
 host, crashlyticsreports-pa.googleapis.com, geolocation-!cn
 host, firebase-settings.crashlytics.com, geolocation-!cn
-host, firebase.google.com, geolocation-!cn
 host, firebase.googleapis.com, geolocation-!cn
 host, firebaseappcheck.googleapis.com, geolocation-!cn
+host, firebaseappdistribution.googleapis.com, geolocation-!cn
+host, firebaseapptesters.googleapis.com, geolocation-!cn
 host, firebasedynamiclinks-ipv4.googleapis.com, geolocation-!cn
 host, firebasedynamiclinks-ipv6.googleapis.com, geolocation-!cn
 host, firebasedynamiclinks.googleapis.com, geolocation-!cn
@@ -19305,6 +19317,7 @@ host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
+host-suffix, notebook.google, geolocation-!cn
 host-suffix, notebook.google.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
 host-suffix, notebooklm.google.com, geolocation-!cn
@@ -19313,6 +19326,7 @@ host-suffix, jules.google.com, geolocation-!cn
 host-suffix, labs.google, geolocation-!cn
 host-suffix, labs.google.com, geolocation-!cn
 host-suffix, flow.google, geolocation-!cn
+host-suffix, flow.google.com, geolocation-!cn
 host-suffix, aisandbox-pa.googleapis.com, geolocation-!cn
 host-suffix, aicode.googleapis.com, geolocation-!cn
 host-suffix, aida.googleapis.com, geolocation-!cn
@@ -24507,10 +24521,9 @@ host-suffix, facebook.ca, geolocation-!cn
 host-suffix, facebook.cc, geolocation-!cn
 host-suffix, facebook.com, geolocation-!cn
 host-suffix, facebook.design, geolocation-!cn
-host-suffix, facebook.net, geolocation-!cn
 host-suffix, facebook.hu, geolocation-!cn
 host-suffix, facebook.in, geolocation-!cn
-host-suffix, fecebook.net, geolocation-!cn
+host-suffix, facebook.net, geolocation-!cn
 host-suffix, facebook.nl, geolocation-!cn
 host-suffix, facebook.org, geolocation-!cn
 host-suffix, facebook.se, geolocation-!cn
@@ -24717,6 +24730,7 @@ host-suffix, fecbbok.com, geolocation-!cn
 host-suffix, fecbooc.com, geolocation-!cn
 host-suffix, fecbook.com, geolocation-!cn
 host-suffix, feceboock.com, geolocation-!cn
+host-suffix, fecebook.net, geolocation-!cn
 host-suffix, feceboox.com, geolocation-!cn
 host-suffix, fececbook.com, geolocation-!cn
 host-suffix, feook.com, geolocation-!cn
@@ -24786,6 +24800,7 @@ host-suffix, sportsfacebook.com, geolocation-!cn
 host-suffix, sportstream.com, geolocation-!cn
 host-suffix, supportfacebook.com, geolocation-!cn
 host-suffix, terragraph.com, geolocation-!cn
+host-suffix, tfbnw.net, geolocation-!cn
 host-suffix, thefacebook.com, geolocation-!cn
 host-suffix, thefacebook.net, geolocation-!cn
 host-suffix, thefind.com, geolocation-!cn
@@ -25875,6 +25890,7 @@ host, ads.mozilla.org, geolocation-!cn
 host, incoming.telemetry.mozilla.org, geolocation-!cn
 host, incoming-telemetry.thunderbird.net, geolocation-!cn
 host-suffix, extendfirefox.com, geolocation-!cn
+host-suffix, firefox-portal-detection.com, geolocation-!cn
 host-suffix, firefox.com, geolocation-!cn
 host-suffix, firefox.hu, geolocation-!cn
 host-suffix, firefoxtweetmachine.com, geolocation-!cn

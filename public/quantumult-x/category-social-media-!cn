@@ -104,10 +104,9 @@ host-suffix, facebook.ca, category-social-media-!cn
 host-suffix, facebook.cc, category-social-media-!cn
 host-suffix, facebook.com, category-social-media-!cn
 host-suffix, facebook.design, category-social-media-!cn
-host-suffix, facebook.net, category-social-media-!cn
 host-suffix, facebook.hu, category-social-media-!cn
 host-suffix, facebook.in, category-social-media-!cn
-host-suffix, fecebook.net, category-social-media-!cn
+host-suffix, facebook.net, category-social-media-!cn
 host-suffix, facebook.nl, category-social-media-!cn
 host-suffix, facebook.org, category-social-media-!cn
 host-suffix, facebook.se, category-social-media-!cn
@@ -314,6 +313,7 @@ host-suffix, fecbbok.com, category-social-media-!cn
 host-suffix, fecbooc.com, category-social-media-!cn
 host-suffix, fecbook.com, category-social-media-!cn
 host-suffix, feceboock.com, category-social-media-!cn
+host-suffix, fecebook.net, category-social-media-!cn
 host-suffix, feceboox.com, category-social-media-!cn
 host-suffix, fececbook.com, category-social-media-!cn
 host-suffix, feook.com, category-social-media-!cn
@@ -383,6 +383,7 @@ host-suffix, sportsfacebook.com, category-social-media-!cn
 host-suffix, sportstream.com, category-social-media-!cn
 host-suffix, supportfacebook.com, category-social-media-!cn
 host-suffix, terragraph.com, category-social-media-!cn
+host-suffix, tfbnw.net, category-social-media-!cn
 host-suffix, thefacebook.com, category-social-media-!cn
 host-suffix, thefacebook.net, category-social-media-!cn
 host-suffix, thefind.com, category-social-media-!cn

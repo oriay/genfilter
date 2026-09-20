@@ -739,14 +739,17 @@ host-suffix, fastlane.ci, alphabet
 host-suffix, fastlane.tools, alphabet
 host-suffix, crashlytics.com, alphabet
 host-suffix, firebase.com, alphabet
+host-suffix, firebase.dev, alphabet
 host-suffix, firebase.io, alphabet
 host-suffix, firebaseapp.com, alphabet
 host-suffix, firebaseio.com, alphabet
+host-suffix, firebase.google.com, alphabet
 host, crashlyticsreports-pa.googleapis.com, alphabet
 host, firebase-settings.crashlytics.com, alphabet
-host, firebase.google.com, alphabet
 host, firebase.googleapis.com, alphabet
 host, firebaseappcheck.googleapis.com, alphabet
+host, firebaseappdistribution.googleapis.com, alphabet
+host, firebaseapptesters.googleapis.com, alphabet
 host, firebasedynamiclinks-ipv4.googleapis.com, alphabet
 host, firebasedynamiclinks-ipv6.googleapis.com, alphabet
 host, firebasedynamiclinks.googleapis.com, alphabet
@@ -791,6 +794,7 @@ host, cloudcode-pa.googleapis.com, alphabet
 host, daily-cloudcode-pa.googleapis.com, alphabet
 host, notebooklm-pa.googleapis.com, alphabet
 host, notebooklm.googleapis.com, alphabet
+host-suffix, notebook.google, alphabet
 host-suffix, notebook.google.com, alphabet
 host-suffix, notebooklm.google, alphabet
 host-suffix, notebooklm.google.com, alphabet
@@ -799,6 +803,7 @@ host-suffix, jules.google.com, alphabet
 host-suffix, labs.google, alphabet
 host-suffix, labs.google.com, alphabet
 host-suffix, flow.google, alphabet
+host-suffix, flow.google.com, alphabet
 host-suffix, aisandbox-pa.googleapis.com, alphabet
 host-suffix, aicode.googleapis.com, alphabet
 host-suffix, aida.googleapis.com, alphabet

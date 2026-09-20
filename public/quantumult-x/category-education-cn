@@ -56,6 +56,7 @@ host-suffix, burningvocabulary.com, category-education-cn
 host-suffix, centuryenglish.com, category-education-cn
 host-suffix, cepsp.cn, category-education-cn
 host-suffix, eol.cn, category-education-cn
+host-suffix, gaokao.cn, category-education-cn
 host-suffix, cugbonline.cn, category-education-cn
 host-suffix, dcshfu.com, category-education-cn
 host-suffix, dearedu.com, category-education-cn
@@ -75,6 +76,7 @@ host-suffix, guojibk.com, category-education-cn
 host-suffix, gzasc.com, category-education-cn
 host-suffix, huatu.com, category-education-cn
 host-suffix, sydw8.com, category-education-cn
+host-suffix, huijiaoyun.com, category-education-cn
 host-suffix, ictbda.cn, category-education-cn
 host-suffix, ictbda.com, category-education-cn
 host-suffix, modex.com.cn, category-education-cn
@@ -86,7 +88,6 @@ host-suffix, jyeoo.net, category-education-cn
 host-suffix, jzagile.com, category-education-cn
 host-suffix, keboyunxiao.com, category-education-cn
 host-suffix, ketangpai.com, category-education-cn
-host-suffix, kuaiduizuoye.com, category-education-cn
 host-suffix, liulishuo.com, category-education-cn
 host-suffix, llsapp.com, category-education-cn
 host-suffix, llscdn.com, category-education-cn
@@ -95,6 +96,8 @@ host-suffix, magedu.com, category-education-cn
 host-suffix, maimemo.com, category-education-cn
 host-suffix, maimemostatus.com, category-education-cn
 host-suffix, markji.com, category-education-cn
+host-suffix, mddclass.com, category-education-cn
+host-suffix, sksight.com, category-education-cn
 host-suffix, neoscholar.com, category-education-cn
 host-suffix, neoschool.com, category-education-cn
 host-suffix, oldboyedu.com, category-education-cn
@@ -184,5 +187,10 @@ host-suffix, fenbike.cn, category-education-cn
 host-suffix, fenbike.com, category-education-cn
 host-suffix, fenbilantian.cn, category-education-cn
 host-suffix, fenbilantian.com, category-education-cn
+host-suffix, zuoyebang.cc, category-education-cn
+host-suffix, zuoyebang.com, category-education-cn
+host-suffix, zybang.com, category-education-cn
+host-suffix, kuaiduizuoye.com, category-education-cn
+host-suffix, syh.zybang.com, category-education-cn
 host-suffix, rainclassroom.com, category-education-cn
 host-suffix, yuketang.cn, category-education-cn

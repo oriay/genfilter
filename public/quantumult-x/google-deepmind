@@ -21,6 +21,7 @@ host, cloudcode-pa.googleapis.com, google-deepmind
 host, daily-cloudcode-pa.googleapis.com, google-deepmind
 host, notebooklm-pa.googleapis.com, google-deepmind
 host, notebooklm.googleapis.com, google-deepmind
+host-suffix, notebook.google, google-deepmind
 host-suffix, notebook.google.com, google-deepmind
 host-suffix, notebooklm.google, google-deepmind
 host-suffix, notebooklm.google.com, google-deepmind
@@ -29,6 +30,7 @@ host-suffix, jules.google.com, google-deepmind
 host-suffix, labs.google, google-deepmind
 host-suffix, labs.google.com, google-deepmind
 host-suffix, flow.google, google-deepmind
+host-suffix, flow.google.com, google-deepmind
 host-suffix, aisandbox-pa.googleapis.com, google-deepmind
 host-suffix, aicode.googleapis.com, google-deepmind
 host-suffix, aida.googleapis.com, google-deepmind

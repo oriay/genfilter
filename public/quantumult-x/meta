@@ -98,10 +98,9 @@ host-suffix, facebook.ca, meta
 host-suffix, facebook.cc, meta
 host-suffix, facebook.com, meta
 host-suffix, facebook.design, meta
-host-suffix, facebook.net, meta
 host-suffix, facebook.hu, meta
 host-suffix, facebook.in, meta
-host-suffix, fecebook.net, meta
+host-suffix, facebook.net, meta
 host-suffix, facebook.nl, meta
 host-suffix, facebook.org, meta
 host-suffix, facebook.se, meta
@@ -308,6 +307,7 @@ host-suffix, fecbbok.com, meta
 host-suffix, fecbooc.com, meta
 host-suffix, fecbook.com, meta
 host-suffix, feceboock.com, meta
+host-suffix, fecebook.net, meta
 host-suffix, feceboox.com, meta
 host-suffix, fececbook.com, meta
 host-suffix, feook.com, meta
@@ -377,6 +377,7 @@ host-suffix, sportsfacebook.com, meta
 host-suffix, sportstream.com, meta
 host-suffix, supportfacebook.com, meta
 host-suffix, terragraph.com, meta
+host-suffix, tfbnw.net, meta
 host-suffix, thefacebook.com, meta
 host-suffix, thefacebook.net, meta
 host-suffix, thefind.com, meta

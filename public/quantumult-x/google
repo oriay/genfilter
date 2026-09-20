@@ -729,14 +729,17 @@ host-suffix, fastlane.ci, google
 host-suffix, fastlane.tools, google
 host-suffix, crashlytics.com, google
 host-suffix, firebase.com, google
+host-suffix, firebase.dev, google
 host-suffix, firebase.io, google
 host-suffix, firebaseapp.com, google
 host-suffix, firebaseio.com, google
+host-suffix, firebase.google.com, google
 host, crashlyticsreports-pa.googleapis.com, google
 host, firebase-settings.crashlytics.com, google
-host, firebase.google.com, google
 host, firebase.googleapis.com, google
 host, firebaseappcheck.googleapis.com, google
+host, firebaseappdistribution.googleapis.com, google
+host, firebaseapptesters.googleapis.com, google
 host, firebasedynamiclinks-ipv4.googleapis.com, google
 host, firebasedynamiclinks-ipv6.googleapis.com, google
 host, firebasedynamiclinks.googleapis.com, google
@@ -781,6 +784,7 @@ host, cloudcode-pa.googleapis.com, google
 host, daily-cloudcode-pa.googleapis.com, google
 host, notebooklm-pa.googleapis.com, google
 host, notebooklm.googleapis.com, google
+host-suffix, notebook.google, google
 host-suffix, notebook.google.com, google
 host-suffix, notebooklm.google, google
 host-suffix, notebooklm.google.com, google
@@ -789,6 +793,7 @@ host-suffix, jules.google.com, google
 host-suffix, labs.google, google
 host-suffix, labs.google.com, google
 host-suffix, flow.google, google
+host-suffix, flow.google.com, google
 host-suffix, aisandbox-pa.googleapis.com, google
 host-suffix, aicode.googleapis.com, google
 host-suffix, aida.googleapis.com, google

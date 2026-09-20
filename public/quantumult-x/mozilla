@@ -59,6 +59,7 @@ host, ads.mozilla.org, mozilla
 host, incoming.telemetry.mozilla.org, mozilla
 host, incoming-telemetry.thunderbird.net, mozilla
 host-suffix, extendfirefox.com, mozilla
+host-suffix, firefox-portal-detection.com, mozilla
 host-suffix, firefox.com, mozilla
 host-suffix, firefox.hu, mozilla
 host-suffix, firefoxtweetmachine.com, mozilla
