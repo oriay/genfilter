@@ -19902,6 +19902,7 @@ host-suffix, amd.com.cn, geolocation-!cn
 host-suffix, amdfanstore.com, geolocation-!cn
 host-suffix, amdgaming.com, geolocation-!cn
 host-suffix, radeon.com, geolocation-!cn
+host, drivers.amd.com, geolocation-!cn
 host-suffix, anexia.at, geolocation-!cn
 host-suffix, anexia.com, geolocation-!cn
 host-suffix, anexia-engine.com, geolocation-!cn
