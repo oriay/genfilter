@@ -125,8 +125,6 @@ host-suffix, mobimon.com.tw, category-entertainment
 host-suffix, muvluv-girls-garden.com, category-entertainment
 host-suffix, namemc.com, category-entertainment
 host-suffix, neoforged.net, category-entertainment
-host-suffix, nexus-cdn.com, category-entertainment
-host-suffix, nexusmods.com, category-entertainment
 host-suffix, noxygames.com, category-entertainment
 host-suffix, offworldindustries.com, category-entertainment
 host-suffix, offworldindustries.net, category-entertainment
@@ -496,6 +494,8 @@ host-suffix, nexon.io, category-entertainment
 host-suffix, nexon.net, category-entertainment
 host-suffix, nexoncdn.co.kr, category-entertainment
 host-suffix, nexongames.co.kr, category-entertainment
+host-suffix, nexus-cdn.com, category-entertainment
+host-suffix, nexusmods.com, category-entertainment
 host-suffix, nikke-de.com, category-entertainment
 host-suffix, nikke-en.com, category-entertainment
 host-suffix, nikke-fr.com, category-entertainment

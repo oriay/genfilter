@@ -15,8 +15,6 @@ host-suffix, mobimon.com.tw, category-games-!cn
 host-suffix, muvluv-girls-garden.com, category-games-!cn
 host-suffix, namemc.com, category-games-!cn
 host-suffix, neoforged.net, category-games-!cn
-host-suffix, nexus-cdn.com, category-games-!cn
-host-suffix, nexusmods.com, category-games-!cn
 host-suffix, noxygames.com, category-games-!cn
 host-suffix, offworldindustries.com, category-games-!cn
 host-suffix, offworldindustries.net, category-games-!cn
@@ -386,6 +384,8 @@ host-suffix, nexon.io, category-games-!cn
 host-suffix, nexon.net, category-games-!cn
 host-suffix, nexoncdn.co.kr, category-games-!cn
 host-suffix, nexongames.co.kr, category-games-!cn
+host-suffix, nexus-cdn.com, category-games-!cn
+host-suffix, nexusmods.com, category-games-!cn
 host-suffix, nikke-de.com, category-games-!cn
 host-suffix, nikke-en.com, category-games-!cn
 host-suffix, nikke-fr.com, category-games-!cn

@@ -5691,8 +5691,6 @@ host-suffix, mobimon.com.tw, geolocation-!cn
 host-suffix, muvluv-girls-garden.com, geolocation-!cn
 host-suffix, namemc.com, geolocation-!cn
 host-suffix, neoforged.net, geolocation-!cn
-host-suffix, nexus-cdn.com, geolocation-!cn
-host-suffix, nexusmods.com, geolocation-!cn
 host-suffix, noxygames.com, geolocation-!cn
 host-suffix, offworldindustries.com, geolocation-!cn
 host-suffix, offworldindustries.net, geolocation-!cn
@@ -6062,6 +6060,8 @@ host-suffix, nexon.io, geolocation-!cn
 host-suffix, nexon.net, geolocation-!cn
 host-suffix, nexoncdn.co.kr, geolocation-!cn
 host-suffix, nexongames.co.kr, geolocation-!cn
+host-suffix, nexus-cdn.com, geolocation-!cn
+host-suffix, nexusmods.com, geolocation-!cn
 host-suffix, nikke-de.com, geolocation-!cn
 host-suffix, nikke-en.com, geolocation-!cn
 host-suffix, nikke-fr.com, geolocation-!cn
