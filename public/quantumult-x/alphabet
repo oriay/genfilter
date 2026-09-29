@@ -789,11 +789,14 @@ host-suffix, bard.google.com, alphabet
 host-suffix, gemini.google, alphabet
 host-suffix, gemini.google.com, alphabet
 host-suffix, gemini.gstatic.com, alphabet
+host, geminiweb-pa.clients.google.com, alphabet
+host, geminiweb-pa.clients6.google.com, alphabet
 host, cloudaicompanion.googleapis.com, alphabet
 host, cloudcode-pa.googleapis.com, alphabet
 host, daily-cloudcode-pa.googleapis.com, alphabet
 host, notebooklm-pa.googleapis.com, alphabet
 host, notebooklm.googleapis.com, alphabet
+host-suffix, labstailwind.pa.googleapis.com, alphabet
 host-suffix, notebook.google, alphabet
 host-suffix, notebook.google.com, alphabet
 host-suffix, notebooklm.google, alphabet

@@ -1082,11 +1082,14 @@ host-suffix, bard.google.com, category-companies
 host-suffix, gemini.google, category-companies
 host-suffix, gemini.google.com, category-companies
 host-suffix, gemini.gstatic.com, category-companies
+host, geminiweb-pa.clients.google.com, category-companies
+host, geminiweb-pa.clients6.google.com, category-companies
 host, cloudaicompanion.googleapis.com, category-companies
 host, cloudcode-pa.googleapis.com, category-companies
 host, daily-cloudcode-pa.googleapis.com, category-companies
 host, notebooklm-pa.googleapis.com, category-companies
 host, notebooklm.googleapis.com, category-companies
+host-suffix, labstailwind.pa.googleapis.com, category-companies
 host-suffix, notebook.google, category-companies
 host-suffix, notebook.google.com, category-companies
 host-suffix, notebooklm.google, category-companies
@@ -6196,6 +6199,8 @@ host-suffix, atmeta.com, category-companies
 host-suffix, llama.com, category-companies
 host-suffix, meta.ai, category-companies
 host-suffix, meta.com, category-companies
+host-suffix, metaaivm.com, category-companies
+host-suffix, muse.ai, category-companies
 host-suffix, aboutfacebook.com, category-companies
 host-suffix, accessfacebookfromschool.com, category-companies
 host-suffix, acebooik.com, category-companies

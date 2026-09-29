@@ -5332,11 +5332,14 @@ host-suffix, bard.google.com, category-ads-all
 host-suffix, gemini.google, category-ads-all
 host-suffix, gemini.google.com, category-ads-all
 host-suffix, gemini.gstatic.com, category-ads-all
+host, geminiweb-pa.clients.google.com, category-ads-all
+host, geminiweb-pa.clients6.google.com, category-ads-all
 host, cloudaicompanion.googleapis.com, category-ads-all
 host, cloudcode-pa.googleapis.com, category-ads-all
 host, daily-cloudcode-pa.googleapis.com, category-ads-all
 host, notebooklm-pa.googleapis.com, category-ads-all
 host, notebooklm.googleapis.com, category-ads-all
+host-suffix, labstailwind.pa.googleapis.com, category-ads-all
 host-suffix, notebook.google, category-ads-all
 host-suffix, notebook.google.com, category-ads-all
 host-suffix, notebooklm.google, category-ads-all
@@ -6692,6 +6695,8 @@ host-suffix, atmeta.com, category-ads-all
 host-suffix, llama.com, category-ads-all
 host-suffix, meta.ai, category-ads-all
 host-suffix, meta.com, category-ads-all
+host-suffix, metaaivm.com, category-ads-all
+host-suffix, muse.ai, category-ads-all
 host-suffix, aboutfacebook.com, category-ads-all
 host-suffix, accessfacebookfromschool.com, category-ads-all
 host-suffix, acebooik.com, category-ads-all
@@ -9257,6 +9262,7 @@ host-suffix, weixinbridge.com, category-ads-all
 host-suffix, weui.io, category-ads-all
 host-suffix, badjs.weixinbridge.com, category-ads-all
 host-suffix, cnb.cool, category-ads-all
+host-suffix, cnb.space, category-ads-all
 host-suffix, coding.me, category-ads-all
 host-suffix, coding.net, category-ads-all
 host-suffix, battlecare.net, category-ads-all

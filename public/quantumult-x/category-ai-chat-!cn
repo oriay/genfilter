@@ -12,6 +12,9 @@ host-suffix, clipdrop.co, category-ai-chat-!cn
 host-suffix, jasper.ai, category-ai-chat-!cn
 host-suffix, kimi.ai, category-ai-chat-!cn
 host-suffix, moonshot.ai, category-ai-chat-!cn
+host-suffix, meta.ai, category-ai-chat-!cn
+host-suffix, metaaivm.com, category-ai-chat-!cn
+host-suffix, muse.ai, category-ai-chat-!cn
 host-suffix, agentclientprotocol.com, category-ai-chat-!cn
 host-suffix, anythingllm.com, category-ai-chat-!cn
 host-suffix, arena.ai, category-ai-chat-!cn
@@ -30,7 +33,6 @@ host-suffix, kiro.dev, category-ai-chat-!cn
 host-suffix, langchain.com, category-ai-chat-!cn
 host-suffix, lmstudio.ai, category-ai-chat-!cn
 host-suffix, lovart.ai, category-ai-chat-!cn
-host-suffix, meta.ai, category-ai-chat-!cn
 host-suffix, midjourney.com, category-ai-chat-!cn
 host-suffix, minimax.io, category-ai-chat-!cn
 host-suffix, mistral.ai, category-ai-chat-!cn
@@ -40,6 +42,7 @@ host-suffix, novelai.net, category-ai-chat-!cn
 host-suffix, ollama.com, category-ai-chat-!cn
 host-suffix, openart.ai, category-ai-chat-!cn
 host-suffix, openclaw.ai, category-ai-chat-!cn
+host-suffix, opencode.ai, category-ai-chat-!cn
 host-suffix, openrouter.ai, category-ai-chat-!cn
 host-suffix, openspec.dev, category-ai-chat-!cn
 host-suffix, plannotator.ai, category-ai-chat-!cn
@@ -103,11 +106,14 @@ host-suffix, bard.google.com, category-ai-chat-!cn
 host-suffix, gemini.google, category-ai-chat-!cn
 host-suffix, gemini.google.com, category-ai-chat-!cn
 host-suffix, gemini.gstatic.com, category-ai-chat-!cn
+host, geminiweb-pa.clients.google.com, category-ai-chat-!cn
+host, geminiweb-pa.clients6.google.com, category-ai-chat-!cn
 host, cloudaicompanion.googleapis.com, category-ai-chat-!cn
 host, cloudcode-pa.googleapis.com, category-ai-chat-!cn
 host, daily-cloudcode-pa.googleapis.com, category-ai-chat-!cn
 host, notebooklm-pa.googleapis.com, category-ai-chat-!cn
 host, notebooklm.googleapis.com, category-ai-chat-!cn
+host-suffix, labstailwind.pa.googleapis.com, category-ai-chat-!cn
 host-suffix, notebook.google, category-ai-chat-!cn
 host-suffix, notebook.google.com, category-ai-chat-!cn
 host-suffix, notebooklm.google, category-ai-chat-!cn

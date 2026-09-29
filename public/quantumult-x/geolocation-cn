@@ -1856,6 +1856,7 @@ host-suffix, weixinbridge.com, geolocation-cn
 host-suffix, weui.io, geolocation-cn
 host-suffix, badjs.weixinbridge.com, geolocation-cn
 host-suffix, cnb.cool, geolocation-cn
+host-suffix, cnb.space, geolocation-cn
 host-suffix, coding.me, geolocation-cn
 host-suffix, coding.net, geolocation-cn
 host-suffix, openkylin.top, geolocation-cn
@@ -8891,6 +8892,7 @@ host-suffix, weixinbridge.com, geolocation-cn
 host-suffix, weui.io, geolocation-cn
 host-suffix, badjs.weixinbridge.com, geolocation-cn
 host-suffix, cnb.cool, geolocation-cn
+host-suffix, cnb.space, geolocation-cn
 host-suffix, coding.me, geolocation-cn
 host-suffix, coding.net, geolocation-cn
 host-suffix, battlecare.net, geolocation-cn

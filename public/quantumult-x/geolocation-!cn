@@ -50,6 +50,9 @@ host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
 host-suffix, kimi.ai, geolocation-!cn
 host-suffix, moonshot.ai, geolocation-!cn
+host-suffix, meta.ai, geolocation-!cn
+host-suffix, metaaivm.com, geolocation-!cn
+host-suffix, muse.ai, geolocation-!cn
 host-suffix, agentclientprotocol.com, geolocation-!cn
 host-suffix, anythingllm.com, geolocation-!cn
 host-suffix, arena.ai, geolocation-!cn
@@ -68,7 +71,6 @@ host-suffix, kiro.dev, geolocation-!cn
 host-suffix, langchain.com, geolocation-!cn
 host-suffix, lmstudio.ai, geolocation-!cn
 host-suffix, lovart.ai, geolocation-!cn
-host-suffix, meta.ai, geolocation-!cn
 host-suffix, midjourney.com, geolocation-!cn
 host-suffix, minimax.io, geolocation-!cn
 host-suffix, mistral.ai, geolocation-!cn
@@ -78,6 +80,7 @@ host-suffix, novelai.net, geolocation-!cn
 host-suffix, ollama.com, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
 host-suffix, openclaw.ai, geolocation-!cn
+host-suffix, opencode.ai, geolocation-!cn
 host-suffix, openrouter.ai, geolocation-!cn
 host-suffix, openspec.dev, geolocation-!cn
 host-suffix, plannotator.ai, geolocation-!cn
@@ -141,11 +144,14 @@ host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, gemini.gstatic.com, geolocation-!cn
+host, geminiweb-pa.clients.google.com, geolocation-!cn
+host, geminiweb-pa.clients6.google.com, geolocation-!cn
 host, cloudaicompanion.googleapis.com, geolocation-!cn
 host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
+host-suffix, labstailwind.pa.googleapis.com, geolocation-!cn
 host-suffix, notebook.google, geolocation-!cn
 host-suffix, notebook.google.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
@@ -252,6 +258,7 @@ host-suffix, guardianproject.info, geolocation-!cn
 host-suffix, happ.info, geolocation-!cn
 host-suffix, happ.su, geolocation-!cn
 host-suffix, hiddify.com, geolocation-!cn
+host-suffix, huarun.win, geolocation-!cn
 host-suffix, incy.cc, geolocation-!cn
 host-suffix, jitsi.org, geolocation-!cn
 host-suffix, karing.app, geolocation-!cn
@@ -19312,11 +19319,14 @@ host-suffix, bard.google.com, geolocation-!cn
 host-suffix, gemini.google, geolocation-!cn
 host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, gemini.gstatic.com, geolocation-!cn
+host, geminiweb-pa.clients.google.com, geolocation-!cn
+host, geminiweb-pa.clients6.google.com, geolocation-!cn
 host, cloudaicompanion.googleapis.com, geolocation-!cn
 host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
 host, notebooklm-pa.googleapis.com, geolocation-!cn
 host, notebooklm.googleapis.com, geolocation-!cn
+host-suffix, labstailwind.pa.googleapis.com, geolocation-!cn
 host-suffix, notebook.google, geolocation-!cn
 host-suffix, notebook.google.com, geolocation-!cn
 host-suffix, notebooklm.google, geolocation-!cn
@@ -24426,6 +24436,8 @@ host-suffix, atmeta.com, geolocation-!cn
 host-suffix, llama.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, meta.com, geolocation-!cn
+host-suffix, metaaivm.com, geolocation-!cn
+host-suffix, muse.ai, geolocation-!cn
 host-suffix, aboutfacebook.com, geolocation-!cn
 host-suffix, accessfacebookfromschool.com, geolocation-!cn
 host-suffix, acebooik.com, geolocation-!cn

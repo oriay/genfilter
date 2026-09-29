@@ -16,11 +16,14 @@ host-suffix, bard.google.com, google-gemini
 host-suffix, gemini.google, google-gemini
 host-suffix, gemini.google.com, google-gemini
 host-suffix, gemini.gstatic.com, google-gemini
+host, geminiweb-pa.clients.google.com, google-gemini
+host, geminiweb-pa.clients6.google.com, google-gemini
 host, cloudaicompanion.googleapis.com, google-gemini
 host, cloudcode-pa.googleapis.com, google-gemini
 host, daily-cloudcode-pa.googleapis.com, google-gemini
 host, notebooklm-pa.googleapis.com, google-gemini
 host, notebooklm.googleapis.com, google-gemini
+host-suffix, labstailwind.pa.googleapis.com, google-gemini
 host-suffix, notebook.google, google-gemini
 host-suffix, notebook.google.com, google-gemini
 host-suffix, notebooklm.google, google-gemini
