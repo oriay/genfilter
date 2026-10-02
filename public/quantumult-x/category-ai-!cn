@@ -56,6 +56,7 @@ host-suffix, anthropic.com, category-ai-!cn
 host-suffix, clau.de, category-ai-!cn
 host-suffix, claude.ai, category-ai-!cn
 host-suffix, claude.com, category-ai-!cn
+host-suffix, claude.dev, category-ai-!cn
 host-suffix, claudemcpclient.com, category-ai-!cn
 host-suffix, claudemcpcontent.com, category-ai-!cn
 host-suffix, claudeusercontent.com, category-ai-!cn

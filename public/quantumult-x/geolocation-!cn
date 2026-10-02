@@ -94,6 +94,7 @@ host-suffix, anthropic.com, geolocation-!cn
 host-suffix, clau.de, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
 host-suffix, claude.com, geolocation-!cn
+host-suffix, claude.dev, geolocation-!cn
 host-suffix, claudemcpclient.com, geolocation-!cn
 host-suffix, claudemcpcontent.com, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
