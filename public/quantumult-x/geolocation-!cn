@@ -330,6 +330,7 @@ host-suffix, freewechat.com, geolocation-!cn
 host-suffix, freeweibo.com, geolocation-!cn
 host-suffix, freezhihu.org, geolocation-!cn
 host-suffix, googlecensorship.org, geolocation-!cn
+host-suffix, googleplaycensorship.com, geolocation-!cn
 host-suffix, greatfire.org, geolocation-!cn
 host-suffix, greatfirevpn.com, geolocation-!cn
 host-suffix, pao-pao.net, geolocation-!cn
