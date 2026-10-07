@@ -17,6 +17,10 @@ host, paper-attachments.s3.amazonaws.com, category-netdisk-!cn
 host-suffix, mega.co.nz, category-netdisk-!cn
 host-suffix, mega.io, category-netdisk-!cn
 host-suffix, mega.nz, category-netdisk-!cn
+host-suffix, megaad.nz, category-netdisk-!cn
+host-suffix, megapay.nz, category-netdisk-!cn
+host-suffix, megas4.com, category-netdisk-!cn
+host-suffix, transfer.it, category-netdisk-!cn
 host-suffix, 1drv.com, category-netdisk-!cn
 host-suffix, 1drv.ms, category-netdisk-!cn
 host-suffix, livefilestore.com, category-netdisk-!cn

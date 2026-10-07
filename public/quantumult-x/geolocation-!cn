@@ -7729,6 +7729,10 @@ host, paper-attachments.s3.amazonaws.com, geolocation-!cn
 host-suffix, mega.co.nz, geolocation-!cn
 host-suffix, mega.io, geolocation-!cn
 host-suffix, mega.nz, geolocation-!cn
+host-suffix, megaad.nz, geolocation-!cn
+host-suffix, megapay.nz, geolocation-!cn
+host-suffix, megas4.com, geolocation-!cn
+host-suffix, transfer.it, geolocation-!cn
 host-suffix, 1drv.com, geolocation-!cn
 host-suffix, 1drv.ms, geolocation-!cn
 host-suffix, livefilestore.com, geolocation-!cn
