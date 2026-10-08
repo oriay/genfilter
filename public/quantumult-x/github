@@ -52,6 +52,7 @@ host, productionresultssa16.blob.core.windows.net, github
 host, productionresultssa17.blob.core.windows.net, github
 host, productionresultssa18.blob.core.windows.net, github
 host, productionresultssa19.blob.core.windows.net, github
+host-suffix, cafe.github.com, github
 host-suffix, collector.github.com, github
 host-suffix, githubcopilot.com, github
 host, copilot-proxy.githubusercontent.com, github

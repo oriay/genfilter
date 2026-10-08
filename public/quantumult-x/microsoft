@@ -586,6 +586,7 @@ host, productionresultssa16.blob.core.windows.net, microsoft
 host, productionresultssa17.blob.core.windows.net, microsoft
 host, productionresultssa18.blob.core.windows.net, microsoft
 host, productionresultssa19.blob.core.windows.net, microsoft
+host-suffix, cafe.github.com, microsoft
 host-suffix, collector.github.com, microsoft
 host-suffix, githubcopilot.com, microsoft
 host, copilot-proxy.githubusercontent.com, microsoft

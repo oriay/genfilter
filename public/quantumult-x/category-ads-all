@@ -7246,8 +7246,6 @@ host-suffix, whatsapp.net, category-ads-all
 host-suffix, whatsapp.org, category-ads-all
 host-suffix, whatsapp.tv, category-ads-all
 host-suffix, whatsappbrand.com, category-ads-all
-host-suffix, graph.whatsapp.com, category-ads-all
-host-suffix, graph.whatsapp.net, category-ads-all
 host-suffix, microsoft, category-ads-all
 host-suffix, hotmail, category-ads-all
 host-suffix, office, category-ads-all
@@ -7836,6 +7834,7 @@ host, productionresultssa16.blob.core.windows.net, category-ads-all
 host, productionresultssa17.blob.core.windows.net, category-ads-all
 host, productionresultssa18.blob.core.windows.net, category-ads-all
 host, productionresultssa19.blob.core.windows.net, category-ads-all
+host-suffix, cafe.github.com, category-ads-all
 host-suffix, collector.github.com, category-ads-all
 host-suffix, githubcopilot.com, category-ads-all
 host, copilot-proxy.githubusercontent.com, category-ads-all

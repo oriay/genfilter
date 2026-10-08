@@ -6750,8 +6750,6 @@ host-suffix, whatsapp.net, category-companies
 host-suffix, whatsapp.org, category-companies
 host-suffix, whatsapp.tv, category-companies
 host-suffix, whatsappbrand.com, category-companies
-host-suffix, graph.whatsapp.com, category-companies
-host-suffix, graph.whatsapp.net, category-companies
 host-suffix, microsoft, category-companies
 host-suffix, hotmail, category-companies
 host-suffix, office, category-companies
@@ -7340,6 +7338,7 @@ host, productionresultssa16.blob.core.windows.net, category-companies
 host, productionresultssa17.blob.core.windows.net, category-companies
 host, productionresultssa18.blob.core.windows.net, category-companies
 host, productionresultssa19.blob.core.windows.net, category-companies
+host-suffix, cafe.github.com, category-companies
 host-suffix, collector.github.com, category-companies
 host-suffix, githubcopilot.com, category-companies
 host, copilot-proxy.githubusercontent.com, category-companies

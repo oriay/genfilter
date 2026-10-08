@@ -3363,8 +3363,6 @@ host-suffix, whatsapp.net, geolocation-!cn
 host-suffix, whatsapp.org, geolocation-!cn
 host-suffix, whatsapp.tv, geolocation-!cn
 host-suffix, whatsappbrand.com, geolocation-!cn
-host-suffix, graph.whatsapp.com, geolocation-!cn
-host-suffix, graph.whatsapp.net, geolocation-!cn
 host-suffix, 1inch.io, geolocation-!cn
 host-suffix, aave.com, geolocation-!cn
 host-suffix, base.org, geolocation-!cn
@@ -17947,6 +17945,7 @@ host, productionresultssa16.blob.core.windows.net, geolocation-!cn
 host, productionresultssa17.blob.core.windows.net, geolocation-!cn
 host, productionresultssa18.blob.core.windows.net, geolocation-!cn
 host, productionresultssa19.blob.core.windows.net, geolocation-!cn
+host-suffix, cafe.github.com, geolocation-!cn
 host-suffix, collector.github.com, geolocation-!cn
 host-suffix, githubcopilot.com, geolocation-!cn
 host, copilot-proxy.githubusercontent.com, geolocation-!cn
@@ -24993,8 +24992,6 @@ host-suffix, whatsapp.net, geolocation-!cn
 host-suffix, whatsapp.org, geolocation-!cn
 host-suffix, whatsapp.tv, geolocation-!cn
 host-suffix, whatsappbrand.com, geolocation-!cn
-host-suffix, graph.whatsapp.com, geolocation-!cn
-host-suffix, graph.whatsapp.net, geolocation-!cn
 host-suffix, microsoft, geolocation-!cn
 host-suffix, hotmail, geolocation-!cn
 host-suffix, office, geolocation-!cn
@@ -25583,6 +25580,7 @@ host, productionresultssa16.blob.core.windows.net, geolocation-!cn
 host, productionresultssa17.blob.core.windows.net, geolocation-!cn
 host, productionresultssa18.blob.core.windows.net, geolocation-!cn
 host, productionresultssa19.blob.core.windows.net, geolocation-!cn
+host-suffix, cafe.github.com, geolocation-!cn
 host-suffix, collector.github.com, geolocation-!cn
 host-suffix, githubcopilot.com, geolocation-!cn
 host, copilot-proxy.githubusercontent.com, geolocation-!cn
