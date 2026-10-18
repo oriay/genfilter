@@ -8223,6 +8223,7 @@ host-suffix, oaistatic.com, category-ads-all
 host-suffix, oaistatsig.com, category-ads-all
 host-suffix, oaiusercontent.com, category-ads-all
 host-suffix, openai.com, category-ads-all
+host-suffix, openai.org, category-ads-all
 host-suffix, sora.com, category-ads-all
 host-suffix, openai.com.cdn.cloudflare.net, category-ads-all
 host, openaiapi-site.azureedge.net, category-ads-all

@@ -8202,6 +8202,7 @@ host-suffix, oaistatic.com, category-ads-and-telemetry
 host-suffix, oaistatsig.com, category-ads-and-telemetry
 host-suffix, oaiusercontent.com, category-ads-and-telemetry
 host-suffix, openai.com, category-ads-and-telemetry
+host-suffix, openai.org, category-ads-and-telemetry
 host-suffix, sora.com, category-ads-and-telemetry
 host-suffix, openai.com.cdn.cloudflare.net, category-ads-and-telemetry
 host, openaiapi-site.azureedge.net, category-ads-and-telemetry

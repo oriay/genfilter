@@ -6,6 +6,7 @@ host-suffix, oaistatic.com, openai
 host-suffix, oaistatsig.com, openai
 host-suffix, oaiusercontent.com, openai
 host-suffix, openai.com, openai
+host-suffix, openai.org, openai
 host-suffix, sora.com, openai
 host-suffix, openai.com.cdn.cloudflare.net, openai
 host, openaiapi-site.azureedge.net, openai

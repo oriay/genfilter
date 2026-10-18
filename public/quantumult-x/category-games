@@ -934,6 +934,9 @@ host-suffix, robloxlabs.com, category-games
 host-suffix, rowblocks.com, category-games
 host-suffix, rowblox.com, category-games
 host, d1unuk07s6td74.cloudfront.net, category-games
+host, d348twzf7a8p5.cloudfront.net, category-games
+host, devforum-uploads.s3.dualstack.us-east-2.amazonaws.com, category-games
+host, doy2mn9upadnk.cloudfront.net, category-games
 host, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com, category-games
 host, roblox-poc.global.ssl.fastly.net, category-games
 host, robloxcorp.s.llnwi.net, category-games

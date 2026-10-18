@@ -119,6 +119,8 @@ host-suffix, router.ctc, private
 host-suffix, plex.direct, private
 host-suffix, localhost.sec.qq.com, private
 host-suffix, localhost.ptlogin2.qq.com, private
+host, localhost.weixin.qq.com, private
+host, localhost.work.weixin.qq.com, private
 host-suffix, tendawifi.com, private
 host-suffix, tplinkwifi.net, private
 host, tplogin.cn, private

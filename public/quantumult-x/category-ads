@@ -8202,6 +8202,7 @@ host-suffix, oaistatic.com, category-ads
 host-suffix, oaistatsig.com, category-ads
 host-suffix, oaiusercontent.com, category-ads
 host-suffix, openai.com, category-ads
+host-suffix, openai.org, category-ads
 host-suffix, sora.com, category-ads
 host-suffix, openai.com.cdn.cloudflare.net, category-ads
 host, openaiapi-site.azureedge.net, category-ads

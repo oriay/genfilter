@@ -10,6 +10,7 @@ host-suffix, deepwiki.com, category-ai-chat-!cn
 host-suffix, deepwiki.org, category-ai-chat-!cn
 host-suffix, clipdrop.co, category-ai-chat-!cn
 host-suffix, jasper.ai, category-ai-chat-!cn
+host-suffix, typesafe.ai, category-ai-chat-!cn
 host-suffix, kimi.ai, category-ai-chat-!cn
 host-suffix, moonshot.ai, category-ai-chat-!cn
 host-suffix, meta.ai, category-ai-chat-!cn
@@ -78,6 +79,7 @@ host-suffix, cursor-cdn.com, category-ai-chat-!cn
 host-suffix, cursor.com, category-ai-chat-!cn
 host-suffix, cursor.sh, category-ai-chat-!cn
 host-suffix, cursorapi.com, category-ai-chat-!cn
+host-suffix, cursorvm.com, category-ai-chat-!cn
 host-suffix, elevenlabs.com, category-ai-chat-!cn
 host-suffix, elevenlabs.io, category-ai-chat-!cn
 host-suffix, envato-static.com, category-ai-chat-!cn
@@ -155,6 +157,7 @@ host-suffix, oaistatic.com, category-ai-chat-!cn
 host-suffix, oaistatsig.com, category-ai-chat-!cn
 host-suffix, oaiusercontent.com, category-ai-chat-!cn
 host-suffix, openai.com, category-ai-chat-!cn
+host-suffix, openai.org, category-ai-chat-!cn
 host-suffix, sora.com, category-ai-chat-!cn
 host-suffix, openai.com.cdn.cloudflare.net, category-ai-chat-!cn
 host, openaiapi-site.azureedge.net, category-ai-chat-!cn

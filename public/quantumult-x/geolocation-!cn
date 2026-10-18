@@ -48,6 +48,7 @@ host-suffix, deepwiki.com, geolocation-!cn
 host-suffix, deepwiki.org, geolocation-!cn
 host-suffix, clipdrop.co, geolocation-!cn
 host-suffix, jasper.ai, geolocation-!cn
+host-suffix, typesafe.ai, geolocation-!cn
 host-suffix, kimi.ai, geolocation-!cn
 host-suffix, moonshot.ai, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
@@ -116,6 +117,7 @@ host-suffix, cursor-cdn.com, geolocation-!cn
 host-suffix, cursor.com, geolocation-!cn
 host-suffix, cursor.sh, geolocation-!cn
 host-suffix, cursorapi.com, geolocation-!cn
+host-suffix, cursorvm.com, geolocation-!cn
 host-suffix, elevenlabs.com, geolocation-!cn
 host-suffix, elevenlabs.io, geolocation-!cn
 host-suffix, envato-static.com, geolocation-!cn
@@ -193,6 +195,7 @@ host-suffix, oaistatic.com, geolocation-!cn
 host-suffix, oaistatsig.com, geolocation-!cn
 host-suffix, oaiusercontent.com, geolocation-!cn
 host-suffix, openai.com, geolocation-!cn
+host-suffix, openai.org, geolocation-!cn
 host-suffix, sora.com, geolocation-!cn
 host-suffix, openai.com.cdn.cloudflare.net, geolocation-!cn
 host, openaiapi-site.azureedge.net, geolocation-!cn
@@ -2171,6 +2174,7 @@ host-suffix, schwab.com, geolocation-!cn
 host-suffix, schwab.com.hk, geolocation-!cn
 host-suffix, schwab.com.sg, geolocation-!cn
 host-suffix, schwabassetmanagement.com, geolocation-!cn
+host-suffix, schwabcdn.com, geolocation-!cn
 host-suffix, schwabplan.com, geolocation-!cn
 host-suffix, sc.com, geolocation-!cn
 host-suffix, standardchartered.com, geolocation-!cn
@@ -6372,6 +6376,9 @@ host-suffix, robloxlabs.com, geolocation-!cn
 host-suffix, rowblocks.com, geolocation-!cn
 host-suffix, rowblox.com, geolocation-!cn
 host, d1unuk07s6td74.cloudfront.net, geolocation-!cn
+host, d348twzf7a8p5.cloudfront.net, geolocation-!cn
+host, devforum-uploads.s3.dualstack.us-east-2.amazonaws.com, geolocation-!cn
+host, doy2mn9upadnk.cloudfront.net, geolocation-!cn
 host, roblox-load-generator-configuration.s3.us-east-2.amazonaws.com, geolocation-!cn
 host, roblox-poc.global.ssl.fastly.net, geolocation-!cn
 host, robloxcorp.s.llnwi.net, geolocation-!cn
@@ -22538,8 +22545,19 @@ host-suffix, bwh81.net, geolocation-!cn
 host-suffix, bwh88.net, geolocation-!cn
 host-suffix, bwh89.net, geolocation-!cn
 host-suffix, bwhstatus.com, geolocation-!cn
+host-suffix, beget.app, geolocation-!cn
+host-suffix, beget.cloud, geolocation-!cn
 host-suffix, beget.com, geolocation-!cn
+host-suffix, beget.de, geolocation-!cn
+host-suffix, beget.hosting, geolocation-!cn
+host-suffix, beget.pro, geolocation-!cn
 host-suffix, beget.ru, geolocation-!cn
+host-suffix, beget.tech, geolocation-!cn
+host-suffix, begetcdn.cloud, geolocation-!cn
+host-suffix, beserver.ru, geolocation-!cn
+host-suffix, bget.ru, geolocation-!cn
+host-suffix, sprut.io, geolocation-!cn
+host-suffix, xn--90aefb9d.xn--p1ai, geolocation-!cn
 host-suffix, blurams.app, geolocation-!cn
 host-suffix, blurams.com, geolocation-!cn
 host-suffix, broadcom.com, geolocation-!cn
@@ -26533,6 +26551,8 @@ host-suffix, tele2.ru, geolocation-!cn
 host-suffix, boringcompany.com, geolocation-!cn
 host-suffix, timeweb.cloud, geolocation-!cn
 host-suffix, timeweb.com, geolocation-!cn
+host-suffix, timeweb.tech, geolocation-!cn
+host-suffix, timewebcloud.kz, geolocation-!cn
 host-suffix, twcstorage.ru, geolocation-!cn
 host-suffix, internetdownloadmanager.com, geolocation-!cn
 host-suffix, registeridm.com, geolocation-!cn
