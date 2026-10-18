@@ -734,9 +734,6 @@ host-suffix, xboxplayanywhere.com, microsoft
 host-suffix, xboxservices.com, microsoft
 host-suffix, xboxstudios.com, microsoft
 host-suffix, xbx.lv, microsoft
-host-suffix, asobostudio.com, microsoft
-host-suffix, flightsimulator.com, microsoft
-host, flightsimulator.azureedge.net, microsoft
 host-suffix, beth.games, microsoft
 host-suffix, bethesda.net, microsoft
 host-suffix, bethesdagamestudios.com, microsoft

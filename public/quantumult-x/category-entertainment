@@ -944,9 +944,6 @@ host-suffix, xboxplayanywhere.com, category-entertainment
 host-suffix, xboxservices.com, category-entertainment
 host-suffix, xboxstudios.com, category-entertainment
 host-suffix, xbx.lv, category-entertainment
-host-suffix, asobostudio.com, category-entertainment
-host-suffix, flightsimulator.com, category-entertainment
-host, flightsimulator.azureedge.net, category-entertainment
 host-suffix, beth.games, category-entertainment
 host-suffix, bethesda.net, category-entertainment
 host-suffix, bethesdagamestudios.com, category-entertainment
@@ -1752,6 +1749,7 @@ host-suffix, primevideo.info, category-entertainment
 host-suffix, primevideo.org, category-entertainment
 host-suffix, primevideo.tv, category-entertainment
 host-suffix, prod.service.minerva.devices.a2z.com, category-entertainment
+host-suffix, pv-cdn.net, category-entertainment
 host-suffix, radiko-cf.com, category-entertainment
 host-suffix, radiko.jp, category-entertainment
 host-suffix, smartstream.ne.jp, category-entertainment

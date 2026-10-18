@@ -1083,6 +1083,7 @@ host-suffix, primevideo.info, category-ads
 host-suffix, primevideo.org, category-ads
 host-suffix, primevideo.tv, category-ads
 host-suffix, prod.service.minerva.devices.a2z.com, category-ads
+host-suffix, pv-cdn.net, category-ads
 host-suffix, wfm.com, category-ads
 host-suffix, wholecitiesfoundation.org, category-ads
 host-suffix, wholefoods.com, category-ads
@@ -7961,9 +7962,6 @@ host-suffix, xboxplayanywhere.com, category-ads
 host-suffix, xboxservices.com, category-ads
 host-suffix, xboxstudios.com, category-ads
 host-suffix, xbx.lv, category-ads
-host-suffix, asobostudio.com, category-ads
-host-suffix, flightsimulator.com, category-ads
-host, flightsimulator.azureedge.net, category-ads
 host-suffix, beth.games, category-ads
 host-suffix, bethesda.net, category-ads
 host-suffix, bethesdagamestudios.com, category-ads

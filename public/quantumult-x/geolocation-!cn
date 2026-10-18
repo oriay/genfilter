@@ -6565,9 +6565,6 @@ host-suffix, xboxplayanywhere.com, geolocation-!cn
 host-suffix, xboxservices.com, geolocation-!cn
 host-suffix, xboxstudios.com, geolocation-!cn
 host-suffix, xbx.lv, geolocation-!cn
-host-suffix, asobostudio.com, geolocation-!cn
-host-suffix, flightsimulator.com, geolocation-!cn
-host, flightsimulator.azureedge.net, geolocation-!cn
 host-suffix, beth.games, geolocation-!cn
 host-suffix, bethesda.net, geolocation-!cn
 host-suffix, bethesdagamestudios.com, geolocation-!cn
@@ -7373,6 +7370,7 @@ host-suffix, primevideo.info, geolocation-!cn
 host-suffix, primevideo.org, geolocation-!cn
 host-suffix, primevideo.tv, geolocation-!cn
 host-suffix, prod.service.minerva.devices.a2z.com, geolocation-!cn
+host-suffix, pv-cdn.net, geolocation-!cn
 host-suffix, radiko-cf.com, geolocation-!cn
 host-suffix, radiko.jp, geolocation-!cn
 host-suffix, smartstream.ne.jp, geolocation-!cn
@@ -19957,6 +19955,7 @@ host-suffix, primevideo.info, geolocation-!cn
 host-suffix, primevideo.org, geolocation-!cn
 host-suffix, primevideo.tv, geolocation-!cn
 host-suffix, prod.service.minerva.devices.a2z.com, geolocation-!cn
+host-suffix, pv-cdn.net, geolocation-!cn
 host-suffix, wfm.com, geolocation-!cn
 host-suffix, wholecitiesfoundation.org, geolocation-!cn
 host-suffix, wholefoods.com, geolocation-!cn
@@ -25791,9 +25790,6 @@ host-suffix, xboxplayanywhere.com, geolocation-!cn
 host-suffix, xboxservices.com, geolocation-!cn
 host-suffix, xboxstudios.com, geolocation-!cn
 host-suffix, xbx.lv, geolocation-!cn
-host-suffix, asobostudio.com, geolocation-!cn
-host-suffix, flightsimulator.com, geolocation-!cn
-host, flightsimulator.azureedge.net, geolocation-!cn
 host-suffix, beth.games, geolocation-!cn
 host-suffix, bethesda.net, geolocation-!cn
 host-suffix, bethesdagamestudios.com, geolocation-!cn
