@@ -72,6 +72,7 @@ host-suffix, kiro.dev, geolocation-!cn
 host-suffix, langchain.com, geolocation-!cn
 host-suffix, lmstudio.ai, geolocation-!cn
 host-suffix, lovart.ai, geolocation-!cn
+host-suffix, magnific.com, geolocation-!cn
 host-suffix, midjourney.com, geolocation-!cn
 host-suffix, minimax.io, geolocation-!cn
 host-suffix, mistral.ai, geolocation-!cn
@@ -5716,6 +5717,9 @@ host-suffix, viju.ru, geolocation-!cn
 host-suffix, promodj.com, geolocation-!cn
 host-suffix, kinopoisk.ru, geolocation-!cn
 host-suffix, kinopoisk-ru.clstorage.net, geolocation-!cn
+host-suffix, kp.yandex.net, geolocation-!cn
+host, kp-config-smart-tv.akamaized.net, geolocation-!cn
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, geolocation-!cn
 host-suffix, okkoapi.tv, geolocation-!cn
 host-suffix, playfamily.ru, geolocation-!cn
 host-suffix, okko.sport, geolocation-!cn
@@ -17697,6 +17701,7 @@ host-suffix, php.net, geolocation-!cn
 host-suffix, piwheels.org, geolocation-!cn
 host-suffix, plasma-mobile.org, geolocation-!cn
 host-suffix, postgresql.org, geolocation-!cn
+host-suffix, postman.com, geolocation-!cn
 host-suffix, putty.org, geolocation-!cn
 host-suffix, r-project.org, geolocation-!cn
 host-suffix, raspberrypi.org, geolocation-!cn
@@ -25996,6 +26001,7 @@ host-suffix, tvoyodbo.online, geolocation-!cn
 host-suffix, kion.ru, geolocation-!cn
 host-suffix, mtsmedia.ru, geolocation-!cn
 host-suffix, on-media.ru, geolocation-!cn
+host-suffix, mts-link.ru, geolocation-!cn
 host-suffix, musixmatch.com, geolocation-!cn
 host-suffix, mxmcdn.net, geolocation-!cn
 host-suffix, mxlogin.com, geolocation-!cn
@@ -27026,6 +27032,9 @@ host, pixel.yandex.com, geolocation-!cn
 host, report.ap.yandex-net.ru, geolocation-!cn
 host-suffix, kinopoisk.ru, geolocation-!cn
 host-suffix, kinopoisk-ru.clstorage.net, geolocation-!cn
+host-suffix, kp.yandex.net, geolocation-!cn
+host, kp-config-smart-tv.akamaized.net, geolocation-!cn
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, geolocation-!cn
 host-suffix, securecloudtransformation.com, geolocation-!cn
 host-suffix, securitypreview.com, geolocation-!cn
 host-suffix, threatlabz.com, geolocation-!cn

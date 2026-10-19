@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
@@ -5716,6 +5717,9 @@ DOMAIN-SUFFIX,viju.ru
 DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kp.yandex.net
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
@@ -17697,6 +17701,7 @@ DOMAIN-SUFFIX,php.net
 DOMAIN-SUFFIX,piwheels.org
 DOMAIN-SUFFIX,plasma-mobile.org
 DOMAIN-SUFFIX,postgresql.org
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
@@ -25996,6 +26001,7 @@ DOMAIN-SUFFIX,tvoyodbo.online
 DOMAIN-SUFFIX,kion.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mxmcdn.net
 DOMAIN-SUFFIX,mxlogin.com
@@ -27026,6 +27032,9 @@ DOMAIN,pixel.yandex.com
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kp.yandex.net
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,securecloudtransformation.com
 DOMAIN-SUFFIX,securitypreview.com
 DOMAIN-SUFFIX,threatlabz.com

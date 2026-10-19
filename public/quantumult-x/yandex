@@ -152,3 +152,6 @@ host, pixel.yandex.com, yandex
 host, report.ap.yandex-net.ru, yandex
 host-suffix, kinopoisk.ru, yandex
 host-suffix, kinopoisk-ru.clstorage.net, yandex
+host-suffix, kp.yandex.net, yandex
+host, kp-config-smart-tv.akamaized.net, yandex
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, yandex

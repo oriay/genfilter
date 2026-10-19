@@ -7704,6 +7704,7 @@ host-suffix, tvoyodbo.online, category-companies
 host-suffix, kion.ru, category-companies
 host-suffix, mtsmedia.ru, category-companies
 host-suffix, on-media.ru, category-companies
+host-suffix, mts-link.ru, category-companies
 host-suffix, musixmatch.com, category-companies
 host-suffix, mxmcdn.net, category-companies
 host-suffix, mxlogin.com, category-companies
@@ -8734,6 +8735,9 @@ host, pixel.yandex.com, category-companies
 host, report.ap.yandex-net.ru, category-companies
 host-suffix, kinopoisk.ru, category-companies
 host-suffix, kinopoisk-ru.clstorage.net, category-companies
+host-suffix, kp.yandex.net, category-companies
+host, kp-config-smart-tv.akamaized.net, category-companies
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, category-companies
 host-suffix, securecloudtransformation.com, category-companies
 host-suffix, securitypreview.com, category-companies
 host-suffix, threatlabz.com, category-companies

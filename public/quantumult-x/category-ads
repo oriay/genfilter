@@ -6300,9 +6300,11 @@ host-suffix, gia.jd.com, category-ads
 host-suffix, img-x.jd.com, category-ads
 host-suffix, jzt.jd.com, category-ads
 host-suffix, stat.m.jd.com, category-ads
-host-suffix, kontur.ru, category-ads
-host-suffix, kontur.host, category-ads
 host-suffix, kontur-inc.com, category-ads
+host-suffix, kontur.host, category-ads
+host-suffix, kontur.ru, category-ads
+host-suffix, ktalk.host, category-ads
+host-suffix, ktalk.ru, category-ads
 host, metrika.kontur.ru, category-ads
 host, sentry.kontur.host, category-ads
 host-suffix, eckwai.com, category-ads
@@ -8122,6 +8124,7 @@ host-suffix, tvoyodbo.online, category-ads
 host-suffix, kion.ru, category-ads
 host-suffix, mtsmedia.ru, category-ads
 host-suffix, on-media.ru, category-ads
+host-suffix, mts-link.ru, category-ads
 host-suffix, 126.com, category-ads
 host-suffix, 126.link, category-ads
 host-suffix, 126.net, category-ads
@@ -10021,6 +10024,9 @@ host, pixel.yandex.com, category-ads
 host, report.ap.yandex-net.ru, category-ads
 host-suffix, kinopoisk.ru, category-ads
 host-suffix, kinopoisk-ru.clstorage.net, category-ads
+host-suffix, kp.yandex.net, category-ads
+host, kp-config-smart-tv.akamaized.net, category-ads
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, category-ads
 host-suffix, zhihu.com, category-ads
 host-suffix, zhimg.com, category-ads
 host-suffix, laiyagushi.com, category-ads

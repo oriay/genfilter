@@ -77,6 +77,7 @@ host-suffix, php.net, category-dev
 host-suffix, piwheels.org, category-dev
 host-suffix, plasma-mobile.org, category-dev
 host-suffix, postgresql.org, category-dev
+host-suffix, postman.com, category-dev
 host-suffix, putty.org, category-dev
 host-suffix, r-project.org, category-dev
 host-suffix, raspberrypi.org, category-dev

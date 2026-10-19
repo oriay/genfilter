@@ -22,6 +22,7 @@ host-suffix, izbirkom.ru, category-gov-ru
 host-suffix, kremlin.ru, category-gov-ru
 host-suffix, mil.ru, category-gov-ru
 host-suffix, nalog.ru, category-gov-ru
+host-suffix, regionvideo.ru, category-gov-ru
 host-suffix, xn--80ajghhoc2aj1c8b.xn--p1ai, category-gov-ru
 host-suffix, xn--90aivcdt6dxbc.xn--p1ai, category-gov-ru
 host-suffix, xn--b1afabzvcegckfhg.xn--p1ai, category-gov-ru
@@ -140,3 +141,5 @@ host-suffix, surgut.ru, category-gov-ru
 host-suffix, yamal.ru, category-gov-ru
 host-suffix, yanao.ru, category-gov-ru
 host-suffix, zdrav10.ru, category-gov-ru
+host-suffix, mospat.ru, category-gov-ru
+host-suffix, patriarchia.ru, category-gov-ru

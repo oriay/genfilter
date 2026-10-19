@@ -95,6 +95,9 @@ host-suffix, viju.ru, category-entertainment
 host-suffix, promodj.com, category-entertainment
 host-suffix, kinopoisk.ru, category-entertainment
 host-suffix, kinopoisk-ru.clstorage.net, category-entertainment
+host-suffix, kp.yandex.net, category-entertainment
+host, kp-config-smart-tv.akamaized.net, category-entertainment
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, category-entertainment
 host-suffix, okkoapi.tv, category-entertainment
 host-suffix, playfamily.ru, category-entertainment
 host-suffix, okko.sport, category-entertainment

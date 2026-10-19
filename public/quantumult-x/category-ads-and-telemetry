@@ -6300,9 +6300,11 @@ host-suffix, gia.jd.com, category-ads-and-telemetry
 host-suffix, img-x.jd.com, category-ads-and-telemetry
 host-suffix, jzt.jd.com, category-ads-and-telemetry
 host-suffix, stat.m.jd.com, category-ads-and-telemetry
-host-suffix, kontur.ru, category-ads-and-telemetry
-host-suffix, kontur.host, category-ads-and-telemetry
 host-suffix, kontur-inc.com, category-ads-and-telemetry
+host-suffix, kontur.host, category-ads-and-telemetry
+host-suffix, kontur.ru, category-ads-and-telemetry
+host-suffix, ktalk.host, category-ads-and-telemetry
+host-suffix, ktalk.ru, category-ads-and-telemetry
 host, metrika.kontur.ru, category-ads-and-telemetry
 host, sentry.kontur.host, category-ads-and-telemetry
 host-suffix, eckwai.com, category-ads-and-telemetry
@@ -8122,6 +8124,7 @@ host-suffix, tvoyodbo.online, category-ads-and-telemetry
 host-suffix, kion.ru, category-ads-and-telemetry
 host-suffix, mtsmedia.ru, category-ads-and-telemetry
 host-suffix, on-media.ru, category-ads-and-telemetry
+host-suffix, mts-link.ru, category-ads-and-telemetry
 host-suffix, 126.com, category-ads-and-telemetry
 host-suffix, 126.link, category-ads-and-telemetry
 host-suffix, 126.net, category-ads-and-telemetry
@@ -10021,6 +10024,9 @@ host, pixel.yandex.com, category-ads-and-telemetry
 host, report.ap.yandex-net.ru, category-ads-and-telemetry
 host-suffix, kinopoisk.ru, category-ads-and-telemetry
 host-suffix, kinopoisk-ru.clstorage.net, category-ads-and-telemetry
+host-suffix, kp.yandex.net, category-ads-and-telemetry
+host, kp-config-smart-tv.akamaized.net, category-ads-and-telemetry
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, category-ads-and-telemetry
 host-suffix, zhihu.com, category-ads-and-telemetry
 host-suffix, zhimg.com, category-ads-and-telemetry
 host-suffix, laiyagushi.com, category-ads-and-telemetry
