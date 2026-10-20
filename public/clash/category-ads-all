@@ -2961,8 +2961,10 @@ DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
+DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
 DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,91.com

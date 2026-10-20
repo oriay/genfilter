@@ -3664,8 +3664,10 @@ host-suffix, auto.ru, geolocation-!cn
 host-suffix, autoru.me, geolocation-!cn
 host-suffix, avto.ru, geolocation-!cn
 host-suffix, cm.expert, geolocation-!cn
+host-suffix, avito.com, geolocation-!cn
 host-suffix, avito.ru, geolocation-!cn
 host-suffix, avito.st, geolocation-!cn
+host-suffix, avito.tech, geolocation-!cn
 host, stats.avito.ru, geolocation-!cn
 host-suffix, cian.ru, geolocation-!cn
 host-suffix, cian.site, geolocation-!cn

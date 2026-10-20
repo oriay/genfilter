@@ -2940,8 +2940,10 @@ host, itunes-apple.com.akadns.net, category-ads-and-telemetry
 host, itunes.apple.com, category-ads-and-telemetry
 host, itunesconnect.apple.com, category-ads-and-telemetry
 host, osxapps.itunes.g.aaplimg.com, category-ads-and-telemetry
+host-suffix, avito.com, category-ads-and-telemetry
 host-suffix, avito.ru, category-ads-and-telemetry
 host-suffix, avito.st, category-ads-and-telemetry
+host-suffix, avito.tech, category-ads-and-telemetry
 host, stats.avito.ru, category-ads-and-telemetry
 host-suffix, baidu, category-ads-and-telemetry
 host-suffix, 91.com, category-ads-and-telemetry

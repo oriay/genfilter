@@ -15,8 +15,10 @@ host-suffix, auto.ru, category-ecommerce
 host-suffix, autoru.me, category-ecommerce
 host-suffix, avto.ru, category-ecommerce
 host-suffix, cm.expert, category-ecommerce
+host-suffix, avito.com, category-ecommerce
 host-suffix, avito.ru, category-ecommerce
 host-suffix, avito.st, category-ecommerce
+host-suffix, avito.tech, category-ecommerce
 host, stats.avito.ru, category-ecommerce
 host-suffix, cian.ru, category-ecommerce
 host-suffix, cian.site, category-ecommerce
