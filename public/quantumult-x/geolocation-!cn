@@ -93,13 +93,23 @@ host-suffix, syntx.ai, geolocation-!cn
 host-suffix, talkai.info, geolocation-!cn
 host-suffix, tapnow.ai, geolocation-!cn
 host-suffix, tripo3d.ai, geolocation-!cn
+host-suffix, ant.dev, geolocation-!cn
 host-suffix, anthropic.com, geolocation-!cn
+host-suffix, anthropic.team, geolocation-!cn
+host-suffix, antspace.dev, geolocation-!cn
+host-suffix, chatbotclaude.com, geolocation-!cn
 host-suffix, clau.de, geolocation-!cn
 host-suffix, claude.ai, geolocation-!cn
+host-suffix, claude.app, geolocation-!cn
 host-suffix, claude.com, geolocation-!cn
 host-suffix, claude.dev, geolocation-!cn
+host-suffix, claude.new, geolocation-!cn
+host-suffix, claude.site, geolocation-!cn
+host-suffix, claudeacademy.com, geolocation-!cn
 host-suffix, claudemcpclient.com, geolocation-!cn
 host-suffix, claudemcpcontent.com, geolocation-!cn
+host-suffix, claudepages.dev, geolocation-!cn
+host-suffix, claudestudio.com, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
 host-suffix, coze.com, geolocation-!cn
@@ -207,6 +217,7 @@ host, openaicomproductionae4b.blob.core.windows.net, geolocation-!cn
 host, production-openaicom-storage.azureedge.net, geolocation-!cn
 host, browser-intake-datadoghq.com, geolocation-!cn
 host, o33249.ingest.sentry.io, geolocation-!cn
+host, o33249.ingest.us.sentry.io, geolocation-!cn
 host, openai.qualtrics.com, geolocation-!cn
 host-suffix, chatgpt.livekit.cloud, geolocation-!cn
 host-suffix, host.livekit.cloud, geolocation-!cn
@@ -3295,6 +3306,17 @@ host-suffix, discordapp.io, geolocation-!cn
 host-suffix, discordcdn.com, geolocation-!cn
 host, discord-attachments-uploads-prd.storage.googleapis.com, geolocation-!cn
 host, hammerandchisel.ssl.zendesk.com, geolocation-!cn
+host-suffix, fluxer.app, geolocation-!cn
+host-suffix, fluxer.com, geolocation-!cn
+host-suffix, fluxer.dev, geolocation-!cn
+host-suffix, fluxer.gg, geolocation-!cn
+host-suffix, fluxer.gift, geolocation-!cn
+host-suffix, fluxer.media, geolocation-!cn
+host-suffix, fluxer.tools, geolocation-!cn
+host-suffix, fluxerapp.com, geolocation-!cn
+host-suffix, fluxerstatus.com, geolocation-!cn
+host-suffix, fluxerstatic.com, geolocation-!cn
+host-suffix, fluxerusercontent.com, geolocation-!cn
 host-suffix, freenode.net, geolocation-!cn
 host-suffix, intercom.com, geolocation-!cn
 host-suffix, intercom.io, geolocation-!cn
@@ -7522,6 +7544,7 @@ host, d2xmjdvx03ij56.cloudfront.net, geolocation-!cn
 host, d36nr0u3xmc4mm.cloudfront.net, geolocation-!cn
 host, d3aqoihi2n8ty8.cloudfront.net, geolocation-!cn
 host, d3c27h4odz752x.cloudfront.net, geolocation-!cn
+host, d3stzm2eumvgb4.cloudfront.net, geolocation-!cn
 host, d3vd9lfkzbru3h.cloudfront.net, geolocation-!cn
 host, d6d4ismr40iw.cloudfront.net, geolocation-!cn
 host, d6tizftlrpuof.cloudfront.net, geolocation-!cn

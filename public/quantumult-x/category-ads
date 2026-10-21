@@ -8216,6 +8216,7 @@ host, openaicomproductionae4b.blob.core.windows.net, category-ads
 host, production-openaicom-storage.azureedge.net, category-ads
 host, browser-intake-datadoghq.com, category-ads
 host, o33249.ingest.sentry.io, category-ads
+host, o33249.ingest.us.sentry.io, category-ads
 host, openai.qualtrics.com, category-ads
 host-suffix, chatgpt.livekit.cloud, category-ads
 host-suffix, host.livekit.cloud, category-ads
