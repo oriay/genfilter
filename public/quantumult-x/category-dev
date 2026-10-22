@@ -116,6 +116,11 @@ host-suffix, elegantthemes.com, category-dev
 host-suffix, hivepress.io, category-dev
 host-suffix, motopress.com, category-dev
 host-suffix, wpmailsmtp.com, category-dev
+host-suffix, templatemonster.com, category-dev
+host-suffix, tmimgcdn.com, category-dev
+host-suffix, getsafety.com, category-dev
+host-suffix, pyup.io, category-dev
+host-suffix, safetycli.com, category-dev
 host-suffix, anaconda.cloud, category-dev
 host-suffix, anaconda.com, category-dev
 host-suffix, anaconda.org, category-dev
@@ -577,6 +582,8 @@ host-suffix, readthedocs-hosted.com, category-dev
 host-suffix, readthedocs.com, category-dev
 host-suffix, readthedocs.io, category-dev
 host-suffix, readthedocs.org, category-dev
+host-suffix, redhat.com, category-dev
+host-suffix, redhat.org, category-dev
 host-suffix, redis.io, category-dev
 host-suffix, redislabs.com, category-dev
 host-suffix, ruby-lang.org, category-dev
@@ -585,8 +592,6 @@ host-suffix, rust-lang.org, category-dev
 host-suffix, rustup.rs, category-dev
 host-suffix, crates.io, category-dev
 host-suffix, docs.rs, category-dev
-host-suffix, redhat.com, category-dev
-host-suffix, redhat.org, category-dev
 host-suffix, scala-lang.org, category-dev
 host-suffix, scala-sbt.org, category-dev
 host-suffix, getsentry.com, category-dev

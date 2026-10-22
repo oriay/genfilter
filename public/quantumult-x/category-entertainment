@@ -120,6 +120,7 @@ host-suffix, fanatical.com, category-entertainment
 host-suffix, ficgs.com, category-entertainment
 host-suffix, fitgirl-repacks.site, category-entertainment
 host-suffix, game-repack.site, category-entertainment
+host-suffix, gamebanana.com, category-entertainment
 host-suffix, joinsquad.com, category-entertainment
 host-suffix, loverslab.com, category-entertainment
 host-suffix, minecraft.wiki, category-entertainment
@@ -137,11 +138,15 @@ host-suffix, planetminecraft.com, category-entertainment
 host-suffix, prismlauncher.org, category-entertainment
 host-suffix, protondb.com, category-entertainment
 host-suffix, quiltmc.org, category-entertainment
+host-suffix, r2modman.com, category-entertainment
 host-suffix, rayark.download, category-entertainment
 host-suffix, rayark.net, category-entertainment
 host-suffix, speedrun.com, category-entertainment
 host-suffix, spigotmc.org, category-entertainment
 host-suffix, steamdb.info, category-entertainment
+host-suffix, thunderstore.io, category-entertainment
+host-suffix, thunderstore.org, category-entertainment
+host-suffix, wplace.live, category-entertainment
 host-suffix, candycrush.com, category-entertainment
 host-suffix, king.com, category-entertainment
 host-suffix, activisionblizzard.com, category-entertainment
@@ -777,6 +782,7 @@ host-suffix, steamcontent.com, category-entertainment
 host-suffix, steamconnecttest.com, category-entertainment
 host-suffix, steamdeck.com, category-entertainment
 host-suffix, steamgames.com, category-entertainment
+host-suffix, steamos.cloud, category-entertainment
 host-suffix, steampowered.com, category-entertainment
 host-suffix, steamserver.net, category-entertainment
 host-suffix, steamstatic.com, category-entertainment
@@ -913,6 +919,7 @@ host-suffix, wgcrowd.io, category-entertainment
 host-suffix, worldoftanks.com, category-entertainment
 host-suffix, worldoftanks.eu, category-entertainment
 host-suffix, worldofwarplanes.com, category-entertainment
+host-suffix, worldofwarships.asia, category-entertainment
 host-suffix, worldofwarships.com, category-entertainment
 host-suffix, wotblitz.com, category-entertainment
 host-suffix, wowsblitz.com, category-entertainment
@@ -1381,6 +1388,7 @@ host-suffix, dlsite.jp, category-entertainment
 host-suffix, dlsitestudio.com, category-entertainment
 host-suffix, nijiyome.jp, category-entertainment
 host-suffix, triokini.com, category-entertainment
+host-suffix, fanfiction.net, category-entertainment
 host-suffix, fanfictionero.com, category-entertainment
 host-suffix, fic.fan, category-entertainment
 host-suffix, ficador.com, category-entertainment

@@ -14,6 +14,8 @@ host-suffix, bitstamp.net, category-cryptocurrency
 host-suffix, bittrex.com, category-cryptocurrency
 host-suffix, blast.io, category-cryptocurrency
 host-suffix, blockchain.com, category-cryptocurrency
+host-suffix, blockchair.com, category-cryptocurrency
+host-suffix, blockchair.net, category-cryptocurrency
 host-suffix, blockfrost.io, category-cryptocurrency
 host-suffix, btcbox.co.jp, category-cryptocurrency
 host-suffix, cex.io, category-cryptocurrency
@@ -30,10 +32,12 @@ host-suffix, coinmarketcap.com, category-cryptocurrency
 host-suffix, coredao.org, category-cryptocurrency
 host-suffix, crypto.com, category-cryptocurrency
 host-suffix, cryptocompare.com, category-cryptocurrency
+host-suffix, cryptoid.info, category-cryptocurrency
 host-suffix, cryptomus.com, category-cryptocurrency
 host-suffix, curve.fi, category-cryptocurrency
 host-suffix, cyberx.com, category-cryptocurrency
 host-suffix, debank.com, category-cryptocurrency
+host-suffix, delets.cash, category-cryptocurrency
 host-suffix, delets.online, category-cryptocurrency
 host-suffix, dogecoin.com, category-cryptocurrency
 host-suffix, drpc.org, category-cryptocurrency
@@ -50,6 +54,7 @@ host-suffix, hashflow.com, category-cryptocurrency
 host-suffix, hyperliquid.xyz, category-cryptocurrency
 host-suffix, infura.io, category-cryptocurrency
 host-suffix, invity.io, category-cryptocurrency
+host-suffix, kurs.expert, category-cryptocurrency
 host-suffix, litecoin.org, category-cryptocurrency
 host-suffix, maple.finance, category-cryptocurrency
 host-suffix, megaeth.com, category-cryptocurrency

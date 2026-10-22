@@ -296,6 +296,7 @@ host-suffix, fanatical.com, category-games
 host-suffix, ficgs.com, category-games
 host-suffix, fitgirl-repacks.site, category-games
 host-suffix, game-repack.site, category-games
+host-suffix, gamebanana.com, category-games
 host-suffix, joinsquad.com, category-games
 host-suffix, loverslab.com, category-games
 host-suffix, minecraft.wiki, category-games
@@ -313,11 +314,15 @@ host-suffix, planetminecraft.com, category-games
 host-suffix, prismlauncher.org, category-games
 host-suffix, protondb.com, category-games
 host-suffix, quiltmc.org, category-games
+host-suffix, r2modman.com, category-games
 host-suffix, rayark.download, category-games
 host-suffix, rayark.net, category-games
 host-suffix, speedrun.com, category-games
 host-suffix, spigotmc.org, category-games
 host-suffix, steamdb.info, category-games
+host-suffix, thunderstore.io, category-games
+host-suffix, thunderstore.org, category-games
+host-suffix, wplace.live, category-games
 host-suffix, candycrush.com, category-games
 host-suffix, king.com, category-games
 host-suffix, activisionblizzard.com, category-games
@@ -953,6 +958,7 @@ host-suffix, steamcontent.com, category-games
 host-suffix, steamconnecttest.com, category-games
 host-suffix, steamdeck.com, category-games
 host-suffix, steamgames.com, category-games
+host-suffix, steamos.cloud, category-games
 host-suffix, steampowered.com, category-games
 host-suffix, steamserver.net, category-games
 host-suffix, steamstatic.com, category-games
@@ -1089,6 +1095,7 @@ host-suffix, wgcrowd.io, category-games
 host-suffix, worldoftanks.com, category-games
 host-suffix, worldoftanks.eu, category-games
 host-suffix, worldofwarplanes.com, category-games
+host-suffix, worldofwarships.asia, category-games
 host-suffix, worldofwarships.com, category-games
 host-suffix, wotblitz.com, category-games
 host-suffix, wowsblitz.com, category-games
