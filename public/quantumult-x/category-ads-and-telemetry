@@ -8191,8 +8191,15 @@ host-suffix, ekahau.com, category-ads-and-telemetry
 host-suffix, ookla.com, category-ads-and-telemetry
 host-suffix, ooklaserver.net, category-ads-and-telemetry
 host-suffix, pingtest.net, category-ads-and-telemetry
+host-suffix, speedtest.app, category-ads-and-telemetry
+host-suffix, speedtest.cc, category-ads-and-telemetry
 host-suffix, speedtest.co, category-ads-and-telemetry
+host-suffix, speedtest.ee, category-ads-and-telemetry
+host-suffix, speedtest.in, category-ads-and-telemetry
+host-suffix, speedtest.me, category-ads-and-telemetry
 host-suffix, speedtest.net, category-ads-and-telemetry
+host-suffix, speedtest.ng, category-ads-and-telemetry
+host-suffix, speedtest.tv, category-ads-and-telemetry
 host-suffix, speedtestcustom.com, category-ads-and-telemetry
 host-suffix, webtest.net, category-ads-and-telemetry
 host, www.speedtest.net.cdn.cloudflare.net, category-ads-and-telemetry
