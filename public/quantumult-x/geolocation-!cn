@@ -5871,6 +5871,13 @@ host-suffix, makearmanotwar.com, geolocation-!cn
 host-suffix, silicagame.com, geolocation-!cn
 host-suffix, vigorgame.com, geolocation-!cn
 host-suffix, ylands.com, geolocation-!cn
+host-suffix, cdpred.services, geolocation-!cn
+host-suffix, cdprojekt.com, geolocation-!cn
+host-suffix, cdprojekt.red, geolocation-!cn
+host-suffix, cdprojektred.com, geolocation-!cn
+host-suffix, cyberpunk.net, geolocation-!cn
+host-suffix, playgwent.com, geolocation-!cn
+host-suffix, thewitcher.com, geolocation-!cn
 host-suffix, curseforge.com, geolocation-!cn
 host-suffix, forgecdn.net, geolocation-!cn
 host-suffix, cygames.jp, geolocation-!cn
@@ -17266,6 +17273,7 @@ host-suffix, 1password.ca, geolocation-!cn
 host-suffix, 1password.co, geolocation-!cn
 host-suffix, 1password.com, geolocation-!cn
 host-suffix, 1password.community, geolocation-!cn
+host-suffix, 1password.dev, geolocation-!cn
 host-suffix, 1password.eu, geolocation-!cn
 host-suffix, 1password.io, geolocation-!cn
 host-suffix, 1passwordservices.com, geolocation-!cn

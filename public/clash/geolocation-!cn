@@ -5871,6 +5871,13 @@ DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,vigorgame.com
 DOMAIN-SUFFIX,ylands.com
+DOMAIN-SUFFIX,cdpred.services
+DOMAIN-SUFFIX,cdprojekt.com
+DOMAIN-SUFFIX,cdprojekt.red
+DOMAIN-SUFFIX,cdprojektred.com
+DOMAIN-SUFFIX,cyberpunk.net
+DOMAIN-SUFFIX,playgwent.com
+DOMAIN-SUFFIX,thewitcher.com
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,cygames.jp
@@ -17266,6 +17273,7 @@ DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.co
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1password.community
+DOMAIN-SUFFIX,1password.dev
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.io
 DOMAIN-SUFFIX,1passwordservices.com
