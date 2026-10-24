@@ -10,7 +10,6 @@ host-suffix, elecfans.com, category-electronic-cn
 host-suffix, hqchip.com, category-electronic-cn
 host-suffix, hqdoc.com, category-electronic-cn
 host-suffix, hqpcb.com, category-electronic-cn
-host-suffix, infineon.cn, category-electronic-cn
 host-suffix, gosinoic.com, category-electronic-cn
 host-suffix, h3c.com, category-electronic-cn
 host-suffix, moedu.com, category-electronic-cn
@@ -25,10 +24,12 @@ host-suffix, unisemicon.com, category-electronic-cn
 host-suffix, unisoc.com, category-electronic-cn
 host-suffix, unispc.com, category-electronic-cn
 host-suffix, uniswdc.com, category-electronic-cn
-host-suffix, listenai.com, category-electronic-cn
+host-suffix, infineon.cn, category-electronic-cn
+host-suffix, iotronic.tech, category-electronic-cn
 host-suffix, quecmall.cn, category-electronic-cn
 host-suffix, quectel.com.cn, category-electronic-cn
-host-suffix, iotronic.tech, category-electronic-cn
+host-suffix, listenai.com, category-electronic-cn
+host-suffix, nanocorechip.com, category-electronic-cn
 host-suffix, rock-chips.com, category-electronic-cn
 host-suffix, seeed.cn, category-electronic-cn
 host-suffix, seeed.cc, category-electronic-cn

@@ -284,10 +284,17 @@ host-suffix, 12377.cn, cn
 host-suffix, gov.cn, cn
 host-suffix, mil.cn, cn
 host-suffix, acftu.org, cn
+host-suffix, bigdatacq.com, cn
 host-suffix, cgigc.com.cn, cn
 host-suffix, cma.cn, cn
 host-suffix, conac.cn, cn
+host-suffix, cqdcg.com, cn
+host-suffix, cqge.com.cn, cn
+host-suffix, cqsdlys.cn, cn
+host-suffix, cqyyxc.com, cn
+host-suffix, digitalcnzz.com, cn
 host-suffix, fnrrc.com, cn
+host-suffix, gpzshq.cn, cn
 host-suffix, nmc.cn, cn
 host-suffix, pbccrc.org.cn, cn
 host-suffix, piyao.org.cn, cn
@@ -360,6 +367,7 @@ host-suffix, 160.com, cn
 host-suffix, 53kf.com, cn
 host-suffix, 7moor-fs1.com, cn
 host-suffix, 7moor.com, cn
+host-suffix, aaej.cn, cn
 host-suffix, air-matters.com, cn
 host, api.blipsandchitz.me, cn
 host-suffix, alookweb.com, cn
@@ -421,6 +429,8 @@ host-suffix, ireader.com, cn
 host-suffix, zhangyue.com, cn
 host-suffix, zhangyue01.com, cn
 host-suffix, zhangyuecdn.com, cn
+host-suffix, isigning.cn, cn
+host-suffix, isigning.com, cn
 host-suffix, jobui.com, cn
 host-suffix, meishichina.com, cn
 host-suffix, meishitx.com, cn
@@ -431,7 +441,6 @@ host-suffix, paidui.com, cn
 host-suffix, sangfor.com.cn, cn
 host-suffix, sencdn.com, cn
 host-suffix, seniverse.com, cn
-host-suffix, shengwang.cn, cn
 host-suffix, shixiseng.com, cn
 host-suffix, sxsimg.com, cn
 host-suffix, xiaoyuanzhao.com, cn
@@ -563,6 +572,7 @@ host-suffix, chaziyu.com, cn
 host-suffix, fofa.info, cn
 host-suffix, i4.cn, cn
 host-suffix, icplishi.com, cn
+host-suffix, ip.cn, cn
 host-suffix, ip138.com, cn
 host-suffix, ipchaxun.com, cn
 host-suffix, ipchaxun.net, cn
@@ -1931,7 +1941,6 @@ host-suffix, elecfans.com, cn
 host-suffix, hqchip.com, cn
 host-suffix, hqdoc.com, cn
 host-suffix, hqpcb.com, cn
-host-suffix, infineon.cn, cn
 host-suffix, gosinoic.com, cn
 host-suffix, h3c.com, cn
 host-suffix, moedu.com, cn
@@ -1946,10 +1955,12 @@ host-suffix, unisemicon.com, cn
 host-suffix, unisoc.com, cn
 host-suffix, unispc.com, cn
 host-suffix, uniswdc.com, cn
-host-suffix, listenai.com, cn
+host-suffix, infineon.cn, cn
+host-suffix, iotronic.tech, cn
 host-suffix, quecmall.cn, cn
 host-suffix, quectel.com.cn, cn
-host-suffix, iotronic.tech, cn
+host-suffix, listenai.com, cn
+host-suffix, nanocorechip.com, cn
 host-suffix, rock-chips.com, cn
 host-suffix, seeed.cn, cn
 host-suffix, seeed.cc, cn
@@ -2317,7 +2328,6 @@ host-suffix, gcloudcstestonly.com, cn
 host-suffix, gclouddolphin.com, cn
 host-suffix, gcloudsdk.com, cn
 host-suffix, gcloudsvcs.com, cn
-host-suffix, gdtimg.com, cn
 host-suffix, goto-game.com, cn
 host-suffix, goto-game.mobi, cn
 host-suffix, goto-game.net.cn, cn
@@ -3938,14 +3948,18 @@ host-suffix, abchina.com, cn
 host-suffix, bankcomm.cn, cn
 host-suffix, bankcomm.com, cn
 host-suffix, bankofbeijing.com.cn, cn
+host-suffix, bocd.com.cn, cn
 host-suffix, bosc.cn, cn
 host-suffix, bsb.com.cn, cn
+host-suffix, cdrcb.com, cn
+host-suffix, cdrcbank.com, cn
 host-suffix, cebbank.com, cn
 host-suffix, cgbchina.com.cn, cn
 host-suffix, cib.com.cn, cn
 host-suffix, citibank.com.cn, cn
 host-suffix, cmbc.com.cn, cn
 host-suffix, hxb.com.cn, cn
+host-suffix, ibangbank.com, cn
 host-suffix, njcb.com.cn, cn
 host-suffix, psbc.com, cn
 host-suffix, spdb.com.cn, cn
@@ -5380,6 +5394,7 @@ host-suffix, aichaoxing.com, cn
 host-suffix, chaoxing.cc, cn
 host-suffix, chaoxing.com, cn
 host-suffix, chaoxingv.com, cn
+host-suffix, cldisk.com, cn
 host-suffix, cxbiji.com, cn
 host-suffix, dayainfo.com, cn
 host-suffix, hongbo100.com, cn
@@ -5402,6 +5417,7 @@ host-suffix, uonline-sh.net, cn
 host-suffix, xuexi365.com, cn
 host-suffix, xuexi365.com.cn, cn
 host-suffix, xuexi365.net, cn
+host-suffix, xuexitong.com, cn
 host-suffix, xxtmail.com, cn
 host-suffix, ylike.net, cn
 host-suffix, zaifan.com, cn
@@ -5422,8 +5438,8 @@ host-suffix, chaz.fun, cn
 host-suffix, huijistatic.com, cn
 host-suffix, huijiwiki.com, cn
 host-suffix, mcmod.cn, cn
-host-suffix, moegirl.org, cn
-host-suffix, moegirl.org.cn, cn
+host, app.moegirl.org.cn, cn
+host, storage.moegirl.org.cn, cn
 host-suffix, pwsannong.com, cn
 host-suffix, qiuwenbaike.cn, cn
 host-suffix, qiuwen.wiki, cn
@@ -5785,6 +5801,8 @@ host-suffix, ifdian.net, cn
 host-suffix, agora.io, cn
 host-suffix, agoraio.cn, cn
 host-suffix, agoralab.co, cn
+host-suffix, easemob.com, cn
+host-suffix, shengwang.cn, cn
 host-suffix, capitalonline.net, cn
 host-suffix, mirrors.yun-idc.com, cn
 host-suffix, chinaso.com, cn
@@ -8511,6 +8529,7 @@ host-suffix, btrace.qq.com, cn
 host-suffix, bugly.qq.com, cn
 host-suffix, e.qq.com, cn
 host-suffix, gdt.qq.com, cn
+host-suffix, gdtimg.com, cn
 host-suffix, hq-tracking.qq.com, cn
 host-suffix, htrace.wetvinfo.com, cn
 host-suffix, isdspeed.qq.com, cn
@@ -8955,7 +8974,6 @@ host-suffix, gcloudcstestonly.com, cn
 host-suffix, gclouddolphin.com, cn
 host-suffix, gcloudsdk.com, cn
 host-suffix, gcloudsvcs.com, cn
-host-suffix, gdtimg.com, cn
 host-suffix, goto-game.com, cn
 host-suffix, goto-game.mobi, cn
 host-suffix, goto-game.net.cn, cn

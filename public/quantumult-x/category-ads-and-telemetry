@@ -2795,7 +2795,6 @@ host-suffix, icloud-content.com.cn, category-ads-and-telemetry
 host-suffix, icloud-isupport.com, category-ads-and-telemetry
 host-suffix, icloud-sandbox.com, category-ads-and-telemetry
 host-suffix, icloud.ch, category-ads-and-telemetry
-host-suffix, icloud.cn, category-ads-and-telemetry
 host-suffix, icloud.com, category-ads-and-telemetry
 host-suffix, icloud.com.cn, category-ads-and-telemetry
 host-suffix, icloud.de, category-ads-and-telemetry
@@ -8822,6 +8821,7 @@ host-suffix, btrace.qq.com, category-ads-and-telemetry
 host-suffix, bugly.qq.com, category-ads-and-telemetry
 host-suffix, e.qq.com, category-ads-and-telemetry
 host-suffix, gdt.qq.com, category-ads-and-telemetry
+host-suffix, gdtimg.com, category-ads-and-telemetry
 host-suffix, hq-tracking.qq.com, category-ads-and-telemetry
 host-suffix, htrace.wetvinfo.com, category-ads-and-telemetry
 host-suffix, isdspeed.qq.com, category-ads-and-telemetry
@@ -9266,7 +9266,6 @@ host-suffix, gcloudcstestonly.com, category-ads-and-telemetry
 host-suffix, gclouddolphin.com, category-ads-and-telemetry
 host-suffix, gcloudsdk.com, category-ads-and-telemetry
 host-suffix, gcloudsvcs.com, category-ads-and-telemetry
-host-suffix, gdtimg.com, category-ads-and-telemetry
 host-suffix, goto-game.com, category-ads-and-telemetry
 host-suffix, goto-game.mobi, category-ads-and-telemetry
 host-suffix, goto-game.net.cn, category-ads-and-telemetry

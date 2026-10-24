@@ -2816,7 +2816,6 @@ host-suffix, icloud-content.com.cn, category-ads-all
 host-suffix, icloud-isupport.com, category-ads-all
 host-suffix, icloud-sandbox.com, category-ads-all
 host-suffix, icloud.ch, category-ads-all
-host-suffix, icloud.cn, category-ads-all
 host-suffix, icloud.com, category-ads-all
 host-suffix, icloud.com.cn, category-ads-all
 host-suffix, icloud.de, category-ads-all
@@ -8843,6 +8842,7 @@ host-suffix, btrace.qq.com, category-ads-all
 host-suffix, bugly.qq.com, category-ads-all
 host-suffix, e.qq.com, category-ads-all
 host-suffix, gdt.qq.com, category-ads-all
+host-suffix, gdtimg.com, category-ads-all
 host-suffix, hq-tracking.qq.com, category-ads-all
 host-suffix, htrace.wetvinfo.com, category-ads-all
 host-suffix, isdspeed.qq.com, category-ads-all
@@ -9287,7 +9287,6 @@ host-suffix, gcloudcstestonly.com, category-ads-all
 host-suffix, gclouddolphin.com, category-ads-all
 host-suffix, gcloudsdk.com, category-ads-all
 host-suffix, gcloudsvcs.com, category-ads-all
-host-suffix, gdtimg.com, category-ads-all
 host-suffix, goto-game.com, category-ads-all
 host-suffix, goto-game.mobi, category-ads-all
 host-suffix, goto-game.net.cn, category-ads-all

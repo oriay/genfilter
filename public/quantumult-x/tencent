@@ -111,6 +111,7 @@ host-suffix, btrace.qq.com, tencent
 host-suffix, bugly.qq.com, tencent
 host-suffix, e.qq.com, tencent
 host-suffix, gdt.qq.com, tencent
+host-suffix, gdtimg.com, tencent
 host-suffix, hq-tracking.qq.com, tencent
 host-suffix, htrace.wetvinfo.com, tencent
 host-suffix, isdspeed.qq.com, tencent
@@ -555,7 +556,6 @@ host-suffix, gcloudcstestonly.com, tencent
 host-suffix, gclouddolphin.com, tencent
 host-suffix, gcloudsdk.com, tencent
 host-suffix, gcloudsvcs.com, tencent
-host-suffix, gdtimg.com, tencent
 host-suffix, goto-game.com, tencent
 host-suffix, goto-game.mobi, tencent
 host-suffix, goto-game.net.cn, tencent
