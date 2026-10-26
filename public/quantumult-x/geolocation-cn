@@ -354,6 +354,7 @@ host-suffix, dui88.com, geolocation-cn
 host-suffix, duiba.com.cn, geolocation-cn
 host-suffix, easyliao.com, geolocation-cn
 host-suffix, faceid.com, geolocation-cn
+host-suffix, filmorigin.com, geolocation-cn
 host-suffix, finclip.com, geolocation-cn
 host-suffix, foundertype.com, geolocation-cn
 host-suffix, fxbaogao.com, geolocation-cn
@@ -5381,7 +5382,6 @@ host-suffix, wanfangdata.com.cn, geolocation-cn
 host-suffix, wf.pub, geolocation-cn
 host-suffix, allhistory.com, geolocation-cn
 host-suffix, fgo.wiki, geolocation-cn
-host-suffix, jikipedia.com, geolocation-cn
 host-suffix, mbalib.com, geolocation-cn
 host-suffix, sec-wiki.com, geolocation-cn
 host-suffix, shidianbaike.com, geolocation-cn
@@ -5467,6 +5467,7 @@ host-suffix, zhiexa.com, geolocation-cn
 host-suffix, linka2a.net, geolocation-cn
 host-suffix, yzsgo.com, geolocation-cn
 host-suffix, shunjing.xin, geolocation-cn
+host-suffix, kakaxing.com, geolocation-cn
 host-suffix, askdiandian.com, geolocation-cn
 host-suffix, diandianlife.top, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn
@@ -8125,6 +8126,7 @@ host-suffix, mideaepayuat.com, geolocation-cn
 host-suffix, msmartlife.cn, geolocation-cn
 host-suffix, msmartlife.com, geolocation-cn
 host-suffix, smartmidea.net, geolocation-cn
+host-suffix, xiaomaigui.com, geolocation-cn
 host-suffix, narwal.com, geolocation-cn
 host-suffix, narwaltech.com, geolocation-cn
 host-suffix, 126.com, geolocation-cn

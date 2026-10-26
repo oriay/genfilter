@@ -123,6 +123,9 @@ host-suffix, gemini.google.com, category-ai-chat-!cn
 host-suffix, gemini.gstatic.com, category-ai-chat-!cn
 host, geminiweb-pa.clients.google.com, category-ai-chat-!cn
 host, geminiweb-pa.clients6.google.com, category-ai-chat-!cn
+host, appsgenaiserver-pa.clients.google.com, category-ai-chat-!cn
+host, appsgenaiserver-pa.clients6.google.com, category-ai-chat-!cn
+host, appsgenaiserver-pa.googleapis.com, category-ai-chat-!cn
 host, cloudaicompanion.googleapis.com, category-ai-chat-!cn
 host, cloudcode-pa.googleapis.com, category-ai-chat-!cn
 host, daily-cloudcode-pa.googleapis.com, category-ai-chat-!cn

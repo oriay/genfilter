@@ -80,6 +80,7 @@ host-suffix, cosmosdb.net, azure
 host-suffix, devopsms.com, azure
 host-suffix, gotcosmos.com, azure
 host-suffix, hdinsightservices.cn, azure
+host-suffix, in.applicationinsights.azure.com, azure
 host-suffix, management-azure-devices-int.net, azure
 host-suffix, management-azure-devices-provisioning.cn, azure
 host-suffix, management-azure-devices.cn, azure
@@ -134,6 +135,8 @@ host-suffix, azchcdnr.com, azure
 host-suffix, azchcdns.com, azure
 host, azure.microsoft.com, azure
 host, azuremarketplace.microsoft.com, azure
+host, dc.applicationinsights.azure.com, azure
+host, live.applicationinsights.azure.com, azure
 host-suffix, azure-dns.cn, azure
 host-suffix, azure-dns.com, azure
 host-suffix, azure-dns.info, azure

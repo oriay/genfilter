@@ -781,6 +781,9 @@ host-suffix, gemini.google.com, google
 host-suffix, gemini.gstatic.com, google
 host, geminiweb-pa.clients.google.com, google
 host, geminiweb-pa.clients6.google.com, google
+host, appsgenaiserver-pa.clients.google.com, google
+host, appsgenaiserver-pa.clients6.google.com, google
+host, appsgenaiserver-pa.googleapis.com, google
 host, cloudaicompanion.googleapis.com, google
 host, cloudcode-pa.googleapis.com, google
 host, daily-cloudcode-pa.googleapis.com, google

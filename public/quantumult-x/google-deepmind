@@ -18,6 +18,9 @@ host-suffix, gemini.google.com, google-deepmind
 host-suffix, gemini.gstatic.com, google-deepmind
 host, geminiweb-pa.clients.google.com, google-deepmind
 host, geminiweb-pa.clients6.google.com, google-deepmind
+host, appsgenaiserver-pa.clients.google.com, google-deepmind
+host, appsgenaiserver-pa.clients6.google.com, google-deepmind
+host, appsgenaiserver-pa.googleapis.com, google-deepmind
 host, cloudaicompanion.googleapis.com, google-deepmind
 host, cloudcode-pa.googleapis.com, google-deepmind
 host, daily-cloudcode-pa.googleapis.com, google-deepmind

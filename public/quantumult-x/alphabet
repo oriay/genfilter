@@ -791,6 +791,9 @@ host-suffix, gemini.google.com, alphabet
 host-suffix, gemini.gstatic.com, alphabet
 host, geminiweb-pa.clients.google.com, alphabet
 host, geminiweb-pa.clients6.google.com, alphabet
+host, appsgenaiserver-pa.clients.google.com, alphabet
+host, appsgenaiserver-pa.clients6.google.com, alphabet
+host, appsgenaiserver-pa.googleapis.com, alphabet
 host, cloudaicompanion.googleapis.com, alphabet
 host, cloudcode-pa.googleapis.com, alphabet
 host, daily-cloudcode-pa.googleapis.com, alphabet

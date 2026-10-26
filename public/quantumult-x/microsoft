@@ -67,6 +67,7 @@ host-suffix, cortanaskills.com, microsoft
 host-suffix, crmdynint-gcc.com, microsoft
 host-suffix, crmdynint.com, microsoft
 host-suffix, crossborderexpansion.com, microsoft
+host-suffix, data.microsoft.com, microsoft
 host-suffix, docs.com, microsoft
 host-suffix, dynamics.cn, microsoft
 host-suffix, dynamics.com, microsoft
@@ -254,6 +255,7 @@ host-suffix, t-msedge.net, microsoft
 host-suffix, tailwindtraders.com, microsoft
 host-suffix, techhub.ms, microsoft
 host-suffix, tfsallin.net, microsoft
+host-suffix, telemetry.microsoft.com, microsoft
 host-suffix, translatetheweb.com, microsoft
 host-suffix, unlocklimitlesslearning.com, microsoft
 host-suffix, userpxt.io, microsoft
@@ -423,6 +425,7 @@ host-suffix, cosmosdb.net, microsoft
 host-suffix, devopsms.com, microsoft
 host-suffix, gotcosmos.com, microsoft
 host-suffix, hdinsightservices.cn, microsoft
+host-suffix, in.applicationinsights.azure.com, microsoft
 host-suffix, management-azure-devices-int.net, microsoft
 host-suffix, management-azure-devices-provisioning.cn, microsoft
 host-suffix, management-azure-devices.cn, microsoft
@@ -477,6 +480,8 @@ host-suffix, azchcdnr.com, microsoft
 host-suffix, azchcdns.com, microsoft
 host, azure.microsoft.com, microsoft
 host, azuremarketplace.microsoft.com, microsoft
+host, dc.applicationinsights.azure.com, microsoft
+host, live.applicationinsights.azure.com, microsoft
 host-suffix, azure-dns.cn, microsoft
 host-suffix, azure-dns.com, microsoft
 host-suffix, azure-dns.info, microsoft
@@ -657,6 +662,7 @@ host-suffix, vscodeedu.com, microsoft
 host-suffix, xamarin.com, microsoft
 host, az764295.vo.msecnd.net, microsoft
 host, bingsettingssearch.trafficmanager.net, microsoft
+host, dc.services.visualstudio.com, microsoft
 host, default.exp-tas.com, microsoft
 host, developer.microsoft.com, microsoft
 host, download.visualstudio.microsoft.com, microsoft
@@ -666,6 +672,7 @@ host, poshtestgallery.cloudapp.net, microsoft
 host, psg-int-centralus.cloudapp.net, microsoft
 host, psg-int-eastus.cloudapp.net, microsoft
 host, rink.hockeyapp.net, microsoft
+host, rt.services.visualstudio.com, microsoft
 host, vscode-sync-insiders.trafficmanager.net, microsoft
 host, vscode-sync.trafficmanager.net, microsoft
 host, vscode.blob.core.windows.net, microsoft

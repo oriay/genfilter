@@ -161,6 +161,9 @@ host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, gemini.gstatic.com, geolocation-!cn
 host, geminiweb-pa.clients.google.com, geolocation-!cn
 host, geminiweb-pa.clients6.google.com, geolocation-!cn
+host, appsgenaiserver-pa.clients.google.com, geolocation-!cn
+host, appsgenaiserver-pa.clients6.google.com, geolocation-!cn
+host, appsgenaiserver-pa.googleapis.com, geolocation-!cn
 host, cloudaicompanion.googleapis.com, geolocation-!cn
 host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
@@ -7350,7 +7353,7 @@ host-suffix, netflixdnstest7.com, geolocation-!cn
 host-suffix, netflixdnstest8.com, geolocation-!cn
 host-suffix, netflixdnstest9.com, geolocation-!cn
 host-suffix, netflixdnstest10.com, geolocation-!cn
-host, netflix.com.edgesuite.net, geolocation-!cn
+host-suffix, netflix.com.edgesuite.net, geolocation-!cn
 host-suffix, nico, geolocation-!cn
 host-suffix, nico.ms, geolocation-!cn
 host-suffix, nicochannel.jp, geolocation-!cn
@@ -7479,9 +7482,9 @@ host, audio4-ak-spotify-com.akamaized.net, geolocation-!cn
 host, cdn-spotify-experiments.conductrics.com, geolocation-!cn
 host, heads-ak-spotify-com.akamaized.net, geolocation-!cn
 host, heads4-ak-spotify-com.akamaized.net, geolocation-!cn
-host, spotify.com.edgesuite.net, geolocation-!cn
 host, spotify.map.fastly.net, geolocation-!cn
 host, spotify.map.fastlylb.net, geolocation-!cn
+host-suffix, spotify.com.edgesuite.net, geolocation-!cn
 host, adeventtracker.spotify.com, geolocation-!cn
 host, adstudio-assets.scdn.co, geolocation-!cn
 host, bloodhound.spotify.com, geolocation-!cn
@@ -17079,7 +17082,6 @@ host-suffix, floorp.app, geolocation-!cn
 host-suffix, iridiumbrowser.de, geolocation-!cn
 host-suffix, kiwibrowser.com, geolocation-!cn
 host-suffix, kmeleonbrowser.org, geolocation-!cn
-host-suffix, librewolf.net, geolocation-!cn
 host-suffix, minbrowser.org, geolocation-!cn
 host-suffix, netsurf-browser.org, geolocation-!cn
 host-suffix, opera.com, geolocation-!cn
@@ -17100,6 +17102,8 @@ host-suffix, firefoxtweetmachine.com, geolocation-!cn
 host-suffix, firefoxusercontent.com, geolocation-!cn
 host, mozilla-ohttp.fastly-edge.com, geolocation-!cn
 host, mozilla.map.fastly.net, geolocation-!cn
+host-suffix, librewolf.dev, geolocation-!cn
+host-suffix, librewolf.net, geolocation-!cn
 host-suffix, torproject.org, geolocation-!cn
 host-suffix, appconsent.io, geolocation-!cn
 host-suffix, axept.io, geolocation-!cn
@@ -17571,33 +17575,6 @@ host-suffix, startpage.com, geolocation-!cn
 host-suffix, ixquick.com, geolocation-!cn
 host-suffix, steemit.com, geolocation-!cn
 host-suffix, svp-team.com, geolocation-!cn
-host-suffix, ams2.test-ipv6.com, geolocation-!cn
-host-suffix, fra.test-ipv6.com, geolocation-!cn
-host-suffix, sixte.st, geolocation-!cn
-host-suffix, test-ipv6.alpinedc.ch, geolocation-!cn
-host-suffix, test-ipv6.arauc.br, geolocation-!cn
-host-suffix, test-ipv6.belwue.net, geolocation-!cn
-host-suffix, test-ipv6.carnet.hr, geolocation-!cn
-host-suffix, test-ipv6.cl, geolocation-!cn
-host-suffix, test-ipv6.com, geolocation-!cn
-host-suffix, test-ipv6.cs.umd.edu, geolocation-!cn
-host-suffix, test-ipv6.csclub.uwaterloo.ca, geolocation-!cn
-host-suffix, test-ipv6.cz, geolocation-!cn
-host-suffix, test-ipv6.epic.network, geolocation-!cn
-host-suffix, test-ipv6.fratec.net, geolocation-!cn
-host-suffix, test-ipv6.freerangecloud.com, geolocation-!cn
-host-suffix, test-ipv6.go6.si, geolocation-!cn
-host-suffix, test-ipv6.hu, geolocation-!cn
-host-suffix, test-ipv6.is, geolocation-!cn
-host-suffix, test-ipv6.iu13.net, geolocation-!cn
-host-suffix, test-ipv6.ke.liquidtelecom.net, geolocation-!cn
-host-suffix, test-ipv6.noroutetohost.net, geolocation-!cn
-host-suffix, test-ipv6.roedu.net, geolocation-!cn
-host-suffix, test-ipv6.se, geolocation-!cn
-host-suffix, test-ipv6.sin.vr.org, geolocation-!cn
-host-suffix, test-ipv6.ttk.ru, geolocation-!cn
-host-suffix, testipv6.de, geolocation-!cn
-host-suffix, testipv6.cn, geolocation-!cn
 host-suffix, ctan.org, geolocation-!cn
 host-suffix, latex-project.org, geolocation-!cn
 host-suffix, miktex.org, geolocation-!cn
@@ -18210,6 +18187,7 @@ host-suffix, vscodeedu.com, geolocation-!cn
 host-suffix, xamarin.com, geolocation-!cn
 host, az764295.vo.msecnd.net, geolocation-!cn
 host, bingsettingssearch.trafficmanager.net, geolocation-!cn
+host, dc.services.visualstudio.com, geolocation-!cn
 host, default.exp-tas.com, geolocation-!cn
 host, developer.microsoft.com, geolocation-!cn
 host, download.visualstudio.microsoft.com, geolocation-!cn
@@ -18219,6 +18197,7 @@ host, poshtestgallery.cloudapp.net, geolocation-!cn
 host, psg-int-centralus.cloudapp.net, geolocation-!cn
 host, psg-int-eastus.cloudapp.net, geolocation-!cn
 host, rink.hockeyapp.net, geolocation-!cn
+host, rt.services.visualstudio.com, geolocation-!cn
 host, vscode-sync-insiders.trafficmanager.net, geolocation-!cn
 host, vscode-sync.trafficmanager.net, geolocation-!cn
 host, vscode.blob.core.windows.net, geolocation-!cn
@@ -19441,6 +19420,9 @@ host-suffix, gemini.google.com, geolocation-!cn
 host-suffix, gemini.gstatic.com, geolocation-!cn
 host, geminiweb-pa.clients.google.com, geolocation-!cn
 host, geminiweb-pa.clients6.google.com, geolocation-!cn
+host, appsgenaiserver-pa.clients.google.com, geolocation-!cn
+host, appsgenaiserver-pa.clients6.google.com, geolocation-!cn
+host, appsgenaiserver-pa.googleapis.com, geolocation-!cn
 host, cloudaicompanion.googleapis.com, geolocation-!cn
 host, cloudcode-pa.googleapis.com, geolocation-!cn
 host, daily-cloudcode-pa.googleapis.com, geolocation-!cn
@@ -25187,6 +25169,7 @@ host-suffix, cortanaskills.com, geolocation-!cn
 host-suffix, crmdynint-gcc.com, geolocation-!cn
 host-suffix, crmdynint.com, geolocation-!cn
 host-suffix, crossborderexpansion.com, geolocation-!cn
+host-suffix, data.microsoft.com, geolocation-!cn
 host-suffix, docs.com, geolocation-!cn
 host-suffix, dynamics.cn, geolocation-!cn
 host-suffix, dynamics.com, geolocation-!cn
@@ -25374,6 +25357,7 @@ host-suffix, t-msedge.net, geolocation-!cn
 host-suffix, tailwindtraders.com, geolocation-!cn
 host-suffix, techhub.ms, geolocation-!cn
 host-suffix, tfsallin.net, geolocation-!cn
+host-suffix, telemetry.microsoft.com, geolocation-!cn
 host-suffix, translatetheweb.com, geolocation-!cn
 host-suffix, unlocklimitlesslearning.com, geolocation-!cn
 host-suffix, userpxt.io, geolocation-!cn
@@ -25543,6 +25527,7 @@ host-suffix, cosmosdb.net, geolocation-!cn
 host-suffix, devopsms.com, geolocation-!cn
 host-suffix, gotcosmos.com, geolocation-!cn
 host-suffix, hdinsightservices.cn, geolocation-!cn
+host-suffix, in.applicationinsights.azure.com, geolocation-!cn
 host-suffix, management-azure-devices-int.net, geolocation-!cn
 host-suffix, management-azure-devices-provisioning.cn, geolocation-!cn
 host-suffix, management-azure-devices.cn, geolocation-!cn
@@ -25597,6 +25582,8 @@ host-suffix, azchcdnr.com, geolocation-!cn
 host-suffix, azchcdns.com, geolocation-!cn
 host, azure.microsoft.com, geolocation-!cn
 host, azuremarketplace.microsoft.com, geolocation-!cn
+host, dc.applicationinsights.azure.com, geolocation-!cn
+host, live.applicationinsights.azure.com, geolocation-!cn
 host-suffix, azure-dns.cn, geolocation-!cn
 host-suffix, azure-dns.com, geolocation-!cn
 host-suffix, azure-dns.info, geolocation-!cn
@@ -25777,6 +25764,7 @@ host-suffix, vscodeedu.com, geolocation-!cn
 host-suffix, xamarin.com, geolocation-!cn
 host, az764295.vo.msecnd.net, geolocation-!cn
 host, bingsettingssearch.trafficmanager.net, geolocation-!cn
+host, dc.services.visualstudio.com, geolocation-!cn
 host, default.exp-tas.com, geolocation-!cn
 host, developer.microsoft.com, geolocation-!cn
 host, download.visualstudio.microsoft.com, geolocation-!cn
@@ -25786,6 +25774,7 @@ host, poshtestgallery.cloudapp.net, geolocation-!cn
 host, psg-int-centralus.cloudapp.net, geolocation-!cn
 host, psg-int-eastus.cloudapp.net, geolocation-!cn
 host, rink.hockeyapp.net, geolocation-!cn
+host, rt.services.visualstudio.com, geolocation-!cn
 host, vscode-sync-insiders.trafficmanager.net, geolocation-!cn
 host, vscode-sync.trafficmanager.net, geolocation-!cn
 host, vscode.blob.core.windows.net, geolocation-!cn

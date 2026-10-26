@@ -531,6 +531,7 @@ host-suffix, vscodeedu.com, category-dev
 host-suffix, xamarin.com, category-dev
 host, az764295.vo.msecnd.net, category-dev
 host, bingsettingssearch.trafficmanager.net, category-dev
+host, dc.services.visualstudio.com, category-dev
 host, default.exp-tas.com, category-dev
 host, developer.microsoft.com, category-dev
 host, download.visualstudio.microsoft.com, category-dev
@@ -540,6 +541,7 @@ host, poshtestgallery.cloudapp.net, category-dev
 host, psg-int-centralus.cloudapp.net, category-dev
 host, psg-int-eastus.cloudapp.net, category-dev
 host, rink.hockeyapp.net, category-dev
+host, rt.services.visualstudio.com, category-dev
 host, vscode-sync-insiders.trafficmanager.net, category-dev
 host, vscode-sync.trafficmanager.net, category-dev
 host, vscode.blob.core.windows.net, category-dev

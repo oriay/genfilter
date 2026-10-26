@@ -1700,7 +1700,7 @@ host-suffix, netflixdnstest7.com, category-entertainment
 host-suffix, netflixdnstest8.com, category-entertainment
 host-suffix, netflixdnstest9.com, category-entertainment
 host-suffix, netflixdnstest10.com, category-entertainment
-host, netflix.com.edgesuite.net, category-entertainment
+host-suffix, netflix.com.edgesuite.net, category-entertainment
 host-suffix, nico, category-entertainment
 host-suffix, nico.ms, category-entertainment
 host-suffix, nicochannel.jp, category-entertainment
@@ -1829,9 +1829,9 @@ host, audio4-ak-spotify-com.akamaized.net, category-entertainment
 host, cdn-spotify-experiments.conductrics.com, category-entertainment
 host, heads-ak-spotify-com.akamaized.net, category-entertainment
 host, heads4-ak-spotify-com.akamaized.net, category-entertainment
-host, spotify.com.edgesuite.net, category-entertainment
 host, spotify.map.fastly.net, category-entertainment
 host, spotify.map.fastlylb.net, category-entertainment
+host-suffix, spotify.com.edgesuite.net, category-entertainment
 host, adeventtracker.spotify.com, category-entertainment
 host, adstudio-assets.scdn.co, category-entertainment
 host, bloodhound.spotify.com, category-entertainment

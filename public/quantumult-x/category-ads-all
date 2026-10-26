@@ -5336,6 +5336,9 @@ host-suffix, gemini.google.com, category-ads-all
 host-suffix, gemini.gstatic.com, category-ads-all
 host, geminiweb-pa.clients.google.com, category-ads-all
 host, geminiweb-pa.clients6.google.com, category-ads-all
+host, appsgenaiserver-pa.clients.google.com, category-ads-all
+host, appsgenaiserver-pa.clients6.google.com, category-ads-all
+host, appsgenaiserver-pa.googleapis.com, category-ads-all
 host, cloudaicompanion.googleapis.com, category-ads-all
 host, cloudcode-pa.googleapis.com, category-ads-all
 host, daily-cloudcode-pa.googleapis.com, category-ads-all
@@ -7319,6 +7322,7 @@ host-suffix, cortanaskills.com, category-ads-all
 host-suffix, crmdynint-gcc.com, category-ads-all
 host-suffix, crmdynint.com, category-ads-all
 host-suffix, crossborderexpansion.com, category-ads-all
+host-suffix, data.microsoft.com, category-ads-all
 host-suffix, docs.com, category-ads-all
 host-suffix, dynamics.cn, category-ads-all
 host-suffix, dynamics.com, category-ads-all
@@ -7506,6 +7510,7 @@ host-suffix, t-msedge.net, category-ads-all
 host-suffix, tailwindtraders.com, category-ads-all
 host-suffix, techhub.ms, category-ads-all
 host-suffix, tfsallin.net, category-ads-all
+host-suffix, telemetry.microsoft.com, category-ads-all
 host-suffix, translatetheweb.com, category-ads-all
 host-suffix, unlocklimitlesslearning.com, category-ads-all
 host-suffix, userpxt.io, category-ads-all
@@ -7675,6 +7680,7 @@ host-suffix, cosmosdb.net, category-ads-all
 host-suffix, devopsms.com, category-ads-all
 host-suffix, gotcosmos.com, category-ads-all
 host-suffix, hdinsightservices.cn, category-ads-all
+host-suffix, in.applicationinsights.azure.com, category-ads-all
 host-suffix, management-azure-devices-int.net, category-ads-all
 host-suffix, management-azure-devices-provisioning.cn, category-ads-all
 host-suffix, management-azure-devices.cn, category-ads-all
@@ -7729,6 +7735,8 @@ host-suffix, azchcdnr.com, category-ads-all
 host-suffix, azchcdns.com, category-ads-all
 host, azure.microsoft.com, category-ads-all
 host, azuremarketplace.microsoft.com, category-ads-all
+host, dc.applicationinsights.azure.com, category-ads-all
+host, live.applicationinsights.azure.com, category-ads-all
 host-suffix, azure-dns.cn, category-ads-all
 host-suffix, azure-dns.com, category-ads-all
 host-suffix, azure-dns.info, category-ads-all
@@ -7909,6 +7917,7 @@ host-suffix, vscodeedu.com, category-ads-all
 host-suffix, xamarin.com, category-ads-all
 host, az764295.vo.msecnd.net, category-ads-all
 host, bingsettingssearch.trafficmanager.net, category-ads-all
+host, dc.services.visualstudio.com, category-ads-all
 host, default.exp-tas.com, category-ads-all
 host, developer.microsoft.com, category-ads-all
 host, download.visualstudio.microsoft.com, category-ads-all
@@ -7918,6 +7927,7 @@ host, poshtestgallery.cloudapp.net, category-ads-all
 host, psg-int-centralus.cloudapp.net, category-ads-all
 host, psg-int-eastus.cloudapp.net, category-ads-all
 host, rink.hockeyapp.net, category-ads-all
+host, rt.services.visualstudio.com, category-ads-all
 host, vscode-sync-insiders.trafficmanager.net, category-ads-all
 host, vscode-sync.trafficmanager.net, category-ads-all
 host, vscode.blob.core.windows.net, category-ads-all
@@ -8711,9 +8721,9 @@ host, audio4-ak-spotify-com.akamaized.net, category-ads-all
 host, cdn-spotify-experiments.conductrics.com, category-ads-all
 host, heads-ak-spotify-com.akamaized.net, category-ads-all
 host, heads4-ak-spotify-com.akamaized.net, category-ads-all
-host, spotify.com.edgesuite.net, category-ads-all
 host, spotify.map.fastly.net, category-ads-all
 host, spotify.map.fastlylb.net, category-ads-all
+host-suffix, spotify.com.edgesuite.net, category-ads-all
 host, adeventtracker.spotify.com, category-ads-all
 host, adstudio-assets.scdn.co, category-ads-all
 host, bloodhound.spotify.com, category-ads-all

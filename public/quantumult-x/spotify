@@ -20,9 +20,9 @@ host, audio4-ak-spotify-com.akamaized.net, spotify
 host, cdn-spotify-experiments.conductrics.com, spotify
 host, heads-ak-spotify-com.akamaized.net, spotify
 host, heads4-ak-spotify-com.akamaized.net, spotify
-host, spotify.com.edgesuite.net, spotify
 host, spotify.map.fastly.net, spotify
 host, spotify.map.fastlylb.net, spotify
+host-suffix, spotify.com.edgesuite.net, spotify
 host, adeventtracker.spotify.com, spotify
 host, adstudio-assets.scdn.co, spotify
 host, bloodhound.spotify.com, spotify

@@ -1084,6 +1084,9 @@ host-suffix, gemini.google.com, category-companies
 host-suffix, gemini.gstatic.com, category-companies
 host, geminiweb-pa.clients.google.com, category-companies
 host, geminiweb-pa.clients6.google.com, category-companies
+host, appsgenaiserver-pa.clients.google.com, category-companies
+host, appsgenaiserver-pa.clients6.google.com, category-companies
+host, appsgenaiserver-pa.googleapis.com, category-companies
 host, cloudaicompanion.googleapis.com, category-companies
 host, cloudcode-pa.googleapis.com, category-companies
 host, daily-cloudcode-pa.googleapis.com, category-companies
@@ -6830,6 +6833,7 @@ host-suffix, cortanaskills.com, category-companies
 host-suffix, crmdynint-gcc.com, category-companies
 host-suffix, crmdynint.com, category-companies
 host-suffix, crossborderexpansion.com, category-companies
+host-suffix, data.microsoft.com, category-companies
 host-suffix, docs.com, category-companies
 host-suffix, dynamics.cn, category-companies
 host-suffix, dynamics.com, category-companies
@@ -7017,6 +7021,7 @@ host-suffix, t-msedge.net, category-companies
 host-suffix, tailwindtraders.com, category-companies
 host-suffix, techhub.ms, category-companies
 host-suffix, tfsallin.net, category-companies
+host-suffix, telemetry.microsoft.com, category-companies
 host-suffix, translatetheweb.com, category-companies
 host-suffix, unlocklimitlesslearning.com, category-companies
 host-suffix, userpxt.io, category-companies
@@ -7186,6 +7191,7 @@ host-suffix, cosmosdb.net, category-companies
 host-suffix, devopsms.com, category-companies
 host-suffix, gotcosmos.com, category-companies
 host-suffix, hdinsightservices.cn, category-companies
+host-suffix, in.applicationinsights.azure.com, category-companies
 host-suffix, management-azure-devices-int.net, category-companies
 host-suffix, management-azure-devices-provisioning.cn, category-companies
 host-suffix, management-azure-devices.cn, category-companies
@@ -7240,6 +7246,8 @@ host-suffix, azchcdnr.com, category-companies
 host-suffix, azchcdns.com, category-companies
 host, azure.microsoft.com, category-companies
 host, azuremarketplace.microsoft.com, category-companies
+host, dc.applicationinsights.azure.com, category-companies
+host, live.applicationinsights.azure.com, category-companies
 host-suffix, azure-dns.cn, category-companies
 host-suffix, azure-dns.com, category-companies
 host-suffix, azure-dns.info, category-companies
@@ -7420,6 +7428,7 @@ host-suffix, vscodeedu.com, category-companies
 host-suffix, xamarin.com, category-companies
 host, az764295.vo.msecnd.net, category-companies
 host, bingsettingssearch.trafficmanager.net, category-companies
+host, dc.services.visualstudio.com, category-companies
 host, default.exp-tas.com, category-companies
 host, developer.microsoft.com, category-companies
 host, download.visualstudio.microsoft.com, category-companies
@@ -7429,6 +7438,7 @@ host, poshtestgallery.cloudapp.net, category-companies
 host, psg-int-centralus.cloudapp.net, category-companies
 host, psg-int-eastus.cloudapp.net, category-companies
 host, rink.hockeyapp.net, category-companies
+host, rt.services.visualstudio.com, category-companies
 host, vscode-sync-insiders.trafficmanager.net, category-companies
 host, vscode-sync.trafficmanager.net, category-companies
 host, vscode.blob.core.windows.net, category-companies
