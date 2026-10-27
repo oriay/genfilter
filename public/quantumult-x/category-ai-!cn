@@ -15,12 +15,17 @@ host-suffix, kimi.ai, category-ai-!cn
 host-suffix, moonshot.ai, category-ai-!cn
 host-suffix, meta.ai, category-ai-!cn
 host-suffix, metaaivm.com, category-ai-!cn
+host-suffix, metaaiusercontent.com, category-ai-!cn
 host-suffix, muse.ai, category-ai-!cn
 host-suffix, agentclientprotocol.com, category-ai-!cn
 host-suffix, anythingllm.com, category-ai-!cn
 host-suffix, arena.ai, category-ai-!cn
+host-suffix, artificialanalysis.ai, category-ai-!cn
 host-suffix, chutes.ai, category-ai-!cn
 host-suffix, clawhub.ai, category-ai-!cn
+host-suffix, cline.bot, category-ai-!cn
+host-suffix, commandcode.ai, category-ai-!cn
+host-suffix, context7.com, category-ai-!cn
 host-suffix, crewai.com, category-ai-!cn
 host-suffix, devin.ai, category-ai-!cn
 host-suffix, diabrowser.com, category-ai-!cn
@@ -40,6 +45,7 @@ host-suffix, minimax.io, category-ai-!cn
 host-suffix, mistral.ai, category-ai-!cn
 host-suffix, mozilla.ai, category-ai-!cn
 host-suffix, notegpt.io, category-ai-!cn
+host-suffix, nousresearch.com, category-ai-!cn
 host-suffix, novelai.net, category-ai-!cn
 host-suffix, ollama.com, category-ai-!cn
 host-suffix, openart.ai, category-ai-!cn

@@ -689,13 +689,15 @@ host, api-edge.apps.apple.com, apple
 host, communities.apple.com, apple
 host, discussionschinese.apple.com, apple
 host, fides-pol.apple.com, apple
-host, gspe11-2-cn-ssl.ls.apple.com, apple
 host, gspe12-cn-ssl.ls.apple.com, apple
 host, gspe85-cn-ssl.ls.apple.com, apple
 host, init.gc-lb.apple.com.akadns.net, apple
 host, init.gc.apple.com, apple
 host, km.support.apple.com, apple
 host, maps.apple.com, apple
+host, sh-pod1-smp-device.apple.com, apple
+host, sh-pod2-smp-device.apple.com, apple
+host, sh-pod3-smp-device.apple.com, apple
 host, tj-pod1-smp-device.apple.com, apple
 host, tj-pod2-smp-device.apple.com, apple
 host, tj-pod3-smp-device.apple.com, apple
@@ -770,6 +772,7 @@ host, gsp4-cn.ls.apple.com, apple
 host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, apple
 host, gsp5-cn.ls.apple.com, apple
 host, gsp85-cn-ssl.ls.apple.com, apple
+host, gspe11-2-cn-ssl.ls.apple.com, apple
 host, gspe19-2-cn-ssl.ls-apple.com.akadns.net, apple
 host, gspe19-2-cn-ssl.ls.apple.com, apple
 host, gspe19-cn-ssl.ls.apple.com, apple
@@ -809,7 +812,6 @@ host, seed-sequoia.siri.apple.com, apple
 host, seed-swallow.siri.apple.com, apple
 host, seed.siri.apple.com, apple
 host, sequoia.apple.com, apple
-host, sh-pod2-smp-device.apple.com, apple
 host, shazam-insights.cdn-apple.com, apple
 host, smp-device-content.apple.com, apple
 host, static.gc.apple.com, apple

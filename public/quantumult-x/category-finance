@@ -1,3 +1,4 @@
+host-suffix, firstrade.com, category-finance
 host-suffix, fxcorporate.com, category-finance
 host-suffix, jivara.global, category-finance
 host-suffix, mql5.com, category-finance
@@ -643,6 +644,7 @@ host-suffix, schwab.com.sg, category-finance
 host-suffix, schwabassetmanagement.com, category-finance
 host-suffix, schwabcdn.com, category-finance
 host-suffix, schwabplan.com, category-finance
+host-suffix, thinkorswim.com, category-finance
 host-suffix, sc.com, category-finance
 host-suffix, standardchartered.com, category-finance
 host, standchartbank.sc.omtrdc.net, category-finance

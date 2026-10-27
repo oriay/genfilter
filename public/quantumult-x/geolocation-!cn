@@ -53,12 +53,17 @@ host-suffix, kimi.ai, geolocation-!cn
 host-suffix, moonshot.ai, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, metaaivm.com, geolocation-!cn
+host-suffix, metaaiusercontent.com, geolocation-!cn
 host-suffix, muse.ai, geolocation-!cn
 host-suffix, agentclientprotocol.com, geolocation-!cn
 host-suffix, anythingllm.com, geolocation-!cn
 host-suffix, arena.ai, geolocation-!cn
+host-suffix, artificialanalysis.ai, geolocation-!cn
 host-suffix, chutes.ai, geolocation-!cn
 host-suffix, clawhub.ai, geolocation-!cn
+host-suffix, cline.bot, geolocation-!cn
+host-suffix, commandcode.ai, geolocation-!cn
+host-suffix, context7.com, geolocation-!cn
 host-suffix, crewai.com, geolocation-!cn
 host-suffix, devin.ai, geolocation-!cn
 host-suffix, diabrowser.com, geolocation-!cn
@@ -78,6 +83,7 @@ host-suffix, minimax.io, geolocation-!cn
 host-suffix, mistral.ai, geolocation-!cn
 host-suffix, mozilla.ai, geolocation-!cn
 host-suffix, notegpt.io, geolocation-!cn
+host-suffix, nousresearch.com, geolocation-!cn
 host-suffix, novelai.net, geolocation-!cn
 host-suffix, ollama.com, geolocation-!cn
 host-suffix, openart.ai, geolocation-!cn
@@ -1546,6 +1552,7 @@ host-suffix, volvotruckcenter.no, geolocation-!cn
 host-suffix, volvotruckcenter.se, geolocation-!cn
 host-suffix, volvotruckrental.be, geolocation-!cn
 host-suffix, udtrucksmeena.com, geolocation-!cn
+host-suffix, firstrade.com, geolocation-!cn
 host-suffix, fxcorporate.com, geolocation-!cn
 host-suffix, jivara.global, geolocation-!cn
 host-suffix, mql5.com, geolocation-!cn
@@ -2191,6 +2198,7 @@ host-suffix, schwab.com.sg, geolocation-!cn
 host-suffix, schwabassetmanagement.com, geolocation-!cn
 host-suffix, schwabcdn.com, geolocation-!cn
 host-suffix, schwabplan.com, geolocation-!cn
+host-suffix, thinkorswim.com, geolocation-!cn
 host-suffix, sc.com, geolocation-!cn
 host-suffix, standardchartered.com, geolocation-!cn
 host, standchartbank.sc.omtrdc.net, geolocation-!cn
@@ -20740,13 +20748,15 @@ host, api-edge.apps.apple.com, geolocation-!cn
 host, communities.apple.com, geolocation-!cn
 host, discussionschinese.apple.com, geolocation-!cn
 host, fides-pol.apple.com, geolocation-!cn
-host, gspe11-2-cn-ssl.ls.apple.com, geolocation-!cn
 host, gspe12-cn-ssl.ls.apple.com, geolocation-!cn
 host, gspe85-cn-ssl.ls.apple.com, geolocation-!cn
 host, init.gc-lb.apple.com.akadns.net, geolocation-!cn
 host, init.gc.apple.com, geolocation-!cn
 host, km.support.apple.com, geolocation-!cn
 host, maps.apple.com, geolocation-!cn
+host, sh-pod1-smp-device.apple.com, geolocation-!cn
+host, sh-pod2-smp-device.apple.com, geolocation-!cn
+host, sh-pod3-smp-device.apple.com, geolocation-!cn
 host, tj-pod1-smp-device.apple.com, geolocation-!cn
 host, tj-pod2-smp-device.apple.com, geolocation-!cn
 host, tj-pod3-smp-device.apple.com, geolocation-!cn
@@ -20821,6 +20831,7 @@ host, gsp4-cn.ls.apple.com, geolocation-!cn
 host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, geolocation-!cn
 host, gsp5-cn.ls.apple.com, geolocation-!cn
 host, gsp85-cn-ssl.ls.apple.com, geolocation-!cn
+host, gspe11-2-cn-ssl.ls.apple.com, geolocation-!cn
 host, gspe19-2-cn-ssl.ls-apple.com.akadns.net, geolocation-!cn
 host, gspe19-2-cn-ssl.ls.apple.com, geolocation-!cn
 host, gspe19-cn-ssl.ls.apple.com, geolocation-!cn
@@ -20860,7 +20871,6 @@ host, seed-sequoia.siri.apple.com, geolocation-!cn
 host, seed-swallow.siri.apple.com, geolocation-!cn
 host, seed.siri.apple.com, geolocation-!cn
 host, sequoia.apple.com, geolocation-!cn
-host, sh-pod2-smp-device.apple.com, geolocation-!cn
 host, shazam-insights.cdn-apple.com, geolocation-!cn
 host, smp-device-content.apple.com, geolocation-!cn
 host, static.gc.apple.com, geolocation-!cn
@@ -24549,6 +24559,7 @@ host-suffix, atmeta.com, geolocation-!cn
 host-suffix, llama.com, geolocation-!cn
 host-suffix, meta.ai, geolocation-!cn
 host-suffix, meta.com, geolocation-!cn
+host-suffix, metaaiusercontent.com, geolocation-!cn
 host-suffix, metaaivm.com, geolocation-!cn
 host-suffix, muse.ai, geolocation-!cn
 host-suffix, aboutfacebook.com, geolocation-!cn

@@ -2404,13 +2404,15 @@ host, api-edge.apps.apple.com, category-companies
 host, communities.apple.com, category-companies
 host, discussionschinese.apple.com, category-companies
 host, fides-pol.apple.com, category-companies
-host, gspe11-2-cn-ssl.ls.apple.com, category-companies
 host, gspe12-cn-ssl.ls.apple.com, category-companies
 host, gspe85-cn-ssl.ls.apple.com, category-companies
 host, init.gc-lb.apple.com.akadns.net, category-companies
 host, init.gc.apple.com, category-companies
 host, km.support.apple.com, category-companies
 host, maps.apple.com, category-companies
+host, sh-pod1-smp-device.apple.com, category-companies
+host, sh-pod2-smp-device.apple.com, category-companies
+host, sh-pod3-smp-device.apple.com, category-companies
 host, tj-pod1-smp-device.apple.com, category-companies
 host, tj-pod2-smp-device.apple.com, category-companies
 host, tj-pod3-smp-device.apple.com, category-companies
@@ -2485,6 +2487,7 @@ host, gsp4-cn.ls.apple.com, category-companies
 host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, category-companies
 host, gsp5-cn.ls.apple.com, category-companies
 host, gsp85-cn-ssl.ls.apple.com, category-companies
+host, gspe11-2-cn-ssl.ls.apple.com, category-companies
 host, gspe19-2-cn-ssl.ls-apple.com.akadns.net, category-companies
 host, gspe19-2-cn-ssl.ls.apple.com, category-companies
 host, gspe19-cn-ssl.ls.apple.com, category-companies
@@ -2524,7 +2527,6 @@ host, seed-sequoia.siri.apple.com, category-companies
 host, seed-swallow.siri.apple.com, category-companies
 host, seed.siri.apple.com, category-companies
 host, sequoia.apple.com, category-companies
-host, sh-pod2-smp-device.apple.com, category-companies
 host, shazam-insights.cdn-apple.com, category-companies
 host, smp-device-content.apple.com, category-companies
 host, static.gc.apple.com, category-companies
@@ -6213,6 +6215,7 @@ host-suffix, atmeta.com, category-companies
 host-suffix, llama.com, category-companies
 host-suffix, meta.ai, category-companies
 host-suffix, meta.com, category-companies
+host-suffix, metaaiusercontent.com, category-companies
 host-suffix, metaaivm.com, category-companies
 host-suffix, muse.ai, category-companies
 host-suffix, aboutfacebook.com, category-companies

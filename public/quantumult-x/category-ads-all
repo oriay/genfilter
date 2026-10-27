@@ -1825,13 +1825,15 @@ host, api-edge.apps.apple.com, category-ads-all
 host, communities.apple.com, category-ads-all
 host, discussionschinese.apple.com, category-ads-all
 host, fides-pol.apple.com, category-ads-all
-host, gspe11-2-cn-ssl.ls.apple.com, category-ads-all
 host, gspe12-cn-ssl.ls.apple.com, category-ads-all
 host, gspe85-cn-ssl.ls.apple.com, category-ads-all
 host, init.gc-lb.apple.com.akadns.net, category-ads-all
 host, init.gc.apple.com, category-ads-all
 host, km.support.apple.com, category-ads-all
 host, maps.apple.com, category-ads-all
+host, sh-pod1-smp-device.apple.com, category-ads-all
+host, sh-pod2-smp-device.apple.com, category-ads-all
+host, sh-pod3-smp-device.apple.com, category-ads-all
 host, tj-pod1-smp-device.apple.com, category-ads-all
 host, tj-pod2-smp-device.apple.com, category-ads-all
 host, tj-pod3-smp-device.apple.com, category-ads-all
@@ -1906,6 +1908,7 @@ host, gsp4-cn.ls.apple.com, category-ads-all
 host, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net, category-ads-all
 host, gsp5-cn.ls.apple.com, category-ads-all
 host, gsp85-cn-ssl.ls.apple.com, category-ads-all
+host, gspe11-2-cn-ssl.ls.apple.com, category-ads-all
 host, gspe19-2-cn-ssl.ls-apple.com.akadns.net, category-ads-all
 host, gspe19-2-cn-ssl.ls.apple.com, category-ads-all
 host, gspe19-cn-ssl.ls.apple.com, category-ads-all
@@ -1945,7 +1948,6 @@ host, seed-sequoia.siri.apple.com, category-ads-all
 host, seed-swallow.siri.apple.com, category-ads-all
 host, seed.siri.apple.com, category-ads-all
 host, sequoia.apple.com, category-ads-all
-host, sh-pod2-smp-device.apple.com, category-ads-all
 host, shazam-insights.cdn-apple.com, category-ads-all
 host, smp-device-content.apple.com, category-ads-all
 host, static.gc.apple.com, category-ads-all
@@ -6702,6 +6704,7 @@ host-suffix, atmeta.com, category-ads-all
 host-suffix, llama.com, category-ads-all
 host-suffix, meta.ai, category-ads-all
 host-suffix, meta.com, category-ads-all
+host-suffix, metaaiusercontent.com, category-ads-all
 host-suffix, metaaivm.com, category-ads-all
 host-suffix, muse.ai, category-ads-all
 host-suffix, aboutfacebook.com, category-ads-all

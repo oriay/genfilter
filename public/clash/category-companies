@@ -2404,13 +2404,15 @@ DOMAIN,api-edge.apps.apple.com
 DOMAIN,communities.apple.com
 DOMAIN,discussionschinese.apple.com
 DOMAIN,fides-pol.apple.com
-DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
 DOMAIN,gspe85-cn-ssl.ls.apple.com
 DOMAIN,init.gc-lb.apple.com.akadns.net
 DOMAIN,init.gc.apple.com
 DOMAIN,km.support.apple.com
 DOMAIN,maps.apple.com
+DOMAIN,sh-pod1-smp-device.apple.com
+DOMAIN,sh-pod2-smp-device.apple.com
+DOMAIN,sh-pod3-smp-device.apple.com
 DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tj-pod2-smp-device.apple.com
 DOMAIN,tj-pod3-smp-device.apple.com
@@ -2485,6 +2487,7 @@ DOMAIN,gsp4-cn.ls.apple.com
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,gsp5-cn.ls.apple.com
 DOMAIN,gsp85-cn-ssl.ls.apple.com
+DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe19-2-cn-ssl.ls-apple.com.akadns.net
 DOMAIN,gspe19-2-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn-ssl.ls.apple.com
@@ -2524,7 +2527,6 @@ DOMAIN,seed-sequoia.siri.apple.com
 DOMAIN,seed-swallow.siri.apple.com
 DOMAIN,seed.siri.apple.com
 DOMAIN,sequoia.apple.com
-DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,static.gc.apple.com
@@ -6213,6 +6215,7 @@ DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,aboutfacebook.com
