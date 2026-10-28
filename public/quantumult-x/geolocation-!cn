@@ -5747,6 +5747,7 @@ host-suffix, 24h.tv, geolocation-!cn
 host-suffix, amediateka.ru, geolocation-!cn
 host-suffix, beeline.tv, geolocation-!cn
 host-suffix, ivi.ru, geolocation-!cn
+host-suffix, ivi.tv, geolocation-!cn
 host-suffix, ivicdn.tv, geolocation-!cn
 host-suffix, premier.one, geolocation-!cn
 host-suffix, smotreshka.tv, geolocation-!cn
