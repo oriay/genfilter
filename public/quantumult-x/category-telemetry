@@ -1866,9 +1866,12 @@ host-suffix, tiktokeu-cdn.com, category-telemetry
 host-suffix, tiktokglobalshopv.com, category-telemetry
 host-suffix, tiktokminis.us, category-telemetry
 host-suffix, tiktokrow-cdn.com, category-telemetry
+host-suffix, tiktokshop.com, category-telemetry
+host-suffix, tiktokstaticb.com, category-telemetry
 host-suffix, tiktokv.com, category-telemetry
 host-suffix, tiktokv.eu, category-telemetry
 host-suffix, tiktokv.us, category-telemetry
+host-suffix, tiktokvapp.com, category-telemetry
 host-suffix, tiktokw.eu, category-telemetry
 host-suffix, tiktokw.us, category-telemetry
 host-suffix, ttcdn-us.com, category-telemetry
@@ -3711,6 +3714,7 @@ host-suffix, msftconnecttest.com, category-telemetry
 host-suffix, msfteducation.ca, category-telemetry
 host-suffix, msftncsi.com, category-telemetry
 host-suffix, msftnet.org, category-telemetry
+host-suffix, msftstatic.com, category-telemetry
 host-suffix, msgamesresearch.com, category-telemetry
 host-suffix, msgamestudios.com, category-telemetry
 host-suffix, mshome.net, category-telemetry
@@ -4038,6 +4042,7 @@ host-suffix, bingapis.com, category-telemetry
 host-suffix, bingapistatistics.com, category-telemetry
 host-suffix, bingparachute.com, category-telemetry
 host-suffix, bingsandbox.com, category-telemetry
+host-suffix, bingstatic.com, category-telemetry
 host-suffix, bingvisualsearch.com, category-telemetry
 host-suffix, bingworld.com, category-telemetry
 host-suffix, bluehatnights.com, category-telemetry

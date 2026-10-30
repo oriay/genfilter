@@ -3737,9 +3737,12 @@ host-suffix, tiktokeu-cdn.com, category-ads-all
 host-suffix, tiktokglobalshopv.com, category-ads-all
 host-suffix, tiktokminis.us, category-ads-all
 host-suffix, tiktokrow-cdn.com, category-ads-all
+host-suffix, tiktokshop.com, category-ads-all
+host-suffix, tiktokstaticb.com, category-ads-all
 host-suffix, tiktokv.com, category-ads-all
 host-suffix, tiktokv.eu, category-ads-all
 host-suffix, tiktokv.us, category-ads-all
+host-suffix, tiktokvapp.com, category-ads-all
 host-suffix, tiktokw.eu, category-ads-all
 host-suffix, tiktokw.us, category-ads-all
 host-suffix, ttcdn-us.com, category-ads-all
@@ -7439,6 +7442,7 @@ host-suffix, msftconnecttest.com, category-ads-all
 host-suffix, msfteducation.ca, category-ads-all
 host-suffix, msftncsi.com, category-ads-all
 host-suffix, msftnet.org, category-ads-all
+host-suffix, msftstatic.com, category-ads-all
 host-suffix, msgamesresearch.com, category-ads-all
 host-suffix, msgamestudios.com, category-ads-all
 host-suffix, mshome.net, category-ads-all
@@ -7766,6 +7770,7 @@ host-suffix, bingapis.com, category-ads-all
 host-suffix, bingapistatistics.com, category-ads-all
 host-suffix, bingparachute.com, category-ads-all
 host-suffix, bingsandbox.com, category-ads-all
+host-suffix, bingstatic.com, category-ads-all
 host-suffix, bingvisualsearch.com, category-ads-all
 host-suffix, bingworld.com, category-ads-all
 host-suffix, bluehatnights.com, category-ads-all

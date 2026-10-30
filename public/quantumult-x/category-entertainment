@@ -112,6 +112,7 @@ host-suffix, rutube.ru, category-entertainment
 host-suffix, rutubelist.ru, category-entertainment
 host-suffix, rtbcdn.ru, category-entertainment
 host-suffix, rutube.sport, category-entertainment
+host-suffix, amdgaming.com, category-entertainment
 host-suffix, chunkbase.com, category-entertainment
 host-suffix, dinopoloclub.com, category-entertainment
 host-suffix, dodi-repacks.download, category-entertainment
@@ -1857,9 +1858,12 @@ host-suffix, tiktokeu-cdn.com, category-entertainment
 host-suffix, tiktokglobalshopv.com, category-entertainment
 host-suffix, tiktokminis.us, category-entertainment
 host-suffix, tiktokrow-cdn.com, category-entertainment
+host-suffix, tiktokshop.com, category-entertainment
+host-suffix, tiktokstaticb.com, category-entertainment
 host-suffix, tiktokv.com, category-entertainment
 host-suffix, tiktokv.eu, category-entertainment
 host-suffix, tiktokv.us, category-entertainment
+host-suffix, tiktokvapp.com, category-entertainment
 host-suffix, tiktokw.eu, category-entertainment
 host-suffix, tiktokw.us, category-entertainment
 host-suffix, ttcdn-us.com, category-entertainment

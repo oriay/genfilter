@@ -5468,6 +5468,9 @@ host-suffix, linka2a.net, geolocation-cn
 host-suffix, yzsgo.com, geolocation-cn
 host-suffix, shunjing.xin, geolocation-cn
 host-suffix, kakaxing.com, geolocation-cn
+host-suffix, favonis.cloud, geolocation-cn
+host-suffix, favonis.com, geolocation-cn
+host-suffix, favonis.space, geolocation-cn
 host-suffix, askdiandian.com, geolocation-cn
 host-suffix, diandianlife.top, geolocation-cn
 host-suffix, deepseek.com, geolocation-cn
@@ -7224,9 +7227,12 @@ host-suffix, tiktokeu-cdn.com, geolocation-cn
 host-suffix, tiktokglobalshopv.com, geolocation-cn
 host-suffix, tiktokminis.us, geolocation-cn
 host-suffix, tiktokrow-cdn.com, geolocation-cn
+host-suffix, tiktokshop.com, geolocation-cn
+host-suffix, tiktokstaticb.com, geolocation-cn
 host-suffix, tiktokv.com, geolocation-cn
 host-suffix, tiktokv.eu, geolocation-cn
 host-suffix, tiktokv.us, geolocation-cn
+host-suffix, tiktokvapp.com, geolocation-cn
 host-suffix, tiktokw.eu, geolocation-cn
 host-suffix, tiktokw.us, geolocation-cn
 host-suffix, ttcdn-us.com, geolocation-cn

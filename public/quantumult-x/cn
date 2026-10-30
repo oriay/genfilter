@@ -5517,6 +5517,9 @@ host-suffix, linka2a.net, cn
 host-suffix, yzsgo.com, cn
 host-suffix, shunjing.xin, cn
 host-suffix, kakaxing.com, cn
+host-suffix, favonis.cloud, cn
+host-suffix, favonis.com, cn
+host-suffix, favonis.space, cn
 host-suffix, askdiandian.com, cn
 host-suffix, diandianlife.top, cn
 host-suffix, deepseek.com, cn
@@ -7273,9 +7276,12 @@ host-suffix, tiktokeu-cdn.com, cn
 host-suffix, tiktokglobalshopv.com, cn
 host-suffix, tiktokminis.us, cn
 host-suffix, tiktokrow-cdn.com, cn
+host-suffix, tiktokshop.com, cn
+host-suffix, tiktokstaticb.com, cn
 host-suffix, tiktokv.com, cn
 host-suffix, tiktokv.eu, cn
 host-suffix, tiktokv.us, cn
+host-suffix, tiktokvapp.com, cn
 host-suffix, tiktokw.eu, cn
 host-suffix, tiktokw.us, cn
 host-suffix, ttcdn-us.com, cn
