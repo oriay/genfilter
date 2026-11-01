@@ -1,9 +1,11 @@
+host-suffix, allwinnertech.com, category-electronic-cn
 host-suffix, analog.com, category-electronic-cn
 host-suffix, arrow.cn, category-electronic-cn
 host-suffix, avermedia.cn, category-electronic-cn
 host-suffix, boe.com, category-electronic-cn
 host-suffix, boe.com.cn, category-electronic-cn
 host-suffix, bouffalolab.com, category-electronic-cn
+host-suffix, cambricon.com, category-electronic-cn
 host-suffix, cxmt.com, category-electronic-cn
 host-suffix, eda.cn, category-electronic-cn
 host-suffix, elecfans.com, category-electronic-cn
@@ -29,6 +31,7 @@ host-suffix, iotronic.tech, category-electronic-cn
 host-suffix, quecmall.cn, category-electronic-cn
 host-suffix, quectel.com.cn, category-electronic-cn
 host-suffix, listenai.com, category-electronic-cn
+host-suffix, mthreads.com, category-electronic-cn
 host-suffix, nanocorechip.com, category-electronic-cn
 host-suffix, rock-chips.com, category-electronic-cn
 host-suffix, seeed.cn, category-electronic-cn
@@ -37,6 +40,8 @@ host-suffix, seeed.com.cn, category-electronic-cn
 host-suffix, seeedstudio.com.cn, category-electronic-cn
 host-suffix, sipeed.com, category-electronic-cn
 host-suffix, maixhub.com, category-electronic-cn
+host-suffix, southchip.com, category-electronic-cn
+host-suffix, t-head.cn, category-electronic-cn
 host-suffix, ti.com.cn, category-electronic-cn
 host-suffix, wch.cn, category-electronic-cn
 host-suffix, wch-ic.com, category-electronic-cn

@@ -1881,12 +1881,14 @@ host-suffix, splash-ads.cdn.unity.cn, geolocation-cn
 host-suffix, splash-ads.unitychina.cn, geolocation-cn
 host-suffix, unityads.unity.cn, geolocation-cn
 host-suffix, unityads.unitychina.cn, geolocation-cn
+host-suffix, allwinnertech.com, geolocation-cn
 host-suffix, analog.com, geolocation-cn
 host-suffix, arrow.cn, geolocation-cn
 host-suffix, avermedia.cn, geolocation-cn
 host-suffix, boe.com, geolocation-cn
 host-suffix, boe.com.cn, geolocation-cn
 host-suffix, bouffalolab.com, geolocation-cn
+host-suffix, cambricon.com, geolocation-cn
 host-suffix, cxmt.com, geolocation-cn
 host-suffix, eda.cn, geolocation-cn
 host-suffix, elecfans.com, geolocation-cn
@@ -1912,6 +1914,7 @@ host-suffix, iotronic.tech, geolocation-cn
 host-suffix, quecmall.cn, geolocation-cn
 host-suffix, quectel.com.cn, geolocation-cn
 host-suffix, listenai.com, geolocation-cn
+host-suffix, mthreads.com, geolocation-cn
 host-suffix, nanocorechip.com, geolocation-cn
 host-suffix, rock-chips.com, geolocation-cn
 host-suffix, seeed.cn, geolocation-cn
@@ -1920,6 +1923,8 @@ host-suffix, seeed.com.cn, geolocation-cn
 host-suffix, seeedstudio.com.cn, geolocation-cn
 host-suffix, sipeed.com, geolocation-cn
 host-suffix, maixhub.com, geolocation-cn
+host-suffix, southchip.com, geolocation-cn
+host-suffix, t-head.cn, geolocation-cn
 host-suffix, ti.com.cn, geolocation-cn
 host-suffix, wch.cn, geolocation-cn
 host-suffix, wch-ic.com, geolocation-cn
@@ -2969,6 +2974,10 @@ host-suffix, yihaikerry.net.cn, geolocation-cn
 host-suffix, luhua.cn, geolocation-cn
 host-suffix, shuanghui.net, geolocation-cn
 host-suffix, micun.com, geolocation-cn
+host-suffix, qiaqiafood.com, geolocation-cn
+host-suffix, busyming.com, geolocation-cn
+host-suffix, hnlshm.com, geolocation-cn
+host-suffix, zymls.com, geolocation-cn
 host-suffix, logger.qmai.cn, geolocation-cn
 host-suffix, tracking.mcdonalds.com.cn, geolocation-cn
 host-suffix, trackingprd.hwwt8.com, geolocation-cn
@@ -5497,6 +5506,7 @@ host-suffix, building.fun, geolocation-cn
 host-suffix, instreet.com, geolocation-cn
 host-suffix, doubao-dev.com, geolocation-cn
 host-suffix, doubao.com, geolocation-cn
+host-suffix, doubaoapps.com, geolocation-cn
 host-suffix, doubaocdn.com, geolocation-cn
 host-suffix, hi-butterfly.cn, geolocation-cn
 host-suffix, maoxiangai.com, geolocation-cn
@@ -5992,6 +6002,7 @@ host-suffix, alisoft.com, geolocation-cn
 host-suffix, alisports.com, geolocation-cn
 host-suffix, alitianji.com, geolocation-cn
 host-suffix, aliunicorn.com, geolocation-cn
+host-suffix, alivecdn.com, geolocation-cn
 host-suffix, aliway.com, geolocation-cn
 host-suffix, aliwork.com, geolocation-cn
 host-suffix, alixiaomi.com, geolocation-cn
@@ -6031,6 +6042,7 @@ host-suffix, liangxinyao.com, geolocation-cn
 host-suffix, m-now.cn, geolocation-cn
 host-suffix, maitix.com, geolocation-cn
 host-suffix, mappcloud.com, geolocation-cn
+host-suffix, mayibao.cn, geolocation-cn
 host-suffix, mdeer.com, geolocation-cn
 host-suffix, mei.com, geolocation-cn
 host-suffix, miaostreet.com, geolocation-cn
@@ -6075,6 +6087,7 @@ host-suffix, freshippo.com, geolocation-cn
 host-suffix, hemamax.com, geolocation-cn
 host-suffix, hemaos.com, geolocation-cn
 host-suffix, hemashare.cn, geolocation-cn
+host-suffix, hmxs.cn, geolocation-cn
 host-suffix, shyhhema.com, geolocation-cn
 host-suffix, antfortune.com, geolocation-cn
 host-suffix, fund123.cn, geolocation-cn
@@ -6731,6 +6744,7 @@ host-suffix, cdndns2.com, geolocation-cn
 host-suffix, doubo03.com, geolocation-cn
 host-suffix, draftstatic.com, geolocation-cn
 host-suffix, druid.vip, geolocation-cn
+host-suffix, edge-byted.com, geolocation-cn
 host-suffix, fedlearner.net, geolocation-cn
 host-suffix, feelgood.cn, geolocation-cn
 host-suffix, gcloudcache.com, geolocation-cn
@@ -6912,6 +6926,7 @@ host-suffix, ppximg.com, geolocation-cn
 host-suffix, ppxstatic.com, geolocation-cn
 host-suffix, ppxvod.com, geolocation-cn
 host-suffix, xiaoxiaapi.com, geolocation-cn
+host-suffix, haimian.com, geolocation-cn
 host-suffix, dailygn.com, geolocation-cn
 host-suffix, nvsgames.cn, geolocation-cn
 host-suffix, buydouke.com, geolocation-cn
@@ -6983,6 +6998,7 @@ host-suffix, building.fun, geolocation-cn
 host-suffix, instreet.com, geolocation-cn
 host-suffix, doubao-dev.com, geolocation-cn
 host-suffix, doubao.com, geolocation-cn
+host-suffix, doubaoapps.com, geolocation-cn
 host-suffix, doubaocdn.com, geolocation-cn
 host-suffix, hi-butterfly.cn, geolocation-cn
 host-suffix, maoxiangai.com, geolocation-cn
@@ -8409,6 +8425,7 @@ host-suffix, tencent.net.cn, geolocation-cn
 host-suffix, tencentmiying.com, geolocation-cn
 host-suffix, tengmed.com, geolocation-cn
 host-suffix, tenpay.com, geolocation-cn
+host-suffix, tenpayglobal.com, geolocation-cn
 host-suffix, tfogc.com, geolocation-cn
 host-suffix, wechat.com, geolocation-cn
 host-suffix, wechatpay.cn, geolocation-cn
@@ -8423,6 +8440,8 @@ host-suffix, mmbizurl.cn, geolocation-cn
 host-suffix, url.cn, geolocation-cn
 host-suffix, wxaurl.cn, geolocation-cn
 host-suffix, wxmpurl.cn, geolocation-cn
+host-suffix, wesure.cn, geolocation-cn
+host-suffix, wesure100.com, geolocation-cn
 host-suffix, wetv.vip, geolocation-cn
 host-suffix, wetvinfo.com, geolocation-cn
 host, wetv.qq.com, geolocation-cn
@@ -9231,6 +9250,7 @@ host-suffix, gcable.com.cn, geolocation-cn
 host-suffix, sc96655.com, geolocation-cn
 host-suffix, isxtv.com, geolocation-cn
 host-suffix, sdgdwljt.com, geolocation-cn
+host-suffix, mnc015.mcc460.pub.3gppnetwork.org, geolocation-cn
 host-suffix, 10086.cn, geolocation-cn
 host-suffix, 139.com, geolocation-cn
 host-suffix, chinamobile.com, geolocation-cn
@@ -9266,6 +9286,10 @@ host-suffix, cmdcxls.com, geolocation-cn
 host-suffix, cxzx10086.cn, geolocation-cn
 host-suffix, fxltsbl.com, geolocation-cn
 host-suffix, zdsdp.com, geolocation-cn
+host-suffix, mnc000.mcc460.pub.3gppnetwork.org, geolocation-cn
+host-suffix, mnc002.mcc460.pub.3gppnetwork.org, geolocation-cn
+host-suffix, mnc004.mcc460.pub.3gppnetwork.org, geolocation-cn
+host-suffix, mnc007.mcc460.pub.3gppnetwork.org, geolocation-cn
 host-suffix, 189.cn, geolocation-cn
 host-suffix, 189cube.com, geolocation-cn
 host-suffix, 189smarthome.com, geolocation-cn
@@ -9281,6 +9305,7 @@ host-suffix, dlife.cn, geolocation-cn
 host-suffix, play.cn, geolocation-cn
 host-suffix, tv189.com, geolocation-cn
 host-suffix, vnet.cn, geolocation-cn
+host-suffix, mnc011.mcc460.pub.3gppnetwork.org, geolocation-cn
 host-suffix, ctexcel.ca, geolocation-cn
 host-suffix, ctexcel.com, geolocation-cn
 host-suffix, ctexcel.com.hk, geolocation-cn

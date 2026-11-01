@@ -450,6 +450,7 @@ host-suffix, alisoft.com, category-ads-all
 host-suffix, alisports.com, category-ads-all
 host-suffix, alitianji.com, category-ads-all
 host-suffix, aliunicorn.com, category-ads-all
+host-suffix, alivecdn.com, category-ads-all
 host-suffix, aliway.com, category-ads-all
 host-suffix, aliwork.com, category-ads-all
 host-suffix, alixiaomi.com, category-ads-all
@@ -489,6 +490,7 @@ host-suffix, liangxinyao.com, category-ads-all
 host-suffix, m-now.cn, category-ads-all
 host-suffix, maitix.com, category-ads-all
 host-suffix, mappcloud.com, category-ads-all
+host-suffix, mayibao.cn, category-ads-all
 host-suffix, mdeer.com, category-ads-all
 host-suffix, mei.com, category-ads-all
 host-suffix, miaostreet.com, category-ads-all
@@ -533,6 +535,7 @@ host-suffix, freshippo.com, category-ads-all
 host-suffix, hemamax.com, category-ads-all
 host-suffix, hemaos.com, category-ads-all
 host-suffix, hemashare.cn, category-ads-all
+host-suffix, hmxs.cn, category-ads-all
 host-suffix, shyhhema.com, category-ads-all
 host-suffix, antfortune.com, category-ads-all
 host-suffix, fund123.cn, category-ads-all
@@ -3241,6 +3244,7 @@ host-suffix, cdndns2.com, category-ads-all
 host-suffix, doubo03.com, category-ads-all
 host-suffix, draftstatic.com, category-ads-all
 host-suffix, druid.vip, category-ads-all
+host-suffix, edge-byted.com, category-ads-all
 host-suffix, fedlearner.net, category-ads-all
 host-suffix, feelgood.cn, category-ads-all
 host-suffix, gcloudcache.com, category-ads-all
@@ -3422,6 +3426,7 @@ host-suffix, ppximg.com, category-ads-all
 host-suffix, ppxstatic.com, category-ads-all
 host-suffix, ppxvod.com, category-ads-all
 host-suffix, xiaoxiaapi.com, category-ads-all
+host-suffix, haimian.com, category-ads-all
 host-suffix, dailygn.com, category-ads-all
 host-suffix, nvsgames.cn, category-ads-all
 host-suffix, buydouke.com, category-ads-all
@@ -3493,6 +3498,7 @@ host-suffix, building.fun, category-ads-all
 host-suffix, instreet.com, category-ads-all
 host-suffix, doubao-dev.com, category-ads-all
 host-suffix, doubao.com, category-ads-all
+host-suffix, doubaoapps.com, category-ads-all
 host-suffix, doubaocdn.com, category-ads-all
 host-suffix, hi-butterfly.cn, category-ads-all
 host-suffix, maoxiangai.com, category-ads-all
@@ -4130,6 +4136,10 @@ host-suffix, yihaikerry.net.cn, category-ads-all
 host-suffix, luhua.cn, category-ads-all
 host-suffix, shuanghui.net, category-ads-all
 host-suffix, micun.com, category-ads-all
+host-suffix, qiaqiafood.com, category-ads-all
+host-suffix, busyming.com, category-ads-all
+host-suffix, hnlshm.com, category-ads-all
+host-suffix, zymls.com, category-ads-all
 host-suffix, logger.qmai.cn, category-ads-all
 host-suffix, tracking.mcdonalds.com.cn, category-ads-all
 host-suffix, trackingprd.hwwt8.com, category-ads-all
@@ -8781,6 +8791,7 @@ host-suffix, tencent.net.cn, category-ads-all
 host-suffix, tencentmiying.com, category-ads-all
 host-suffix, tengmed.com, category-ads-all
 host-suffix, tenpay.com, category-ads-all
+host-suffix, tenpayglobal.com, category-ads-all
 host-suffix, tfogc.com, category-ads-all
 host-suffix, wechat.com, category-ads-all
 host-suffix, wechatpay.cn, category-ads-all
@@ -8795,6 +8806,8 @@ host-suffix, mmbizurl.cn, category-ads-all
 host-suffix, url.cn, category-ads-all
 host-suffix, wxaurl.cn, category-ads-all
 host-suffix, wxmpurl.cn, category-ads-all
+host-suffix, wesure.cn, category-ads-all
+host-suffix, wesure100.com, category-ads-all
 host-suffix, wetv.vip, category-ads-all
 host-suffix, wetvinfo.com, category-ads-all
 host, wetv.qq.com, category-ads-all

@@ -32,6 +32,7 @@ host-suffix, tencent.net.cn, tencent
 host-suffix, tencentmiying.com, tencent
 host-suffix, tengmed.com, tencent
 host-suffix, tenpay.com, tencent
+host-suffix, tenpayglobal.com, tencent
 host-suffix, tfogc.com, tencent
 host-suffix, wechat.com, tencent
 host-suffix, wechatpay.cn, tencent
@@ -46,6 +47,8 @@ host-suffix, mmbizurl.cn, tencent
 host-suffix, url.cn, tencent
 host-suffix, wxaurl.cn, tencent
 host-suffix, wxmpurl.cn, tencent
+host-suffix, wesure.cn, tencent
+host-suffix, wesure100.com, tencent
 host-suffix, wetv.vip, tencent
 host-suffix, wetvinfo.com, tencent
 host, wetv.qq.com, tencent

@@ -1930,12 +1930,14 @@ host-suffix, splash-ads.cdn.unity.cn, cn
 host-suffix, splash-ads.unitychina.cn, cn
 host-suffix, unityads.unity.cn, cn
 host-suffix, unityads.unitychina.cn, cn
+host-suffix, allwinnertech.com, cn
 host-suffix, analog.com, cn
 host-suffix, arrow.cn, cn
 host-suffix, avermedia.cn, cn
 host-suffix, boe.com, cn
 host-suffix, boe.com.cn, cn
 host-suffix, bouffalolab.com, cn
+host-suffix, cambricon.com, cn
 host-suffix, cxmt.com, cn
 host-suffix, eda.cn, cn
 host-suffix, elecfans.com, cn
@@ -1961,6 +1963,7 @@ host-suffix, iotronic.tech, cn
 host-suffix, quecmall.cn, cn
 host-suffix, quectel.com.cn, cn
 host-suffix, listenai.com, cn
+host-suffix, mthreads.com, cn
 host-suffix, nanocorechip.com, cn
 host-suffix, rock-chips.com, cn
 host-suffix, seeed.cn, cn
@@ -1969,6 +1972,8 @@ host-suffix, seeed.com.cn, cn
 host-suffix, seeedstudio.com.cn, cn
 host-suffix, sipeed.com, cn
 host-suffix, maixhub.com, cn
+host-suffix, southchip.com, cn
+host-suffix, t-head.cn, cn
 host-suffix, ti.com.cn, cn
 host-suffix, wch.cn, cn
 host-suffix, wch-ic.com, cn
@@ -3018,6 +3023,10 @@ host-suffix, yihaikerry.net.cn, cn
 host-suffix, luhua.cn, cn
 host-suffix, shuanghui.net, cn
 host-suffix, micun.com, cn
+host-suffix, qiaqiafood.com, cn
+host-suffix, busyming.com, cn
+host-suffix, hnlshm.com, cn
+host-suffix, zymls.com, cn
 host-suffix, logger.qmai.cn, cn
 host-suffix, tracking.mcdonalds.com.cn, cn
 host-suffix, trackingprd.hwwt8.com, cn
@@ -5546,6 +5555,7 @@ host-suffix, building.fun, cn
 host-suffix, instreet.com, cn
 host-suffix, doubao-dev.com, cn
 host-suffix, doubao.com, cn
+host-suffix, doubaoapps.com, cn
 host-suffix, doubaocdn.com, cn
 host-suffix, hi-butterfly.cn, cn
 host-suffix, maoxiangai.com, cn
@@ -6041,6 +6051,7 @@ host-suffix, alisoft.com, cn
 host-suffix, alisports.com, cn
 host-suffix, alitianji.com, cn
 host-suffix, aliunicorn.com, cn
+host-suffix, alivecdn.com, cn
 host-suffix, aliway.com, cn
 host-suffix, aliwork.com, cn
 host-suffix, alixiaomi.com, cn
@@ -6080,6 +6091,7 @@ host-suffix, liangxinyao.com, cn
 host-suffix, m-now.cn, cn
 host-suffix, maitix.com, cn
 host-suffix, mappcloud.com, cn
+host-suffix, mayibao.cn, cn
 host-suffix, mdeer.com, cn
 host-suffix, mei.com, cn
 host-suffix, miaostreet.com, cn
@@ -6124,6 +6136,7 @@ host-suffix, freshippo.com, cn
 host-suffix, hemamax.com, cn
 host-suffix, hemaos.com, cn
 host-suffix, hemashare.cn, cn
+host-suffix, hmxs.cn, cn
 host-suffix, shyhhema.com, cn
 host-suffix, antfortune.com, cn
 host-suffix, fund123.cn, cn
@@ -6780,6 +6793,7 @@ host-suffix, cdndns2.com, cn
 host-suffix, doubo03.com, cn
 host-suffix, draftstatic.com, cn
 host-suffix, druid.vip, cn
+host-suffix, edge-byted.com, cn
 host-suffix, fedlearner.net, cn
 host-suffix, feelgood.cn, cn
 host-suffix, gcloudcache.com, cn
@@ -6961,6 +6975,7 @@ host-suffix, ppximg.com, cn
 host-suffix, ppxstatic.com, cn
 host-suffix, ppxvod.com, cn
 host-suffix, xiaoxiaapi.com, cn
+host-suffix, haimian.com, cn
 host-suffix, dailygn.com, cn
 host-suffix, nvsgames.cn, cn
 host-suffix, buydouke.com, cn
@@ -7032,6 +7047,7 @@ host-suffix, building.fun, cn
 host-suffix, instreet.com, cn
 host-suffix, doubao-dev.com, cn
 host-suffix, doubao.com, cn
+host-suffix, doubaoapps.com, cn
 host-suffix, doubaocdn.com, cn
 host-suffix, hi-butterfly.cn, cn
 host-suffix, maoxiangai.com, cn
@@ -8458,6 +8474,7 @@ host-suffix, tencent.net.cn, cn
 host-suffix, tencentmiying.com, cn
 host-suffix, tengmed.com, cn
 host-suffix, tenpay.com, cn
+host-suffix, tenpayglobal.com, cn
 host-suffix, tfogc.com, cn
 host-suffix, wechat.com, cn
 host-suffix, wechatpay.cn, cn
@@ -8472,6 +8489,8 @@ host-suffix, mmbizurl.cn, cn
 host-suffix, url.cn, cn
 host-suffix, wxaurl.cn, cn
 host-suffix, wxmpurl.cn, cn
+host-suffix, wesure.cn, cn
+host-suffix, wesure100.com, cn
 host-suffix, wetv.vip, cn
 host-suffix, wetvinfo.com, cn
 host, wetv.qq.com, cn
@@ -9280,6 +9299,7 @@ host-suffix, gcable.com.cn, cn
 host-suffix, sc96655.com, cn
 host-suffix, isxtv.com, cn
 host-suffix, sdgdwljt.com, cn
+host-suffix, mnc015.mcc460.pub.3gppnetwork.org, cn
 host-suffix, 10086.cn, cn
 host-suffix, 139.com, cn
 host-suffix, chinamobile.com, cn
@@ -9315,6 +9335,10 @@ host-suffix, cmdcxls.com, cn
 host-suffix, cxzx10086.cn, cn
 host-suffix, fxltsbl.com, cn
 host-suffix, zdsdp.com, cn
+host-suffix, mnc000.mcc460.pub.3gppnetwork.org, cn
+host-suffix, mnc002.mcc460.pub.3gppnetwork.org, cn
+host-suffix, mnc004.mcc460.pub.3gppnetwork.org, cn
+host-suffix, mnc007.mcc460.pub.3gppnetwork.org, cn
 host-suffix, 189.cn, cn
 host-suffix, 189cube.com, cn
 host-suffix, 189smarthome.com, cn
@@ -9330,6 +9354,7 @@ host-suffix, dlife.cn, cn
 host-suffix, play.cn, cn
 host-suffix, tv189.com, cn
 host-suffix, vnet.cn, cn
+host-suffix, mnc011.mcc460.pub.3gppnetwork.org, cn
 host-suffix, ctexcel.ca, cn
 host-suffix, ctexcel.com, cn
 host-suffix, ctexcel.com.hk, cn

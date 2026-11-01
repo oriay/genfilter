@@ -399,6 +399,7 @@ host-suffix, alisoft.com, category-telemetry
 host-suffix, alisports.com, category-telemetry
 host-suffix, alitianji.com, category-telemetry
 host-suffix, aliunicorn.com, category-telemetry
+host-suffix, alivecdn.com, category-telemetry
 host-suffix, aliway.com, category-telemetry
 host-suffix, aliwork.com, category-telemetry
 host-suffix, alixiaomi.com, category-telemetry
@@ -438,6 +439,7 @@ host-suffix, liangxinyao.com, category-telemetry
 host-suffix, m-now.cn, category-telemetry
 host-suffix, maitix.com, category-telemetry
 host-suffix, mappcloud.com, category-telemetry
+host-suffix, mayibao.cn, category-telemetry
 host-suffix, mdeer.com, category-telemetry
 host-suffix, mei.com, category-telemetry
 host-suffix, miaostreet.com, category-telemetry
@@ -482,6 +484,7 @@ host-suffix, freshippo.com, category-telemetry
 host-suffix, hemamax.com, category-telemetry
 host-suffix, hemaos.com, category-telemetry
 host-suffix, hemashare.cn, category-telemetry
+host-suffix, hmxs.cn, category-telemetry
 host-suffix, shyhhema.com, category-telemetry
 host-suffix, antfortune.com, category-telemetry
 host-suffix, fund123.cn, category-telemetry
@@ -1370,6 +1373,7 @@ host-suffix, cdndns2.com, category-telemetry
 host-suffix, doubo03.com, category-telemetry
 host-suffix, draftstatic.com, category-telemetry
 host-suffix, druid.vip, category-telemetry
+host-suffix, edge-byted.com, category-telemetry
 host-suffix, fedlearner.net, category-telemetry
 host-suffix, feelgood.cn, category-telemetry
 host-suffix, gcloudcache.com, category-telemetry
@@ -1551,6 +1555,7 @@ host-suffix, ppximg.com, category-telemetry
 host-suffix, ppxstatic.com, category-telemetry
 host-suffix, ppxvod.com, category-telemetry
 host-suffix, xiaoxiaapi.com, category-telemetry
+host-suffix, haimian.com, category-telemetry
 host-suffix, dailygn.com, category-telemetry
 host-suffix, nvsgames.cn, category-telemetry
 host-suffix, buydouke.com, category-telemetry
@@ -1622,6 +1627,7 @@ host-suffix, building.fun, category-telemetry
 host-suffix, instreet.com, category-telemetry
 host-suffix, doubao-dev.com, category-telemetry
 host-suffix, doubao.com, category-telemetry
+host-suffix, doubaoapps.com, category-telemetry
 host-suffix, doubaocdn.com, category-telemetry
 host-suffix, hi-butterfly.cn, category-telemetry
 host-suffix, maoxiangai.com, category-telemetry
@@ -2246,6 +2252,10 @@ host-suffix, yihaikerry.net.cn, category-telemetry
 host-suffix, luhua.cn, category-telemetry
 host-suffix, shuanghui.net, category-telemetry
 host-suffix, micun.com, category-telemetry
+host-suffix, qiaqiafood.com, category-telemetry
+host-suffix, busyming.com, category-telemetry
+host-suffix, hnlshm.com, category-telemetry
+host-suffix, zymls.com, category-telemetry
 host-suffix, logger.qmai.cn, category-telemetry
 host-suffix, tracking.mcdonalds.com.cn, category-telemetry
 host-suffix, trackingprd.hwwt8.com, category-telemetry
@@ -5137,6 +5147,7 @@ host-suffix, tencent.net.cn, category-telemetry
 host-suffix, tencentmiying.com, category-telemetry
 host-suffix, tengmed.com, category-telemetry
 host-suffix, tenpay.com, category-telemetry
+host-suffix, tenpayglobal.com, category-telemetry
 host-suffix, tfogc.com, category-telemetry
 host-suffix, wechat.com, category-telemetry
 host-suffix, wechatpay.cn, category-telemetry
@@ -5151,6 +5162,8 @@ host-suffix, mmbizurl.cn, category-telemetry
 host-suffix, url.cn, category-telemetry
 host-suffix, wxaurl.cn, category-telemetry
 host-suffix, wxmpurl.cn, category-telemetry
+host-suffix, wesure.cn, category-telemetry
+host-suffix, wesure100.com, category-telemetry
 host-suffix, wetv.vip, category-telemetry
 host-suffix, wetvinfo.com, category-telemetry
 host, wetv.qq.com, category-telemetry

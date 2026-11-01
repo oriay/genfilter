@@ -140,6 +140,7 @@ host-suffix, cdndns2.com, bytedance
 host-suffix, doubo03.com, bytedance
 host-suffix, draftstatic.com, bytedance
 host-suffix, druid.vip, bytedance
+host-suffix, edge-byted.com, bytedance
 host-suffix, fedlearner.net, bytedance
 host-suffix, feelgood.cn, bytedance
 host-suffix, gcloudcache.com, bytedance
@@ -321,6 +322,7 @@ host-suffix, ppximg.com, bytedance
 host-suffix, ppxstatic.com, bytedance
 host-suffix, ppxvod.com, bytedance
 host-suffix, xiaoxiaapi.com, bytedance
+host-suffix, haimian.com, bytedance
 host-suffix, dailygn.com, bytedance
 host-suffix, nvsgames.cn, bytedance
 host-suffix, buydouke.com, bytedance
@@ -392,6 +394,7 @@ host-suffix, building.fun, bytedance
 host-suffix, instreet.com, bytedance
 host-suffix, doubao-dev.com, bytedance
 host-suffix, doubao.com, bytedance
+host-suffix, doubaoapps.com, bytedance
 host-suffix, doubaocdn.com, bytedance
 host-suffix, hi-butterfly.cn, bytedance
 host-suffix, maoxiangai.com, bytedance

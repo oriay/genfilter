@@ -6,6 +6,7 @@ host-suffix, artixlinux.org, category-dev
 host-suffix, atom.io, category-dev
 host-suffix, badgen.net, category-dev
 host-suffix, bitvise.com, category-dev
+host-suffix, bmonkeys.net, category-dev
 host-suffix, bugsnag.com, category-dev
 host-suffix, busybox.net, category-dev
 host-suffix, centos.org, category-dev
@@ -102,7 +103,6 @@ host-suffix, videolan.org, category-dev
 host-suffix, vim.org, category-dev
 host-suffix, wapm.io, category-dev
 host-suffix, wasmer.io, category-dev
-host-suffix, webflow.com, category-dev
 host-suffix, weblate.org, category-dev
 host-suffix, wireshark.org, category-dev
 host-suffix, x.org, category-dev
@@ -111,6 +111,8 @@ host-suffix, xposed.info, category-dev
 host-suffix, yarnpkg.com, category-dev
 host-suffix, ziglang.org, category-dev
 host-suffix, zsh.org, category-dev
+host-suffix, boldgrid.com, category-dev
+host-suffix, cloudwp.dev, category-dev
 host-suffix, crocoblock.com, category-dev
 host-suffix, elegantthemes.com, category-dev
 host-suffix, hivepress.io, category-dev
@@ -668,6 +670,19 @@ host-suffix, perf-events.cloud.unity3d.com, category-dev
 host-suffix, unityads.unity3d.com, category-dev
 host-suffix, v8.dev, category-dev
 host-suffix, v8project.org, category-dev
+host-suffix, webflow-ext.com, category-dev
+host-suffix, webflow.com, category-dev
+host-suffix, webflow.io, category-dev
+host-suffix, website-files.com, category-dev
+host-suffix, editorx.com, category-dev
+host-suffix, parastorage.com, category-dev
+host-suffix, wix-code.com, category-dev
+host-suffix, wix.com, category-dev
+host-suffix, wixanswers.com, category-dev
+host-suffix, wixapps.net, category-dev
+host-suffix, wixmp.com, category-dev
+host-suffix, wixsite.com, category-dev
+host-suffix, wixstatic.com, category-dev
 host-suffix, videopress.com, category-dev
 host-suffix, w.org, category-dev
 host-suffix, wordcamp.org, category-dev

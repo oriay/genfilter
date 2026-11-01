@@ -251,6 +251,8 @@ host-suffix, vodafone.com.tr, category-cas
 host-suffix, vodafone.de, category-cas
 host-suffix, vodafone.it, category-cas
 host-suffix, vodafone.nl, category-cas
+host-suffix, vodafoneziggo.nl, category-cas
+host-suffix, ziggo.nl, category-cas
 host-suffix, wisecoin.com, category-cas
 host-suffix, wiseid.com, category-cas
 host-suffix, wisekey.com, category-cas
