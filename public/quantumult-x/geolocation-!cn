@@ -22620,6 +22620,7 @@ host-suffix, beget.app, geolocation-!cn
 host-suffix, beget.cloud, geolocation-!cn
 host-suffix, beget.com, geolocation-!cn
 host-suffix, beget.de, geolocation-!cn
+host-suffix, beget.email, geolocation-!cn
 host-suffix, beget.hosting, geolocation-!cn
 host-suffix, beget.pro, geolocation-!cn
 host-suffix, beget.ru, geolocation-!cn
