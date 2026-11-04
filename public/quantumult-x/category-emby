@@ -7,7 +7,6 @@ host-suffix, 404.sb, category-emby
 host-suffix, 4545.cf, category-emby
 host-suffix, blueseacdn.com, category-emby
 host-suffix, emby.ml, category-emby
-host-suffix, loseremby.org, category-emby
 host-suffix, plex.direct, category-emby
 host, plex.llon.net, category-emby
 host-suffix, texon.fans, category-emby
@@ -24,6 +23,7 @@ host, embyserver.ga, category-emby
 host, emby.prprcloud.com, category-emby
 host, emby.nyancat.net, category-emby
 host, emby.plusmedia.site, category-emby
+host, emby-sg.plusmedia.site, category-emby
 host, emby-cf.plusmedia.site, category-emby
 host, emby.xeton.dev, category-emby
 host, jellyfin.xeton.dev, category-emby
@@ -46,14 +46,6 @@ host, agasg.odysseyplus.site, category-emby
 host, ru.odysseyplus.site, category-emby
 host, line.emby.men, category-emby
 host, emby.run, category-emby
-host, emby.plusmedia.site, category-emby
-host, emby-sg.plusmedia.site, category-emby
-host, emby-cf.plusmedia.site, category-emby
-host, emby.xeton.dev, category-emby
-host, jellyfin.xeton.dev, category-emby
-host, movie.xeton.dev, category-emby
-host, servers.xeton.dev, category-emby
-host, embyserver.ga, category-emby
 host, jmsooo.com, category-emby
 host, cf.jmsooo.com, category-emby
 host, hk.jmsooo.com, category-emby

@@ -317,6 +317,7 @@ host-suffix, quiltmc.org, category-games
 host-suffix, r2modman.com, category-games
 host-suffix, rayark.download, category-games
 host-suffix, rayark.net, category-games
+host-suffix, skinswap.com, category-games
 host-suffix, speedrun.com, category-games
 host-suffix, spigotmc.org, category-games
 host-suffix, steamdb.info, category-games
@@ -838,6 +839,10 @@ host-suffix, playstation.com, category-games
 host-suffix, playstation.net, category-games
 host-suffix, playstationnetwork.com, category-games
 host-suffix, sonyentertainmentnetwork.com, category-games
+host-suffix, projectmoon.studio, category-games
+host-suffix, limbuscompany.global, category-games
+host-suffix, limbuscompanyapi.com, category-games
+host-suffix, limbuscompanycdn.org, category-games
 host-suffix, sekai.colorfulpalette.org, category-games
 host-suffix, pjsekai.sega.jp, category-games
 host-suffix, kraftonde.com, category-games

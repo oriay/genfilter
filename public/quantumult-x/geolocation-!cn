@@ -5807,6 +5807,7 @@ host-suffix, quiltmc.org, geolocation-!cn
 host-suffix, r2modman.com, geolocation-!cn
 host-suffix, rayark.download, geolocation-!cn
 host-suffix, rayark.net, geolocation-!cn
+host-suffix, skinswap.com, geolocation-!cn
 host-suffix, speedrun.com, geolocation-!cn
 host-suffix, spigotmc.org, geolocation-!cn
 host-suffix, steamdb.info, geolocation-!cn
@@ -6328,6 +6329,10 @@ host-suffix, playstation.com, geolocation-!cn
 host-suffix, playstation.net, geolocation-!cn
 host-suffix, playstationnetwork.com, geolocation-!cn
 host-suffix, sonyentertainmentnetwork.com, geolocation-!cn
+host-suffix, projectmoon.studio, geolocation-!cn
+host-suffix, limbuscompany.global, geolocation-!cn
+host-suffix, limbuscompanyapi.com, geolocation-!cn
+host-suffix, limbuscompanycdn.org, geolocation-!cn
 host-suffix, sekai.colorfulpalette.org, geolocation-!cn
 host-suffix, pjsekai.sega.jp, geolocation-!cn
 host-suffix, kraftonde.com, geolocation-!cn
