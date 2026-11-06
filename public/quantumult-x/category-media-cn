@@ -21,6 +21,7 @@ host-suffix, bjd.com.cn, category-media-cn
 host-suffix, bjnews.com.cn, category-media-cn
 host-suffix, bkeconomy.com, category-media-cn
 host-suffix, qianlong.com, category-media-cn
+host-suffix, bowangcaijing.cn, category-media-cn
 host-suffix, btime.com, category-media-cn
 host-suffix, caijing.com.cn, category-media-cn
 host-suffix, caixin.com, category-media-cn
@@ -33,6 +34,7 @@ host-suffix, ccreports.com.cn, category-media-cn
 host-suffix, tfcaijing.com, category-media-cn
 host-suffix, time-weekly.com, category-media-cn
 host-suffix, timesmedia.com.cn, category-media-cn
+host-suffix, cctime.com, category-media-cn
 host-suffix, ce.cn, category-media-cn
 host-suffix, cfgw.net.cn, category-media-cn
 host-suffix, cfi.cn, category-media-cn
@@ -60,9 +62,11 @@ host-suffix, cih-index.com, category-media-cn
 host-suffix, cneo.com.cn, category-media-cn
 host-suffix, cnfol.com, category-media-cn
 host-suffix, cnfolimg.com, category-media-cn
+host-suffix, cnfood.cn, category-media-cn
 host-suffix, cnhubei.com, category-media-cn
 host-suffix, hubeidaily.net, category-media-cn
 host-suffix, cnmo.com, category-media-cn
+host-suffix, cnpharm.com, category-media-cn
 host-suffix, cnr.cn, category-media-cn
 host-suffix, radio.cn, category-media-cn
 host-suffix, cnstock.com, category-media-cn
@@ -95,6 +99,7 @@ host-suffix, datasheet5.com, category-media-cn
 host-suffix, eefcdn.com, category-media-cn
 host-suffix, eefocus.com, category-media-cn
 host-suffix, dayoo.com, category-media-cn
+host-suffix, dbw.cn, category-media-cn
 host-suffix, dili360.com, category-media-cn
 host-suffix, dutenews.com, category-media-cn
 host-suffix, dzh.com.cn, category-media-cn
@@ -117,6 +122,7 @@ host-suffix, fromgeek.com, category-media-cn
 host-suffix, geekbang.org, category-media-cn
 host-suffix, infoq.cn, category-media-cn
 host-suffix, geekpark.net, category-media-cn
+host-suffix, gelonghui.com, category-media-cn
 host-suffix, gfan.com, category-media-cn
 host-suffix, gmdaily.cn, category-media-cn
 host-suffix, gmw.cn, category-media-cn
@@ -130,6 +136,8 @@ host-suffix, gxtv.cn, category-media-cn
 host-suffix, gxxmt.com, category-media-cn
 host-suffix, liangtv.cn, category-media-cn
 host-suffix, gztv.com, category-media-cn
+host-suffix, hebnews.cn, category-media-cn
+host-suffix, hebrb.cn, category-media-cn
 host-suffix, heimadata.com, category-media-cn
 host-suffix, iheima.com, category-media-cn
 host-suffix, 0033.cn, category-media-cn
@@ -154,6 +162,7 @@ host-suffix, huanqiucdn.cn, category-media-cn
 host-suffix, huxiu.com, category-media-cn
 host-suffix, huxiucdn.com, category-media-cn
 host-suffix, hxnews.com, category-media-cn
+host-suffix, iceo.com.cn, category-media-cn
 host-suffix, icpcw.com, category-media-cn
 host-suffix, icswb.com, category-media-cn
 host-suffix, idcquan.com, category-media-cn
@@ -165,6 +174,7 @@ host-suffix, iqilu.com, category-media-cn
 host-suffix, iresearch.cn, category-media-cn
 host-suffix, istv.cn, category-media-cn
 host-suffix, it168.com, category-media-cn
+host-suffix, jcrb.com, category-media-cn
 host-suffix, jfdaily.com, category-media-cn
 host-suffix, jfdaily.com.cn, category-media-cn
 host-suffix, shobserver.cn, category-media-cn
@@ -200,16 +210,20 @@ host-suffix, leikeji.com, category-media-cn
 host-suffix, leiphone.com, category-media-cn
 host-suffix, lifeweek.com.cn, category-media-cn
 host-suffix, sdxjpc.com, category-media-cn
+host-suffix, mcndata.cn, category-media-cn
+host-suffix, news.cn, category-media-cn
+host-suffix, newscdn.cn, category-media-cn
+host-suffix, newsimg.cn, category-media-cn
+host-suffix, shuwen.com, category-media-cn
+host-suffix, xinhuanet.com, category-media-cn
+host-suffix, xinhuaxmt.com, category-media-cn
+host-suffix, xinhuazhiyun.com, category-media-cn
 host-suffix, miercn.com, category-media-cn
 host-suffix, mnw.cn, category-media-cn
 host-suffix, myzaker.com, category-media-cn
 host-suffix, nanyuenews.com, category-media-cn
 host-suffix, nbd.com.cn, category-media-cn
 host-suffix, neweekly.com.cn, category-media-cn
-host-suffix, news.cn, category-media-cn
-host-suffix, newsimg.cn, category-media-cn
-host-suffix, xinhuanet.com, category-media-cn
-host-suffix, xinhuaxmt.com, category-media-cn
 host-suffix, newssc.org, category-media-cn
 host-suffix, oeeee.com, category-media-cn
 host-suffix, ofweek.com, category-media-cn
@@ -227,6 +241,7 @@ host-suffix, people.com.cn, category-media-cn
 host-suffix, peopleapp.com, category-media-cn
 host-suffix, pedaily.cn, category-media-cn
 host-suffix, pingwest.com, category-media-cn
+host-suffix, przwt.com, category-media-cn
 host-suffix, qbitai.com, category-media-cn
 host-suffix, qiluyidian.net, category-media-cn
 host-suffix, ql1d.com, category-media-cn
@@ -240,6 +255,7 @@ host-suffix, scgchc.com, category-media-cn
 host-suffix, sctv-tf.com, category-media-cn
 host-suffix, sctv.com, category-media-cn
 host-suffix, sciencenet.cn, category-media-cn
+host-suffix, scpublic.cn, category-media-cn
 host-suffix, scsjb.cn, category-media-cn
 host-suffix, secrss.com, category-media-cn
 host-suffix, sfccn.com, category-media-cn
@@ -264,7 +280,10 @@ host-suffix, thecover.cn, category-media-cn
 host-suffix, thepaper.cn, category-media-cn
 host-suffix, 8531.cn, category-media-cn
 host-suffix, tidenews.com.cn, category-media-cn
+host-suffix, tidesight.com, category-media-cn
 host-suffix, toodaylab.com, category-media-cn
+host-suffix, traveldaily.cn, category-media-cn
+host-suffix, upsort.com, category-media-cn
 host-suffix, vbdata.cn, category-media-cn
 host-suffix, vcbeat.top, category-media-cn
 host-suffix, workercn.cn, category-media-cn
@@ -285,6 +304,7 @@ host-suffix, zealer.com, category-media-cn
 host-suffix, zgjtb.com, category-media-cn
 host-suffix, zhichanli.com, category-media-cn
 host-suffix, zhiding.cn, category-media-cn
+host-suffix, zhiguf.com, category-media-cn
 host-suffix, zjol.com.cn, category-media-cn
 host-suffix, zol-img.com.cn, category-media-cn
 host-suffix, zol.com.cn, category-media-cn

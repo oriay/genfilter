@@ -1,7 +1,14 @@
+host-suffix, bse.cn, category-securities-cn
+host-suffix, bseinfo.net, category-securities-cn
+host-suffix, chinahtz.com, category-securities-cn
+host-suffix, cnindex.com.cn, category-securities-cn
+host-suffix, cninfo.com.cn, category-securities-cn
+host-suffix, csindex.com.cn, category-securities-cn
 host-suffix, sse.com.cn, category-securities-cn
 host-suffix, sseinfo.com, category-securities-cn
+host-suffix, ssetech.com.cn, category-securities-cn
 host-suffix, szse.cn, category-securities-cn
-host-suffix, cninfo.com.cn, category-securities-cn
+host-suffix, szsi.cn, category-securities-cn
 host-suffix, chinaclear.cn, category-securities-cn
 host-suffix, ajzq.com, category-securities-cn
 host-suffix, avicsec.com, category-securities-cn

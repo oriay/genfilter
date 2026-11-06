@@ -55,6 +55,13 @@ host-suffix, xiezuocat.com, category-ai-cn
 host-suffix, aispeech.com, category-ai-cn
 host-suffix, dui.ai, category-ai-cn
 host-suffix, duiopen.com, category-ai-cn
+host-suffix, senseaudio.cn, category-ai-cn
+host-suffix, senseavatar.com, category-ai-cn
+host-suffix, sensecore.cn, category-ai-cn
+host-suffix, sensefoundry.cn, category-ai-cn
+host-suffix, sensenova.cn, category-ai-cn
+host-suffix, sensetime.com, category-ai-cn
+host-suffix, xiaohuanxiong.com, category-ai-cn
 host-suffix, clawhub-mirror.com, category-ai-cn
 host-suffix, skillhub.cn, category-ai-cn
 host-suffix, safeskill.cn, category-ai-cn
@@ -66,6 +73,7 @@ host-suffix, kakaxing.com, category-ai-cn
 host-suffix, favonis.cloud, category-ai-cn
 host-suffix, favonis.com, category-ai-cn
 host-suffix, favonis.space, category-ai-cn
+host-suffix, ai-indeed.com, category-ai-cn
 host-suffix, askdiandian.com, category-ai-cn
 host-suffix, diandianlife.top, category-ai-cn
 host-suffix, deepseek.com, category-ai-cn
