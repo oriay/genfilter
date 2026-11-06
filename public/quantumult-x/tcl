@@ -10,3 +10,16 @@ host-suffix, ads.api.my7v.com, tcl
 host-suffix, euads-o.api.leiniao.com, tcl
 host-suffix, hwads-t.api.my7v.com, tcl
 host-suffix, testads.api.my7v.com, tcl
+host-suffix, ads-api-o.api.leiniao.com, tcl
+host-suffix, ads-o.res.leiniao.com, tcl
+host-suffix, ads-api-t.my7v.com, tcl
+host-suffix, isms-o.api.my7v.com, tcl
+host-suffix, base.api.my7v.com, tcl
+host-suffix, dc-conf-o.api.leiniao.com, tcl
+host-suffix, dc-conf-t.api.leiniao.com, tcl
+host-suffix, dc-o.api.leiniao.com, tcl
+host-suffix, dc-t.api.leiniao.com, tcl
+host-suffix, dc-uo.api.leiniao.com, tcl
+host-suffix, dc-ut.api.leiniao.com, tcl
+host-suffix, qms-report-o.api.leiniao.com, tcl
+host-suffix, qms-report-t.api.leiniao.com, tcl

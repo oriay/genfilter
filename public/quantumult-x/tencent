@@ -568,7 +568,6 @@ host-suffix, hdyxgame.com, tencent
 host-suffix, hkgcloudcs.com, tencent
 host-suffix, ihappystudio.cn, tencent
 host-suffix, ihappystudio.com, tencent
-host-suffix, in.th, tencent
 host-suffix, ludosuperstar.cn, tencent
 host-suffix, ludoworld.net, tencent
 host-suffix, mahjongai.net, tencent
@@ -635,6 +634,9 @@ host-suffix, tcfmglobal.com, tencent
 host-suffix, anticheatexpert.com, tencent
 host-suffix, 17roco.com, tencent
 host-suffix, roco.qq.com, tencent
+host-suffix, tencentgames.com, tencent
+host-suffix, levelinfinite.com, tencent
+host-suffix, nikke-en.com, tencent
 host-suffix, qqmusic.com, tencent
 host-suffix, tencentmusic.com, tencent
 host-suffix, kg.qq.com, tencent

@@ -7252,6 +7252,7 @@ host, pd.itunes.apple.com, geolocation-!cn
 host, play-edge.itunes.apple.com, geolocation-!cn
 host, play.itunes.apple.com, geolocation-!cn
 host, podcasts.itunes.apple.com, geolocation-!cn
+host, radio.itunes.apple.com, geolocation-!cn
 host, se-edge.itunes.apple.com, geolocation-!cn
 host, se2.itunes.apple.com, geolocation-!cn
 host, search.itunes.apple.com, geolocation-!cn
@@ -21888,6 +21889,7 @@ host, pd.itunes.apple.com, geolocation-!cn
 host, play-edge.itunes.apple.com, geolocation-!cn
 host, play.itunes.apple.com, geolocation-!cn
 host, podcasts.itunes.apple.com, geolocation-!cn
+host, radio.itunes.apple.com, geolocation-!cn
 host, se-edge.itunes.apple.com, geolocation-!cn
 host, se2.itunes.apple.com, geolocation-!cn
 host, search.itunes.apple.com, geolocation-!cn

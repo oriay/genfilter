@@ -2292,7 +2292,6 @@ host-suffix, hdyxgame.com, geolocation-cn
 host-suffix, hkgcloudcs.com, geolocation-cn
 host-suffix, ihappystudio.cn, geolocation-cn
 host-suffix, ihappystudio.com, geolocation-cn
-host-suffix, in.th, geolocation-cn
 host-suffix, ludosuperstar.cn, geolocation-cn
 host-suffix, ludoworld.net, geolocation-cn
 host-suffix, mahjongai.net, geolocation-cn
@@ -2359,6 +2358,9 @@ host-suffix, tcfmglobal.com, geolocation-cn
 host-suffix, anticheatexpert.com, geolocation-cn
 host-suffix, 17roco.com, geolocation-cn
 host-suffix, roco.qq.com, geolocation-cn
+host-suffix, tencentgames.com, geolocation-cn
+host-suffix, levelinfinite.com, geolocation-cn
+host-suffix, nikke-en.com, geolocation-cn
 host-suffix, tiancity.com, geolocation-cn
 host-suffix, tiancitycdn.com, geolocation-cn
 host-suffix, vrzwk.cn, geolocation-cn
@@ -5291,6 +5293,7 @@ host-suffix, rqnoj.cn, geolocation-cn
 host-suffix, uoj.ac, geolocation-cn
 host-suffix, vijos.org, geolocation-cn
 host-suffix, xmoj.tech, geolocation-cn
+host-suffix, yundouxueyuan.com, geolocation-cn
 host-suffix, 51ccd.com, geolocation-cn
 host-suffix, airitilibrary.cn, geolocation-cn
 host-suffix, ancientbooks.cn, geolocation-cn
@@ -8205,6 +8208,7 @@ host-suffix, iadmusicmatvideo.music.126.net, geolocation-cn
 host-suffix, sentry.music.163.com, geolocation-cn
 host-suffix, allawnfs.com, geolocation-cn
 host-suffix, allawno.com, geolocation-cn
+host-suffix, allawnofs.com, geolocation-cn
 host-suffix, allawntech.com, geolocation-cn
 host-suffix, coloros.com, geolocation-cn
 host-suffix, coloros.net, geolocation-cn
@@ -8389,6 +8393,19 @@ host-suffix, ads.api.my7v.com, geolocation-cn
 host-suffix, euads-o.api.leiniao.com, geolocation-cn
 host-suffix, hwads-t.api.my7v.com, geolocation-cn
 host-suffix, testads.api.my7v.com, geolocation-cn
+host-suffix, ads-api-o.api.leiniao.com, geolocation-cn
+host-suffix, ads-o.res.leiniao.com, geolocation-cn
+host-suffix, ads-api-t.my7v.com, geolocation-cn
+host-suffix, isms-o.api.my7v.com, geolocation-cn
+host-suffix, base.api.my7v.com, geolocation-cn
+host-suffix, dc-conf-o.api.leiniao.com, geolocation-cn
+host-suffix, dc-conf-t.api.leiniao.com, geolocation-cn
+host-suffix, dc-o.api.leiniao.com, geolocation-cn
+host-suffix, dc-t.api.leiniao.com, geolocation-cn
+host-suffix, dc-uo.api.leiniao.com, geolocation-cn
+host-suffix, dc-ut.api.leiniao.com, geolocation-cn
+host-suffix, qms-report-o.api.leiniao.com, geolocation-cn
+host-suffix, qms-report-t.api.leiniao.com, geolocation-cn
 host-suffix, qq.xn--fiqs8s, geolocation-cn
 host-suffix, xn--r70as2s.xn--fiqs8s, geolocation-cn
 host-suffix, acimg.cn, geolocation-cn
@@ -8959,7 +8976,6 @@ host-suffix, hdyxgame.com, geolocation-cn
 host-suffix, hkgcloudcs.com, geolocation-cn
 host-suffix, ihappystudio.cn, geolocation-cn
 host-suffix, ihappystudio.com, geolocation-cn
-host-suffix, in.th, geolocation-cn
 host-suffix, ludosuperstar.cn, geolocation-cn
 host-suffix, ludoworld.net, geolocation-cn
 host-suffix, mahjongai.net, geolocation-cn
@@ -9026,6 +9042,9 @@ host-suffix, tcfmglobal.com, geolocation-cn
 host-suffix, anticheatexpert.com, geolocation-cn
 host-suffix, 17roco.com, geolocation-cn
 host-suffix, roco.qq.com, geolocation-cn
+host-suffix, tencentgames.com, geolocation-cn
+host-suffix, levelinfinite.com, geolocation-cn
+host-suffix, nikke-en.com, geolocation-cn
 host-suffix, qqmusic.com, geolocation-cn
 host-suffix, tencentmusic.com, geolocation-cn
 host-suffix, kg.qq.com, geolocation-cn

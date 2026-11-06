@@ -2926,6 +2926,7 @@ host, pd.itunes.apple.com, category-ads
 host, play-edge.itunes.apple.com, category-ads
 host, play.itunes.apple.com, category-ads
 host, podcasts.itunes.apple.com, category-ads
+host, radio.itunes.apple.com, category-ads
 host, se-edge.itunes.apple.com, category-ads
 host, se2.itunes.apple.com, category-ads
 host, search.itunes.apple.com, category-ads
@@ -8736,6 +8737,19 @@ host-suffix, ads.api.my7v.com, category-ads
 host-suffix, euads-o.api.leiniao.com, category-ads
 host-suffix, hwads-t.api.my7v.com, category-ads
 host-suffix, testads.api.my7v.com, category-ads
+host-suffix, ads-api-o.api.leiniao.com, category-ads
+host-suffix, ads-o.res.leiniao.com, category-ads
+host-suffix, ads-api-t.my7v.com, category-ads
+host-suffix, isms-o.api.my7v.com, category-ads
+host-suffix, base.api.my7v.com, category-ads
+host-suffix, dc-conf-o.api.leiniao.com, category-ads
+host-suffix, dc-conf-t.api.leiniao.com, category-ads
+host-suffix, dc-o.api.leiniao.com, category-ads
+host-suffix, dc-t.api.leiniao.com, category-ads
+host-suffix, dc-uo.api.leiniao.com, category-ads
+host-suffix, dc-ut.api.leiniao.com, category-ads
+host-suffix, qms-report-o.api.leiniao.com, category-ads
+host-suffix, qms-report-t.api.leiniao.com, category-ads
 host-suffix, qq.xn--fiqs8s, category-ads
 host-suffix, xn--r70as2s.xn--fiqs8s, category-ads
 host-suffix, acimg.cn, category-ads
@@ -9306,7 +9320,6 @@ host-suffix, hdyxgame.com, category-ads
 host-suffix, hkgcloudcs.com, category-ads
 host-suffix, ihappystudio.cn, category-ads
 host-suffix, ihappystudio.com, category-ads
-host-suffix, in.th, category-ads
 host-suffix, ludosuperstar.cn, category-ads
 host-suffix, ludoworld.net, category-ads
 host-suffix, mahjongai.net, category-ads
@@ -9373,6 +9386,9 @@ host-suffix, tcfmglobal.com, category-ads
 host-suffix, anticheatexpert.com, category-ads
 host-suffix, 17roco.com, category-ads
 host-suffix, roco.qq.com, category-ads
+host-suffix, tencentgames.com, category-ads
+host-suffix, levelinfinite.com, category-ads
+host-suffix, nikke-en.com, category-ads
 host-suffix, qqmusic.com, category-ads
 host-suffix, tencentmusic.com, category-ads
 host-suffix, kg.qq.com, category-ads

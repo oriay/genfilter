@@ -2292,7 +2292,6 @@ DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,mahjongai.net
@@ -2359,6 +2358,9 @@ DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,tiancitycdn.com
 DOMAIN-SUFFIX,vrzwk.cn
@@ -5291,6 +5293,7 @@ DOMAIN-SUFFIX,rqnoj.cn
 DOMAIN-SUFFIX,uoj.ac
 DOMAIN-SUFFIX,vijos.org
 DOMAIN-SUFFIX,xmoj.tech
+DOMAIN-SUFFIX,yundouxueyuan.com
 DOMAIN-SUFFIX,51ccd.com
 DOMAIN-SUFFIX,airitilibrary.cn
 DOMAIN-SUFFIX,ancientbooks.cn
@@ -8205,6 +8208,7 @@ DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,sentry.music.163.com
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
+DOMAIN-SUFFIX,allawnofs.com
 DOMAIN-SUFFIX,allawntech.com
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,coloros.net
@@ -8389,6 +8393,19 @@ DOMAIN-SUFFIX,ads.api.my7v.com
 DOMAIN-SUFFIX,euads-o.api.leiniao.com
 DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
+DOMAIN-SUFFIX,ads-api-o.api.leiniao.com
+DOMAIN-SUFFIX,ads-o.res.leiniao.com
+DOMAIN-SUFFIX,ads-api-t.my7v.com
+DOMAIN-SUFFIX,isms-o.api.my7v.com
+DOMAIN-SUFFIX,base.api.my7v.com
+DOMAIN-SUFFIX,dc-conf-o.api.leiniao.com
+DOMAIN-SUFFIX,dc-conf-t.api.leiniao.com
+DOMAIN-SUFFIX,dc-o.api.leiniao.com
+DOMAIN-SUFFIX,dc-t.api.leiniao.com
+DOMAIN-SUFFIX,dc-uo.api.leiniao.com
+DOMAIN-SUFFIX,dc-ut.api.leiniao.com
+DOMAIN-SUFFIX,qms-report-o.api.leiniao.com
+DOMAIN-SUFFIX,qms-report-t.api.leiniao.com
 DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
 DOMAIN-SUFFIX,acimg.cn
@@ -8959,7 +8976,6 @@ DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,mahjongai.net
@@ -9026,6 +9042,9 @@ DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,kg.qq.com

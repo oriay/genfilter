@@ -2341,7 +2341,6 @@ host-suffix, hdyxgame.com, cn
 host-suffix, hkgcloudcs.com, cn
 host-suffix, ihappystudio.cn, cn
 host-suffix, ihappystudio.com, cn
-host-suffix, in.th, cn
 host-suffix, ludosuperstar.cn, cn
 host-suffix, ludoworld.net, cn
 host-suffix, mahjongai.net, cn
@@ -2408,6 +2407,9 @@ host-suffix, tcfmglobal.com, cn
 host-suffix, anticheatexpert.com, cn
 host-suffix, 17roco.com, cn
 host-suffix, roco.qq.com, cn
+host-suffix, tencentgames.com, cn
+host-suffix, levelinfinite.com, cn
+host-suffix, nikke-en.com, cn
 host-suffix, tiancity.com, cn
 host-suffix, tiancitycdn.com, cn
 host-suffix, vrzwk.cn, cn
@@ -5340,6 +5342,7 @@ host-suffix, rqnoj.cn, cn
 host-suffix, uoj.ac, cn
 host-suffix, vijos.org, cn
 host-suffix, xmoj.tech, cn
+host-suffix, yundouxueyuan.com, cn
 host-suffix, 51ccd.com, cn
 host-suffix, airitilibrary.cn, cn
 host-suffix, ancientbooks.cn, cn
@@ -8254,6 +8257,7 @@ host-suffix, iadmusicmatvideo.music.126.net, cn
 host-suffix, sentry.music.163.com, cn
 host-suffix, allawnfs.com, cn
 host-suffix, allawno.com, cn
+host-suffix, allawnofs.com, cn
 host-suffix, allawntech.com, cn
 host-suffix, coloros.com, cn
 host-suffix, coloros.net, cn
@@ -8438,6 +8442,19 @@ host-suffix, ads.api.my7v.com, cn
 host-suffix, euads-o.api.leiniao.com, cn
 host-suffix, hwads-t.api.my7v.com, cn
 host-suffix, testads.api.my7v.com, cn
+host-suffix, ads-api-o.api.leiniao.com, cn
+host-suffix, ads-o.res.leiniao.com, cn
+host-suffix, ads-api-t.my7v.com, cn
+host-suffix, isms-o.api.my7v.com, cn
+host-suffix, base.api.my7v.com, cn
+host-suffix, dc-conf-o.api.leiniao.com, cn
+host-suffix, dc-conf-t.api.leiniao.com, cn
+host-suffix, dc-o.api.leiniao.com, cn
+host-suffix, dc-t.api.leiniao.com, cn
+host-suffix, dc-uo.api.leiniao.com, cn
+host-suffix, dc-ut.api.leiniao.com, cn
+host-suffix, qms-report-o.api.leiniao.com, cn
+host-suffix, qms-report-t.api.leiniao.com, cn
 host-suffix, qq.xn--fiqs8s, cn
 host-suffix, xn--r70as2s.xn--fiqs8s, cn
 host-suffix, acimg.cn, cn
@@ -9008,7 +9025,6 @@ host-suffix, hdyxgame.com, cn
 host-suffix, hkgcloudcs.com, cn
 host-suffix, ihappystudio.cn, cn
 host-suffix, ihappystudio.com, cn
-host-suffix, in.th, cn
 host-suffix, ludosuperstar.cn, cn
 host-suffix, ludoworld.net, cn
 host-suffix, mahjongai.net, cn
@@ -9075,6 +9091,9 @@ host-suffix, tcfmglobal.com, cn
 host-suffix, anticheatexpert.com, cn
 host-suffix, 17roco.com, cn
 host-suffix, roco.qq.com, cn
+host-suffix, tencentgames.com, cn
+host-suffix, levelinfinite.com, cn
+host-suffix, nikke-en.com, cn
 host-suffix, qqmusic.com, cn
 host-suffix, tencentmusic.com, cn
 host-suffix, kg.qq.com, cn
