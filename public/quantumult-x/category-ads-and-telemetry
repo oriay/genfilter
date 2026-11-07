@@ -7849,6 +7849,7 @@ host-suffix, collector.github.com, category-ads-and-telemetry
 host-suffix, githubcopilot.com, category-ads-and-telemetry
 host, copilot-proxy.githubusercontent.com, category-ads-and-telemetry
 host, copilot-workspace.githubnext.com, category-ads-and-telemetry
+host, production-copilot-host-westus.webpubsub.azure.com, category-ads-and-telemetry
 host, copilotprodattachments.blob.core.windows.net, category-ads-and-telemetry
 host, copilot-telemetry-service.githubusercontent.com, category-ads-and-telemetry
 host, copilot-telemetry.githubusercontent.com, category-ads-and-telemetry
@@ -12946,6 +12947,7 @@ host-suffix, collector.github.com, category-ads-and-telemetry
 host-suffix, githubcopilot.com, category-ads-and-telemetry
 host, copilot-proxy.githubusercontent.com, category-ads-and-telemetry
 host, copilot-workspace.githubnext.com, category-ads-and-telemetry
+host, production-copilot-host-westus.webpubsub.azure.com, category-ads-and-telemetry
 host, copilotprodattachments.blob.core.windows.net, category-ads-and-telemetry
 host, copilot-telemetry-service.githubusercontent.com, category-ads-and-telemetry
 host, copilot-telemetry.githubusercontent.com, category-ads-and-telemetry
@@ -12955,6 +12957,7 @@ host-suffix, npmjs.org, category-ads-and-telemetry
 host-suffix, githubcopilot.com, category-ads-and-telemetry
 host, copilot-proxy.githubusercontent.com, category-ads-and-telemetry
 host, copilot-workspace.githubnext.com, category-ads-and-telemetry
+host, production-copilot-host-westus.webpubsub.azure.com, category-ads-and-telemetry
 host, copilotprodattachments.blob.core.windows.net, category-ads-and-telemetry
 host, copilot-telemetry-service.githubusercontent.com, category-ads-and-telemetry
 host, copilot-telemetry.githubusercontent.com, category-ads-and-telemetry
@@ -14238,6 +14241,7 @@ host-suffix, collector.github.com, category-ads-and-telemetry
 host-suffix, githubcopilot.com, category-ads-and-telemetry
 host, copilot-proxy.githubusercontent.com, category-ads-and-telemetry
 host, copilot-workspace.githubnext.com, category-ads-and-telemetry
+host, production-copilot-host-westus.webpubsub.azure.com, category-ads-and-telemetry
 host, copilotprodattachments.blob.core.windows.net, category-ads-and-telemetry
 host, copilot-telemetry-service.githubusercontent.com, category-ads-and-telemetry
 host, copilot-telemetry.githubusercontent.com, category-ads-and-telemetry

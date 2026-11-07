@@ -7849,6 +7849,7 @@ host-suffix, collector.github.com, category-ads
 host-suffix, githubcopilot.com, category-ads
 host, copilot-proxy.githubusercontent.com, category-ads
 host, copilot-workspace.githubnext.com, category-ads
+host, production-copilot-host-westus.webpubsub.azure.com, category-ads
 host, copilotprodattachments.blob.core.windows.net, category-ads
 host, copilot-telemetry-service.githubusercontent.com, category-ads
 host, copilot-telemetry.githubusercontent.com, category-ads

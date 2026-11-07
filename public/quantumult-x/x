@@ -24,5 +24,6 @@ host-suffix, vine.co, x
 host-suffix, x.com, x
 host-suffix, grok.com, x
 host-suffix, grok.x.com, x
+host-suffix, grokbot.com, x
 host-suffix, grokipedia.com, x
 host-suffix, x.ai, x

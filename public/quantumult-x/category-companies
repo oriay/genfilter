@@ -7369,6 +7369,7 @@ host-suffix, collector.github.com, category-companies
 host-suffix, githubcopilot.com, category-companies
 host, copilot-proxy.githubusercontent.com, category-companies
 host, copilot-workspace.githubnext.com, category-companies
+host, production-copilot-host-westus.webpubsub.azure.com, category-companies
 host, copilotprodattachments.blob.core.windows.net, category-companies
 host, copilot-telemetry-service.githubusercontent.com, category-companies
 host, copilot-telemetry.githubusercontent.com, category-companies

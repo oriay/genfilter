@@ -598,6 +598,7 @@ host-suffix, collector.github.com, microsoft
 host-suffix, githubcopilot.com, microsoft
 host, copilot-proxy.githubusercontent.com, microsoft
 host, copilot-workspace.githubnext.com, microsoft
+host, production-copilot-host-westus.webpubsub.azure.com, microsoft
 host, copilotprodattachments.blob.core.windows.net, microsoft
 host, copilot-telemetry-service.githubusercontent.com, microsoft
 host, copilot-telemetry.githubusercontent.com, microsoft

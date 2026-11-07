@@ -2849,6 +2849,7 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
@@ -2858,6 +2859,7 @@ DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
@@ -4141,6 +4143,7 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com

@@ -147,6 +147,7 @@ host-suffix, themeforest.net, geolocation-!cn
 host-suffix, githubcopilot.com, geolocation-!cn
 host, copilot-proxy.githubusercontent.com, geolocation-!cn
 host, copilot-workspace.githubnext.com, geolocation-!cn
+host, production-copilot-host-westus.webpubsub.azure.com, geolocation-!cn
 host, copilotprodattachments.blob.core.windows.net, geolocation-!cn
 host, copilot-telemetry-service.githubusercontent.com, geolocation-!cn
 host, copilot-telemetry.githubusercontent.com, geolocation-!cn
@@ -247,6 +248,7 @@ host-suffix, windsurf.build, geolocation-!cn
 host-suffix, windsurf.com, geolocation-!cn
 host-suffix, grok.com, geolocation-!cn
 host-suffix, grok.x.com, geolocation-!cn
+host-suffix, grokbot.com, geolocation-!cn
 host-suffix, grokipedia.com, geolocation-!cn
 host-suffix, x.ai, geolocation-!cn
 host-suffix, youmind.ai, geolocation-!cn
@@ -18061,6 +18063,7 @@ host-suffix, collector.github.com, geolocation-!cn
 host-suffix, githubcopilot.com, geolocation-!cn
 host, copilot-proxy.githubusercontent.com, geolocation-!cn
 host, copilot-workspace.githubnext.com, geolocation-!cn
+host, production-copilot-host-westus.webpubsub.azure.com, geolocation-!cn
 host, copilotprodattachments.blob.core.windows.net, geolocation-!cn
 host, copilot-telemetry-service.githubusercontent.com, geolocation-!cn
 host, copilot-telemetry.githubusercontent.com, geolocation-!cn
@@ -25737,6 +25740,7 @@ host-suffix, collector.github.com, geolocation-!cn
 host-suffix, githubcopilot.com, geolocation-!cn
 host, copilot-proxy.githubusercontent.com, geolocation-!cn
 host, copilot-workspace.githubnext.com, geolocation-!cn
+host, production-copilot-host-westus.webpubsub.azure.com, geolocation-!cn
 host, copilotprodattachments.blob.core.windows.net, geolocation-!cn
 host, copilot-telemetry-service.githubusercontent.com, geolocation-!cn
 host, copilot-telemetry.githubusercontent.com, geolocation-!cn
