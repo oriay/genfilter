@@ -17,3 +17,5 @@ host-suffix, claudepages.dev, anthropic
 host-suffix, claudestudio.com, anthropic
 host-suffix, claudeusercontent.com, anthropic
 host, servd-anthropic-website.b-cdn.net, anthropic
+host, http-intake.logs.us5.datadoghq.com, anthropic
+host, o1158394.ingest.us.sentry.io, anthropic

@@ -119,6 +119,8 @@ host-suffix, claudepages.dev, geolocation-!cn
 host-suffix, claudestudio.com, geolocation-!cn
 host-suffix, claudeusercontent.com, geolocation-!cn
 host, servd-anthropic-website.b-cdn.net, geolocation-!cn
+host, http-intake.logs.us5.datadoghq.com, geolocation-!cn
+host, o1158394.ingest.us.sentry.io, geolocation-!cn
 host-suffix, coze.com, geolocation-!cn
 host-suffix, marscode.com, geolocation-!cn
 host-suffix, trae.ai, geolocation-!cn

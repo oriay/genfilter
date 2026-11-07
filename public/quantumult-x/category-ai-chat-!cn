@@ -80,6 +80,8 @@ host-suffix, claudepages.dev, category-ai-chat-!cn
 host-suffix, claudestudio.com, category-ai-chat-!cn
 host-suffix, claudeusercontent.com, category-ai-chat-!cn
 host, servd-anthropic-website.b-cdn.net, category-ai-chat-!cn
+host, http-intake.logs.us5.datadoghq.com, category-ai-chat-!cn
+host, o1158394.ingest.us.sentry.io, category-ai-chat-!cn
 host-suffix, coze.com, category-ai-chat-!cn
 host-suffix, marscode.com, category-ai-chat-!cn
 host-suffix, trae.ai, category-ai-chat-!cn
