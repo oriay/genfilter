@@ -5538,6 +5538,7 @@ host-suffix, hunyuan.tencent.com, geolocation-cn
 host-suffix, yuanbao.tencent.com, geolocation-cn
 host-suffix, yuanqi.tencent.com, geolocation-cn
 host-suffix, baichuan-ai.com, geolocation-cn
+host-suffix, nia-teams.com, geolocation-cn
 host-suffix, cueme.cn, geolocation-cn
 host, cueme-api.quark.cn, geolocation-cn
 host-suffix, n.cn, geolocation-cn

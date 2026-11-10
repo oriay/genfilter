@@ -410,6 +410,8 @@ host-suffix, godoc.org, category-dev
 host-suffix, golang.com, category-dev
 host-suffix, golang.net, category-dev
 host-suffix, golang.org, category-dev
+host-suffix, grafana.com, category-dev
+host-suffix, grafana.net, category-dev
 host-suffix, consul.io, category-dev
 host-suffix, hashicorp.com, category-dev
 host-suffix, nomadproject.io, category-dev

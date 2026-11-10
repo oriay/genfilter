@@ -7933,8 +7933,11 @@ host-suffix, hydrogenaud.io, geolocation-!cn
 host-suffix, mewe.com, geolocation-!cn
 host-suffix, parler.com, geolocation-!cn
 host-suffix, pincong.rocks, geolocation-!cn
+host-suffix, questionablequesting.com, geolocation-!cn
 host-suffix, safechat.com, geolocation-!cn
 host-suffix, sis001.com, geolocation-!cn
+host-suffix, spacebattles.com, geolocation-!cn
+host-suffix, v2ex.co, geolocation-!cn
 host-suffix, v2ex.com, geolocation-!cn
 host-suffix, 2ch.hk, geolocation-!cn
 host-suffix, 2ch.life, geolocation-!cn
@@ -18085,6 +18088,8 @@ host-suffix, godoc.org, geolocation-!cn
 host-suffix, golang.com, geolocation-!cn
 host-suffix, golang.net, geolocation-!cn
 host-suffix, golang.org, geolocation-!cn
+host-suffix, grafana.com, geolocation-!cn
+host-suffix, grafana.net, geolocation-!cn
 host-suffix, consul.io, geolocation-!cn
 host-suffix, hashicorp.com, geolocation-!cn
 host-suffix, nomadproject.io, geolocation-!cn
