@@ -363,6 +363,7 @@ host-suffix, googlecensorship.org, geolocation-!cn
 host-suffix, googleplaycensorship.com, geolocation-!cn
 host-suffix, greatfire.org, geolocation-!cn
 host-suffix, greatfirevpn.com, geolocation-!cn
+host-suffix, manyvoices.news, geolocation-!cn
 host-suffix, pao-pao.net, geolocation-!cn
 host-suffix, wikiunblocked.org, geolocation-!cn
 host-suffix, haveibeenpwned.com, geolocation-!cn
