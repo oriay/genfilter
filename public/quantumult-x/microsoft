@@ -341,7 +341,6 @@ host, surface.download.prss.microsoft.com, microsoft
 host, surface.downloads.prss.microsoft.com, microsoft
 host, vlportal.download.prss.microsoft.com, microsoft
 host, volic.download.prss.microsoft.com, microsoft
-host, vscode.download.prss.microsoft.com, microsoft
 host, vz.download.prss.microsoft.com, microsoft
 host, windbg.download.prss.microsoft.com, microsoft
 host-suffix, azure, microsoft
@@ -665,9 +664,11 @@ host-suffix, vscodeedu.com, microsoft
 host-suffix, xamarin.com, microsoft
 host, az764295.vo.msecnd.net, microsoft
 host, bingsettingssearch.trafficmanager.net, microsoft
+host, builds.dotnet.microsoft.com, microsoft
 host, dc.services.visualstudio.com, microsoft
 host, default.exp-tas.com, microsoft
 host, developer.microsoft.com, microsoft
+host, dotnetcli.trafficmanager.net, microsoft
 host, download.visualstudio.microsoft.com, microsoft
 host, dtlgalleryint.cloudapp.net, microsoft
 host, packages.microsoft.com, microsoft
@@ -676,9 +677,11 @@ host, psg-int-centralus.cloudapp.net, microsoft
 host, psg-int-eastus.cloudapp.net, microsoft
 host, rink.hockeyapp.net, microsoft
 host, rt.services.visualstudio.com, microsoft
+host, sundry-star-net-geo.trafficmanager.net, microsoft
 host, vscode-sync-insiders.trafficmanager.net, microsoft
 host, vscode-sync.trafficmanager.net, microsoft
 host, vscode.blob.core.windows.net, microsoft
+host, vscode.download.prss.microsoft.com, microsoft
 host, vscode.search.windows.net, microsoft
 host, vsmarketplacebadge.apphb.com, microsoft
 host-suffix, msocsp.com, microsoft

@@ -1579,8 +1579,10 @@ host, inappcheck.itunes.apple.com, category-entertainment
 host, init.itunes.apple.com, category-entertainment
 host, iosapps.itunes.apple.com, category-entertainment
 host, misc-assets.itunes.apple.com, category-entertainment
+host, musicstatus.itunes.apple.com, category-entertainment
 host, mvod.itunes.apple.com, category-entertainment
 host, myapp.itunes.apple.com, category-entertainment
+host, mzstorekit.itunes.apple.com, category-entertainment
 host, np-edge.itunes.apple.com, category-entertainment
 host, osxapps.itunes.apple.com, category-entertainment
 host, pd-nk.itunes.apple.com, category-entertainment

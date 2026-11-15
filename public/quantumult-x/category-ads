@@ -1800,11 +1800,13 @@ host, apple.com.akadns.net, category-ads
 host, configuration-lb.ls-apple.com.akadns.net, category-ads
 host, push-apple.com.akadns.net, category-ads
 host-suffix, courier-push-apple.com.akadns.net, category-ads
+host-suffix, captive.apple.com, category-ads
 host, amp-api-edge.apps.apple.com, category-ads
 host, amp-api-search-edge.apps.apple.com, category-ads
 host, amp-api.apps.apple.com, category-ads
 host, api-edge.apps.apple.com, category-ads
 host, communities.apple.com, category-ads
+host, configuration.ls.apple.com, category-ads
 host, discussionschinese.apple.com, category-ads
 host, fides-pol.apple.com, category-ads
 host, gspe12-cn-ssl.ls.apple.com, category-ads
@@ -2917,8 +2919,10 @@ host, inappcheck.itunes.apple.com, category-ads
 host, init.itunes.apple.com, category-ads
 host, iosapps.itunes.apple.com, category-ads
 host, misc-assets.itunes.apple.com, category-ads
+host, musicstatus.itunes.apple.com, category-ads
 host, mvod.itunes.apple.com, category-ads
 host, myapp.itunes.apple.com, category-ads
+host, mzstorekit.itunes.apple.com, category-ads
 host, np-edge.itunes.apple.com, category-ads
 host, osxapps.itunes.apple.com, category-ads
 host, pd-nk.itunes.apple.com, category-ads
@@ -7592,7 +7596,6 @@ host, surface.download.prss.microsoft.com, category-ads
 host, surface.downloads.prss.microsoft.com, category-ads
 host, vlportal.download.prss.microsoft.com, category-ads
 host, volic.download.prss.microsoft.com, category-ads
-host, vscode.download.prss.microsoft.com, category-ads
 host, vz.download.prss.microsoft.com, category-ads
 host, windbg.download.prss.microsoft.com, category-ads
 host-suffix, azure, category-ads
@@ -7916,9 +7919,11 @@ host-suffix, vscodeedu.com, category-ads
 host-suffix, xamarin.com, category-ads
 host, az764295.vo.msecnd.net, category-ads
 host, bingsettingssearch.trafficmanager.net, category-ads
+host, builds.dotnet.microsoft.com, category-ads
 host, dc.services.visualstudio.com, category-ads
 host, default.exp-tas.com, category-ads
 host, developer.microsoft.com, category-ads
+host, dotnetcli.trafficmanager.net, category-ads
 host, download.visualstudio.microsoft.com, category-ads
 host, dtlgalleryint.cloudapp.net, category-ads
 host, packages.microsoft.com, category-ads
@@ -7927,9 +7932,11 @@ host, psg-int-centralus.cloudapp.net, category-ads
 host, psg-int-eastus.cloudapp.net, category-ads
 host, rink.hockeyapp.net, category-ads
 host, rt.services.visualstudio.com, category-ads
+host, sundry-star-net-geo.trafficmanager.net, category-ads
 host, vscode-sync-insiders.trafficmanager.net, category-ads
 host, vscode-sync.trafficmanager.net, category-ads
 host, vscode.blob.core.windows.net, category-ads
+host, vscode.download.prss.microsoft.com, category-ads
 host, vscode.search.windows.net, category-ads
 host, vsmarketplacebadge.apphb.com, category-ads
 host-suffix, msocsp.com, category-ads

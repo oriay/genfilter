@@ -3886,7 +3886,6 @@ host, surface.download.prss.microsoft.com, category-telemetry
 host, surface.downloads.prss.microsoft.com, category-telemetry
 host, vlportal.download.prss.microsoft.com, category-telemetry
 host, volic.download.prss.microsoft.com, category-telemetry
-host, vscode.download.prss.microsoft.com, category-telemetry
 host, vz.download.prss.microsoft.com, category-telemetry
 host, windbg.download.prss.microsoft.com, category-telemetry
 host-suffix, azure, category-telemetry
@@ -4210,9 +4209,11 @@ host-suffix, vscodeedu.com, category-telemetry
 host-suffix, xamarin.com, category-telemetry
 host, az764295.vo.msecnd.net, category-telemetry
 host, bingsettingssearch.trafficmanager.net, category-telemetry
+host, builds.dotnet.microsoft.com, category-telemetry
 host, dc.services.visualstudio.com, category-telemetry
 host, default.exp-tas.com, category-telemetry
 host, developer.microsoft.com, category-telemetry
+host, dotnetcli.trafficmanager.net, category-telemetry
 host, download.visualstudio.microsoft.com, category-telemetry
 host, dtlgalleryint.cloudapp.net, category-telemetry
 host, packages.microsoft.com, category-telemetry
@@ -4221,9 +4222,11 @@ host, psg-int-centralus.cloudapp.net, category-telemetry
 host, psg-int-eastus.cloudapp.net, category-telemetry
 host, rink.hockeyapp.net, category-telemetry
 host, rt.services.visualstudio.com, category-telemetry
+host, sundry-star-net-geo.trafficmanager.net, category-telemetry
 host, vscode-sync-insiders.trafficmanager.net, category-telemetry
 host, vscode-sync.trafficmanager.net, category-telemetry
 host, vscode.blob.core.windows.net, category-telemetry
+host, vscode.download.prss.microsoft.com, category-telemetry
 host, vscode.search.windows.net, category-telemetry
 host, vsmarketplacebadge.apphb.com, category-telemetry
 host-suffix, msocsp.com, category-telemetry
@@ -4366,9 +4369,11 @@ host-suffix, vscodeedu.com, category-telemetry
 host-suffix, xamarin.com, category-telemetry
 host, az764295.vo.msecnd.net, category-telemetry
 host, bingsettingssearch.trafficmanager.net, category-telemetry
+host, builds.dotnet.microsoft.com, category-telemetry
 host, dc.services.visualstudio.com, category-telemetry
 host, default.exp-tas.com, category-telemetry
 host, developer.microsoft.com, category-telemetry
+host, dotnetcli.trafficmanager.net, category-telemetry
 host, download.visualstudio.microsoft.com, category-telemetry
 host, dtlgalleryint.cloudapp.net, category-telemetry
 host, packages.microsoft.com, category-telemetry
@@ -4377,9 +4382,11 @@ host, psg-int-centralus.cloudapp.net, category-telemetry
 host, psg-int-eastus.cloudapp.net, category-telemetry
 host, rink.hockeyapp.net, category-telemetry
 host, rt.services.visualstudio.com, category-telemetry
+host, sundry-star-net-geo.trafficmanager.net, category-telemetry
 host, vscode-sync-insiders.trafficmanager.net, category-telemetry
 host, vscode-sync.trafficmanager.net, category-telemetry
 host, vscode.blob.core.windows.net, category-telemetry
+host, vscode.download.prss.microsoft.com, category-telemetry
 host, vscode.search.windows.net, category-telemetry
 host, vsmarketplacebadge.apphb.com, category-telemetry
 host-suffix, mhystatic.com, category-telemetry

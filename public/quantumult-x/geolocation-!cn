@@ -382,6 +382,7 @@ host-suffix, vpngate.jp, geolocation-!cn
 host-suffix, vpngate.net, geolocation-!cn
 host-suffix, docs.rw, geolocation-!cn
 host-suffix, log.rw, geolocation-!cn
+host-suffix, remna.dev, geolocation-!cn
 host-suffix, remna.st, geolocation-!cn
 host-suffix, try.rw, geolocation-!cn
 host-suffix, equinox.io, geolocation-!cn
@@ -3492,6 +3493,7 @@ host-suffix, cryptomus.com, geolocation-!cn
 host-suffix, curve.fi, geolocation-!cn
 host-suffix, cyberx.com, geolocation-!cn
 host-suffix, debank.com, geolocation-!cn
+host-suffix, debot.ai, geolocation-!cn
 host-suffix, delets.cash, geolocation-!cn
 host-suffix, delets.online, geolocation-!cn
 host-suffix, dogecoin.com, geolocation-!cn
@@ -7248,8 +7250,10 @@ host, inappcheck.itunes.apple.com, geolocation-!cn
 host, init.itunes.apple.com, geolocation-!cn
 host, iosapps.itunes.apple.com, geolocation-!cn
 host, misc-assets.itunes.apple.com, geolocation-!cn
+host, musicstatus.itunes.apple.com, geolocation-!cn
 host, mvod.itunes.apple.com, geolocation-!cn
 host, myapp.itunes.apple.com, geolocation-!cn
+host, mzstorekit.itunes.apple.com, geolocation-!cn
 host, np-edge.itunes.apple.com, geolocation-!cn
 host, osxapps.itunes.apple.com, geolocation-!cn
 host, pd-nk.itunes.apple.com, geolocation-!cn
@@ -18215,9 +18219,11 @@ host-suffix, vscodeedu.com, geolocation-!cn
 host-suffix, xamarin.com, geolocation-!cn
 host, az764295.vo.msecnd.net, geolocation-!cn
 host, bingsettingssearch.trafficmanager.net, geolocation-!cn
+host, builds.dotnet.microsoft.com, geolocation-!cn
 host, dc.services.visualstudio.com, geolocation-!cn
 host, default.exp-tas.com, geolocation-!cn
 host, developer.microsoft.com, geolocation-!cn
+host, dotnetcli.trafficmanager.net, geolocation-!cn
 host, download.visualstudio.microsoft.com, geolocation-!cn
 host, dtlgalleryint.cloudapp.net, geolocation-!cn
 host, packages.microsoft.com, geolocation-!cn
@@ -18226,9 +18232,11 @@ host, psg-int-centralus.cloudapp.net, geolocation-!cn
 host, psg-int-eastus.cloudapp.net, geolocation-!cn
 host, rink.hockeyapp.net, geolocation-!cn
 host, rt.services.visualstudio.com, geolocation-!cn
+host, sundry-star-net-geo.trafficmanager.net, geolocation-!cn
 host, vscode-sync-insiders.trafficmanager.net, geolocation-!cn
 host, vscode-sync.trafficmanager.net, geolocation-!cn
 host, vscode.blob.core.windows.net, geolocation-!cn
+host, vscode.download.prss.microsoft.com, geolocation-!cn
 host, vscode.search.windows.net, geolocation-!cn
 host, vsmarketplacebadge.apphb.com, geolocation-!cn
 host-suffix, mongodb.com, geolocation-!cn
@@ -20774,11 +20782,13 @@ host, apple.com.akadns.net, geolocation-!cn
 host, configuration-lb.ls-apple.com.akadns.net, geolocation-!cn
 host, push-apple.com.akadns.net, geolocation-!cn
 host-suffix, courier-push-apple.com.akadns.net, geolocation-!cn
+host-suffix, captive.apple.com, geolocation-!cn
 host, amp-api-edge.apps.apple.com, geolocation-!cn
 host, amp-api-search-edge.apps.apple.com, geolocation-!cn
 host, amp-api.apps.apple.com, geolocation-!cn
 host, api-edge.apps.apple.com, geolocation-!cn
 host, communities.apple.com, geolocation-!cn
+host, configuration.ls.apple.com, geolocation-!cn
 host, discussionschinese.apple.com, geolocation-!cn
 host, fides-pol.apple.com, geolocation-!cn
 host, gspe12-cn-ssl.ls.apple.com, geolocation-!cn
@@ -21891,8 +21901,10 @@ host, inappcheck.itunes.apple.com, geolocation-!cn
 host, init.itunes.apple.com, geolocation-!cn
 host, iosapps.itunes.apple.com, geolocation-!cn
 host, misc-assets.itunes.apple.com, geolocation-!cn
+host, musicstatus.itunes.apple.com, geolocation-!cn
 host, mvod.itunes.apple.com, geolocation-!cn
 host, myapp.itunes.apple.com, geolocation-!cn
+host, mzstorekit.itunes.apple.com, geolocation-!cn
 host, np-edge.itunes.apple.com, geolocation-!cn
 host, osxapps.itunes.apple.com, geolocation-!cn
 host, pd-nk.itunes.apple.com, geolocation-!cn
@@ -25489,7 +25501,6 @@ host, surface.download.prss.microsoft.com, geolocation-!cn
 host, surface.downloads.prss.microsoft.com, geolocation-!cn
 host, vlportal.download.prss.microsoft.com, geolocation-!cn
 host, volic.download.prss.microsoft.com, geolocation-!cn
-host, vscode.download.prss.microsoft.com, geolocation-!cn
 host, vz.download.prss.microsoft.com, geolocation-!cn
 host, windbg.download.prss.microsoft.com, geolocation-!cn
 host-suffix, azure, geolocation-!cn
@@ -25813,9 +25824,11 @@ host-suffix, vscodeedu.com, geolocation-!cn
 host-suffix, xamarin.com, geolocation-!cn
 host, az764295.vo.msecnd.net, geolocation-!cn
 host, bingsettingssearch.trafficmanager.net, geolocation-!cn
+host, builds.dotnet.microsoft.com, geolocation-!cn
 host, dc.services.visualstudio.com, geolocation-!cn
 host, default.exp-tas.com, geolocation-!cn
 host, developer.microsoft.com, geolocation-!cn
+host, dotnetcli.trafficmanager.net, geolocation-!cn
 host, download.visualstudio.microsoft.com, geolocation-!cn
 host, dtlgalleryint.cloudapp.net, geolocation-!cn
 host, packages.microsoft.com, geolocation-!cn
@@ -25824,9 +25837,11 @@ host, psg-int-centralus.cloudapp.net, geolocation-!cn
 host, psg-int-eastus.cloudapp.net, geolocation-!cn
 host, rink.hockeyapp.net, geolocation-!cn
 host, rt.services.visualstudio.com, geolocation-!cn
+host, sundry-star-net-geo.trafficmanager.net, geolocation-!cn
 host, vscode-sync-insiders.trafficmanager.net, geolocation-!cn
 host, vscode-sync.trafficmanager.net, geolocation-!cn
 host, vscode.blob.core.windows.net, geolocation-!cn
+host, vscode.download.prss.microsoft.com, geolocation-!cn
 host, vscode.search.windows.net, geolocation-!cn
 host, vsmarketplacebadge.apphb.com, geolocation-!cn
 host-suffix, msocsp.com, geolocation-!cn

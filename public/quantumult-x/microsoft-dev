@@ -58,9 +58,11 @@ host-suffix, vscodeedu.com, microsoft-dev
 host-suffix, xamarin.com, microsoft-dev
 host, az764295.vo.msecnd.net, microsoft-dev
 host, bingsettingssearch.trafficmanager.net, microsoft-dev
+host, builds.dotnet.microsoft.com, microsoft-dev
 host, dc.services.visualstudio.com, microsoft-dev
 host, default.exp-tas.com, microsoft-dev
 host, developer.microsoft.com, microsoft-dev
+host, dotnetcli.trafficmanager.net, microsoft-dev
 host, download.visualstudio.microsoft.com, microsoft-dev
 host, dtlgalleryint.cloudapp.net, microsoft-dev
 host, packages.microsoft.com, microsoft-dev
@@ -69,8 +71,10 @@ host, psg-int-centralus.cloudapp.net, microsoft-dev
 host, psg-int-eastus.cloudapp.net, microsoft-dev
 host, rink.hockeyapp.net, microsoft-dev
 host, rt.services.visualstudio.com, microsoft-dev
+host, sundry-star-net-geo.trafficmanager.net, microsoft-dev
 host, vscode-sync-insiders.trafficmanager.net, microsoft-dev
 host, vscode-sync.trafficmanager.net, microsoft-dev
 host, vscode.blob.core.windows.net, microsoft-dev
+host, vscode.download.prss.microsoft.com, microsoft-dev
 host, vscode.search.windows.net, microsoft-dev
 host, vsmarketplacebadge.apphb.com, microsoft-dev

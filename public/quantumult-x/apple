@@ -682,11 +682,13 @@ host, apple.com.akadns.net, apple
 host, configuration-lb.ls-apple.com.akadns.net, apple
 host, push-apple.com.akadns.net, apple
 host-suffix, courier-push-apple.com.akadns.net, apple
+host-suffix, captive.apple.com, apple
 host, amp-api-edge.apps.apple.com, apple
 host, amp-api-search-edge.apps.apple.com, apple
 host, amp-api.apps.apple.com, apple
 host, api-edge.apps.apple.com, apple
 host, communities.apple.com, apple
+host, configuration.ls.apple.com, apple
 host, discussionschinese.apple.com, apple
 host, fides-pol.apple.com, apple
 host, gspe12-cn-ssl.ls.apple.com, apple
@@ -1799,8 +1801,10 @@ host, inappcheck.itunes.apple.com, apple
 host, init.itunes.apple.com, apple
 host, iosapps.itunes.apple.com, apple
 host, misc-assets.itunes.apple.com, apple
+host, musicstatus.itunes.apple.com, apple
 host, mvod.itunes.apple.com, apple
 host, myapp.itunes.apple.com, apple
+host, mzstorekit.itunes.apple.com, apple
 host, np-edge.itunes.apple.com, apple
 host, osxapps.itunes.apple.com, apple
 host, pd-nk.itunes.apple.com, apple
