@@ -1793,6 +1793,9 @@ DOMAIN-SUFFIX,vtb.ru
 DOMAIN-SUFFIX,vtbbo.ru
 DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+DOMAIN-SUFFIX,bank.yandex.ru
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
@@ -1827,7 +1830,6 @@ DOMAIN-SUFFIX,aversbank.ru
 DOMAIN-SUFFIX,bancaintesa.ru
 DOMAIN-SUFFIX,bank-arzamas.ru
 DOMAIN-SUFFIX,bank-hlynov.ru
-DOMAIN-SUFFIX,bank.yandex.ru
 DOMAIN-SUFFIX,bankermak.ru
 DOMAIN-SUFFIX,bankofkazan.ru
 DOMAIN-SUFFIX,bankperm.ru
@@ -5895,11 +5897,12 @@ DOMAIN-SUFFIX,playgwent.com
 DOMAIN-SUFFIX,thewitcher.com
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,forgecdn.net
-DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
+DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,worldflipper.jp
-DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,umamusume.akamaized.net
+DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,battlefieldbadcompany2.com
 DOMAIN-SUFFIX,battlefront2.com
@@ -27098,6 +27101,7 @@ DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,ydb.tech
 DOMAIN-SUFFIX,yndx.net

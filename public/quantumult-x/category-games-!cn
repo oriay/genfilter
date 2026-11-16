@@ -110,11 +110,12 @@ host-suffix, playgwent.com, category-games-!cn
 host-suffix, thewitcher.com, category-games-!cn
 host-suffix, curseforge.com, category-games-!cn
 host-suffix, forgecdn.net, category-games-!cn
-host-suffix, cygames.jp, category-games-!cn
 host-suffix, cygames.co.jp, category-games-!cn
+host-suffix, cygames.com, category-games-!cn
+host-suffix, cygames.jp, category-games-!cn
 host-suffix, worldflipper.jp, category-games-!cn
-host-suffix, worldflipper.akamaized.net, category-games-!cn
 host-suffix, umamusume.akamaized.net, category-games-!cn
+host-suffix, worldflipper.akamaized.net, category-games-!cn
 host-suffix, awayoutgame.com, category-games-!cn
 host-suffix, battlefieldbadcompany2.com, category-games-!cn
 host-suffix, battlefront2.com, category-games-!cn

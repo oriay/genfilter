@@ -1793,6 +1793,9 @@ host-suffix, vtb.ru, geolocation-!cn
 host-suffix, vtbbo.ru, geolocation-!cn
 host-suffix, vtbglobalperspectives.com, geolocation-!cn
 host-suffix, xn--90ab2c.xn--p1ai, geolocation-!cn
+host-suffix, bank.yandex.ru, geolocation-!cn
+host-suffix, yandex-bank.net, geolocation-!cn
+host-suffix, yb-payment.ru, geolocation-!cn
 host-suffix, credit-zenit.ru, geolocation-!cn
 host-suffix, zenit-card.ru, geolocation-!cn
 host-suffix, zenit.ru, geolocation-!cn
@@ -1827,7 +1830,6 @@ host-suffix, aversbank.ru, geolocation-!cn
 host-suffix, bancaintesa.ru, geolocation-!cn
 host-suffix, bank-arzamas.ru, geolocation-!cn
 host-suffix, bank-hlynov.ru, geolocation-!cn
-host-suffix, bank.yandex.ru, geolocation-!cn
 host-suffix, bankermak.ru, geolocation-!cn
 host-suffix, bankofkazan.ru, geolocation-!cn
 host-suffix, bankperm.ru, geolocation-!cn
@@ -5895,11 +5897,12 @@ host-suffix, playgwent.com, geolocation-!cn
 host-suffix, thewitcher.com, geolocation-!cn
 host-suffix, curseforge.com, geolocation-!cn
 host-suffix, forgecdn.net, geolocation-!cn
-host-suffix, cygames.jp, geolocation-!cn
 host-suffix, cygames.co.jp, geolocation-!cn
+host-suffix, cygames.com, geolocation-!cn
+host-suffix, cygames.jp, geolocation-!cn
 host-suffix, worldflipper.jp, geolocation-!cn
-host-suffix, worldflipper.akamaized.net, geolocation-!cn
 host-suffix, umamusume.akamaized.net, geolocation-!cn
+host-suffix, worldflipper.akamaized.net, geolocation-!cn
 host-suffix, awayoutgame.com, geolocation-!cn
 host-suffix, battlefieldbadcompany2.com, geolocation-!cn
 host-suffix, battlefront2.com, geolocation-!cn
@@ -27098,6 +27101,7 @@ host-suffix, yangofellowship.com, geolocation-!cn
 host-suffix, yastat.net, geolocation-!cn
 host-suffix, yastatic-net.ru, geolocation-!cn
 host-suffix, yastatic.net, geolocation-!cn
+host-suffix, yb-payment.ru, geolocation-!cn
 host-suffix, yccdn.ru, geolocation-!cn
 host-suffix, ydb.tech, geolocation-!cn
 host-suffix, yndx.net, geolocation-!cn

@@ -224,11 +224,12 @@ host-suffix, playgwent.com, category-entertainment
 host-suffix, thewitcher.com, category-entertainment
 host-suffix, curseforge.com, category-entertainment
 host-suffix, forgecdn.net, category-entertainment
-host-suffix, cygames.jp, category-entertainment
 host-suffix, cygames.co.jp, category-entertainment
+host-suffix, cygames.com, category-entertainment
+host-suffix, cygames.jp, category-entertainment
 host-suffix, worldflipper.jp, category-entertainment
-host-suffix, worldflipper.akamaized.net, category-entertainment
 host-suffix, umamusume.akamaized.net, category-entertainment
+host-suffix, worldflipper.akamaized.net, category-entertainment
 host-suffix, awayoutgame.com, category-entertainment
 host-suffix, battlefieldbadcompany2.com, category-entertainment
 host-suffix, battlefront2.com, category-entertainment

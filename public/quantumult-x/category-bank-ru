@@ -81,6 +81,9 @@ host-suffix, vtb.ru, category-bank-ru
 host-suffix, vtbbo.ru, category-bank-ru
 host-suffix, vtbglobalperspectives.com, category-bank-ru
 host-suffix, xn--90ab2c.xn--p1ai, category-bank-ru
+host-suffix, bank.yandex.ru, category-bank-ru
+host-suffix, yandex-bank.net, category-bank-ru
+host-suffix, yb-payment.ru, category-bank-ru
 host-suffix, credit-zenit.ru, category-bank-ru
 host-suffix, zenit-card.ru, category-bank-ru
 host-suffix, zenit.ru, category-bank-ru
@@ -115,7 +118,6 @@ host-suffix, aversbank.ru, category-bank-ru
 host-suffix, bancaintesa.ru, category-bank-ru
 host-suffix, bank-arzamas.ru, category-bank-ru
 host-suffix, bank-hlynov.ru, category-bank-ru
-host-suffix, bank.yandex.ru, category-bank-ru
 host-suffix, bankermak.ru, category-bank-ru
 host-suffix, bankofkazan.ru, category-bank-ru
 host-suffix, bankperm.ru, category-bank-ru
