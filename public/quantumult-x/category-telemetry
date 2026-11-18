@@ -658,6 +658,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-telemetry
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-telemetry
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-telemetry
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-telemetry
+host-suffix, oss-enet.aliyuncs.com, category-telemetry
 host-suffix, oss-eu-central-1.aliyuncs.com, category-telemetry
 host-suffix, oss-eu-west-1.aliyuncs.com, category-telemetry
 host-suffix, oss-me-east-1.aliyuncs.com, category-telemetry
@@ -887,6 +888,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-telemetry
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-telemetry
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-telemetry
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-telemetry
+host-suffix, oss-enet.aliyuncs.com, category-telemetry
 host-suffix, oss-eu-central-1.aliyuncs.com, category-telemetry
 host-suffix, oss-eu-west-1.aliyuncs.com, category-telemetry
 host-suffix, oss-me-east-1.aliyuncs.com, category-telemetry
@@ -5180,6 +5182,7 @@ host-suffix, tencent.com.cn, category-telemetry
 host-suffix, tencent.com.hk, category-telemetry
 host-suffix, tencent.net, category-telemetry
 host-suffix, tencent.net.cn, category-telemetry
+host-suffix, tencentads.com, category-telemetry
 host-suffix, tencentmiying.com, category-telemetry
 host-suffix, tengmed.com, category-telemetry
 host-suffix, tenpay.com, category-telemetry
@@ -6502,7 +6505,6 @@ host-suffix, xiaomiyoupin.com, category-telemetry
 host-suffix, youpin.cn, category-telemetry
 host-suffix, youpin.com.cn, category-telemetry
 host-suffix, zmifi.com, category-telemetry
-host-suffix, saxyit.com, category-telemetry
 host-suffix, c.mi.com, category-telemetry
 host-suffix, global.market.xiaomi.com, category-telemetry
 host-suffix, a.market.xiaomi.com, category-telemetry
@@ -6624,7 +6626,6 @@ host-suffix, yandexdataschool.ru, category-telemetry
 host-suffix, yandexgo.com, category-telemetry
 host-suffix, yandexlyceum.ru, category-telemetry
 host-suffix, yandexwebcache.net, category-telemetry
-host-suffix, yandexwebcache.org, category-telemetry
 host-suffix, yango-b2b.com, category-telemetry
 host-suffix, yango-team.com, category-telemetry
 host-suffix, yango-tech.com, category-telemetry

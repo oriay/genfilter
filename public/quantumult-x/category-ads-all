@@ -709,6 +709,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-ads-all
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-ads-all
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-ads-all
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-ads-all
+host-suffix, oss-enet.aliyuncs.com, category-ads-all
 host-suffix, oss-eu-central-1.aliyuncs.com, category-ads-all
 host-suffix, oss-eu-west-1.aliyuncs.com, category-ads-all
 host-suffix, oss-me-east-1.aliyuncs.com, category-ads-all
@@ -8722,6 +8723,8 @@ host-suffix, reke.at.sohu.com, category-ads-all
 host-suffix, track.sohu.com, category-ads-all
 host-suffix, 17173.com, category-ads-all
 host-suffix, 17173cdn.com, category-ads-all
+host-suffix, 1y.com, category-ads-all
+host-suffix, 1ycdn.com, category-ads-all
 host-suffix, changyou.com, category-ads-all
 host-suffix, cy.com, category-ads-all
 host-suffix, playcool.com, category-ads-all
@@ -8811,6 +8814,7 @@ host-suffix, tencent.com.cn, category-ads-all
 host-suffix, tencent.com.hk, category-ads-all
 host-suffix, tencent.net, category-ads-all
 host-suffix, tencent.net.cn, category-ads-all
+host-suffix, tencentads.com, category-ads-all
 host-suffix, tencentmiying.com, category-ads-all
 host-suffix, tengmed.com, category-ads-all
 host-suffix, tenpay.com, category-ads-all
@@ -9747,7 +9751,6 @@ host-suffix, xiaomiyoupin.com, category-ads-all
 host-suffix, youpin.cn, category-ads-all
 host-suffix, youpin.com.cn, category-ads-all
 host-suffix, zmifi.com, category-ads-all
-host-suffix, saxyit.com, category-ads-all
 host-suffix, c.mi.com, category-ads-all
 host-suffix, global.market.xiaomi.com, category-ads-all
 host-suffix, a.market.xiaomi.com, category-ads-all
@@ -10047,7 +10050,6 @@ host-suffix, yandexdataschool.ru, category-ads-all
 host-suffix, yandexgo.com, category-ads-all
 host-suffix, yandexlyceum.ru, category-ads-all
 host-suffix, yandexwebcache.net, category-ads-all
-host-suffix, yandexwebcache.org, category-ads-all
 host-suffix, yango-b2b.com, category-ads-all
 host-suffix, yango-team.com, category-ads-all
 host-suffix, yango-tech.com, category-ads-all

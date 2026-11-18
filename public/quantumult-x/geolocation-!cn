@@ -140,6 +140,7 @@ host-suffix, cursorapi.com, geolocation-!cn
 host-suffix, cursorvm.com, geolocation-!cn
 host-suffix, elevenlabs.com, geolocation-!cn
 host-suffix, elevenlabs.io, geolocation-!cn
+host-suffix, elevenlabsusercontent.com, geolocation-!cn
 host-suffix, envato-static.com, geolocation-!cn
 host-suffix, envato.com, geolocation-!cn
 host-suffix, envatousercontent.com, geolocation-!cn
@@ -27084,7 +27085,6 @@ host-suffix, yandexdataschool.ru, geolocation-!cn
 host-suffix, yandexgo.com, geolocation-!cn
 host-suffix, yandexlyceum.ru, geolocation-!cn
 host-suffix, yandexwebcache.net, geolocation-!cn
-host-suffix, yandexwebcache.org, geolocation-!cn
 host-suffix, yango-b2b.com, geolocation-!cn
 host-suffix, yango-team.com, geolocation-!cn
 host-suffix, yango-tech.com, geolocation-!cn

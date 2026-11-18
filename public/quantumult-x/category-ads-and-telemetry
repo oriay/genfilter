@@ -688,6 +688,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-ads-and-telemetry
+host-suffix, oss-enet.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-eu-central-1.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-eu-west-1.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-me-east-1.aliyuncs.com, category-ads-and-telemetry
@@ -8701,6 +8702,8 @@ host-suffix, reke.at.sohu.com, category-ads-and-telemetry
 host-suffix, track.sohu.com, category-ads-and-telemetry
 host-suffix, 17173.com, category-ads-and-telemetry
 host-suffix, 17173cdn.com, category-ads-and-telemetry
+host-suffix, 1y.com, category-ads-and-telemetry
+host-suffix, 1ycdn.com, category-ads-and-telemetry
 host-suffix, changyou.com, category-ads-and-telemetry
 host-suffix, cy.com, category-ads-and-telemetry
 host-suffix, playcool.com, category-ads-and-telemetry
@@ -8790,6 +8793,7 @@ host-suffix, tencent.com.cn, category-ads-and-telemetry
 host-suffix, tencent.com.hk, category-ads-and-telemetry
 host-suffix, tencent.net, category-ads-and-telemetry
 host-suffix, tencent.net.cn, category-ads-and-telemetry
+host-suffix, tencentads.com, category-ads-and-telemetry
 host-suffix, tencentmiying.com, category-ads-and-telemetry
 host-suffix, tengmed.com, category-ads-and-telemetry
 host-suffix, tenpay.com, category-ads-and-telemetry
@@ -9726,7 +9730,6 @@ host-suffix, xiaomiyoupin.com, category-ads-and-telemetry
 host-suffix, youpin.cn, category-ads-and-telemetry
 host-suffix, youpin.com.cn, category-ads-and-telemetry
 host-suffix, zmifi.com, category-ads-and-telemetry
-host-suffix, saxyit.com, category-ads-and-telemetry
 host-suffix, c.mi.com, category-ads-and-telemetry
 host-suffix, global.market.xiaomi.com, category-ads-and-telemetry
 host-suffix, a.market.xiaomi.com, category-ads-and-telemetry
@@ -10026,7 +10029,6 @@ host-suffix, yandexdataschool.ru, category-ads-and-telemetry
 host-suffix, yandexgo.com, category-ads-and-telemetry
 host-suffix, yandexlyceum.ru, category-ads-and-telemetry
 host-suffix, yandexwebcache.net, category-ads-and-telemetry
-host-suffix, yandexwebcache.org, category-ads-and-telemetry
 host-suffix, yango-b2b.com, category-ads-and-telemetry
 host-suffix, yango-team.com, category-ads-and-telemetry
 host-suffix, yango-tech.com, category-ads-and-telemetry
@@ -10764,6 +10766,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-ads-and-telemetry
+host-suffix, oss-enet.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-eu-central-1.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-eu-west-1.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-me-east-1.aliyuncs.com, category-ads-and-telemetry
@@ -10993,6 +10996,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-ads-and-telemetry
+host-suffix, oss-enet.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-eu-central-1.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-eu-west-1.aliyuncs.com, category-ads-and-telemetry
 host-suffix, oss-me-east-1.aliyuncs.com, category-ads-and-telemetry
@@ -15286,6 +15290,7 @@ host-suffix, tencent.com.cn, category-ads-and-telemetry
 host-suffix, tencent.com.hk, category-ads-and-telemetry
 host-suffix, tencent.net, category-ads-and-telemetry
 host-suffix, tencent.net.cn, category-ads-and-telemetry
+host-suffix, tencentads.com, category-ads-and-telemetry
 host-suffix, tencentmiying.com, category-ads-and-telemetry
 host-suffix, tengmed.com, category-ads-and-telemetry
 host-suffix, tenpay.com, category-ads-and-telemetry
@@ -16608,7 +16613,6 @@ host-suffix, xiaomiyoupin.com, category-ads-and-telemetry
 host-suffix, youpin.cn, category-ads-and-telemetry
 host-suffix, youpin.com.cn, category-ads-and-telemetry
 host-suffix, zmifi.com, category-ads-and-telemetry
-host-suffix, saxyit.com, category-ads-and-telemetry
 host-suffix, c.mi.com, category-ads-and-telemetry
 host-suffix, global.market.xiaomi.com, category-ads-and-telemetry
 host-suffix, a.market.xiaomi.com, category-ads-and-telemetry
@@ -16730,7 +16734,6 @@ host-suffix, yandexdataschool.ru, category-ads-and-telemetry
 host-suffix, yandexgo.com, category-ads-and-telemetry
 host-suffix, yandexlyceum.ru, category-ads-and-telemetry
 host-suffix, yandexwebcache.net, category-ads-and-telemetry
-host-suffix, yandexwebcache.org, category-ads-and-telemetry
 host-suffix, yango-b2b.com, category-ads-and-telemetry
 host-suffix, yango-team.com, category-ads-and-telemetry
 host-suffix, yango-tech.com, category-ads-and-telemetry

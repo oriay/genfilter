@@ -71,6 +71,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, aliyun
 host-suffix, oss-cn-shenzhen.aliyuncs.com, aliyun
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, aliyun
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, aliyun
+host-suffix, oss-enet.aliyuncs.com, aliyun
 host-suffix, oss-eu-central-1.aliyuncs.com, aliyun
 host-suffix, oss-eu-west-1.aliyuncs.com, aliyun
 host-suffix, oss-me-east-1.aliyuncs.com, aliyun

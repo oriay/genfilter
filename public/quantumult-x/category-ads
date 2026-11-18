@@ -688,6 +688,7 @@ host-suffix, oss-cn-shanghai.aliyuncs.com, category-ads
 host-suffix, oss-cn-shenzhen.aliyuncs.com, category-ads
 host-suffix, oss-cn-wulanchabu.aliyuncs.com, category-ads
 host-suffix, oss-cn-zhangjiakou.aliyuncs.com, category-ads
+host-suffix, oss-enet.aliyuncs.com, category-ads
 host-suffix, oss-eu-central-1.aliyuncs.com, category-ads
 host-suffix, oss-eu-west-1.aliyuncs.com, category-ads
 host-suffix, oss-me-east-1.aliyuncs.com, category-ads
@@ -8701,6 +8702,8 @@ host-suffix, reke.at.sohu.com, category-ads
 host-suffix, track.sohu.com, category-ads
 host-suffix, 17173.com, category-ads
 host-suffix, 17173cdn.com, category-ads
+host-suffix, 1y.com, category-ads
+host-suffix, 1ycdn.com, category-ads
 host-suffix, changyou.com, category-ads
 host-suffix, cy.com, category-ads
 host-suffix, playcool.com, category-ads
@@ -8790,6 +8793,7 @@ host-suffix, tencent.com.cn, category-ads
 host-suffix, tencent.com.hk, category-ads
 host-suffix, tencent.net, category-ads
 host-suffix, tencent.net.cn, category-ads
+host-suffix, tencentads.com, category-ads
 host-suffix, tencentmiying.com, category-ads
 host-suffix, tengmed.com, category-ads
 host-suffix, tenpay.com, category-ads
@@ -9726,7 +9730,6 @@ host-suffix, xiaomiyoupin.com, category-ads
 host-suffix, youpin.cn, category-ads
 host-suffix, youpin.com.cn, category-ads
 host-suffix, zmifi.com, category-ads
-host-suffix, saxyit.com, category-ads
 host-suffix, c.mi.com, category-ads
 host-suffix, global.market.xiaomi.com, category-ads
 host-suffix, a.market.xiaomi.com, category-ads
@@ -10026,7 +10029,6 @@ host-suffix, yandexdataschool.ru, category-ads
 host-suffix, yandexgo.com, category-ads
 host-suffix, yandexlyceum.ru, category-ads
 host-suffix, yandexwebcache.net, category-ads
-host-suffix, yandexwebcache.org, category-ads
 host-suffix, yango-b2b.com, category-ads
 host-suffix, yango-team.com, category-ads
 host-suffix, yango-tech.com, category-ads
