@@ -101,6 +101,9 @@ host-suffix, didachuxing.com, geolocation-cn
 host-suffix, didapinche.com, geolocation-cn
 host-suffix, dmall.com, geolocation-cn
 host-suffix, dmallcdn.com, geolocation-cn
+host-suffix, echooai.com, geolocation-cn
+host-suffix, fazhipro.com, geolocation-cn
+host-suffix, saasfz.com, geolocation-cn
 host-suffix, fang.com, geolocation-cn
 host-suffix, soufun.com, geolocation-cn
 host-suffix, soufun.com.cn, geolocation-cn
@@ -1713,6 +1716,7 @@ host-suffix, mucang.cn, geolocation-cn
 host-suffix, byd.com, geolocation-cn
 host-suffix, chery.cn, geolocation-cn
 host-suffix, faw.cn, geolocation-cn
+host-suffix, faw-vw.com, geolocation-cn
 host-suffix, geely.com, geolocation-cn
 host-suffix, gwm.com.cn, geolocation-cn
 host-suffix, jac.com.cn, geolocation-cn
