@@ -7753,10 +7753,12 @@ host-suffix, panasonic.cn, category-companies
 host-suffix, panasonic.com, category-companies
 host-suffix, panasonic.jp, category-companies
 host-suffix, technics.com, category-companies
+host-suffix, pccw, category-companies
 host-suffix, pccw.com, category-companies
 host-suffix, pccwglobal.com, category-companies
 host-suffix, pccwsolutions.com, category-companies
 host-suffix, moov.hk, category-companies
+host-suffix, hkt, category-companies
 host-suffix, 1010.com.hk, category-companies
 host-suffix, esmarthealth.com, category-companies
 host-suffix, hkcsl.com, category-companies

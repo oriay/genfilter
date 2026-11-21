@@ -3,7 +3,6 @@ host-suffix, almalinux.org, category-dev
 host-suffix, alpinelinux.org, category-dev
 host-suffix, apache.org, category-dev
 host-suffix, artixlinux.org, category-dev
-host-suffix, atom.io, category-dev
 host-suffix, badgen.net, category-dev
 host-suffix, bitvise.com, category-dev
 host-suffix, bmonkeys.net, category-dev
@@ -85,6 +84,7 @@ host-suffix, raspberrypi.org, category-dev
 host-suffix, raspbian.org, category-dev
 host-suffix, regex101.com, category-dev
 host-suffix, remirepo.net, category-dev
+host-suffix, replit.com, category-dev
 host-suffix, rockylinux.org, category-dev
 host-suffix, rpmfusion.org, category-dev
 host-suffix, scientificlinux.org, category-dev
@@ -97,6 +97,7 @@ host-suffix, system76.com, category-dev
 host-suffix, tampermonkey.net, category-dev
 host-suffix, termius.com, category-dev
 host-suffix, topcoder.com, category-dev
+host-suffix, tortoisegit.org, category-dev
 host-suffix, unpkg.com, category-dev
 host-suffix, videojs.com, category-dev
 host-suffix, videolan.org, category-dev
