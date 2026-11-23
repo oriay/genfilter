@@ -47,3 +47,4 @@ host, antigravity.googleapis.com, google-deepmind
 host-suffix, antigravity.google, google-deepmind
 host-suffix, antigravity-unleash.goog, google-deepmind
 host-suffix, stitch.withgoogle.com, google-deepmind
+host-suffix, gemma.ai, google-deepmind

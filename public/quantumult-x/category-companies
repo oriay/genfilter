@@ -1113,6 +1113,7 @@ host, antigravity.googleapis.com, category-companies
 host-suffix, antigravity.google, category-companies
 host-suffix, antigravity-unleash.goog, category-companies
 host-suffix, stitch.withgoogle.com, category-companies
+host-suffix, gemma.ai, category-companies
 host-suffix, googleplay.com, category-companies
 host-suffix, play-fe.googleapis.com, category-companies
 host-suffix, play-games.googleusercontent.com, category-companies

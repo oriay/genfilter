@@ -2193,6 +2193,10 @@ host-suffix, twyxh.com, geolocation-cn
 host-suffix, zx.com, geolocation-cn
 host-suffix, tgpro.top, geolocation-cn
 host-suffix, tgprocs.net, geolocation-cn
+host-suffix, wahlap.net, geolocation-cn
+host-suffix, tgk-wcaime.wahlap.com, geolocation-cn
+host-suffix, maimai.wahlap.com, geolocation-cn
+host-suffix, chunithm.wahlap.com, geolocation-cn
 host-suffix, winegame.net, geolocation-cn
 host-suffix, wo1wan.com, geolocation-cn
 host-suffix, ycgame.com, geolocation-cn

@@ -162,6 +162,7 @@ host, antigravity.googleapis.com, category-ai-chat-!cn
 host-suffix, antigravity.google, category-ai-chat-!cn
 host-suffix, antigravity-unleash.goog, category-ai-chat-!cn
 host-suffix, stitch.withgoogle.com, category-ai-chat-!cn
+host-suffix, gemma.ai, category-ai-chat-!cn
 host-suffix, groq.com, category-ai-chat-!cn
 host-suffix, hf.co, category-ai-chat-!cn
 host-suffix, hf.space, category-ai-chat-!cn

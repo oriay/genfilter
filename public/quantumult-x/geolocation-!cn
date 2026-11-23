@@ -201,6 +201,7 @@ host, antigravity.googleapis.com, geolocation-!cn
 host-suffix, antigravity.google, geolocation-!cn
 host-suffix, antigravity-unleash.goog, geolocation-!cn
 host-suffix, stitch.withgoogle.com, geolocation-!cn
+host-suffix, gemma.ai, geolocation-!cn
 host-suffix, groq.com, geolocation-!cn
 host-suffix, hf.co, geolocation-!cn
 host-suffix, hf.space, geolocation-!cn
@@ -19503,6 +19504,7 @@ host, antigravity.googleapis.com, geolocation-!cn
 host-suffix, antigravity.google, geolocation-!cn
 host-suffix, antigravity-unleash.goog, geolocation-!cn
 host-suffix, stitch.withgoogle.com, geolocation-!cn
+host-suffix, gemma.ai, geolocation-!cn
 host-suffix, googleplay.com, geolocation-!cn
 host-suffix, play-fe.googleapis.com, geolocation-!cn
 host-suffix, play-games.googleusercontent.com, geolocation-!cn

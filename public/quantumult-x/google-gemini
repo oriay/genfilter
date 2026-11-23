@@ -47,3 +47,4 @@ host, antigravity.googleapis.com, google-gemini
 host-suffix, antigravity.google, google-gemini
 host-suffix, antigravity-unleash.goog, google-gemini
 host-suffix, stitch.withgoogle.com, google-gemini
+host-suffix, gemma.ai, google-gemini

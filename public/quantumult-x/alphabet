@@ -820,6 +820,7 @@ host, antigravity.googleapis.com, alphabet
 host-suffix, antigravity.google, alphabet
 host-suffix, antigravity-unleash.goog, alphabet
 host-suffix, stitch.withgoogle.com, alphabet
+host-suffix, gemma.ai, alphabet
 host-suffix, googleplay.com, alphabet
 host-suffix, play-fe.googleapis.com, alphabet
 host-suffix, play-games.googleusercontent.com, alphabet

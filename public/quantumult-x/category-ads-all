@@ -5257,6 +5257,7 @@ host, antigravity.googleapis.com, category-ads-all
 host-suffix, antigravity.google, category-ads-all
 host-suffix, antigravity-unleash.goog, category-ads-all
 host-suffix, stitch.withgoogle.com, category-ads-all
+host-suffix, gemma.ai, category-ads-all
 host-suffix, googleplay.com, category-ads-all
 host-suffix, play-fe.googleapis.com, category-ads-all
 host-suffix, play-games.googleusercontent.com, category-ads-all

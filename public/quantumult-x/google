@@ -810,6 +810,7 @@ host, antigravity.googleapis.com, google
 host-suffix, antigravity.google, google
 host-suffix, antigravity-unleash.goog, google
 host-suffix, stitch.withgoogle.com, google
+host-suffix, gemma.ai, google
 host-suffix, googleplay.com, google
 host-suffix, play-fe.googleapis.com, google
 host-suffix, play-games.googleusercontent.com, google
