@@ -5953,6 +5953,7 @@ host-suffix, w.cnzz.com, category-telemetry
 host-suffix, z.gds.cnzz.com, category-telemetry
 host-suffix, unity.com, category-telemetry
 host-suffix, unity3d.com, category-telemetry
+host-suffix, vivox.com, category-telemetry
 host-suffix, analytics.cloud.unity3d.com, category-telemetry
 host-suffix, config.uca.cloud.unity3d.com, category-telemetry
 host-suffix, cdp.cloud.unity3d.com, category-telemetry

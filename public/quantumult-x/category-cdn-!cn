@@ -166,10 +166,12 @@ host-suffix, cloudflarestoragegw.com, category-cdn-!cn
 host-suffix, cf-ipfs.com, category-cdn-!cn
 host-suffix, cloudflare-ipfs.com, category-cdn-!cn
 host-suffix, fastly-edge.com, category-cdn-!cn
+host-suffix, fastly-insights.com, category-cdn-!cn
 host-suffix, fastly-terrarium.com, category-cdn-!cn
 host-suffix, fastly.com, category-cdn-!cn
 host-suffix, fastly.io, category-cdn-!cn
 host-suffix, fastly.net, category-cdn-!cn
+host-suffix, fastlydns.net, category-cdn-!cn
 host-suffix, fastlylabs.com, category-cdn-!cn
 host-suffix, fastlylb.net, category-cdn-!cn
 host-suffix, imgix.com, category-cdn-!cn

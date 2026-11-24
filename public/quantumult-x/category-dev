@@ -221,6 +221,7 @@ host-suffix, dartlang.org, category-dev
 host-suffix, dartpad.dev, category-dev
 host-suffix, debian.org, category-dev
 host-suffix, dotdeb.org, category-dev
+host-suffix, debian.map.fastlydns.net, category-dev
 host-suffix, discourse-cdn.com, category-dev
 host-suffix, discourse.group, category-dev
 host-suffix, discourse.org, category-dev
@@ -570,6 +571,7 @@ host-suffix, nixos.org, category-dev
 host-suffix, nixpkgs.org, category-dev
 host, nix-community.github.io, category-dev
 host-suffix, builtwithnix.org, category-dev
+host-suffix, cachix.org, category-dev
 host-suffix, mynixos.com, category-dev
 host-suffix, nix-community.org, category-dev
 host-suffix, nixos.wiki, category-dev
@@ -668,6 +670,7 @@ host-suffix, tildacdn.com, category-dev
 host-suffix, tildacdn.net, category-dev
 host-suffix, unity.com, category-dev
 host-suffix, unity3d.com, category-dev
+host-suffix, vivox.com, category-dev
 host-suffix, analytics.cloud.unity3d.com, category-dev
 host-suffix, config.uca.cloud.unity3d.com, category-dev
 host-suffix, cdp.cloud.unity3d.com, category-dev

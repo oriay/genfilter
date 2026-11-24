@@ -6,6 +6,7 @@ host-suffix, app-pay.jp, geolocation-!cn
 host-suffix, ankiuser.net, geolocation-!cn
 host-suffix, ankiweb.net, geolocation-!cn
 host-suffix, chemequations.com, geolocation-!cn
+host, courses.myecnu.org, geolocation-!cn
 host-suffix, divdyn.com, geolocation-!cn
 host-suffix, geogebra.org, geolocation-!cn
 host-suffix, githubhelp.com, geolocation-!cn
@@ -3001,10 +3002,12 @@ host-suffix, cloudflarestoragegw.com, geolocation-!cn
 host-suffix, cf-ipfs.com, geolocation-!cn
 host-suffix, cloudflare-ipfs.com, geolocation-!cn
 host-suffix, fastly-edge.com, geolocation-!cn
+host-suffix, fastly-insights.com, geolocation-!cn
 host-suffix, fastly-terrarium.com, geolocation-!cn
 host-suffix, fastly.com, geolocation-!cn
 host-suffix, fastly.io, geolocation-!cn
 host-suffix, fastly.net, geolocation-!cn
+host-suffix, fastlydns.net, geolocation-!cn
 host-suffix, fastlylabs.com, geolocation-!cn
 host-suffix, fastlylb.net, geolocation-!cn
 host-suffix, imgix.com, geolocation-!cn
@@ -17909,6 +17912,7 @@ host-suffix, dartlang.org, geolocation-!cn
 host-suffix, dartpad.dev, geolocation-!cn
 host-suffix, debian.org, geolocation-!cn
 host-suffix, dotdeb.org, geolocation-!cn
+host-suffix, debian.map.fastlydns.net, geolocation-!cn
 host-suffix, discourse-cdn.com, geolocation-!cn
 host-suffix, discourse.group, geolocation-!cn
 host-suffix, discourse.org, geolocation-!cn
@@ -18258,6 +18262,7 @@ host-suffix, nixos.org, geolocation-!cn
 host-suffix, nixpkgs.org, geolocation-!cn
 host, nix-community.github.io, geolocation-!cn
 host-suffix, builtwithnix.org, geolocation-!cn
+host-suffix, cachix.org, geolocation-!cn
 host-suffix, mynixos.com, geolocation-!cn
 host-suffix, nix-community.org, geolocation-!cn
 host-suffix, nixos.wiki, geolocation-!cn
@@ -18356,6 +18361,7 @@ host-suffix, tildacdn.com, geolocation-!cn
 host-suffix, tildacdn.net, geolocation-!cn
 host-suffix, unity.com, geolocation-!cn
 host-suffix, unity3d.com, geolocation-!cn
+host-suffix, vivox.com, geolocation-!cn
 host-suffix, analytics.cloud.unity3d.com, geolocation-!cn
 host-suffix, config.uca.cloud.unity3d.com, geolocation-!cn
 host-suffix, cdp.cloud.unity3d.com, geolocation-!cn

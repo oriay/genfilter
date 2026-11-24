@@ -7,6 +7,7 @@ host-suffix, nixos.org, nixos
 host-suffix, nixpkgs.org, nixos
 host, nix-community.github.io, nixos
 host-suffix, builtwithnix.org, nixos
+host-suffix, cachix.org, nixos
 host-suffix, mynixos.com, nixos
 host-suffix, nix-community.org, nixos
 host-suffix, nixos.wiki, nixos
