@@ -8047,6 +8047,8 @@ DOMAIN,mdn.mozillademos.org
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mymts.ru
+DOMAIN-SUFFIX,mgts.ru
+DOMAIN-SUFFIX,spd-mgts.ru
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,dbo-dengi.online
@@ -8366,8 +8368,12 @@ DOMAIN-SUFFIX,wztsy.cn
 DOMAIN-SUFFIX,wztsy.com
 DOMAIN-SUFFIX,yiwanzhushou.com
 DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,o7.com
+DOMAIN-SUFFIX,onlime.ru
+DOMAIN-SUFFIX,rostelecom-rb.ru
 DOMAIN-SUFFIX,rostelecom.ru
 DOMAIN-SUFFIX,rt.ru
+DOMAIN-SUFFIX,xn--e1aapchhekkk.xn--p1ai
 DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru

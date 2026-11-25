@@ -4931,8 +4931,12 @@ host-suffix, pikpak.me, category-telemetry
 host-suffix, pikpakdrive.com, category-telemetry
 host, o4504926511693824.ingest.sentry.io, category-telemetry
 host-suffix, azbukainterneta.ru, category-telemetry
+host-suffix, o7.com, category-telemetry
+host-suffix, onlime.ru, category-telemetry
+host-suffix, rostelecom-rb.ru, category-telemetry
 host-suffix, rostelecom.ru, category-telemetry
 host-suffix, rt.ru, category-telemetry
+host-suffix, xn--e1aapchhekkk.xn--p1ai, category-telemetry
 host, sentry.iptv.rt.ru, category-telemetry
 host-suffix, restream-media.net, category-telemetry
 host-suffix, restream.ru, category-telemetry

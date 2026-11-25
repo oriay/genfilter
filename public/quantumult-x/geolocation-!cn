@@ -24474,10 +24474,15 @@ host-suffix, vkpay.com, geolocation-!cn
 host-suffix, vkpay.io, geolocation-!cn
 host-suffix, vkpay.ru, geolocation-!cn
 host-suffix, inplat.ru, geolocation-!cn
+host-suffix, megafon.cloud, geolocation-!cn
 host-suffix, megafon.com, geolocation-!cn
 host-suffix, megafon.ru, geolocation-!cn
 host-suffix, megafonpro.ru, geolocation-!cn
+host-suffix, megapbx.ru, geolocation-!cn
+host-suffix, megatech-it.ru, geolocation-!cn
 host-suffix, mgfn.ru, geolocation-!cn
+host-suffix, mobileid.ru, geolocation-!cn
+host-suffix, multifon.ru, geolocation-!cn
 host-suffix, report-megafon.ru, geolocation-!cn
 host-suffix, scartel.ru, geolocation-!cn
 host-suffix, yota.ru, geolocation-!cn
@@ -25987,6 +25992,8 @@ host-suffix, msi.com, geolocation-!cn
 host-suffix, mts-ws.net, geolocation-!cn
 host-suffix, mts.ru, geolocation-!cn
 host-suffix, mymts.ru, geolocation-!cn
+host-suffix, mgts.ru, geolocation-!cn
+host-suffix, spd-mgts.ru, geolocation-!cn
 host-suffix, a.mts.ru, geolocation-!cn
 host-suffix, obs.mts.ru, geolocation-!cn
 host-suffix, dbo-dengi.online, geolocation-!cn
@@ -26265,8 +26272,12 @@ host-suffix, reg.cloud, geolocation-!cn
 host-suffix, reg.com, geolocation-!cn
 host-suffix, reg.ru, geolocation-!cn
 host-suffix, azbukainterneta.ru, geolocation-!cn
+host-suffix, o7.com, geolocation-!cn
+host-suffix, onlime.ru, geolocation-!cn
+host-suffix, rostelecom-rb.ru, geolocation-!cn
 host-suffix, rostelecom.ru, geolocation-!cn
 host-suffix, rt.ru, geolocation-!cn
+host-suffix, xn--e1aapchhekkk.xn--p1ai, geolocation-!cn
 host, sentry.iptv.rt.ru, geolocation-!cn
 host-suffix, restream-media.net, geolocation-!cn
 host-suffix, restream.ru, geolocation-!cn

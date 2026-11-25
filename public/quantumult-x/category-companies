@@ -6077,10 +6077,15 @@ host-suffix, vkpay.com, category-companies
 host-suffix, vkpay.io, category-companies
 host-suffix, vkpay.ru, category-companies
 host-suffix, inplat.ru, category-companies
+host-suffix, megafon.cloud, category-companies
 host-suffix, megafon.com, category-companies
 host-suffix, megafon.ru, category-companies
 host-suffix, megafonpro.ru, category-companies
+host-suffix, megapbx.ru, category-companies
+host-suffix, megatech-it.ru, category-companies
 host-suffix, mgfn.ru, category-companies
+host-suffix, mobileid.ru, category-companies
+host-suffix, multifon.ru, category-companies
 host-suffix, report-megafon.ru, category-companies
 host-suffix, scartel.ru, category-companies
 host-suffix, yota.ru, category-companies
@@ -7590,6 +7595,8 @@ host-suffix, msi.com, category-companies
 host-suffix, mts-ws.net, category-companies
 host-suffix, mts.ru, category-companies
 host-suffix, mymts.ru, category-companies
+host-suffix, mgts.ru, category-companies
+host-suffix, spd-mgts.ru, category-companies
 host-suffix, a.mts.ru, category-companies
 host-suffix, obs.mts.ru, category-companies
 host-suffix, dbo-dengi.online, category-companies
@@ -7868,8 +7875,12 @@ host-suffix, reg.cloud, category-companies
 host-suffix, reg.com, category-companies
 host-suffix, reg.ru, category-companies
 host-suffix, azbukainterneta.ru, category-companies
+host-suffix, o7.com, category-companies
+host-suffix, onlime.ru, category-companies
+host-suffix, rostelecom-rb.ru, category-companies
 host-suffix, rostelecom.ru, category-companies
 host-suffix, rt.ru, category-companies
+host-suffix, xn--e1aapchhekkk.xn--p1ai, category-companies
 host, sentry.iptv.rt.ru, category-companies
 host-suffix, restream-media.net, category-companies
 host-suffix, restream.ru, category-companies

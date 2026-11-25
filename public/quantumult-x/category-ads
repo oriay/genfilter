@@ -8026,6 +8026,8 @@ host, mdn.mozillademos.org, category-ads
 host-suffix, mts-ws.net, category-ads
 host-suffix, mts.ru, category-ads
 host-suffix, mymts.ru, category-ads
+host-suffix, mgts.ru, category-ads
+host-suffix, spd-mgts.ru, category-ads
 host-suffix, a.mts.ru, category-ads
 host-suffix, obs.mts.ru, category-ads
 host-suffix, dbo-dengi.online, category-ads
@@ -8345,8 +8347,12 @@ host-suffix, wztsy.cn, category-ads
 host-suffix, wztsy.com, category-ads
 host-suffix, yiwanzhushou.com, category-ads
 host-suffix, azbukainterneta.ru, category-ads
+host-suffix, o7.com, category-ads
+host-suffix, onlime.ru, category-ads
+host-suffix, rostelecom-rb.ru, category-ads
 host-suffix, rostelecom.ru, category-ads
 host-suffix, rt.ru, category-ads
+host-suffix, xn--e1aapchhekkk.xn--p1ai, category-ads
 host, sentry.iptv.rt.ru, category-ads
 host-suffix, restream-media.net, category-ads
 host-suffix, restream.ru, category-ads

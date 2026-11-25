@@ -8026,6 +8026,8 @@ host, mdn.mozillademos.org, category-ads-and-telemetry
 host-suffix, mts-ws.net, category-ads-and-telemetry
 host-suffix, mts.ru, category-ads-and-telemetry
 host-suffix, mymts.ru, category-ads-and-telemetry
+host-suffix, mgts.ru, category-ads-and-telemetry
+host-suffix, spd-mgts.ru, category-ads-and-telemetry
 host-suffix, a.mts.ru, category-ads-and-telemetry
 host-suffix, obs.mts.ru, category-ads-and-telemetry
 host-suffix, dbo-dengi.online, category-ads-and-telemetry
@@ -8345,8 +8347,12 @@ host-suffix, wztsy.cn, category-ads-and-telemetry
 host-suffix, wztsy.com, category-ads-and-telemetry
 host-suffix, yiwanzhushou.com, category-ads-and-telemetry
 host-suffix, azbukainterneta.ru, category-ads-and-telemetry
+host-suffix, o7.com, category-ads-and-telemetry
+host-suffix, onlime.ru, category-ads-and-telemetry
+host-suffix, rostelecom-rb.ru, category-ads-and-telemetry
 host-suffix, rostelecom.ru, category-ads-and-telemetry
 host-suffix, rt.ru, category-ads-and-telemetry
+host-suffix, xn--e1aapchhekkk.xn--p1ai, category-ads-and-telemetry
 host, sentry.iptv.rt.ru, category-ads-and-telemetry
 host-suffix, restream-media.net, category-ads-and-telemetry
 host-suffix, restream.ru, category-ads-and-telemetry
@@ -14912,8 +14918,12 @@ host-suffix, pikpak.me, category-ads-and-telemetry
 host-suffix, pikpakdrive.com, category-ads-and-telemetry
 host, o4504926511693824.ingest.sentry.io, category-ads-and-telemetry
 host-suffix, azbukainterneta.ru, category-ads-and-telemetry
+host-suffix, o7.com, category-ads-and-telemetry
+host-suffix, onlime.ru, category-ads-and-telemetry
+host-suffix, rostelecom-rb.ru, category-ads-and-telemetry
 host-suffix, rostelecom.ru, category-ads-and-telemetry
 host-suffix, rt.ru, category-ads-and-telemetry
+host-suffix, xn--e1aapchhekkk.xn--p1ai, category-ads-and-telemetry
 host, sentry.iptv.rt.ru, category-ads-and-telemetry
 host-suffix, restream-media.net, category-ads-and-telemetry
 host-suffix, restream.ru, category-ads-and-telemetry

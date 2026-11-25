@@ -6077,10 +6077,15 @@ DOMAIN-SUFFIX,vkpay.com
 DOMAIN-SUFFIX,vkpay.io
 DOMAIN-SUFFIX,vkpay.ru
 DOMAIN-SUFFIX,inplat.ru
+DOMAIN-SUFFIX,megafon.cloud
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,megafonpro.ru
+DOMAIN-SUFFIX,megapbx.ru
+DOMAIN-SUFFIX,megatech-it.ru
 DOMAIN-SUFFIX,mgfn.ru
+DOMAIN-SUFFIX,mobileid.ru
+DOMAIN-SUFFIX,multifon.ru
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN-SUFFIX,scartel.ru
 DOMAIN-SUFFIX,yota.ru
@@ -7590,6 +7595,8 @@ DOMAIN-SUFFIX,msi.com
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mymts.ru
+DOMAIN-SUFFIX,mgts.ru
+DOMAIN-SUFFIX,spd-mgts.ru
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,dbo-dengi.online
@@ -7868,8 +7875,12 @@ DOMAIN-SUFFIX,reg.cloud
 DOMAIN-SUFFIX,reg.com
 DOMAIN-SUFFIX,reg.ru
 DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,o7.com
+DOMAIN-SUFFIX,onlime.ru
+DOMAIN-SUFFIX,rostelecom-rb.ru
 DOMAIN-SUFFIX,rostelecom.ru
 DOMAIN-SUFFIX,rt.ru
+DOMAIN-SUFFIX,xn--e1aapchhekkk.xn--p1ai
 DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
