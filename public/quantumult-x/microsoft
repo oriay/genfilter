@@ -282,6 +282,7 @@ host-suffix, winhec.net, microsoft
 host-suffix, yammer.com, microsoft
 host-suffix, skype-edf.akadns.net, microsoft
 host-suffix, skypedata.akadns.net, microsoft
+host, aurora-customization-usw2.lithium.com, microsoft
 host, img-prod-cms-rt-microsoft-com.akamaized.net, microsoft
 host, img-s-msn-com.akamaized.net, microsoft
 host, mwf-service.akamaized.net, microsoft

@@ -139,7 +139,6 @@ host, opentor.org, category-public-tracker
 host, opentracker.acgnx.com, category-public-tracker
 host, opentracker.acgnx.se, category-public-tracker
 host, opentracker.io, category-public-tracker
-host, opentrackr.org, category-public-tracker
 host, oscar.reyesleon.xyz, category-public-tracker
 host, p2p.0g.cx, category-public-tracker
 host, p2p.publictracker.xyz, category-public-tracker
@@ -312,7 +311,6 @@ host, tracker.netmap.top, category-public-tracker
 host, tracker.nighthawk.pw, category-public-tracker
 host, tracker.open-internet.nl, category-public-tracker
 host, tracker.openbittorrent.com, category-public-tracker
-host, tracker.opentrackr.org, category-public-tracker
 host, tracker.picotorrent.one, category-public-tracker
 host, tracker.pirateparty.gr, category-public-tracker
 host, tracker.plx.im, category-public-tracker
@@ -418,6 +416,8 @@ host-suffix, megatorrents.kg, category-public-tracker
 host-suffix, mvgroup.org, category-public-tracker
 host-suffix, nnm-club.cc, category-public-tracker
 host-suffix, nnm-club.info, category-public-tracker
+host-suffix, opentracker.xyz, category-public-tracker
+host-suffix, opentrackr.org, category-public-tracker
 host-suffix, peckservers.com, category-public-tracker
 host-suffix, searchtor.to, category-public-tracker
 host-suffix, shnflac.net, category-public-tracker
@@ -434,4 +434,5 @@ host-suffix, tvnihon.com, category-public-tracker
 host-suffix, worldboxingvideoarchive.com, category-public-tracker
 host-suffix, xwt-classics.net, category-public-tracker
 host-suffix, yuwabits.net, category-public-tracker
+host-suffix, zer0day.ch, category-public-tracker
 host-suffix, zone-torrent.net, category-public-tracker

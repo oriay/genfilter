@@ -6111,8 +6111,9 @@ host-suffix, artstationmedia.com, geolocation-!cn
 host-suffix, tarkov.com, geolocation-!cn
 host-suffix, eft-store.com, geolocation-!cn
 host-suffix, escapefromtarkov.com, geolocation-!cn
-host-suffix, faceit.com, geolocation-!cn
 host-suffix, faceit-cdn.net, geolocation-!cn
+host-suffix, faceit.com, geolocation-!cn
+host-suffix, fce.gg, geolocation-!cn
 host-suffix, acesofthunder.net, geolocation-!cn
 host-suffix, activematter.game, geolocation-!cn
 host-suffix, artstorm.com, geolocation-!cn
@@ -25330,6 +25331,7 @@ host-suffix, winhec.net, geolocation-!cn
 host-suffix, yammer.com, geolocation-!cn
 host-suffix, skype-edf.akadns.net, geolocation-!cn
 host-suffix, skypedata.akadns.net, geolocation-!cn
+host, aurora-customization-usw2.lithium.com, geolocation-!cn
 host, img-prod-cms-rt-microsoft-com.akamaized.net, geolocation-!cn
 host, img-s-msn-com.akamaized.net, geolocation-!cn
 host, mwf-service.akamaized.net, geolocation-!cn

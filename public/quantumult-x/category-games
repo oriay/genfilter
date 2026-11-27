@@ -632,8 +632,9 @@ host-suffix, artstationmedia.com, category-games
 host-suffix, tarkov.com, category-games
 host-suffix, eft-store.com, category-games
 host-suffix, escapefromtarkov.com, category-games
-host-suffix, faceit.com, category-games
 host-suffix, faceit-cdn.net, category-games
+host-suffix, faceit.com, category-games
+host-suffix, fce.gg, category-games
 host-suffix, acesofthunder.net, category-games
 host-suffix, activematter.game, category-games
 host-suffix, artstorm.com, category-games
